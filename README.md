@@ -47,11 +47,13 @@ The formatter produces a plaintext file containing the formatted text. This will
 - All words containing "*" are removed.
 - All words containing "!" are removed.
 
+The following justifications refer to the definition of the EVA below.
+
     Justifications: 
     - ".", "-" and "=" represent spaces, new lines and new paragraphs respectively.
     - "," represents an uncertain space, best to remove affected words to reduce uncertainty.
     - "*" represents an unreadable character, best to remove affected words to reduce uncertainty.
     - "!" represents a spacing character used to align different transcriptions of the manuscript. There is an element of uncertainty inherent in any word on which different transcribers couldn't agree to a representation of, and hence should be removed.
 
-These justifications reference the following definition of the EVA:
+EVA Definition:
 ![EVA Definition](http://www.voynich.nu/img/extra/eva01.gif)
