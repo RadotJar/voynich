@@ -55,5 +55,4 @@ The following justifications refer to the definition of the EVA below.
     - "*" represents an unreadable character, best to remove affected words to reduce uncertainty.
     - "!" represents a spacing character used to align different transcriptions of the manuscript. There is an element of uncertainty inherent in any word on which different transcribers couldn't agree to a representation of, and hence should be removed.
 
-EVA Definition:
 ![EVA Definition](http://www.voynich.nu/img/extra/eva01.gif)
