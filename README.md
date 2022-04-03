@@ -9,9 +9,10 @@ The purpose of this formatter is to take transcripted text from the Voynich manu
 
  ### Inputs
 
-The formatter takes a single required argument, the path to the plaintext file containing text from the **Takahashi** transcription of the Voynich manuscript.
+The formatter takes a **single required argument**, the path to the plaintext file containing text from the **Takahashi** transcription of the Voynich manuscript.
 
 The text file is assumed to have been generated from the [Interlinear transcription archive extractor](http://voynich.freie-literatur.de/index.php?show=extractor), with the following settings:
+
 **Transcriber:**
 - [x] Takeshi Takahashi
 **Output Formatting:**
@@ -25,16 +26,16 @@ The text file is assumed to have been generated from the [Interlinear transcript
 
 Other settings may be selected by the user without restriction.
 
-Justifications:
-- Takeshi Takahashi: His transcription has been shown by previous honours students to be the most complete.
-- Remove locators: Line locations are not relevant to the categorisation of characters.
-- Remove comments: Comments are not relevant to the categorisation of characters.
-- Remove inline comments: The only inline comments that are close to being relevant are those that indicate weirdo characters. As below, however, weirdo characters are not to be included in analysis.
-- Remove parsable information: This information is not actual manuscript text and hence not relevant to the categorisation of characters.
-- Remove suspicious spaces: The goal of the formatter is to remove as much uncertainty as possible, so any "suspicious" elements should be removed.
-- Convert weirdos to characters: Weirdo characters are rare and hence add to uncertainty of outcomes, they should not be included in the text as characters.
+    Justifications:
+    - Takeshi Takahashi: His transcription has been shown by previous honours students to be the most complete.
+    - Remove locators: Line locations are not relevant to the categorisation of characters.
+    - Remove comments: Comments are not relevant to the categorisation of characters.
+    - Remove inline comments: The only inline comments that are close to being relevant are those that indicate weirdo characters. As below, however, weirdo characters are not to be included in analysis.
+    - Remove parsable information: This information is not actual manuscript text and hence not relevant to the categorisation of characters.
+    - Remove suspicious spaces: The goal of the formatter is to remove as much uncertainty as possible, so any "suspicious" elements should be removed.
+    - Convert weirdos to characters: Weirdo characters are rare and hence add to uncertainty of outcomes, they should not be included in the text as characters.
 
-The formatter takes a number of optional arguments, which are described below.
+The formatter takes **a number of optional arguments**, which are described below.
 - WIP
 
 ### Outputs
@@ -47,7 +48,8 @@ The formatter produces a plaintext file containing the formatted text. This will
 - All words containing "!" are removed.
 
 Justifications: 
-Referring to ![EVA Definition](http://www.voynich.nu/img/extra/eva01.gif)
+Referring to the following definition of the EVA:
+![EVA Definition](http://www.voynich.nu/img/extra/eva01.gif)
 - ".", "-" and "=" represent spaces, new lines and new paragraphs respectively.
 - "," represents an uncertain space, best to remove affected words to reduce uncertainty.
 - "*" represents an unreadable character, best to remove affected words to reduce uncertainty.
