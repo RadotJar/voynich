@@ -19,8 +19,8 @@ for lineNum, line in enumerate(lines):
         if '\n' in word:
             word = word.replace('\n', '')
         if '=' in word:
-            word = word.replace('=', '\n\n')
-        if index == len(words) - 1 and '\n' not in word:
+            word = word.replace('=', '')
+        if index == len(words) - 1:
             word = word + '\n'
         words[index] = word
 
