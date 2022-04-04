@@ -36,14 +36,12 @@ Other settings may be selected by the user without restriction.
     - Remove suspicious spaces: The goal of the formatter is to remove as much uncertainty as possible, so any "suspicious" elements should be removed.
     - Convert weirdos to characters: Weirdo characters are rare and hence add to uncertainty of outcomes, they should not be included in the text as characters.
 
-The formatter takes **a number of optional arguments**, which are described below.
-- WIP
 
 ### Outputs
 The formatter produces a plaintext file containing the formatted text. This will resemble the input file, but with the following changes:
 - All "." characters are replaced with spaces.
 - All "-" characters are replaced with newlines.
-- All "=" characters are replaced with double newlines.
+- All "=" characters are replaced with newlines.
 - All words separated by "," characters are removed.
 - All words containing "*" are removed.
 - All words containing "!" are removed.
@@ -51,7 +49,7 @@ The formatter produces a plaintext file containing the formatted text. This will
 The following justifications refer to the definition of the EVA below.
 
     Justifications: 
-    - ".", "-" and "=" represent spaces, new lines and new paragraphs respectively.
+    - ".", "-" and "=" represent spaces, new lines and new paragraphs respectively. For our purposes, newlines are kept for readability's sake, but paragraphs are removed to ensure no empty lines exist in the output.
     - "," represents an uncertain space, best to remove affected words to reduce uncertainty.
     - "*" represents an unreadable character, best to remove affected words to reduce uncertainty.
     - "!" represents a spacing character used to align different transcriptions of the manuscript. There is an element of uncertainty inherent in any word on which different transcribers couldn't agree to a representation of, and hence should be removed.
