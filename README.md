@@ -15,6 +15,7 @@ The text file is assumed to have been generated from the [Interlinear transcript
 
 **Transcriber:**
 - [x] Takeshi Takahashi
+
 **Output Formatting:**
 - [x] Remove locators
 - [x] Remove comments
