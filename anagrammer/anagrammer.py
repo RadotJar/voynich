@@ -12,6 +12,7 @@ class Word:
     return self.word
 
 def main():
+  import numpy as np
   import sys
   from itertools import permutations
 
@@ -29,15 +30,14 @@ def main():
     for word in words:
       word_array.append(Word(word))
 
-  # For each word, check all of its anagrams against all other words in the array
+  # For each word, check which other word contains the same characters (is an anagram)
   for word in word_array:
-    for anagram in permutations(word.word):
-      anagram = ''.join(anagram)
-      print(anagram)
-      if anagram != word.word:
         for other_word in word_array:
-          if (other_word.word == anagram) and (anagram not in word.anagrams):
-            word.add_anagram(anagram)
+          if (other_word.word != word.word) and (np.array_equal(word.characters, other_word.characters)) and (other_word.word not in word.anagrams):
+            word.add_anagram(other_word.word)
+
+  # Sort word array by number of anagrams
+  word_array.sort(key=lambda x: x.anagram_count, reverse=True)
 
   # Create output
   for word in word_array:
