@@ -8,15 +8,15 @@ def plotting(symbols, frequency) :
 	#freq = plot.figure()
 	plot.bar(symbols, frequency)
 	#freq.xticks(len(symbols), frequency)
-	plot.xlabel("Symbols")
+	plot.xlabel("Character")
 	plot.ylabel("Frequency")
-	plot.title("Frequency Analysis of Text")
+	plot.title("Frequency Character Analysis of Voynich Manuscript")
 	plot.show()
 
 	plot.savefig("freq_analysis.png")
 
 
-file_loc = os.getcwd() + "/English_test/test.txt"
+file_loc = os.getcwd() + "/full_voynich_formatted"
 
 file = open(file_loc, 'r')
 text = file.readlines()
@@ -64,7 +64,7 @@ for line in text_for_average :
 			longest_word_length = len(word)
 			longest_word = word
 
-		word_count	 = word_count + 1
+		word_count = word_count + 1
 
 		average_word_length = average_word_length + len(word)
 	# print(len(word))
@@ -92,8 +92,21 @@ print("Word Count: ", word_count)
 print("Symbols: ", symbols)
 print("Frequency: ", frequency)
 
+characters = []
+for symbol in symbols :
+	item = {
+		"character": symbol,
+		"frequency": frequency[symbols.index(symbol)]
+	}
+	characters.append(item)
 
+sorted_characters = sorted(characters, key=lambda k: k['frequency'], reverse=True)
+output_characters = []
+output_frequencies = []
+for item in sorted_characters :
+	output_characters.append(item['character'])
+	output_frequencies.append(item['frequency'])
 # for i in range(len(frequency)) :
 # 	print(frequency[i], (symbols[i]))
 #print(type(frequency[0]))
-plotting(symbols, frequency)
+plotting(output_characters, output_frequencies)
