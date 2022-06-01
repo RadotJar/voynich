@@ -1,0 +1,13 @@
+Word Profiles:
+dog: 1 anagrams: god (1) 
+god: 1 anagrams: dog (1) 
+free: 1 anagrams: reef (1) 
+reef: 1 anagrams: free (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+g: 2/3 = 66.66666666666666%
+d: 2/5 = 40.0%
+o: 2/5 = 40.0%
+f: 2/5 = 40.0%
+e: 4/12 = 33.33333333333333%
+r: 2/12 = 16.666666666666664%

@@ -10,7 +10,7 @@ for lineNum, line in enumerate(lines):
     words = line.split('.')
     
     # Remove words with uncertain characters
-    words[:] = [word for word in words if '*' not in word and '!' not in word]
+    # words[:] = [word for word in words if '*' not in word and '!' not in word]
 
     # Reformat lines of words
     for index, word in enumerate(words):
@@ -20,6 +20,12 @@ for lineNum, line in enumerate(lines):
             word = word.replace('\n', '')
         if '=' in word:
             word = word.replace('=', '')
+        if '!' in word:
+            word = word.replace('!', '')
+        if '%' in word:
+            word = word.replace('%', '')
+        if '*' in word:
+            word = word.replace('*', '')
         if index == len(words) - 1:
             word = word + '\n'
         words[index] = word
