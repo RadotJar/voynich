@@ -68,3 +68,16 @@ ax3 = plt.subplot(133)
 ax3.bar(La_Navigation_characters, La_Navigation_values)
 ax3.set_ylim([0,100])
 plt.savefig('other_anagrams.png')
+
+verification_characters = ['g', 'd', 'o', 'f', 'e', 'r']
+verification_values = [66.66666666666666,40.0,40.0,40.0,33.33333333333333,16.666666666666664]
+
+ax = plt.figure(figsize=(9,5))
+ax.suptitle("Anagram Frequency Analysis on Verification Text")
+ax.supxlabel("Character", va='bottom')
+ax.supylabel("Percentage Occurence in Valid Anagram")
+
+ax1 = plt.subplot(111)
+ax1.bar(verification_characters, verification_values)
+ax1.set_ylim([0,100])
+plt.savefig('verification_anagrams.png')

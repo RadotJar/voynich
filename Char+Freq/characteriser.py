@@ -1,22 +1,22 @@
-import os
+from cgi import FieldStorage
+import sys
+
 import numpy as np
 import matplotlib.pyplot as plot
 import codecs
 
-def plotting(symbols, frequency) :
+def plotting(symbols, frequency, file_loc) :
 # Plotting Frequency Analysisimport matplotlib.pyplot as plt
-	#freq = plot.figure()
+	freq = plot.figure(figsize=(5,5))
 	plot.bar(symbols, frequency)
-	#freq.xticks(len(symbols), frequency)
 	plot.xlabel("Character")
 	plot.ylabel("Frequency")
-	plot.title("Frequency Character Analysis of Voynich Manuscript")
+	plot.title("Frequency Analysis")
 	plot.show()
 
-	plot.savefig("freq_analysis.png")
+	plot.savefig(file_loc +"_freq_graph.png")
 
-
-file_loc = os.getcwd() + "/full_voynich_formatted"
+file_loc = sys.argv[1]
 
 file = open(file_loc, 'r')
 text = file.readlines()
@@ -109,4 +109,4 @@ for item in sorted_characters :
 # for i in range(len(frequency)) :
 # 	print(frequency[i], (symbols[i]))
 #print(type(frequency[0]))
-plotting(output_characters, output_frequencies)
+plotting(output_characters, output_frequencies, file_loc)
