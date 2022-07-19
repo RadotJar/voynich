@@ -5,24 +5,21 @@ import numpy as np
 import matplotlib.pyplot as plot
 import codecs
 
-def plotting(symbols, frequency, file_loc) :
+def plotting(symbols, frequency, fileName) :
 # Plotting Frequency Analysisimport matplotlib.pyplot as plt
-	freq = plot.figure(figsize=(5,5))
+	freq = plot.figure()
 	plot.bar(symbols, frequency)
 	plot.xlabel("Character")
-	plot.ylabel("Frequency")
-	plot.title("Frequency Analysis")
-	plot.show()
+	plot.ylabel("Number of Occurences")
+	plot.title("Frequency Analysis of " + fileName + ".txt")
+	plot.savefig("./figures/" + fileName +"_freq_analysis.png")
 
-	plot.savefig(file_loc +"_freq_graph.png")
-
-file_loc = sys.argv[1]
+fileName = sys.argv[1]
+file_loc = "./texts/" + fileName + ".txt"
 
 file = open(file_loc, 'r')
 text = file.readlines()
 file.close()
-
-#print(text)
 
 # Characteristics
 symbols = []
@@ -33,7 +30,6 @@ text_for_symbols = []
 text_for_average = []
 
 # Creating array for unique symbols
-#print(text)
 temp_count = 0
 
 for line_no in range(len(text)):
@@ -109,4 +105,4 @@ for item in sorted_characters :
 # for i in range(len(frequency)) :
 # 	print(frequency[i], (symbols[i]))
 #print(type(frequency[0]))
-plotting(output_characters, output_frequencies, file_loc)
+plotting(output_characters, output_frequencies, fileName)
