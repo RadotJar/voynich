@@ -64,7 +64,7 @@ Locus indicators provide a lot of meta information about the manuscript's text. 
 ### Current Questions
 The formatter is not perfect, and some further testing is required to refine it. Namely:
 - The uncertain space character `,` needs to be analysed for whether it is more likely to be a correct or incorrect space and handled as such by default.
-- The "drawing intruding onto text" character `-` needs to be analysed in a similar manner to determine whethere it should be handled as whitespace or not by default.
+- The "drawing intruding onto text" character `-` needs to be analysed in a similar manner to determine whether it should be handled as whitespace or not by default.
 
 ## Anagrammer
 
