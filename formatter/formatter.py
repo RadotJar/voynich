@@ -1,9 +1,10 @@
 import sys
 
-inputText = sys.argv[1]
+fileName = sys.argv[1]
+inputFile = "./texts/" + fileName + ".txt"
 outputLines = []
 
-with open(inputText, 'r') as f:
+with open(inputFile, 'r') as f:
     lines = f.readlines()
 
 for lineNum, line in enumerate(lines):
@@ -38,5 +39,5 @@ for lineNum, line in enumerate(lines):
     
     outputLines.append(outputLine)
 
-with open(inputText + '_formatted', 'w') as f:
+with open("./texts/" + fileName + "_formatted.txt", 'w') as f:
     f.writelines(outputLines)

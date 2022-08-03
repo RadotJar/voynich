@@ -32,11 +32,15 @@ def main():
   import numpy as np
   import sys
   from itertools import permutations
+  import matplotlib.pyplot as plt
 
-  inputText = sys.argv[1]
+  fileName = sys.argv[1]
+  inputText = "./texts/" + fileName + ".txt"
   word_array = []
   character_array = []
   outputLines = []
+  plot_x_axis = []
+  plot_y_axis = []
 
   # First go through text and add each word and character occurrence array
   with open(inputText, 'r') as f:
@@ -102,9 +106,21 @@ def main():
     if(character.anagram_count > 0):
       output_line = character.character + ': ' + str(character.anagram_count) + '/' + str(character.occurence_count) + ' = ' + str(character.percentage()) + '%\n'
       outputLines.append(output_line)
+      plot_x_axis.append(character.character)
+      plot_y_axis.append(character.percentage())
 
-  with open(inputText + '_anagrams', 'w') as f:
+  with open("./texts/" + fileName + "_anagrams.txt", "w") as f:
       f.writelines(outputLines)
+
+  ax = plt.figure()
+  ax.suptitle("Anagram Analysis of " + fileName + ".txt")
+  ax.supxlabel("Character", va='bottom')
+  ax.supylabel("Percentage of Occurences in Valid Anagrams")
+
+  ax1 = plt.subplot(111)
+  ax1.bar(plot_x_axis, plot_y_axis)
+  ax1.set_ylim([0,100])
+  plt.savefig("./figures/" + fileName + "_anagram_plot.png")
 
 if __name__ == "__main__":
     main()
