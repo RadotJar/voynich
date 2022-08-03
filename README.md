@@ -58,7 +58,7 @@ Locus indicators provide a lot of meta information about the manuscript's text. 
 - `<f17r.N@Ab>`: `N` is the current count of this locus as an identified unique section of text on the current page. `@Ab` is a code which gives some more insight into the grouping of text section types that this locus is a part of (See below).
 - `<f17r.N@Ab;T>`: `T` idenfities the transcriber of this particular locus.
 
-**Locus types**
+#### Locus Types
 ![Locus Types](https://user-images.githubusercontent.com/70213167/182542486-13eaa4ba-607c-4a0c-ae92-29568dfa44d7.png)
 
 ### Current Questions
