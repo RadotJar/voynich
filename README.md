@@ -20,17 +20,17 @@ The name of the plaintext file containing text from the Voynich Manuscript, writ
 
 #### Optional Arguments
 A number of optional arguments can be passed through the command line to toggle certain text features from being formatted.
-- `-c` :   Comments made by the transcriber in the text file are retained.
-- `-lr`:   Locus indicators are retained in raw form. i.e. `<f...>`. Further details about locus indicators can be found below.
-- `-lp`:   Locus indicators are retained but processed into meaningful English. i.e. `<f17r>` would become "Beginning of folio 17, right side" in the output text.
-- `-!s` :  `.` characters are not converted into whitespace in the output text.
-- `-!us`:  `,` characters are not converted into whitespace in the output text.
-- `-u`  :  Uncertain characters are retained in their "list" form. I.e. `[x:y:z]`.
-- `-!lic`: Ligatures are not converted from brace form to capitalised form. I.e. `{ao}` remains `{ao}`.
-- `-!ds`:  No drawing spaces. `-` characters are removed instead of being converted to whitespace.
-- `-pr` :  Paragraph identifiers (`%` at the start and `$` at the end) are kept in raw form.
-- `-pp` :  Paragraph identifiers are processed into meaningful English. "New Paragraph" or "End Paragraph" respectively.
-- `-!iw` : No illegible words. Not only are `?` and `???` character sequences removed, if they occur within a word (delimited by `.` characters), the entire word is removed aswell.
+- `--keepcomments` :     Comments made by the transcriber in the text file are retained.
+- `--locusraw`:          Locus indicators are retained in raw form. i.e. `<f...>`. Further details about locus indicators can be found below.
+- `--locusproc`:         Locus indicators are retained but processed into meaningful English. i.e. `<f17r>` would become "Beginning of folio 17, right side" in the output text.
+- `--nospace` :          `.` characters are not converted into whitespace in the output text.
+- `--nouncertainspace`:  `,` characters are not converted into whitespace in the output text.
+- `--keepuncertain`  :   Uncertain characters are retained in their "list" form. I.e. `[x:y:z]`.
+- `--nocapitallig`:      Ligatures are not converted from brace form to capitalised form. I.e. `{ao}` remains `{ao}`.
+- `--nodrawingspaces`:   No drawing spaces. `-` characters are removed instead of being converted to whitespace.
+- `--pararaw` :          Paragraph identifiers (`%` at the start and `$` at the end) are kept in raw form.
+- `--paraproc` :         Paragraph identifiers are processed into meaningful English. "New Paragraph" or "End Paragraph" respectively.
+- `--noillegible` :      No illegible words. Not only are `?` and `???` character sequences removed, if they occur within a word (delimited by `.` characters), the entire word is removed aswell.
 
 
 ### Outputs
