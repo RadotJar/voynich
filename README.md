@@ -16,7 +16,7 @@ The purpose of this formatter is to take transliterated ASCII text of the Voynic
 The formatter takes a **single required argument** and **many optional arguments**.
 
 #### Required Argument
-The name of the plaintext file containing text from the Voynich Manuscript, written in EVA (Extensible Voynich Alphabet and formatted in [IVTFF](http://www.voynich.nu/transcr.html), without the .txt file extension.
+The name of the plaintext file containing text from the Voynich Manuscript, written in EVA (Extensible Voynich Alphabet and formatted in [IVTFF](http://www.voynich.nu/transcr.html).
 
 #### Optional Arguments
 A number of optional arguments can be passed through the command line to toggle certain text features from being formatted.
