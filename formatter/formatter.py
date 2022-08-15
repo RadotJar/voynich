@@ -1,5 +1,7 @@
+from concurrent.futures import process
 import sys
 import argparse
+import inflect
 
 def main():
     # Get input from command line
@@ -86,8 +88,92 @@ def format_start_of_line(input_lines, input):
 
 # Processes locus indicators into readable form.
 def process_locus(locus):
-    print(locus)
-    return ""
+    inflector = inflect.engine()
+    processed_locus = ""
+
+    if('.' in locus):
+        page = ""
+        locus_type = ""
+        transcriber = ""
+        N = ""
+        i = 0
+        while(locus[i] != "."):
+            page += locus[i]
+            i += 1
+        i += 1
+        while(locus[i] != ","):
+            N += locus[i]
+            i += 1
+        i += 2
+        locus_type = locus[i] + locus[i+1]
+
+        if(';' in locus):
+            i += 2
+            while(locus[i] != ">"):
+                transcriber += locus[i]
+                i += 1
+        
+        processed_locus = "<Beggining of the " + inflector.ordinal(int(N)) + " discrete piece of text on page " + page + ". The piece of text is " + process_locus_type(locus_type) + "."
+        if(transcriber != ""):
+            processed_locus += " The transciber is " + transcriber + ".>"
+        else:
+            processed_locus += ">"
+        
+    else:
+        processed_locus = "<Beggining of page " + locus + ">"
+
+    return processed_locus
+
+# Processes locus type indicators into readable form.
+def process_locus_type(locus_type):
+    processed_locus_type = ""
+
+    if(locus_type[0] == "P"):
+        if(locus_type[1] == "0"):
+            processed_locus_type = "standard left-aligned text in paragraphs"
+        elif(locus_type[1] == "1"):
+            processed_locus_type = "text in paragraphs with significant indentation due to drawings or other text"
+        elif(locus_type[1] == "b"):
+            processed_locus_type = "dislocated text in free-floating paragraphs"
+        elif(locus_type[1] == "c"):
+            processed_locus_type = "centered text in paragraphs"
+        elif(locus_type[1] == "r"):
+            processed_locus_type = "right-justifed text in paragraphs"
+        elif(locus_type[1] == "t"):
+            processed_locus_type = "a title"
+    elif(locus_type[0] == "L"):
+        if(locus_type[1] == "0"):
+            processed_locus_type = "a label, dislocated word or character not near a drawing element"
+        elif(locus_type[1] == "a"):
+            processed_locus_type = "a label of an astronomical or cosmological element (not a star or zodiac label)"
+        elif(locus_type[1] == "c"):
+            processed_locus_type = "a label of a container in the pharmaceutical section"
+        elif(locus_type[1] == "f"):
+            processed_locus_type = "a label of a herb fragment in the pharmaceutical section"
+        elif(locus_type[1] == "n"):
+            processed_locus_type = "a label of a nymph in the biological/balneological section"
+        elif(locus_type[1] == "p"):
+            processed_locus_type = "a label of a full plant in the herbal section"
+        elif(locus_type[1] == "s"):
+            processed_locus_type = "a label of a star"
+        elif(locus_type[1] == "t"):
+            processed_locus_type = "a label of a 'tube' or 'tub' in the biological/balneological section"
+        elif(locus_type[1] == "x"):
+            processed_locus_type = "an invidiual piece of 'external' writing"
+        elif(locus_type[1] == "z"):
+            processed_locus_type = "a label of a zodiac element"
+    elif(locus_type[0] == "C"):
+        if(locus_type[1] == "a"):
+            processed_locus_type = "anti-clockwise writing along a circle"
+        if(locus_type[1] == "c"):
+            processed_locus_type = "clockwise writing along a circle"
+    elif(locus_type[0] == "R"):
+        if(locus_type[1] == "i"):
+            processed_locus_type = "inwards writing along the radius of a circle"
+        if(locus_type[1] == "o"):
+            processed_locus_type = "outwards writing along the radius of a circle"
+    
+    return processed_locus_type
 
 def get_input():
     parser = argparse.ArgumentParser(description="Voynich Manuscript Formatter", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
