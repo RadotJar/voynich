@@ -9,36 +9,85 @@ def main():
     file_path = "./texts/" + input["file_name"] + ".txt"
     with open(file_path, "r") as file:
         input_lines = file.readlines()
+
+    # Format lines
+    output_lines = format(input_lines, input)
+
+    # Write output
+    output_path = "./texts/" + input["file_name"] + "_formatted.txt"
+    with open(output_path, "w") as file:
+        for line in output_lines:
+            file.write(line)
+
+# Takes input lines and input options, formats the lines accordingly and returns them.
+def format(input_lines, input):
+    intermediate_lines = []
     output_lines = []
 
-    # Formatting
-    for line in input_lines:
-        # Start of line formatting
-            print(line[0])
-            # Comments
-            if(line[0] == "#"):
-                if(input["keepcomments"]):
-                    output_lines.append(line)
-                else:
-                    continue
-            # Locus data
-            elif(line[0] == "<" and line[1] == "f"):
-                if(input["locusraw"]):
-                    output_lines.append(line)
-                elif(input["locusproc"]):
-                    locus = ""
-                    i = 1
-                    while(line[i] != ">"):
-                        locus += line[i]
-                        i += 1
-                    output_lines.append(process_locus(locus))
-                else:
-                    continue
-            # Paragraph data
+    intermediate_lines = format_start_of_line(input_lines, input)
+    output_lines = format_in_text(intermediate_lines, input)
 
+    return output_lines
+
+# Performs all formatting tasks not occuring on start of line elements.
+def format_in_text(intermediate_lines, input):
+    return intermediate_lines
+
+# Performs all formatting tasks occuring on start of line elements.
+def format_start_of_line(input_lines, input):
+    intermediate_lines = []
+
+    for line in input_lines:
+        # Comments
+        if(line[0] == "#"):
+            if(input["keepcomments"]):
+                intermediate_lines.append(line)
+            else:
+                continue
+        # Locus data
+        elif(line[0] == "<" and line[1] == "f"):
+            if(input["locusraw"]):
+                intermediate_lines.append(line)
+            elif(input["locusproc"]):
+                locus = ""
+                i = 1
+                while(line[i] != ">"):
+                    locus += line[i]
+                    i += 1
+                locus = process_locus(locus)
+                rest_of_line = line[i+1:]
+                formatted_line = locus + rest_of_line
+                intermediate_lines.append(formatted_line)
+            else:
+                i = 0
+                while(line[i] != ">"):
+                    i += 1
+                rest_of_line = line[i+1:].strip(' ')
+                intermediate_lines.append(rest_of_line)
+        # Paragraph data
+        elif(line[0] == "<" and line[1] == "%"):
+            if(input["pararaw"]):
+                intermediate_lines.append(line)
+            elif(input["paraproc"]):
+                paragraph_start = "<New Paragraph>"
+                rest_of_line = line[3:]
+                formatted_line = paragraph_start + rest_of_line
+                intermediate_lines.append(formatted_line)
+            else:
+                i = 0
+                while(line[i] != ">"):
+                    i += 1
+                rest_of_line = line[i+1:].strip(' ')
+                intermediate_lines.append(rest_of_line)
+        else:
+            intermediate_lines.append(line)
+        
+    return intermediate_lines
+
+# Processes locus indicators into readable form.
 def process_locus(locus):
     print(locus)
-    return locus
+    return ""
 
 def get_input():
     parser = argparse.ArgumentParser(description="Voynich Manuscript Formatter", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
