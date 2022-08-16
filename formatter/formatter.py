@@ -53,13 +53,26 @@ def format_in_text(intermediate_lines, input):
             uncertainspace_split = re.compile(",").split
             words = [part for word in words for part in uncertainspace_split(word) if part] 
 
-        for word in words:
+        for index, word in enumerate(words):
             # Format inline comments.
             if("<!" in word):
                 if(input["keepcomments"]):
                     continue
                 else:
-                    re.sub("<!.*>", "", word)
+                    words[index] = re.sub("<!.*>", "", word)
+            # Format uncertain characters.
+            if("[" in word):
+                if(input["keepuncertain"]):
+                    continue
+                else:
+                    # Replace uncertain characters of the type [x:y:z] with x, the most likely character.
+                    for group in re.findall("\[.*\]", word):
+                        words[index] = word.replace(group, group[1])
+
+        # Remove any newline characters floating around.
+        for index, word in enumerate(words):
+            if word == '\n':
+                words.remove(word)
             
         print(words)
     return intermediate_lines

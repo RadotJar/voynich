@@ -1,8 +1,8 @@
 <! $Q=A $P=A $F=a $B=1 $I=T $L=A $H=1 $C=1 $X=V>
-fa,chys.ykal.ar.ataiin.shol.shory.cthres.y.kor.sholdy
-sory.ckhar.or.y.kair.chta,iin.shar.are.cthar.cthar.dan
+fachys.ykal[x:y:z:y:z:x:2].ar.ataiin.shol.shory.cthres.y.kor.sholdy
+sory.ckhar.or.y.kair.chtaiin.shar.are.cthar.cthar.dan
 syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sa
-ooiin.oteey.ote,os.roloty.cth?ar.daiin.otaiin.or.okan
+ooiin.oteey.oteos.roloty.cth?ar.daiin.otaiin.or.okan
 dair.y.chear.cthaiin.cphar.cfhaiin
 ydaraishy<$>
 ?.odar.o.y.shol.cphoy.oydar.sh.s.cfhoaiin.shodary
