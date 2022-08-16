@@ -1,4 +1,5 @@
 from concurrent.futures import process
+import re
 import sys
 import argparse
 import inflect
@@ -33,7 +34,36 @@ def format(input_lines, input):
 
 # Performs all formatting tasks not occuring on start of line elements.
 def format_in_text(intermediate_lines, input):
+    i = 0
+    chungus = intermediate_lines[0:9]
+    for line in chungus:
+        words = []
+        if(input["locusraw"] or input["locusproc"]):
+            locus_and_text = line.split()
+            locus = locus_and_text[0]
+            text = locus_and_text[1]
+            words = text.split('.')
+        else:
+            words = line.split('.')
+
+        # Format uncertain spaces.
+        if(input["nouncertainspace"] == False):
+            # Split words with an uncertain space (,) into two words.
+            # Example: ['fa,chys', 'choldy'] -> ['fa', 'chys', 'choldy']
+            uncertainspace_split = re.compile(",").split
+            words = [part for word in words for part in uncertainspace_split(word) if part] 
+
+        for word in words:
+            # Format inline comments.
+            if("<!" in word):
+                if(input["keepcomments"]):
+                    continue
+                else:
+                    re.sub("<!.*>", "", word)
+            
+        print(words)
     return intermediate_lines
+
 
 # Performs all formatting tasks occuring on start of line elements.
 def format_start_of_line(input_lines, input):
@@ -128,51 +158,57 @@ def process_locus(locus):
 def process_locus_type(locus_type):
     processed_locus_type = ""
 
-    if(locus_type[0] == "P"):
-        if(locus_type[1] == "0"):
-            processed_locus_type = "standard left-aligned text in paragraphs"
-        elif(locus_type[1] == "1"):
-            processed_locus_type = "text in paragraphs with significant indentation due to drawings or other text"
-        elif(locus_type[1] == "b"):
-            processed_locus_type = "dislocated text in free-floating paragraphs"
-        elif(locus_type[1] == "c"):
-            processed_locus_type = "centered text in paragraphs"
-        elif(locus_type[1] == "r"):
-            processed_locus_type = "right-justifed text in paragraphs"
-        elif(locus_type[1] == "t"):
-            processed_locus_type = "a title"
-    elif(locus_type[0] == "L"):
-        if(locus_type[1] == "0"):
-            processed_locus_type = "a label, dislocated word or character not near a drawing element"
-        elif(locus_type[1] == "a"):
-            processed_locus_type = "a label of an astronomical or cosmological element (not a star or zodiac label)"
-        elif(locus_type[1] == "c"):
-            processed_locus_type = "a label of a container in the pharmaceutical section"
-        elif(locus_type[1] == "f"):
-            processed_locus_type = "a label of a herb fragment in the pharmaceutical section"
-        elif(locus_type[1] == "n"):
-            processed_locus_type = "a label of a nymph in the biological/balneological section"
-        elif(locus_type[1] == "p"):
-            processed_locus_type = "a label of a full plant in the herbal section"
-        elif(locus_type[1] == "s"):
-            processed_locus_type = "a label of a star"
-        elif(locus_type[1] == "t"):
-            processed_locus_type = "a label of a 'tube' or 'tub' in the biological/balneological section"
-        elif(locus_type[1] == "x"):
-            processed_locus_type = "an invidiual piece of 'external' writing"
-        elif(locus_type[1] == "z"):
-            processed_locus_type = "a label of a zodiac element"
-    elif(locus_type[0] == "C"):
-        if(locus_type[1] == "a"):
-            processed_locus_type = "anti-clockwise writing along a circle"
-        if(locus_type[1] == "c"):
-            processed_locus_type = "clockwise writing along a circle"
-    elif(locus_type[0] == "R"):
-        if(locus_type[1] == "i"):
-            processed_locus_type = "inwards writing along the radius of a circle"
-        if(locus_type[1] == "o"):
-            processed_locus_type = "outwards writing along the radius of a circle"
-    
+    match locus_type[0]:
+        case "P":
+            match locus_type[1]:
+                case "0":
+                    processed_locus_type = "standard left-aligned text in paragraphs"
+                case "1":
+                    processed_locus_type = "text in paragraphs with significant indentation due to drawings or other text"
+                case "b":
+                    processed_locus_type = "dislocated text in free-floating paragraphs"
+                case "c":
+                    processed_locus_type = "centered text in paragraphs"
+                case "r":
+                    processed_locus_type = "right-justifed text in paragraphs"
+                case "t":
+                    processed_locus_type = "a title"
+        case "L":
+            match locus_type[1]:
+                case "0":
+                    processed_locus_type = "a label, dislocated word or character not near a drawing element"
+                case "a":
+                    processed_locus_type = "a label of an astronomical or cosmological element (not a star or zodiac label)"
+                case "c":
+                    processed_locus_type = "a label of a container in the pharmaceutical section"
+                case "f":
+                    processed_locus_type = "a label of a herb fragment in the pharmaceutical section"
+                case "n":
+                    processed_locus_type = "a label of a nymph in the biological/balneological section"
+                case "p":
+                    processed_locus_type = "a label of a full plant in the herbal section"
+                case "s":
+                    processed_locus_type = "a label of a star"
+                case "t":
+                    processed_locus_type = "a label of a 'tube' or 'tub' in the biological/balneological section"
+                case "x":
+                    processed_locus_type = "an invidiual piece of 'external' writing"
+                case "z":
+                    processed_locus_type = "a label of a zodiac element"
+        case "C":
+            match locus_type[1]:
+                case "a":
+                    processed_locus_type = "anti-clockwise writing along a circle"
+                case "c":
+                    processed_locus_type = "clockwise writing along a circle"
+        case "R":
+            match locus_type[1]:
+                case "i":
+                    processed_locus_type = "inwards writing along the radius of a circle"
+                case "o":
+                    processed_locus_type = "outwards writing along the radius of a circle"
+        case _:
+            processed_locus_type = "unresolvable"
     return processed_locus_type
 
 def get_input():
