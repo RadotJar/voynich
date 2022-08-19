@@ -43,7 +43,6 @@ If passed no command line arguments, the formatter will produce an output file i
 - ASCII codes are retained for rare characters. I.e. `@185` represents a rare character in the manuscript and will remain as such.
 - `-` characters are removed
 - Paragraph identifiers are removed and replaced with double newlines to format text into actual paragraphs.
-- Locus continuation characters `/` are removed.
 - Illegible character identifiers `?` and `???` are removed.
 
 ### Locus Indicators
