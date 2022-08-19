@@ -93,7 +93,6 @@ def format_in_text(intermediate_lines, input):
                     words[index] = words[index].replace("<%>", "<New Paragraph>")
                 else:
                     words[index] = words[index].replace("<%>", "")
-            print(words[index])
             if("<$>" in words[index]):
                 if(input["pararaw"]):
                     continue
