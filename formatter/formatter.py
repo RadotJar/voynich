@@ -73,11 +73,24 @@ def format_in_text(intermediate_lines, input):
                             words[index] = word.replace(group, most_likely)
                         else:
                             words[index] = word.replace(group, "{" + most_likely + "}")
-
-        # Remove any newline characters floating around.
-        for index, word in enumerate(words):
-            if word == '\n':
-                words.remove(word)
+            # Format characters representing the intrustion of drawings.
+            if("<->" in word):
+                words[index] = word.replace("<->", "")
+            # Format paragraph identifiers
+            if("<%>" in word):
+                if(input["pararaw"]):
+                    continue
+                elif(input["paraproc"]):
+                    words[index] = word.replace("<%>", "<New Paragraph>")
+                else:
+                    words[index] = word.replace("<%>", "")
+            if("<$>" in word):
+                if(input["pararaw"]):
+                    continue
+                elif(input["paraproc"]):
+                    words[index] = word.replace("<$>", "<End Paragraph>")
+                else:
+                    words[index] = word.replace("<$>", "\n")
             
         print(words)
     return intermediate_lines
@@ -229,7 +242,7 @@ def process_locus_type(locus_type):
             processed_locus_type = "unresolvable"
     return processed_locus_type
 
-def get_input():
+def get_input():    
     parser = argparse.ArgumentParser(description="Voynich Manuscript Formatter", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument("file_name", help="The name of the file to be formatted. The file must be a .txt file stored in ./texts/, containing a transcription of the Voynich Manuscript written in EVA and formatted in IVTFF.")
     parser.add_argument("--keepcomments", action="store_true", help="Keep comments.")
