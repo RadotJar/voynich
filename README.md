@@ -26,7 +26,6 @@ A number of optional arguments can be passed through the command line to toggle 
 - `--nospace` :          `.` characters are not converted into whitespace in the output text.
 - `--nouncertainspace`:  `,` characters are not converted into whitespace in the output text.
 - `--keepuncertain`  :   Uncertain characters are retained in their "list" form. I.e. `[x:y:z]`.
-- `--nodrawingspaces`:   No drawing spaces. `-` characters are removed instead of being converted to whitespace.
 - `--pararaw` :          Paragraph identifiers (`%` at the start and `$` at the end) are kept in raw form.
 - `--paraproc` :         Paragraph identifiers are processed into meaningful English. "New Paragraph" or "End Paragraph" respectively.
 - `--noillegible` :      No illegible words. Not only are `?` and `???` character sequences removed, if they occur within a word (delimited by `.` characters), the entire word is removed aswell.
@@ -42,7 +41,7 @@ If passed no command line arguments, the formatter will produce an output file i
 - Uncertain spaces (`,` characters) are converted to whitespace.
 - Uncertain character readings, found in the transcription in form `[x:y:z]` are replaced with the first character in the option sequence. This character is the one that the transcriber deemed most likely.
 - ASCII codes are retained for rare characters. I.e. `@185` represents a rare character in the manuscript and will remain as such.
-- `-` characters are converted to whitespace.
+- `-` characters are removed
 - Paragraph identifiers are removed and replaced with double newlines to format text into actual paragraphs.
 - Locus continuation characters `/` are removed.
 - Illegible character identifiers `?` and `???` are removed.
@@ -59,7 +58,6 @@ Locus indicators provide a lot of meta information about the manuscript's text. 
 ### Current Questions
 The formatter is not perfect, and some further testing is required to refine it. Namely:
 - The uncertain space character `,` needs to be analysed for whether it is more likely to be a correct or incorrect space and handled as such by default.
-- The "drawing intruding onto text" character `-` needs to be analysed in a similar manner to determine whether it should be handled as whitespace or not by default.
 
 ## Anagrammer
 
