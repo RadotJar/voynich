@@ -32,7 +32,7 @@ A number of optional arguments can be passed through the command line to toggle 
 
 
 ### Outputs
-The output of the formatter is a single text file of formatted ASCII. The file will be located in `/texts/` and will be named the same as the input file with any command line arguments passed to it appended after a `_`. I.e. if the formatter was passed `voynich -c -lr`, the output file would be named `voynich_c_lr`.
+The output of the formatter is a single text file of formatted ASCII. The file will be located in `/texts/` and will be named the same as the input file with `_formatted` appended.
 
 If passed no command line arguments, the formatter will produce an output file in the following default format.
 - Comments removed.
