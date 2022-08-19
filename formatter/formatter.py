@@ -239,7 +239,6 @@ def get_input():
     parser.add_argument("--nospace", action="store_true", help="Keep '.' characters.")
     parser.add_argument("--nouncertainspace", action="store_true", help="Remove ',' characters.")
     parser.add_argument("--keepuncertain", action="store_true", help="Keep uncertain characters in their list format '[x:y:z]'.")
-    parser.add_argument("--nocapitallig", action="store_true", help="Do not convert ligatures in brace form to capital form.")
     parser.add_argument("--nodrawingspaces", action="store_true", help="Remove '-' characters instead of converting to whitespace.")
     paragraph_group = parser.add_mutually_exclusive_group()
     paragraph_group.add_argument("--pararaw", action="store_true", help="Keep paragraph beggining (%) and end ($) characters in raw form.")
