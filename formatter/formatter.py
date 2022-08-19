@@ -66,8 +66,13 @@ def format_in_text(intermediate_lines, input):
                     continue
                 else:
                     # Replace uncertain characters of the type [x:y:z] with x, the most likely character.
+                    # Replace uncertain ligature characters of the type [cth:oto] with {cth}, the most likely ligature
                     for group in re.findall("\[.*\]", word):
-                        words[index] = word.replace(group, group[1])
+                        most_likely = group.split(":")[0].lstrip("[")
+                        if len(most_likely) == 1:
+                            words[index] = word.replace(group, most_likely)
+                        else:
+                            words[index] = word.replace(group, "{" + most_likely + "}")
 
         # Remove any newline characters floating around.
         for index, word in enumerate(words):
