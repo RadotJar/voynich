@@ -91,6 +91,12 @@ def format_in_text(intermediate_lines, input):
                     words[index] = word.replace("<$>", "<End Paragraph>")
                 else:
                     words[index] = word.replace("<$>", "\n")
+            # Format illegible characters.
+            if("?" in word):
+                if(input["noillegible"]):
+                    words[index] = ""
+                else:
+                    words[index] = word.replace("?", "")
             
         print(words)
     return intermediate_lines
@@ -242,7 +248,7 @@ def process_locus_type(locus_type):
             processed_locus_type = "unresolvable"
     return processed_locus_type
 
-def get_input():    
+def get_input():
     parser = argparse.ArgumentParser(description="Voynich Manuscript Formatter", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument("file_name", help="The name of the file to be formatted. The file must be a .txt file stored in ./texts/, containing a transcription of the Voynich Manuscript written in EVA and formatted in IVTFF.")
     parser.add_argument("--keepcomments", action="store_true", help="Keep comments.")
@@ -252,7 +258,6 @@ def get_input():
     parser.add_argument("--nospace", action="store_true", help="Keep '.' characters.")
     parser.add_argument("--nouncertainspace", action="store_true", help="Remove ',' characters.")
     parser.add_argument("--keepuncertain", action="store_true", help="Keep uncertain characters in their list format '[x:y:z]'.")
-    parser.add_argument("--nodrawingspaces", action="store_true", help="Remove '-' characters instead of converting to whitespace.")
     paragraph_group = parser.add_mutually_exclusive_group()
     paragraph_group.add_argument("--pararaw", action="store_true", help="Keep paragraph beggining (%) and end ($) characters in raw form.")
     paragraph_group.add_argument("--paraproc", action="store_true", help="Process paragraph beggining (%) and end ($) into readable form.")
