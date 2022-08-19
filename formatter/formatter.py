@@ -35,13 +35,24 @@ def format(input_lines, input):
 # Performs all formatting tasks not occuring on start of line elements.
 def format_in_text(intermediate_lines, input):
     i = 0
-    chungus = intermediate_lines[0:9]
-    for line in chungus:
+    output_lines = []
+    for line in intermediate_lines:
         words = []
-        if(input["locusraw"] or input["locusproc"]):
-            locus_and_text = line.split()
-            locus = locus_and_text[0]
-            text = locus_and_text[1]
+        if(input["locusraw"]):
+            locus = re.match("<f.*?>", line)
+            if(locus):
+                locus = locus.group()
+            else:
+                locus = ""
+            text = re.sub("<f.*?>", "", line).strip(' ')
+            words = text.split('.')
+        elif(input["locusproc"]):
+            locus = re.match("<Beggining of.*?>", line)
+            if(locus):
+                locus = locus.group()
+            else:
+                locus = ""
+            text = re.sub("<Beggining of.*?>", "", line).strip(' ')
             words = text.split('.')
         else:
             words = line.split('.')
@@ -51,56 +62,62 @@ def format_in_text(intermediate_lines, input):
             # Split words with an uncertain space (,) into two words.
             # Example: ['fa,chys', 'choldy'] -> ['fa', 'chys', 'choldy']
             uncertainspace_split = re.compile(",").split
-            words = [part for word in words for part in uncertainspace_split(word) if part] 
+            words = [part for word in words for part in uncertainspace_split(word) if part]
 
         for index, word in enumerate(words):
             # Format inline comments.
-            if("<!" in word):
+            if("<!" in words[index]):
                 if(input["keepcomments"]):
                     continue
                 else:
-                    words[index] = re.sub("<!.*>", "", word)
+                    words[index] = re.sub("<!.*?>", "", words[index])
             # Format uncertain characters.
-            if("[" in word):
+            if("[" in words[index]):
                 if(input["keepuncertain"]):
                     continue
                 else:
                     # Replace uncertain characters of the type [x:y:z] with x, the most likely character.
                     # Replace uncertain ligature characters of the type [cth:oto] with {cth}, the most likely ligature
-                    for group in re.findall("\[.*\]", word):
+                    for group in re.findall("\[.*\]", words[index]):
                         most_likely = group.split(":")[0].lstrip("[")
-                        if len(most_likely) == 1:
-                            words[index] = word.replace(group, most_likely)
-                        else:
-                            words[index] = word.replace(group, "{" + most_likely + "}")
+                        words[index] = words[index].replace(group, most_likely)
+
             # Format characters representing the intrustion of drawings.
-            if("<->" in word):
-                words[index] = word.replace("<->", "")
+            if("<->" in words[index]):
+                words[index] = words[index].replace("<->", "")
             # Format paragraph identifiers
-            if("<%>" in word):
+            if("<%>" in words[index]):
                 if(input["pararaw"]):
                     continue
                 elif(input["paraproc"]):
-                    words[index] = word.replace("<%>", "<New Paragraph>")
+                    words[index] = words[index].replace("<%>", "<New Paragraph>")
                 else:
-                    words[index] = word.replace("<%>", "")
-            if("<$>" in word):
+                    words[index] = words[index].replace("<%>", "")
+            print(words[index])
+            if("<$>" in words[index]):
                 if(input["pararaw"]):
                     continue
                 elif(input["paraproc"]):
-                    words[index] = word.replace("<$>", "<End Paragraph>")
+                    words[index] = words[index].replace("<$>", "<End Paragraph>")
                 else:
-                    words[index] = word.replace("<$>", "\n")
+                    words[index] = words[index].replace("<$>", "\n")
             # Format illegible characters.
-            if("?" in word):
+            if("?" in words[index]):
                 if(input["noillegible"]):
                     words[index] = ""
                 else:
-                    words[index] = word.replace("?", "")
-            
-        print(words)
-    return intermediate_lines
+                    words[index] = words[index].replace("?", "")
 
+        new_line = ""
+        if((input["locusraw"] or input["locusproc"]) and locus != ""):
+            new_line = locus + " "
+        if(input["nospace"]):
+            new_line += ".".join(words)
+        else:
+            new_line += " ".join(words)
+        output_lines.append(new_line)
+
+    return output_lines
 
 # Performs all formatting tasks occuring on start of line elements.
 def format_start_of_line(input_lines, input):
@@ -133,24 +150,9 @@ def format_start_of_line(input_lines, input):
                     i += 1
                 rest_of_line = line[i+1:].strip(' ')
                 intermediate_lines.append(rest_of_line)
-        # Paragraph data
-        elif(line[0] == "<" and line[1] == "%"):
-            if(input["pararaw"]):
-                intermediate_lines.append(line)
-            elif(input["paraproc"]):
-                paragraph_start = "<New Paragraph>"
-                rest_of_line = line[3:]
-                formatted_line = paragraph_start + rest_of_line
-                intermediate_lines.append(formatted_line)
-            else:
-                i = 0
-                while(line[i] != ">"):
-                    i += 1
-                rest_of_line = line[i+1:].strip(' ')
-                intermediate_lines.append(rest_of_line)
         else:
             intermediate_lines.append(line)
-        
+
     return intermediate_lines
 
 # Processes locus indicators into readable form.

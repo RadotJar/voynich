@@ -1,11 +1,37 @@
-<f1r.11,*P0>      <%><!doodle: @253;>ydain.cphesaiin.ols.cphey.ytain.shoshy.cphodal,es
-<f1r.12,+P0>      oksho.kshoy.otairin.oteol.okan.shodain.sckhey.daiin
-<f1r.13,+P0>      shoy.ckhey.kodaiin.cphy.cphodaiils.cthey.sho.oldain.d
-<f1r.14,+P0>      dain.oiin.chol.odaiin.chodain.chdy.ok[a:o]in.d?n.cthy.kod
-<f1r.15,+P0>      daiin.shckhey.{ck}eo.r.char.shey.kol.chol.chol.kor.chal
-<f1r.16,+P0>      sho.chol.shodan.kshy.kchy.d.or.chodaiin.sho.koeam
-<f1r.17,+P0>      ycho.tchey.chekain.sheo,pshol.dydyd.cthy.dai[{cto}:@194;]y
-<f1r.18,+P0>      yto.shol.she.kodshey.cphealy.dar,ain.dain.ckhyds
-<f1r.19,+P0>      dchar.shcthaiin.okaiir.chey.@192;chy.@130;tol.cthols.dlo{ct}o
-<f1r.20,+P0>      shok.chor.chey.dain.ckhey
-<f1r.21,=Pt>      otol.daiiin<$>
+<f41r>     <! $Q=F $P=A $F=a $B=1 $I=H $L=B $H=5 $C=2>
+# page 79
+# herbal
+# Currier's language B, hand 2
+# Plant ID: Thistle
+# Transcription quality seriously reduced on this page
+#
+<f41r.1,@P0>      <%>pshey,kedal[ee:ch]y.oked.seekeeey.<->opshes.[o:y]p[ch:ee]d.qotchedy.shkakeedy
+<f41r.2,+P0>      ykeeo.alshey,ykedy.kesh,dy.dy.<->dor.[y:q]cheoky.qokee[d:?].chpy.qokedy.dy
+<f41r.3,+P0>      qok.sa[y:?]<!unclear>.[q:y][o:e]kedy.ychdykchdy.<->qokedy.qokedy.shekchy.cheky.daly
+<f41r.4,+P0>      chdchy.ytcheeky.ypchedy.schdy.<->ytedy.{cthh}y.chees.oteey.otal.da[m:g]
+<f41r.5,+P0>      qotchy.sal.yteedy.kchdy.<->dchedy.k[ee:ch]dy.dchedy.dalain<$>
+#
+<f41r.6,+P0>      <%>shedey.polchedy.qokeey.chekedy.ytey.<->chkeeod.<->ypchedpy.sh[epe:cph].shedy
+<f41r.7,+P0>      parchdy.kchey.yteedy.qokeod[o:y].<->okedy.chkedy.qokedy.ched[y:e].qokedy
+<f41r.8,+P0>      dair.chedy.chckhy.qokey.lchdy.<->qokedy.qokal.chekedy.qodar,a[g:j]
+<f41r.9,+P0>      qokeedy.okedy.chekedy.chedy.<->chckheody.chekol.daiin.cheo.al.otedy
+<f41r.10,+P0>     sshok.shedy.qekchdy.dchdaldy.<->ykedy.qokeedy.qokedy.qokeg
+<f41r.11,+P0>     ykeod.ykeedy.chekeedy.cheked<$>
+#
+#
+<f41v>     <! $Q=F $P=B $F=a $B=1 $I=H $L=B $H=5 $C=2>
+# page 80
+# herbal
+# Currier's language B, hand 2
+# Plant ID: <unreadable>, Fern, Maidenhair fern??? Tansy?
+# Plain carrot or variety (RZ)
+#
+<f41v.1,@Lp>      keer[e:o]dal
+<f41v.2,+P0>      <%>pcheody.qofcheepy.ofchdy.cfhekchdy.<->ypchedy.chepchefy.shdchdy.qotal.dar
+<f41v.3,+P0>      dshedy.tchey.s,aiin.shekey.okedy.okaly.<->daiin.okedy.ykeeody.choy.keoy.dam
+<f41v.4,+P0>      qoke[o:d]dy.okey.qokeody.oleeol.lkedy.<->lkeeody.qokeedy.okeey.qokol.sheols
+<f41v.5,+P0>      ycheos.olchey.daiin.or.chol[a:o]laiin.<->oteedy.qoteol.oteodar.orain
+<f41v.6,+P0>      tadaiin.ol.cheos.yteedy.okal.[o:a]ld.<->oteol.qokal.or.oteody
+<f41v.7,+P0>      ykeey.okey.ykeeol.ckhdy.chdal.<->ykeo,aiin.okeody.oly
+<f41v.8,+P0>      daiin.olkeeo.lkol,chedy.okeey<$>
+#
