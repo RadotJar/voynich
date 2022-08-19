@@ -43,9 +43,9 @@ If passed no command line arguments, the formatter will produce an output file i
 - Uncertain spaces (`,` characters) are converted to whitespace.
 - Uncertain character readings, found in the transcription in form `[x:y:z]` are replaced with the first character in the option sequence. This character is the one that the transcriber deemed most likely.
 - Ligatures are converted to their capitalised form. For example `{ao}` becomes `Ao`, where the capitalisation of A indicates it connects to the character to its right (o). Note that there are a number of **special cases**.
- - c and q already connect to the right, so they are never capitalised.
- - h connects to the left, H connects to the right and left.
- - E connects its bottom.
+  - c and q already connect to the right, so they are never capitalised.
+  - h connects to the left, H connects to the right and left.
+  - E connects its bottom.
 - ASCII codes are retained for rare characters. I.e. `@185` represents a rare character in the manuscript and will remain as such.
 - `-` characters are converted to whitespace.
 - Paragraph identifiers are removed and replaced with double newlines to format text into actual paragraphs.
