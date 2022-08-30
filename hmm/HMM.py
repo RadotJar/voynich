@@ -8,7 +8,7 @@ written_text = read_text(file_location)
 
 emission_matrix = find_conditional_prob(written_text, )
 transition_matrix = calculate_transition(written_text, )
-HMM = make_model(transition_matrix, emission_matrix)
+HiddenMM = make_model(transition_matrix, emission_matrix)
 analyse(Voynich, )
 
 
@@ -75,21 +75,24 @@ def calculate_transition(classified_text) :
 
 
 def make_model(transition, emission) :
-#makes HMM model, assumed first 
+#makes HiddenMM model, assumed first 
 
-	HMM = model.HiddenMarkovModel()
-	start_prob = [0.5, 0.5]
-	HMM.add
+	HiddenMM = model.HiddenMarkovModel()
+	start_prob = 2*[0]
+	HiddenMM.add
 
-	HMM.bake()
+	HiddenMM.bake()
 
 
 def analyse(Voynich, ) :
 # analyses the unknown text based on the model and notes what should be a number based on the sequence
 
 
+
 def classify(text, alphabet, numbers) :
 #traverses and classifies each word as either a string or a number
+
+#returns: classification and counter for total numbers and words
 
 	all_words = text.split(" ")
 	num_count = 0
@@ -102,11 +105,30 @@ def classify(text, alphabet, numbers) :
 				num_flag = 1
 				break
 		if num_flag == 1 :
-		num_count = num_count + 1
-		classification.append("Number")
+			num_count = num_count + 1
+			classification.append("Number")
 
 		else :
-		word_count = word_count + 1
-		classification.append("String")
+			word_count = word_count + 1
+			classification.append("String")
 
 		num_flag = 0
+
+	return classification, num_count, word_count
+
+def find_conditional_prob(classifcation, list_of_lengths, length_longest, word_count, number_count, bool: extra_state) :
+# calculates conditional probability based on length of words and their states
+	word_cond, number_cond = [0] * len(length_longest)
+
+	# loops through and counts the number of words and numbers with a certain length
+	for words in range(len(list_of_lengths)) :
+
+		if (classification[words] == "Number"):
+			number_cond[list_of_lengths[words] -1 ] = number_cond[list_of_lengths[words] -1] + 1
+
+
+		elif (classification[words] == "Word"):
+			word_cond[list_of_lengths[words] -1 ] = number_cond[list_of_lengths[words] -1] + 1
+
+
+	return word_cond/word_count, number_cond/number_count
