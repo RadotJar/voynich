@@ -81,6 +81,7 @@ def make_model(transition, emission) :
 	start_prob = 2*[0]
 	HiddenMM.add
 
+
 	HiddenMM.bake()
 
 
