@@ -104,6 +104,8 @@ def format_in_text(intermediate_lines, input):
             if("?" in words[index]):
                 if(input["noillegible"]):
                     words[index] = ""
+                elif(input["keepillegible"]):
+                    continue
                 else:
                     words[index] = words[index].replace("?", "")
 
