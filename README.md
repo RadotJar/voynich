@@ -29,6 +29,7 @@ A number of optional arguments can be passed through the command line to toggle 
 - `--pararaw` :          Paragraph identifiers (`%` at the start and `$` at the end) are kept in raw form.
 - `--paraproc` :         Paragraph identifiers are processed into meaningful English. "New Paragraph" or "End Paragraph" respectively.
 - `--noillegible` :      No illegible words. Not only are `?` and `???` character sequences removed, if they occur within a word (delimited by `.` characters), the entire word is removed aswell.
+- `--keepillegible` :    Illegible characters and their containing words are retained in the output text.
 
 
 ### Outputs
