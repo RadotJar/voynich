@@ -6,7 +6,8 @@ import argparse
 def main():
     # Get input from command line
     input = get_input()
-    
+    output_lines = []
+
     # Open file
     file_path = "./texts/" + input["file_name"] + ".txt"
     with open(file_path, "r") as file:
@@ -14,22 +15,100 @@ def main():
 
     # Analyse frequency details
     if (input["voynich"]):
-        (characters, frequencies, longest_word_length, longest_word, average_word_length ) = analyse_voynich(input_lines)
+        (word_count, characters, frequencies, longest_word_length, longest_word, average_word_length ) = analyse_voynich(input_lines)
     else:
-        (characters, frequencies, longest_word_length, longest_word, average_word_length ) = analyse(input_lines)
+        (word_count, characters, frequencies, longest_word_length, longest_word, average_word_length ) = analyse(input_lines)
 
         plotting( characters, frequencies, input["file_name"] )
 
-        print(longest_word, longest_word_length)
-    # Write output
-    # output_path = "./texts/" + input["file_name"] + "_formatted.txt"
-    # with open(output_path, "w") as file:
-    #    for line in output_lines:
-    #        file.write(line)
+    # Output
+    output_lines.append("Summary\n")
+    output_lines.append("-------\n")
+    output_lines.append("Number of words: " + str(word_count) +"\n")
+    output_lines.append("Number of unique characters: " + str(len(characters)) + "\n")
+    output_lines.append("Longest word: " + longest_word + " (" + str(longest_word_length) + " characters)\n")
+    output_lines.append("Average word length: " + str(average_word_length) + "\n")
+    output_lines.append("--------------------\n")
+    output_lines.append("Character frequencies\n")
+    output_lines.append("--------------------\n")
+    char_freq_list = list(zip(characters, frequencies))
+    char_freq_list.sort(key=lambda x: x[1], reverse=True)
+    for (character, frequency) in char_freq_list:
+        output_lines.append(character + ": " + str(frequency) + "\n")
+
+    output_path = "./texts/" + input["file_name"] + "_frequency_analysis.txt"
+    with open(output_path, "w") as file:
+       for line in output_lines:
+           file.write(line)
 
 # Performs Voynich Manuscript specific analysis
 def analyse_voynich(lines):
-    return
+    unique_characters = []
+    longest_word_length = 0
+    word_count = 0
+    word_len_sum = 0
+    longest_word = []
+
+    for line in lines:
+        words = line.split()
+        word_count += len(words)
+        for word in words:
+            characters = constructVMCharacters(word)
+            for character in characters:
+                if character not in unique_characters:
+                    unique_characters.append(character)
+
+            word_len_sum += len(characters)
+
+            # Iteratively calculate longest word
+            if len(characters) > longest_word_length:
+                longest_word_length = len(characters)
+                longest_word = word
+            
+    frequency = np.zeros(len(unique_characters))
+    for line in lines:
+        words = line.split()
+
+        for word in words:
+            characters = constructVMCharacters(word)
+            for character in characters:
+                if character in unique_characters:
+                    index = unique_characters.index(character)
+                    frequency[index] = frequency[index] + 1
+            
+    
+    average_word_length = word_len_sum / word_count
+
+    return word_count, unique_characters, frequency, longest_word_length, longest_word, average_word_length
+
+# Constructs characters according to special VM rules
+def constructVMCharacters(word):
+    i = 0
+    characters = []
+    while i < len(word):
+        character = ""
+        if(word[i] == "{"):
+            j = i
+            while word[j] != "}":
+                character += word[j]
+                j += 1
+            else:
+                character += word[j]
+            i = j
+        elif(word[i] == "@"):
+            j = i
+            while word[j] != ";":
+                character += word[j]
+                j += 1
+            else:
+                character += word[j]
+            i = j
+        else:
+            character = word[i]
+        
+        characters.append(character)
+        i += 1
+    return characters
 
 # Performs general analysis for other texts
 def analyse(lines):
@@ -68,8 +147,7 @@ def analyse(lines):
     
     average_word_length = word_len_sum / word_count
 
-    return unique_characters, frequency, longest_word_length, longest_word, average_word_length
-
+    return word_count, unique_characters, frequency, longest_word_length, longest_word, average_word_length
 
 def plotting(symbols, frequency, fileName) :
     # Plotting Frequency Analysisimport matplotlib.pyplot as plt

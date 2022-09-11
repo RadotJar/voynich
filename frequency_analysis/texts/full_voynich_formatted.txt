@@ -186,7 +186,7 @@ qocthol yodaiin cthy
 ysho taiin y kaiim
 
 
-koary sar cheekar<!funny o  @246;> qoor shor chapchy s chear char otchy
+koary sar cheekar qoor shor chapchy s chear char otchy
 oees chor chckhy qoekchar cheas odaiiin kchey chor chaiin
 qoair ckhy chol oechockhy chekchoy ckhy okol rychos
 y shckhy ytchoy s os y jajy dchy dey okody ytody
@@ -982,12 +982,12 @@ tar al keey oram
 pcheoepchy olar yl yfody okedody shod ololdy dar ytey
 ytar sheody o lam octhedy otedy chdain oltey kchy ty
 qotedy chyty chdaly dar chd otedy qotol okedy dody ody kam
-ytedy daiin chey aiin shy chckhy <~>oltchedy otedy dam checthy
-qoteedy shedy shedy ol okes ar <~>ykeed l chedy otey okaiin
-oteol chekey chetey oll chesy <~>daiin cheky fas aiir amg
-qokedy dal chdy olchy ykchy <~>ykedy qokchdy s as oldam
-{ch'}otchy qoky olk checkhy <~>ys air air chodar tam
-ykchdy qod ar ch{ct} a{ikh}y <~>or lchey todaly okaiin dardy
+ytedy daiin chey aiin shy chckhy oltchedy otedy dam checthy
+qoteedy shedy shedy ol okes ar ykeed l chedy otey okaiin
+oteol chekey chetey oll chesy daiin cheky fas aiir amg
+qokedy dal chdy olchy ykchy ykedy qokchdy s as oldam
+{ch'}otchy qoky olk checkhy ys air air chodar tam
+ykchdy qod ar ch{ct} a{ikh}y or lchey todaly okaiin dardy
 
 tcheo olchckhy oly otchdy chefalchhs
 qokeey sh kaldaiin cheky cthdaly otchedy chty s aiin
@@ -1935,7 +1935,7 @@ o
 d
 s
 f
-c<!cf f57v seq >
+c
 @172;
 x
 t
@@ -3925,7 +3925,7 @@ adashgasain
 cfair o@213;ol{c@133;h}y
 okody
 okas epar chir u oteoteedy otos otodar ches okodainol ykedy eedar tchdaiin sy sarald todar chkar odair or oal okchdy sdy otchdy ykchdy eeeky o aiin okees olar or ykeedy okeo lodaiin or olaiiin olr
-ch*ochs oetchy osar aram askeeody ochdor al oekairy ytodaro opalshy or arodar ykodar ykodar ykara opalx
+chochs oetchy osar aram askeeody ochdor al oekairy ytodaro opalshy or arodar ykodar ykodar ykara opalx
 opoor daly
 okas oedady
 kechy qolchedar ar
@@ -6176,7 +6176,7 @@ eeo cheo y oteey qotaiin cheo l oteeey daiin oteey teeedy dm
 yaiin ooy okeey cheody qokaiin otain al kain choty
 
 
-<@H=2>f{c'hh}dar qopchol qochedain otedy cheop ol teeedy oroiir oechedy oteedy qotchedy
+f{c'hh}dar qopchol qochedain otedy cheop ol teeedy oroiir oechedy oteedy qotchedy
 dcheeos shedy qokeeo qoky qokeeor cheody qokeeo qokeo rorol kcheody qokchy
 qol cheol chor od qol chedy qockheos cholor daar oraro
 
@@ -6192,7 +6192,7 @@ tchedy kechedy qokchey keedy qokor chedaiin dair qotchedy qotcheedy qekor
 daiin chedy chol chedy qokoiin qokcheedy qototeeey rain cheo chkain cho lory
 dsheo qokeedaiin qokechdy qodaiin or chol o ro chey
 
-<@H=3>tchedy qoolkeedy qokchedy qotchd lpchedy qotcho lar airorlchy cpholrory
+tchedy qoolkeedy qokchedy qotchd lpchedy qotcho lar airorlchy cpholrory
 ycheeo rcheeo qo lkain cheey saiin cheedy tcheo lodar chtar as kaiin dam
 y cheo lkeodain chcthed qokar chedy qotain chody qotain cheol lkar air om
 dshedy qotshedy dar oltedy qotar chodar cheocthy chdy qotor otchdy qotolchd
