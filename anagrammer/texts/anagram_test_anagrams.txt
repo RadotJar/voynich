@@ -1,0 +1,15 @@
+Word Profiles:
+chtaiin: 1 anagrams: cthaiin (1) 
+cthaiin: 1 anagrams: chtaiin (1) 
+cthey: 1 anagrams: tchey (1) 
+tchey: 1 anagrams: cthey (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+t: 4/36 = 11.11111111111111%
+c: 4/79 = 5.063291139240507%
+i: 4/87 = 4.597701149425287%
+n: 2/50 = 4.0%
+e: 2/53 = 3.7735849056603774%
+h: 4/122 = 3.278688524590164%
+y: 2/79 = 2.5316455696202533%
+a: 2/87 = 2.2988505747126435%

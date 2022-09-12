@@ -159,8 +159,8 @@ def plotting(symbols, frequency, fileName) :
     plot.savefig("./figures/" + fileName +"_freq_analysis.png")
 
 def get_input():
-    parser = argparse.ArgumentParser(description="Voynich Manuscript Formatter", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument("file_name", help="The name of the file to be formatted. The file must be a .txt file stored in ./texts/, containing a transcription of the Voynich Manuscript written in EVA and formatted in IVTFF.")
+    parser = argparse.ArgumentParser(description="Voynich Manuscript Frequency Analyser", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument("file_name", help="The name of the file to be formatted. The file must be a .txt file stored in ./texts/.")
     parser.add_argument("--voynich", action="store_true", help="Apply Voynich specific analysis rules.")
     args = parser.parse_args()
     input = vars(args)
