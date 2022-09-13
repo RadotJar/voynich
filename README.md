@@ -64,3 +64,27 @@ The formatter is not perfect, and some further testing is required to refine it.
 ## Frequency Analyser
 
 ## HMM Analyser
+
+## Corpus
+This codebase contains a corpus of texts in a number of different languages covering various topics. These texts are stored in plaintext files and are used in conjunction with the various analysis scripts to help draw patterns with the VM. Below is a list of the texts included and their important features.
+- UN Declaration of Human Rights [Chosen for its availability in many languages; Human Rights]
+  - English
+  - Spanish
+  - French
+  - German
+  - Italian
+- Species Plantarum [Latin; Botanical]
+- Nova Analysis Aquarum Medeviensium [Latin; Aquatic]
+- Ephemerides Barometricae Mutinenses [Latin; Weather Patterns]
+- De Canibus Britannicis of English Dogges [Latin; Animals/Agriculture]
+- Medicinal Plants of the Philippines [English; Botanical]
+- The Works of Edgar Allen Poe [English; Narrative Fiction]
+- A Preliminary Dissertation on the Mechanisms of the Heavens [English; Astronomy]
+- The New England Cookbook or Young Housekeeper's Guide [English; Recipes]
+- Henley's Twentieth Century Formulas, Recipes and Processes [English; Chemistry]
+- Die Epiphystiche Vegetation Amerikas [German; Botanical]
+- Sonne und Sterne [German; Astronomy]
+- Neuestes Suddeutsches Kochbuch fur alle Stande [German; Recipes]
+- Le Systeme Solaire [French; Astronomy]
+- La Navigation [French; Something]
+- Le enigmes de L'Univers [French; Philosophy]
