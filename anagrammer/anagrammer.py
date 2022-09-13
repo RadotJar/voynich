@@ -95,12 +95,34 @@ def main():
 
   with open(inputText, 'r') as f:
       lines = f.readlines()
-  
-  if(input["voynich"]):
-    (word_array, character_array) = analyse_voynich(lines)
-  else:
-    (word_array, character_array) = analyse(lines)
 
+  word_array = []
+  character_array = []
+  # First go through text and add each word and character occurrence array
+  for line in lines:
+    words = line.split()
+    for word in words:
+      if(input["voynich"]):
+        word_object = VWord(word)
+      else:
+        word_object = Word(word)
+      word_array.append(word_object)
+      for character in word_object.characters:
+        character_object = Character(character)
+        for existing_character in character_array:
+          if existing_character.character == character_object.character:
+            existing_character.add_occurence()
+            break
+        else:
+          character_object.add_occurence()
+          character_array.append(character_object)
+
+  # For each word, check which other word contains the same characters (is an anagram)
+  for word in word_array:
+    for other_word in word_array:
+      if (other_word.word != word.word) and (np.array_equal(word.characters, other_word.characters)):
+        word.add_anagram(other_word.word)
+  
   # Sort word array by number of anagrams
   word_array.sort(key=lambda x: x.anagram_count, reverse=True)
 
@@ -155,61 +177,6 @@ def main():
   ax1.bar(plot_x_axis, plot_y_axis)
   ax1.set_ylim([0,100])
   plt.savefig("./figures/" + fileName + "_anagram_plot.png")
-
-def analyse(lines):
-  word_array = []
-  character_array = []
-  # First go through text and add each word and character occurrence array
-  for line in lines:
-    words = line.split()
-    for word in words:
-      word_object = Word(word)
-      word_array.append(word_object)
-      for character in word_object.characters:
-        character_object = Character(character)
-        for existing_character in character_array:
-          if existing_character.character == character_object.character:
-            existing_character.add_occurence()
-            break
-        else:
-          character_object.add_occurence()
-          character_array.append(character_object)
-
-  # For each word, check which other word contains the same characters (is an anagram)
-  for word in word_array:
-    for other_word in word_array:
-      if (other_word.word != word.word) and (np.array_equal(word.characters, other_word.characters)):
-        word.add_anagram(other_word.word)
-  
-  return word_array, character_array
-
-def analyse_voynich(lines):
-  word_array = []
-  character_array = []
-  # First go through text and add each word and character occurrence array
-  for line in lines:
-    words = line.split()
-    for word in words:
-      word_object = VWord(word)
-      word_array.append(word_object)
-      for character in word_object.characters:
-        character_object = Character(character)
-        for existing_character in character_array:
-          if existing_character.character == character_object.character:
-            existing_character.add_occurence()
-            break
-        else:
-          character_object.add_occurence()
-          character_array.append(character_object)
-
-  # For each word, check which other word contains the same characters (is an anagram)
-  for word in word_array:
-    for other_word in word_array:
-      if (other_word.word != word.word) and (np.array_equal(word.characters, other_word.characters)):
-        print(word)
-        word.add_anagram(other_word.word)
-  
-  return word_array, character_array
 
 def get_input():
     parser = argparse.ArgumentParser(description="Voynich Manuscript Anagram Analyser", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
