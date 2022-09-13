@@ -1,3 +1,10 @@
+import argparse
+import numpy as np
+import sys
+from itertools import permutations
+import matplotlib.pyplot as plt
+
+
 class Character:
   def __init__(self, character):
     self.character = character
@@ -28,13 +35,57 @@ class Word:
   def __str__(self):
     return self.word
 
-def main():
-  import numpy as np
-  import sys
-  from itertools import permutations
-  import matplotlib.pyplot as plt
+class VWord:
+  def __init__(self, word):
+    self.word = word
+    self.characters = constructVMCharacters(word)
+    self.characters.sort()
+    self.anagrams = {}
+    self.anagram_count = 0
+  def add_anagram(self, anagram):
+    if anagram in self.anagrams:
+      self.anagrams[anagram] = self.anagrams[anagram] + 1
+    else:
+      self.anagrams[anagram] = 1
+      self.anagram_count += 1
+  def __str__(self):
+    return self.word
 
-  fileName = sys.argv[1]
+# Constructs characters according to special VM rules
+def constructVMCharacters(word):
+    i = 0
+    characters = []
+    while i < len(word):
+        character = ""
+        if(word[i] == "{"):
+            j = i
+            while word[j] != "}":
+                character += word[j]
+                j += 1
+            else:
+                character += word[j]
+            i = j
+        elif(word[i] == "@"):
+            j = i
+            while word[j] != ";":
+                character += word[j]
+                j += 1
+            else:
+                character += word[j]
+            i = j
+        else:
+            character = word[i]
+        
+        characters.append(character)
+        i += 1
+    return characters
+
+def main():
+
+  # Get input from command line
+  input = get_input()
+
+  fileName = input["file_name"]
   inputText = "./texts/" + fileName + ".txt"
   word_array = []
   character_array = []
@@ -42,14 +93,19 @@ def main():
   plot_x_axis = []
   plot_y_axis = []
 
-  # First go through text and add each word and character occurrence array
   with open(inputText, 'r') as f:
       lines = f.readlines()
 
+  word_array = []
+  character_array = []
+  # First go through text and add each word and character occurrence array
   for line in lines:
     words = line.split()
     for word in words:
-      word_object = Word(word)
+      if(input["voynich"]):
+        word_object = VWord(word)
+      else:
+        word_object = Word(word)
       word_array.append(word_object)
       for character in word_object.characters:
         character_object = Character(character)
@@ -66,7 +122,7 @@ def main():
     for other_word in word_array:
       if (other_word.word != word.word) and (np.array_equal(word.characters, other_word.characters)):
         word.add_anagram(other_word.word)
-
+  
   # Sort word array by number of anagrams
   word_array.sort(key=lambda x: x.anagram_count, reverse=True)
 
@@ -121,6 +177,15 @@ def main():
   ax1.bar(plot_x_axis, plot_y_axis)
   ax1.set_ylim([0,100])
   plt.savefig("./figures/" + fileName + "_anagram_plot.png")
+
+def get_input():
+    parser = argparse.ArgumentParser(description="Voynich Manuscript Anagram Analyser", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument("file_name", help="The name of the file to be analysed. The file must be a .txt file stored in ./texts/.")
+    parser.add_argument("--voynich", action="store_true", help="Apply Voynich specific analysis rules.")
+    args = parser.parse_args()
+    input = vars(args)
+    return input
+
 
 if __name__ == "__main__":
     main()
