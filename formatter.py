@@ -1,4 +1,5 @@
 from concurrent.futures import process
+import os
 import re
 import sys
 import argparse
@@ -9,15 +10,16 @@ def main():
     input = get_input()
     
     # Open file
-    file_path = "./texts/" + input["file_name"] + ".txt"
-    with open(file_path, "r") as file:
+    filePath = input["file_path"]
+    fileName = os.path.basename(filePath)
+    with open(filePath, "r") as file:
         input_lines = file.readlines()
 
     # Format lines
     output_lines = format(input_lines, input)
 
     # Write output
-    output_path = "./texts/" + input["file_name"] + "_formatted.txt"
+    output_path = "./texts/" + fileName + "_formatted.txt"
     with open(output_path, "w") as file:
         for line in output_lines:
             file.write(line)
@@ -278,7 +280,7 @@ def process_locus_type(locus_type):
 
 def get_input():
     parser = argparse.ArgumentParser(description="Voynich Manuscript Formatter", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument("file_name", help="The name of the file to be formatted. The file must be a .txt file stored in ./texts/, containing a transcription of the Voynich Manuscript written in EVA and formatted in IVTFF.")
+    parser.add_argument("file_path", help="The path to the file to be formatted. The file must be a .txt file containing a transcription of the Voynich Manuscript written in EVA and formatted in IVTFF.")
     parser.add_argument("--keepcomments", action="store_true", help="Keep comments.")
     locus_group = parser.add_mutually_exclusive_group()
     locus_group.add_argument("--locusraw", action="store_true", help="Keep raw locus data.")

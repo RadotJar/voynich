@@ -1,4 +1,6 @@
 from concurrent.futures import process
+from fileinput import filename
+import os
 import numpy as np
 import matplotlib.pyplot as plot
 import argparse
@@ -9,8 +11,9 @@ def main():
     output_lines = []
 
     # Open file
-    file_path = "./texts/" + input["file_name"] + ".txt"
-    with open(file_path, "r") as file:
+    filePath = input["file_path"]
+    fileName = os.path.basename(filePath)
+    with open(filePath, "r") as file:
         input_lines = file.readlines()
 
     # Analyse frequency details
@@ -19,7 +22,7 @@ def main():
     else:
         (word_count, characters, frequencies, longest_word_length, longest_word, average_word_length ) = analyse(input_lines)
 
-        plotting( characters, frequencies, input["file_name"] )
+        plotting( characters, frequencies, fileName )
 
     # Output
     output_lines.append("Summary\n")
@@ -36,7 +39,7 @@ def main():
     for (character, frequency) in char_freq_list:
         output_lines.append(character + ": " + str(frequency) + "\n")
 
-    output_path = "./texts/" + input["file_name"] + "_frequency_analysis.txt"
+    output_path = "./texts/" + fileName + "_frequency_analysis.txt"
     with open(output_path, "w") as file:
        for line in output_lines:
            file.write(line)
@@ -160,7 +163,7 @@ def plotting(symbols, frequency, fileName) :
 
 def get_input():
     parser = argparse.ArgumentParser(description="Voynich Manuscript Frequency Analyser", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument("file_name", help="The name of the file to be formatted. The file must be a .txt file stored in ./texts/.")
+    parser.add_argument("file_path", help="The path to the file to be analysed. The file must be a .txt file.")
     parser.add_argument("--voynich", action="store_true", help="Apply Voynich specific analysis rules.")
     args = parser.parse_args()
     input = vars(args)
