@@ -3,7 +3,7 @@
 Clone the repo and get going. No build steps or anything needed, just a python install.
 
 ## General Folder Structure
-The voynich root folder is divided into sub-folders, each containing code, plaintext files etc that fulfill a specific purpose in the VM's analysis. Each sub-folder contains a relevant analysis script, aswell as a `/texts/` and `/figures/` sub-folder. All scripts take input text files from `/texts/`, output text files to `/texts/` and output figures to `/figures/`. Any new scripts should satisfy these conventions.
+The voynich root folder contains the various scripts for analysis. It also containes two sub-folders: `/texts/` and `/figures/`. All text outputs are saved in `/texts/`, all figure outputs are saved to `/figures/`. It is reccomended that input txt files are also stored in `/texts/`.
 
 ## Formatter
 
