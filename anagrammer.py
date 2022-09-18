@@ -1,4 +1,5 @@
 import argparse
+import os
 import numpy as np
 import sys
 from itertools import permutations
@@ -85,15 +86,15 @@ def main():
   # Get input from command line
   input = get_input()
 
-  fileName = input["file_name"]
-  inputText = "./texts/" + fileName + ".txt"
+  filePath = input["file_path"]
+  fileName = os.path.basename(filePath)
   word_array = []
   character_array = []
   outputLines = []
   plot_x_axis = []
   plot_y_axis = []
 
-  with open(inputText, 'r') as f:
+  with open(filePath, 'r') as f:
       lines = f.readlines()
 
   word_array = []
@@ -169,7 +170,7 @@ def main():
       f.writelines(outputLines)
 
   ax = plt.figure()
-  ax.suptitle("Anagram Analysis of " + fileName + ".txt")
+  ax.suptitle("Anagram Analysis of " + fileName)
   ax.supxlabel("Character", va='bottom')
   ax.supylabel("Percentage of Occurences in Valid Anagrams")
 
@@ -180,7 +181,7 @@ def main():
 
 def get_input():
     parser = argparse.ArgumentParser(description="Voynich Manuscript Anagram Analyser", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument("file_name", help="The name of the file to be analysed. The file must be a .txt file stored in ./texts/.")
+    parser.add_argument("file_path", help="The path to the file to be analysed. Must be a .txt file.")
     parser.add_argument("--voynich", action="store_true", help="Apply Voynich specific analysis rules.")
     args = parser.parse_args()
     input = vars(args)
