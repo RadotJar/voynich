@@ -88,4 +88,3 @@ This codebase contains a corpus of texts in a number of different languages cove
 - Neuestes Suddeutsches Kochbuch fur alle Stande [German; Recipes]
 - Le Systeme Solaire se Mouvant [French; Astronomy]
 - La Navigation Aerienne L'aviation Et La Direction Des Aerostats Dans Les Temps [French; Aeronautics, History]
-- Le enigmes de L'Univers [French; Philosophy]
