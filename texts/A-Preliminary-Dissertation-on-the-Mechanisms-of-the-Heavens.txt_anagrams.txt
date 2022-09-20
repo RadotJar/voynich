@@ -1,0 +1,110 @@
+Word Profiles:
+there: 2 anagrams: three (19) ether (2) 
+stone: 2 anagrams: tones (2) notes (1) 
+three: 2 anagrams: there (25) ether (2) 
+ether: 2 anagrams: there (25) three (19) 
+tones: 2 anagrams: stone (3) notes (1) 
+notes: 2 anagrams: stone (3) tones (2) 
+on: 1 anagrams: no (40) 
+from: 1 anagrams: form (29) 
+courses: 1 anagrams: sources (2) 
+no: 1 anagrams: on (142) 
+now: 1 anagrams: own (10) 
+creation: 1 anagrams: reaction (4) 
+highest: 1 anagrams: heights (4) 
+own: 1 anagrams: now (19) 
+destinies: 1 anagrams: densities (1) 
+who: 1 anagrams: how (1) 
+remain: 1 anagrams: marine (1) 
+nay: 1 anagrams: any (29) 
+name: 1 anagrams: mean (71) 
+centre: 1 anagrams: recent (1) 
+mean: 1 anagrams: name (3) 
+arising: 1 anagrams: raising (4) 
+reaction: 1 anagrams: creation (6) 
+any: 1 anagrams: nay (2) 
+later: 1 anagrams: alter (1) 
+left: 1 anagrams: felt (1) 
+reaction,: 1 anagrams: creation, (3) 
+are,: 1 anagrams: era, (6) 
+There: 1 anagrams: Three (1) 
+form: 1 anagrams: from (238) 
+nearest: 1 anagrams: eastern (1) 
+arises: 1 anagrams: raises (1) 
+being: 1 anagrams: begin (4) 
+begins: 1 anagrams: beings (1) 
+course: 1 anagrams: source (1) 
+alter: 1 anagrams: later (5) 
+begin: 1 anagrams: being (30) 
+Three: 1 anagrams: There (4) 
+night,: 1 anagrams: thing, (1) 
+star: 1 anagrams: arts (1) 
+sources: 1 anagrams: courses (2) 
+lead: 1 anagrams: dale (1) 
+era,: 1 anagrams: are, (5) 
+now,: 1 anagrams: own, (1) 
+incessant: 1 anagrams: instances (2) 
+recent: 1 anagrams: centre (42) 
+triangle: 1 anagrams: altering (1) 
+heights: 1 anagrams: highest (7) 
+raising: 1 anagrams: arising (10) 
+eastern: 1 anagrams: nearest (6) 
+night: 1 anagrams: thing (1) 
+creation,: 1 anagrams: reaction, (1) 
+raise: 1 anagrams: arise (3) 
+previous: 1 anagrams: pervious (1) 
+trade: 1 anagrams: tread (1) 
+thing,: 1 anagrams: night, (1) 
+1250: 1 anagrams: 2150 (1) 
+marine: 1 anagrams: remain (16) 
+tops: 1 anagrams: spot (1) 
+amidst: 1 anagrams: admits (1) 
+beings: 1 anagrams: begins (4) 
+tread: 1 anagrams: trade (3) 
+densities: 1 anagrams: destinies (1) 
+arise: 1 anagrams: raise (2) 
+arts: 1 anagrams: star (11) 
+how: 1 anagrams: who (8) 
+2150: 1 anagrams: 1250 (3) 
+dale: 1 anagrams: lead (4) 
+instances: 1 anagrams: incessant (1) 
+node: 1 anagrams: done (1) 
+felt: 1 anagrams: left (2) 
+admits: 1 anagrams: amidst (2) 
+raises: 1 anagrams: arises (6) 
+spot: 1 anagrams: tops (1) 
+done: 1 anagrams: node (1) 
+altering: 1 anagrams: triangle (4) 
+thing: 1 anagrams: night (1) 
+own,: 1 anagrams: now, (1) 
+source: 1 anagrams: course (7) 
+pervious: 1 anagrams: previous (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+m: 361/3118 = 11.577934573444516%
+f: 270/3336 = 8.093525179856115%
+r: 523/7350 = 7.115646258503401%
+n: 483/8081 = 5.9769830466526415%
+o: 533/9174 = 5.8098975365162415%
+5: 4/75 = 5.333333333333334%
+g: 73/1466 = 4.979536152796726%
+2: 4/93 = 4.301075268817205%
+e: 530/16439 = 3.2240403917513234%
+1: 4/140 = 2.857142857142857%
+w: 40/1572 = 2.5445292620865136%
+a: 218/9290 = 2.346609257265877%
+0: 4/191 = 2.094240837696335%
+b: 39/1970 = 1.9796954314720812%
+c: 72/3853 = 1.8686737607059436%
+T: 5/268 = 1.8656716417910446%
+h: 132/7471 = 1.7668317494311339%
+t: 223/13206 = 1.6886263819475995%
+y: 31/1858 = 1.6684607104413347%
+i: 142/9072 = 1.5652557319223985%
+s: 113/7959 = 1.419776353813293%
+,: 19/1679 = 1.1316259678379987%
+l: 19/4192 = 0.4532442748091603%
+u: 14/3197 = 0.43791054113231154%
+d: 16/3675 = 0.43537414965986393%
+p: 4/2221 = 0.18009905447996397%
+v: 2/1264 = 0.15822784810126583%
