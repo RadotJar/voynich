@@ -1,4 +1,5 @@
 from concurrent.futures import process
+import os
 import re
 import sys
 import argparse
@@ -9,28 +10,61 @@ def main():
     input = get_input()
     
     # Open file
-    file_path = "./texts/" + input["file_name"] + ".txt"
-    with open(file_path, "r") as file:
+    filePath = input["file_path"]
+    fileName = os.path.basename(filePath)
+    with open(filePath, "r") as file:
         input_lines = file.readlines()
 
     # Format lines
     output_lines = format(input_lines, input)
 
     # Write output
-    output_path = "./texts/" + input["file_name"] + "_formatted.txt"
+    output_path = "./texts/" + fileName + "_formatted.txt"
     with open(output_path, "w") as file:
         for line in output_lines:
             file.write(line)
 
 # Takes input lines and input options, formats the lines accordingly and returns them.
 def format(input_lines, input):
-    intermediate_lines = []
+    comment_formatted = []
+    formatted_start_of_line = []
+    formatted_in_text = []
     output_lines = []
 
-    intermediate_lines = format_start_of_line(input_lines, input)
-    output_lines = format_in_text(intermediate_lines, input)
+    comment_formatted = format_comments(input_lines, input)
+    formatted_start_of_line = format_start_of_line(comment_formatted, input)
+    formatted_in_text = format_in_text(formatted_start_of_line, input)
+    output_lines = final_cleanup(formatted_in_text, input)
 
     return output_lines
+
+def final_cleanup(lines, input):
+    for index, line in enumerate(lines):
+        if("<@H" in lines[index]):
+            lines[index] = re.sub("<@H=.>", "", lines[index])
+    return lines
+
+
+def format_comments(lines, input):
+    intermediate_lines = []
+
+    # Comment lines
+    for line in lines:
+        if(line[0] == "#"):
+            if(input["keepcomments"]):
+                intermediate_lines.append(line)
+            else:
+                continue
+        else:
+            intermediate_lines.append(line)
+    # In-text comments
+    for index, line in enumerate(intermediate_lines):
+        if("<!" in intermediate_lines[index]):
+            if(input["keepcomments"]):
+                continue
+            else:
+                intermediate_lines[index] = re.sub("<!.*?>", "", intermediate_lines[index])
+    return intermediate_lines
 
 # Performs all formatting tasks not occuring on start of line elements.
 def format_in_text(intermediate_lines, input):
@@ -65,12 +99,6 @@ def format_in_text(intermediate_lines, input):
             words = [part for word in words for part in uncertainspace_split(word) if part]
 
         for index, word in enumerate(words):
-            # Format inline comments.
-            if("<!" in words[index]):
-                if(input["keepcomments"]):
-                    continue
-                else:
-                    words[index] = re.sub("<!.*?>", "", words[index])
             # Format uncertain characters.
             if("[" in words[index]):
                 if(input["keepuncertain"]):
@@ -85,6 +113,8 @@ def format_in_text(intermediate_lines, input):
             # Format characters representing the intrustion of drawings.
             if("<->" in words[index]):
                 words[index] = words[index].replace("<->", "")
+            if("<~>" in words[index]):
+                words[index] = words[index].replace("<~>", "")
             # Format paragraph identifiers
             if("<%>" in words[index]):
                 if(input["pararaw"]):
@@ -104,8 +134,13 @@ def format_in_text(intermediate_lines, input):
             if("?" in words[index]):
                 if(input["noillegible"]):
                     words[index] = ""
+                elif(input["keepillegible"]):
+                    continue
                 else:
                     words[index] = words[index].replace("?", "")
+            # Format unreadable characters.
+            if("*" in words[index]):
+                words[index] = words[index].replace("*", "")
 
         new_line = ""
         if((input["locusraw"] or input["locusproc"]) and locus != ""):
@@ -123,14 +158,8 @@ def format_start_of_line(input_lines, input):
     intermediate_lines = []
 
     for line in input_lines:
-        # Comments
-        if(line[0] == "#"):
-            if(input["keepcomments"]):
-                intermediate_lines.append(line)
-            else:
-                continue
         # Locus data
-        elif(line[0] == "<" and line[1] == "f"):
+        if(line[0] == "<" and line[1] == "f"):
             if(input["locusraw"]):
                 intermediate_lines.append(line)
             elif(input["locusproc"]):
@@ -251,7 +280,7 @@ def process_locus_type(locus_type):
 
 def get_input():
     parser = argparse.ArgumentParser(description="Voynich Manuscript Formatter", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument("file_name", help="The name of the file to be formatted. The file must be a .txt file stored in ./texts/, containing a transcription of the Voynich Manuscript written in EVA and formatted in IVTFF.")
+    parser.add_argument("file_path", help="The path to the file to be formatted. The file must be a .txt file containing a transcription of the Voynich Manuscript written in EVA and formatted in IVTFF.")
     parser.add_argument("--keepcomments", action="store_true", help="Keep comments.")
     locus_group = parser.add_mutually_exclusive_group()
     locus_group.add_argument("--locusraw", action="store_true", help="Keep raw locus data.")
@@ -262,7 +291,9 @@ def get_input():
     paragraph_group = parser.add_mutually_exclusive_group()
     paragraph_group.add_argument("--pararaw", action="store_true", help="Keep paragraph beggining (%) and end ($) characters in raw form.")
     paragraph_group.add_argument("--paraproc", action="store_true", help="Process paragraph beggining (%) and end ($) into readable form.")
-    parser.add_argument("--noillegible", action="store_true", help="Words containing illegible characters (? | ???) are removed.")
+    illegible_group = parser.add_mutually_exclusive_group()
+    illegible_group.add_argument("--noillegible", action="store_true", help="Words containing illegible characters (? | ???) are removed.")
+    illegible_group.add_argument("--keepillegible", action="store_true", help="Words containing illegible characters (? | ???) are kept.")
     args = parser.parse_args()
     input = vars(args)
     return input

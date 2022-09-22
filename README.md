@@ -3,7 +3,7 @@
 Clone the repo and get going. No build steps or anything needed, just a python install.
 
 ## General Folder Structure
-The voynich root folder is divided into sub-folders, each containing code, plaintext files etc that fulfill a specific purpose in the VM's analysis. Each sub-folder contains a relevant analysis script, aswell as a `/texts/` and `/figures/` sub-folder. All scripts take input text files from `/texts/`, output text files to `/texts/` and output figures to `/figures/`. Any new scripts should satisfy these conventions.
+The voynich root folder contains the various scripts for analysis. It also containes two sub-folders: `/texts/` and `/figures/`. All text outputs are saved in `/texts/`, all figure outputs are saved to `/figures/`. It is reccomended that input txt files are also stored in `/texts/`.
 
 ## Formatter
 
@@ -29,6 +29,7 @@ A number of optional arguments can be passed through the command line to toggle 
 - `--pararaw` :          Paragraph identifiers (`%` at the start and `$` at the end) are kept in raw form.
 - `--paraproc` :         Paragraph identifiers are processed into meaningful English. "New Paragraph" or "End Paragraph" respectively.
 - `--noillegible` :      No illegible words. Not only are `?` and `???` character sequences removed, if they occur within a word (delimited by `.` characters), the entire word is removed aswell.
+- `--keepillegible` :    Illegible characters and their containing words are retained in the output text.
 
 
 ### Outputs
@@ -63,3 +64,27 @@ The formatter is not perfect, and some further testing is required to refine it.
 ## Frequency Analyser
 
 ## HMM Analyser
+
+## Corpus
+This codebase contains a corpus of texts in a number of different languages covering various topics. These texts are stored in plaintext files and are used in conjunction with the various analysis scripts to help draw patterns with the VM. Below is a list of the texts included and their important features.
+- UN Declaration of Human Rights [Chosen for its availability in many languages; Human Rights]
+  - English
+  - Spanish
+  - French
+  - German
+  - Italian
+- Species Plantarum Sections I-III [Latin; Botanical]
+- Nova Analysis Aquarum Medeviensium [Latin; Chemistry]
+- Ephemerides Barometricae Mutinenses (anni M.DC.XCIV) [Latin; Weather Patterns]
+- De Canibus Britannicis[Latin; Animals/Agriculture]
+- Of English Dogges [English; Animals/Agriculture; Translated from Canibus Britannicis] 
+- The Medicinal Plants of the Philippines [English; Botanical]
+- The Works of Edgar Allen Poe (Volume II) [English; Narrative Fiction]
+- A Preliminary Dissertation on the Mechanisms of the Heavens [English; Astronomy]
+- The New England Cook book or Young Housekeeper's Guide [English; Recipes]
+- Henley's Twentieth Century Formulas, Recipes and Processes [English; Chemistry]
+- Die Epiphytische Vegetation Amerikas [German; Botanical]
+- Sonne und Sterne [German; Astronomy]
+- Neuestes Suddeutsches Kochbuch fur alle Stande [German; Recipes]
+- Le Systeme Solaire se Mouvant [French; Astronomy]
+- La Navigation Aerienne L'aviation Et La Direction Des Aerostats Dans Les Temps [French; Aeronautics, History]

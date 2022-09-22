@@ -1,0 +1,2415 @@
+A
+
+PRELIMINARY DISSERTATION
+
+ON THE
+
+MECHANISM OF THE HEAVENS.
+
+
+
+BY
+
+MRS. SOMMERVILLE
+
+
+
+
+PHILADELPHIA:
+CAREY & LEA
+
+1832
+
+
+
+
+In order to convey some idea of the object of this work, it may be
+useful to offer a few preliminary observations on the nature of the
+subject which it is intended to investigate, and of the means that have
+already been adopted with so much success to bring within the reach of
+our faculties, those truths which might seem to be placed so far beyond
+them.
+
+All the knowledge we possess of external objects is founded upon
+experience, which furnishes a knowledge of facts, and the comparison of
+these facts establishes relations, from which, induction, the intuitive
+belief that like causes will produce like effects, leads us to general
+laws. Thus, experience teaches that bodies fall at the surface of the
+earth with an accelerated velocity, and proportional to their masses.
+Newton proved, by comparison, that the force which occasions the fall of
+bodies at the earth's surface, is identical with that which retains the
+moon in her orbit; and induction led him to conclude that as the moon is
+kept in her orbit by the attraction of the earth, so the planets might
+be retained in their orbits by the attraction of the sun. By such steps
+he was led to the discovery of one of those powers with which the
+Creator has ordained that matter should reciprocally act upon matter.
+
+Physical astronomy is the science which compares and identifies the laws
+of motion observed on earth with the motions that take place in the
+heavens, and which traces, by an uninterrupted chain of deduction from
+the great principle that governs the universe, the revolutions and
+rotations of the planets, and the oscillations of the fluids at their
+surfaces, and which estimates the changes the system has hitherto
+undergone or may hereafter experience, changes which require millions of
+years for their accomplishment.
+
+The combined efforts of astronomers, from the earliest dawn of
+civilization, have been requisite to establish the mechanical theory of
+astronomy: the courses of the planets have been observed for ages with a
+degree of perseverance that is astonishing, if we consider the
+imperfection, and even the want of instruments. The real motions of the
+earth have been separated from the apparent motions of the planets; the
+laws of the planetary revolutions have been discovered; and the
+discovery of these laws has led to the knowledge of the gravitation of
+matter. On the other hand, descending from the principle of gravitation,
+every motion in the system of the world has been so completely
+explained, that no astronomical phenomenon can now be transmitted to
+posterity of which the laws have not been determined.
+
+Science, regarded as the pursuit of truth, which can only be attained by
+patient and unprejudiced investigation, wherein nothing is too great to
+be attempted, nothing so minute as to be justly disregarded, must ever
+afford occupation of consummate interest and of elevated meditation. The
+contemplation of the works of creation elevates the mind to the
+admiration of whatever is great and noble, accomplishing the object of
+all study, which in the elegant language of Sir James Mackintosh is to
+inspire the love of truth, of wisdom, of beauty, especially of goodness,
+the highest beauty, and of that supreme and eternal mind, which contains
+all truth and wisdom, all beauty and goodness. By the love or delightful
+contemplation and pursuit of these transcendent aims for their own sake
+only, the mind of man is raised from low and perishable objects, and
+prepared for those high destinies which are appointed for all those who
+are capable of them.
+
+The heavens afford the most sublime subject of study which can be
+derived from science: the magnitude and splendour of the objects, the
+inconceivable rapidity with which they move, and the enormous distances
+between them, impress the mind with some notion of the energy that
+maintains them in their motions with a durability to which we can see no
+limits. Equally conspicuous is the goodness of the great First Cause in
+having endowed man with faculties by which he can not only appreciate
+the magnificence of his works, but trace, with precision, the operation
+of his laws, use the globe he inhabits us a base wherewith to measure
+the magnitude and distance of the sun and planets, and make the diameter
+of the earth's orbit the first step of a scale by which he may ascend to
+the starry firmament. Such pursuits, while they ennoble the mind, at the
+same time inculcate humility, by showing that there is a barrier, which
+no energy, mental or physical, can ever enable us to pass: that however
+profoundly we may penetrate the depths of space, there still remain
+innumerable systems compared with which those which seem so mighty to us
+must dwindle into insignificance, or even become invisible; and that not
+only man, but the globe he inhabits, nay the whole system of which it
+forms so small a part, might be annihilated, and its extinction be
+unperceived in the immensity or creation.
+
+A complete acquaintance with Physical Astronomy can only be attained by
+those who are well versed in the higher branches of mathematical and
+mechanical science: such alone can appreciate the extreme beauty of
+the results, and of the means by which these results are obtained.
+Nevertheless a sufficient skill in analysis to follow the general
+outline, to see the mutual dependence of the different parts of the
+system, and to comprehend by what means some of the most extraordinary
+conclusions have been arrived at, is within the reach of many who shrink
+from the task, appalled by difficulties, which perhaps are not more
+formidable than those incident to the study of the elements of every
+branch of knowledge, and possibly overrating them by not making a
+sufficient distinction between the degree of mathematical acquirement
+necessary for making discoveries, and that which is requisite for
+understanding what others have done. That the study of mathematics and
+their application to astronomy are full of interest will be allowed by
+all who have devoted their time and attention to these pursuits, and
+they only can estimate the delight of arriving at truth, whether it be
+in the discovery of a world, or of a new property of numbers.
+
+It has been proved by Newton that a particle of matter placed without
+the surface of a hollow sphere is attracted by it in the name manner as
+if its mass, or the whole matter it contains, were collected in its
+centre. The same is therefore true of a solid sphere which may be
+supposed to consist of an infinite number of concentric hollow spheres.
+This however is not the case with a spheroid, but the celestial bodies
+are so nearly spherical, and at such remote distances from each other,
+that they attract and are attracted as if each were a dense point
+situate in its centre of gravity, a circumstance which greatly
+facilitates the investigation of their motions.
+
+The attraction of the earth on bodies at its surface in that latitude,
+the square of whose sine is ⅓, is the same as if it were a sphere; and
+experience shows that bodies there fall through 16.0697 feet in a
+second. The mean distance of the moon from the earth is about sixty
+times the mean radius of the earth. When the number 16.0697 is
+diminished in the ratio of 1 to 3600, which is the square of the moon's
+distance from the earth, it is found to be exactly the space the moon
+would fall through in the first second of her descent to the earth, were
+she not prevented by her centrifugal force, arising from the velocity
+with which she moves in her orbit. So that the moon is retained in her
+orbit by a force having the same origin and regulated by the same law
+with that which causes a stone to fall at the earth's surface. The earth
+may therefore be regarded as the centre of a force which extends to the
+moon; but as experience shows that the action and reaction of matter are
+equal and contrary, the moon must attract the earth with an equal and
+contrary force.
+
+Newton proved that a body projected in space will move in a conic
+section, if it be attracted by a force directed towards a fixed point,
+and having an intensity inversely as the square of the distance; but
+that any deviation from that law will cause it to move in a curve of a
+different nature. Kepler ascertained by direct observation that the
+planets describe ellipses round the sun, and later observations show
+that comets also move in conic sections: it consequently follows that
+the sun attracts all the planets and comets inversely as the square of
+their distances from his centre; the sun therefore is the centre of a
+force extending indefinitely in space, and including all the bodies of
+the system in its action.
+
+Kepler also deduced from observation, that the squares of the periodic
+times of the planets, or the times of their revolutions round the sun,
+are proportional to the cubes of their mean distances from his centre:
+whence it follows, that the intensity of gravitation of all the bodies
+towards the sun is the same at equal distances; consequently gravitation
+is proportional to the masses, for if the planets and comets be supposed
+to be at equal distances from the sun and left to the effects of
+gravity, they would arrive at his surface at the same time. The
+satellites also gravitate to their primaries according to the same law
+that their primaries do to the sun. Hence, by the law of action and
+reaction, each body is itself the centre of an attractive force
+extending indefinitely in space, whence proceed all the mutual
+disturbances that render the celestial motions so complicated, and their
+investigation so difficult.
+
+The gravitation of matter directed to a centre, and attracting directly
+as the mass, and inversely as the square of the distance, does not
+belong to it when taken in mass; particle acts on particle according to
+the same law when at sensible distances from each other. If the sun
+acted on the centre of the earth without attracting each of its
+particles, the tides would be very much greater than they now are, and
+in other respects they also would be very different. The gravitation of
+the earth to the sun results from the gravitation of all its particles,
+which in their turn attract the sun in the ratio of their respective
+masses. There is a reciprocal action likewise between the earth and
+every particle at its surface; were this not the case, and were any
+portion of the earth, however small, to attract another portion and not
+be itself attracted, the centre of gravity of the earth would be moved
+in space, which is impossible.
+
+The form of the planets results from the reciprocal attraction of their
+component particles. A detached fluid mass, if at rest, would assume the
+form of a sphere, from the reciprocal attraction of its particles; but
+if the mass revolves about an axis, it becomes flattened at the poles,
+and bulges at the equator, in consequence of the centrifugal force
+arising from the velocity of rotation. For, the centrifugal force
+diminishes the gravity of the particles at the equator, and equilibrium
+can only exist when these two forces are balanced by an increase of
+gravity; therefore, as the attractive force is the same on all particles
+at equal distances from the centre of a sphere, the equatorial particles
+would recede from the centre till their increase in number balanced the
+centrifugal force by their attraction, consequently the sphere would
+become an oblate spheroid; and a fluid partially or entirely covering a
+solid, as the ocean and atmosphere cover the earth, must assume that
+form in order to remain in equilibrio. The surface of the sea is
+therefore spheroidal, and the surface of the earth only deviates from
+that figure where it rises above or sinks below the level of the sea;
+but the deviation is so small that it is unimportant when compared with
+the magnitude of the earth. Such is the form of the earth and planets,
+but the compression or flattening at their poles is so small, that even
+Jupiter, whose rotation is the most rapid, differs but little from a
+sphere. Although the planets attract each other as if they were spheres
+on account of their immense distances, yet the satellites are near
+enough to be sensibly affected in their motions by the forms of their
+primaries. The moon for example is so near the earth, that the
+reciprocal attraction between each of her particles and each of the
+particles in the prominent mass at the terrestrial equator, occasions
+considerable disturbances in the motions of both bodies. For, the action
+of the moon on the matter at the earth's equator produces a nutation in
+the axis of rotation, and the reaction of that matter on the moon is the
+cause of a corresponding nutation in the lunar orbit.
+
+If a sphere at rest in space receives an impulse passing through its
+centre of gravity, all its parts will move with an equal velocity in a
+straight line; but if the impulse does not pass through the centre of
+gravity, its particles having unequal velocities, will give it a
+rotatory motion at the same time that it is translated in space. These
+motions are independent of one another, so that a contrary impulse
+passing through its centre of gravity will impede its progression,
+without interfering with its rotation. As the sun rotates about an axis,
+it seems probable if an impulse in a contrary direction has not been
+given to his centre of gravity, that he moves in space accompanied by
+all those bodies which compose the solar system, a circumstance that
+would in no way interfere with their relative motions; for, in
+consequence of our experience that force is proportional to velocity,
+the reciprocal attractions of a system remain the same, whether its
+centre of gravity be at rest, or moving uniformly in space. It is
+computed that had the earth received its motion from a single impulse,
+such impulse must have passed through a point about twenty-five miles
+from its centre.
+
+Since the motions of the rotation and translation of the planets are
+independent of each other, though probably communicated by the same
+impulse, they form separate subjects of investigation.
+
+A planet moves in its elliptical orbit with a velocity varying every
+instant, in consequence of two forces, one tending to the centre of the
+sun, and the other in the direction of a tangent to its orbit, arising
+from the primitive impulse given at the time when it was launched into
+space: should the force in the tangent cease, the planet would fall to
+the sun by its gravity; were the sun not to attract it, the planet would
+fly off in the tangent. Thus, when a planet is in its aphelion or at the
+point where the orbit is farthest from the sun, his action overcomes its
+velocity, and brings it towards him with such an accelerated motion,
+that it at last overcomes the sun's attraction, and shoots past him;
+then, gradually decreasing in velocity, it arrives at the aphelion where
+the sun's attraction again prevails. In this motion the radii vectores,
+or imaginary lines joining the centres of the sun and planets, pass over
+equal areas in equal times.
+
+If the planets were attracted by the sun only, this would ever be their
+course; and because his action is proportional to his mass, which is
+immensely larger than that of all the planets put together, the
+elliptical is the nearest approximation to their true motions, which are
+extremely complicated, in consequence of their mutual attraction, so
+that they do not move in any known or symmetrical curve, but in paths
+now approaching to, and now receding from the elliptical form, and their
+radii vectores do not describe areas exactly proportional to the time.
+Thus the areas become a test of the existence of disturbing forces.
+
+To determine the motion of each body when disturbed by all the rest is
+beyond the power of analysis; it is therefore necessary to estimate the
+disturbing action of one planet at a time, whence arises the celebrated
+problem of the three bodies, which originally was that of the moon, the
+earth, and the sun, namely,--the masses being given of three bodies
+projected from three given points, with velocities given both in
+quantity and direction; and supposing the bodies to gravitate to one
+another with forces that are directly as their masses, and inversely as
+the squares of the distances, to find the lines described by these
+bodies, and their position at any given instant.
+
+By this problem the motions of translation of all the celestial bodies
+are determined. It is one of extreme difficulty, and would be of
+infinitely greater difficulty, if the disturbing action were not very
+small, when compared with the central force. As the disturbing influence
+of each body may be found separately, it is assumed that the action of
+the whole system in disturbing any one planet is equal to the sum of all
+the particular disturbances it experiences, on the general mechanical
+principle, that the sum of any number of small oscillations is nearly
+equal to their simultaneous and joint effect.
+
+On account of the reciprocal action of matter, the stability of the
+system depends on the intensity of the primitive momentum of the
+planets, and the ratio of their masses to that of the sun: for the
+nature of the conic sections in which the celestial bodies move, depends
+on the velocity with which they were first propelled in space; had that
+velocity been such as to make the planets move in orbits of unstable
+equilibrium, their mutual attractions might have changed them into
+parabolas or even hyperbolas; so that the earth and planets might ages
+ago have been sweeping through the abyss of space: but as the orbits
+differ very little from circles, the momentum of the planets when
+projected, must have been exactly sufficient to ensure the permanency
+and stability of the system. Besides the mass of the sun is immensely
+greater than those of the planets; and as their inequalities bear the
+same ratio to their elliptical motions as their masses do to that of the
+sun, their mutual disturbances only increase or diminish the
+eccentricities of their orbits by very minute quantities; consequently
+the magnitude of the sun's mass is the principal cause of the stability
+of the system. There is not in the physical world a more splendid
+example of the adaptation of means to the accomplishment of the end,
+than is exhibited in the nice adjustment of these forces.
+
+The orbits of the planets have a very small inclination to the plane of
+the ecliptic in which the earth moves; and on that account, astronomers
+refer their motions to it at a given epoch as a known and fixed
+position. The paths of the planets, when their mutual disturbances are
+omitted, are ellipses nearly approaching to circles, whose planes,
+slightly inclined to the ecliptic: cut it in straight lines passing
+through the centre of the sun; the points where the orbit intersects the
+plane of the ecliptic are its nodes.
+
+The orbits of the recently discovered planets deviate more from the
+ecliptic: that of Pallas has an inclination of 35° to it: on that
+account it will be more difficult to determine their motions. These
+little planets have no sensible effect in disturbing the rest, though
+their own motions are rendered very irregular by the proximity of
+Jupiter and Saturn.
+
+The planets are subject to disturbances of two distinct kinds, both
+resulting from the constant operation of their reciprocal attraction,
+one kind depending upon their positions with regard to each other,
+begins from zero, increases to a maximum, decreases and becomes zero
+again, when the planets return to the same relative positions. In
+consequence of these, the troubled planet is sometimes drawn away from
+the sun, sometimes brought nearer to him; at one time it is drawn above
+the plane of its orbit, at another time below it, according to the
+position of the disturbing body. All such changes, being accomplished in
+short periods, some in a few months, others in years, or in hundreds of
+years, are denominated Periodic Inequalities.
+
+The inequalities of the other kind, though occasioned likewise by the
+disturbing energy of the planets, are entirely independent of their
+relative positions; they depend on the relative positions of the orbits
+alone, whose forms and places in space are altered by very minute
+quantities in immense periods of time, and are therefore called Secular
+Inequalities.
+
+In consequence of disturbances of this kind, the apsides, or extremities
+of the major axes of all the orbits, have a direct, but variable motion
+in space, excepting those of Venus, which are retrograde; and the lines
+of the nodes move with a variable velocity in the contrary direction.
+The motions of both are extremely slow; it requires more than 109770
+years for the major axis of the earth's orbit to accomplish a sidereal
+revolution, and 20935 years to complete its tropical motion. The major
+axis of Jupiter's orbit requires no less than 197561 years to perform
+its revolution from the disturbing action of Saturn alone. The periods
+in which the nodes revolve are also very great. Beside these, the
+inclination and eccentricity of every orbit are in a state of perpetual,
+but slow change. At the present time, the inclinations of all the orbits
+are decreasing; but so slowly, that the inclination of Jupiter's orbit
+is only six minutes less now than it was in the age of Ptolemy. The
+terrestrial eccentricity is decreasing at the rate of 3914 miles in a
+century; and if it were to decrease equably, it would be 36300 years
+before the earth's orbit became a circle. But in the midst of all these
+vicissitudes, the major axes and mean motions of the planets remain
+permanently independent of secular changes; they are so connected by
+Kepler's law of the squares of the periodic times being proportional to
+the cubes of the mean distances of the planets from the sun, that one
+cannot vary without affecting the other.
+
+With the exception of these two elements, it appears, that all the
+bodies are in motion, and every orbit is in a state of perpetual change.
+Minute as these changes are, they might be supposed liable to accumulate
+in the course of ages sufficiently to derange the whole order of nature,
+to alter the relative positions of the planets, to put an end to the
+vicissitudes of the seasons, and to bring about collisions, which would
+involve our whole system, now so harmonious, in chaotic confusion. The
+consequences being so dreadful, it is natural to inquire, what proof
+exists that creation will be preserved from such a catastrophe? For
+nothing can be known from observation, since the existence of the human
+race has occupied but a point in duration, while these vicissitudes
+embrace myriads of ages. The proof is simple and convincing. All the
+variations of the solar system, as well secular as periodic, are
+expressed analytically by the sines and cosines of circular arcs, which
+increase with the time; and as a sine or cosine never can exceed the
+radius, but must oscillate between zero and unity, however much the time
+may increase, it follows, that when the variations have by slow changes
+accumulated in however long a time to a maximum, they decrease by the
+same slow degrees, till they arrive at their smallest value, and then
+begin a new course, thus for ever oscillating about a mean value. This,
+however, would not be the case if the planets moved in a resisting
+medium, for then both the eccentricity and the major axes of the orbits
+would vary with the time, so that the stability of the system would be
+ultimately destroyed. But if the planets do move in an ethereal medium,
+it must be of extreme rarity, since its resistance has hitherto been
+quite insensible.
+
+Three circumstances have generally been supposed necessary to prove the
+stability of the system: the small eccentricities of the planetary
+orbits, their small inclinations, and the revolution of all the bodies,
+as well planets as satellites, in the same direction. These, however,
+are not necessary conditions: the periodicity of the terms in which the
+inequalities are expressed is sufficient to assure us, that though we do
+not know the extent of the limits, nor the period of that grand cycle
+which probably embraces millions of years, yet they never will exceed
+what is requisite for the stability and harmony of the whole, for the
+preservation of which every circumstance is so beautifully and
+wonderfully adapted.
+
+The plane of the ecliptic itself, though assumed to be fixed at a given
+epoch for the convenience of astronomical computation, is subject to a
+minute secular variation of 52"·109, occasioned by the reciprocal action
+of the planets; but as this is also periodical, the terrestrial equator,
+which is inclined to it at an angle of about 23° 28', will never
+coincide with the plane of the ecliptic; so there never can be perpetual
+spring.
+
+The rotation of the earth is uniform; therefore day and night, summer
+and winter, will continue their vicissitudes while the system endures,
+or is untroubled by foreign causes.
+
+
+                   Yonder starry sphere
+     Of planets, and of fix'd, in all her wheels
+     Resembles nearest, mazes intricate,
+     Eccentric, intervolv'd, yet regular
+     Then most, when most irregular they seem.
+
+
+The stability of our system was established by La Grange, 'a discovery,'
+says Professor Playfair, 'that must render the name for ever memorable
+in science, and revered by those who delight in the contemplation of
+whatever is excellent and sublime. After Newton's discovery of the
+elliptical orbits of the planets, La Grange's discovery of their
+periodical inequalities is without doubt the noblest truth in physical
+astronomy; and, in respect of the doctrine of final causes, it may be
+regarded as the greatest of all.'
+
+Notwithstanding the permanency of our system, the secular variations in
+the planetary orbits would have been extremely embarrassing to
+astronomers, when it became necessary to compare observations separated
+by long periods. This difficulty is obviated by La Place, who has shown
+that whatever changes time may induce either in the orbits themselves,
+or in the plane of the ecliptic, there exists an invariable plane
+passing through the centre of gravity of the sun, about which the whole
+system oscillates within narrow limits, and which is determined by this
+property; that if every body in the system be projected on it, and if
+the mass of each be multiplied by the area described in a given time by
+its projection on this plane, the sum of all these products will be a
+maximum. This plane of greatest inertia, by no means peculiar to the
+solar system, but existing in every system of bodies submitted to their
+mutual attractions only, always remains parallel to itself, and
+maintains a fixed position, whence the oscillations of the system may be
+estimated through unlimited time. It is situate nearly half way between
+the orbits of Jupiter and Saturn, and is inclined to the ecliptic at an
+angle of about 1° 35' 31".
+
+All the periodic and secular inequalities deduced from the law of
+gravitation are so perfectly confirmed by observations, that analysis
+has become one of the most certain means of discovering the planetary
+irregularities, either when they are too small, or too long in their
+periods, to be detected by other methods. Jupiter and Saturn, however,
+exhibit inequalities which for a long time seemed discordant with that
+law. All observations, from those of the Chinese and Arabs down to the
+present day, prove that for ages the mean motions of Jupiter and Saturn
+have been affected by great inequalities of very long periods, forming
+what appeared an anomaly in the theory of the planets. It was long known
+by observation, that five times the mean motion of Saturn is nearly
+equal to twice that of Jupiter; a relation which the sagacity of La
+Place perceived to be the cause of a periodic inequality in the mean
+motion of each of these planets, which completes its period in nearly
+929 Julian years, the one being retarded, while the other is
+accelerated. These inequalities are strictly periodical, since they
+depend on the configuration of the two planets; and the theory is
+perfectly confirmed by observation, which shows that in the course of
+twenty centuries, Jupiter's mean motion has been accelerated by 3° 23',
+and Saturn's retarded by 5° 13'.
+
+It might be imagined that the reciprocal action of such planets as have
+satellites would be different from the influence of those that have
+none; but the distances of the satellites from their primaries are
+incomparably less than the distances of the planets from the sun, and
+from one another, so that the system of a planet and its satellites
+moves nearly as if all those bodies were united in their common centre
+of gravity; the action of the sun however disturbs in some degree the
+motion of the satellites about their primary.
+
+The changes that take place in the planetary system are exhibited on a
+small scale by Jupiter and his satellites; and as the period requisite
+for the development of the inequalities of these little moons only
+extends to a few centuries, it may be regarded as an epitome of that
+grand cycle which will not be accomplished by the planets in myriads of
+centuries. The revolutions of the satellites about Jupiter are precisely
+similar to those of the planets about the sun; it is true they are
+disturbed by the sun, but his distance is so great, that their motions
+are nearly the same as if they were not under his influence. The
+satellites like the planets, were probably projected in elliptical
+orbits, but the compression of Jupiter's spheroid is very great in
+consequence of his rapid rotation; and as the masses of the satellites
+are nearly 100000 times less than that of Jupiter, the immense quantity
+of prominent matter at his equator must soon have given the circular
+form observed in the orbits of the first and second satellites, which
+its superior attraction will always maintain. The third and fourth
+satellites being further removed from its influence, move in orbits with
+a very small eccentricity. The same cause occasions the orbits of the
+satellites to remain nearly in the plane of Jupiter's equator, on
+account of which they are always seen nearly in the same line; and the
+powerful action of that quantity of prominent matter is the reason why
+the motion of the nodes of these little bodies is so much more rapid
+than those of the planet. The nodes of the fourth satellite accomplish a
+revolution in 520 years, while those of Jupiter's orbit require no less
+than 50673 years, a proof of the reciprocal attraction between each
+particle of Jupiter's equator and of the satellites. Although the two
+first satellites sensibly move in circles, they acquire a small
+ellipticity from the disturbances they experience.
+
+The orbits of the satellites do not retain a permanent inclination,
+either to the plane of Jupiter's equator, or to that of his orbit, but
+to certain planes passing between the two, and through their
+intersection; these have a greater inclination to his equator the
+further the satellite is removed, a circumstance entirely owing to the
+influence of Jupiter's compression.
+
+A singular law obtains among the mean motions and mean longitudes of the
+three first satellites. It appears from observation, that the mean
+motion of the first satellite, plus twice that of the third, is equal to
+three times that of the second, and that the mean longitude of the first
+satellite, minus three times that of the second, plus twice that of the
+third, is always equal to two right angles. It is proved by theory, that
+if these relations had only been approximate when the satellites were
+first launched into space, their mutual attractions would have
+established and maintained them. They extend to the synodic motions of
+the satellites, consequently they affect their eclipses, and have a very
+great influence on their whole theory. The satellites move so nearly in
+the plane of Jupiter's equator, which has a very small inclination to
+his orbit, that they are frequently eclipsed by the planet. The instant
+of the beginning or end of an eclipse of a satellite marks the same
+instant of absolute time to all the inhabitants of the earth; therefore
+the time of these eclipses observed by a traveller, when compared with
+the time of the eclipse computed for Greenwich or any other fixed
+meridian, gives the difference of the meridians in time, and
+consequently the longitude of the place of observation. It has required
+all the refinements of modern instruments to render the eclipses of
+these remote moons available to the mariner; now however, that system of
+bodies invisible to the naked eye, known to man by the aid of science
+alone, enables him to traverse the ocean, spreading the light of
+knowledge and the blessings of civilization over the most remote
+regions, and to return loaded with the productions of another
+hemisphere. Nor is this all: the eclipses of Jupiter's satellites have
+been the means or a discovery, which, though not so immediately
+applicable to the wants of man, unfolds a property of light, that
+medium, without whose cheering influence all the beauties of the
+creation would have been to us a blank. It is observed, that those
+eclipses of the first satellite which happen when Jupiter is near
+conjunction, are later by 16' 26" than those which take place when the
+planet is in opposition. But as Jupiter is nearer to us when in
+opposition by the whole breadth of the earth's orbit than when in
+conjunction, this circumstance was attributed to the time employed by
+the rays of light in crossing the earth's orbit, a distance of 192
+millions of miles; whence it is estimated, that light travels at the
+rate of 192000 miles in one second. Such is its velocity, that the
+earth, moving at the rate of nineteen miles in a second, would take two
+months to pass through a distance which a ray of light would dart over
+in eight minutes. The subsequent discovery of the aberration of light
+confirmed this astonishing result.
+
+Objects appear to be situate in the direction of the rays that proceed
+from them. Were light propagated instantaneously, every object, whether
+at rest or in motion, would appear in the direction of these rays; but
+as light takes some time to travel, when Jupiter is in conjunction, we
+see him by means of rays that left him 16' 26" before; but during that
+time we have changed our position, in consequence of the motion of the
+earth in its orbit; we therefore refer Jupiter to a place in which he is
+not. His true position is in the diagonal of the parallelogram, whose
+sides are in the ratio of the velocity of light to the velocity of the
+earth in its orbit, which is as 192000 to 19. In consequence of
+aberration, none of the heavenly bodies are in the place in which they
+seem to be. In fact, if the earth were at rest, rays from a star would
+pass along the axis of a telescope directed to it; but if the earth were
+to begin to move in its orbit with its usual velocity, these rays would
+strike against the side of the tube; it would therefore be necessary to
+incline the telescope a little, in order to see the star. The angle
+contained between the axis of the telescope and a line drawn to the true
+place of the star, is its aberration, which varies in quantity and
+direction in different parts of the earth's orbit; but as it never
+exceeds twenty seconds, in ordinary cases.
+
+The velocity of light deduced from the observed aberration of the fixed
+stars, perfectly corresponds with that given by the eclipses of the
+first satellite. The same result obtained from sources so different,
+leaves not a doubt of its truth. Many such beautiful coincidences,
+derived from apparently the most unpromising and dissimilar
+circumstances, occur in physical astronomy, and prove dependences which
+we might otherwise be unable to trace. The identity of the velocity of
+light at the distance of Jupiter and on the earth's surface shows that
+its velocity is uniform; and if light consists in the vibrations of an
+elastic fluid or ether filling space, which hypothesis accords best with
+observed phenomena, the uniformity of its velocity shows that the
+density of the fluid throughout the whole extent of the solar system,
+must be proportional to its elasticity. Among the fortunate conjectures
+which have been confirmed by subsequent experience, that of Bacon is not
+the least remarkable. "It produces in me," says the restorer of true
+philosophy, "a doubt, whether the face of the serene and starry heavens
+be seen at the instant it really exists, or not till some time later;
+and whether there be not, with respect to the heavenly bodies, a true
+time and an apparent time, no less than a true place and an apparent
+place, as astronomers say, on account of parallax. For it seems
+incredible that the species or rays of the celestial bodies can pass
+through the immense interval between them and us in an instant; or that
+they do not even require some considerable portion of time."
+
+As great discoveries generally lead to a variety of conclusions, the
+aberration of light affords a direct proof of the motion of the earth in
+its orbit; and its rotation is proved by the theory of falling bodies,
+since the centrifugal force it induces retards the oscillations of the
+pendulum in going from the pole to the equator. Thus a high degree of
+scientific knowledge has been requisite to dispel the errors of the
+senses.
+
+The little that is known of the theories of the satellites of Saturn and
+Uranus is in all respects similar to that of Jupiter. The great
+compression of Saturn occasions its satellites to move nearly in the
+plane of its equator. Of the situation of the equator of Uranus we know
+nothing, nor of its compression. The orbits of its satellites are nearly
+perpendicular to the plane of the ecliptic.
+
+Our constant companion the moon next claims attention. Several
+circumstances concur to render her motions the most interesting, and at
+the same time the most difficult to investigate of all the bodies of our
+system. In the solar system planet troubles planet, but in the lunar
+theory the sun is the great disturbing cause; his vast distance being
+compensated by his enormous magnitude, so that the motions of the moon
+are more irregular than those of the planets; and on account of the
+great ellipticity of her orbit and the size of the sun, the
+approximations to her motions are tedious and difficult, beyond what
+those unaccustomed to such investigations could imagine. Neither the
+eccentricity of the lunar orbit, nor its inclination to the plane of the
+ecliptic, have experienced any changes from secular inequalities; but
+the mean motion, the nodes, and the perigee, are subject to very
+remarkable variations.
+
+From an eclipse observed at Babylon by the Chaldeans, on the 19th of
+March, seven hundred and twenty-one years before the Christian era, the
+place of the moon is known from that of the sun at the instant of
+opposition; whence her mean longitude may be found; but the comparison
+of this mean longitude with another mean longitude, computed back for
+the instant of the eclipse from modern observations, shows that the moon
+performs her revolution round the earth more rapidly and in a shorter
+time now, than she did formerly; and that the acceleration in her mean
+motion has been increasing from age to age as the square of the time;
+all the ancient and intermediate eclipses confirm this result. As the
+mean motions of the planets have no secular inequalities, this seemed to
+be an unaccountable anomaly, and it was at one time attributed to the
+resistance of an ethereal medium pervading space; at another to the
+successive transmission of the gravitating force: but as La Place proved
+that neither of these causes, even if they exist, have any influence on
+the motions of the lunar perigee or nodes, they could not affect the
+mean motion, a variation in the latter from such a cause being
+inseparably connected with variations in the two former of these
+elements. That great mathematician, however, in studying the theory of
+Jupiter's satellites, perceived that the secular variations in the
+elements of Jupiter's orbit, from the action of the planets, occasion
+corresponding changes in the motions of the satellites: this led him to
+suspect that the acceleration in the mean motion of the moon might be
+connected with the secular variation in the eccentricity of the
+terrestrial orbit; and analysis has proved that he assigned the true
+cause.
+
+If the eccentricity of the earth's orbit were invariable, the moon would
+be exposed to a variable disturbance from the action of the sun, in
+consequence of the earth's annual revolution; but it would be periodic,
+since it would be the same as often as the sun, the earth, and the moon
+returned to the same relative positions: on account however of the slow
+and incessant diminution in the eccentricity of the terrestrial orbit,
+the revolution of our planet is performed at different distances from
+the sun every year. The position of the moon with regard to the sun,
+undergoes a corresponding change; so that the mean action of the sun on
+the moon varies from one century to another, and occasions the secular
+increase in the moon's velocity called the acceleration, a name which is
+very appropriate in the present age, and which will continue to be so
+for a vast number of ages to come; because, as long as the earth's
+eccentricity diminishes, the moon's mean motion will be accelerated; but
+when the eccentricity has passed its minimum and begins to increase, the
+mean motion will be retarded from age to age. At present the secular
+acceleration is about 10", but its effect on the moon's place increases
+as the square of the time. It is remarkable that the action of the
+planets thus reflected by the sun to the moon, is much more sensible
+than their direct action, either on the earth or moon. The secular
+diminution in the eccentricity, which has not altered the equation of
+the centre of the sun by eight minutes since the earliest recorded
+eclipses, has produced a variation of 1° 48' in the moon's longitude,
+and of 7° 12' in her mean anomaly.
+
+The action of the sun occasions a rapid but variable motion in the nodes
+and perigee of the lunar orbit; the former, though they recede during
+the greater part of the moon's revolution, and advance during the
+smaller, perform their sidereal revolutions in 6793^days.4212, and the
+latter, though its motion is sometimes retrograde and sometimes direct,
+in 3232^days.5807, or a little more than nine years: but such is the
+difference between the disturbing energy of the sun and that of all the
+planets put together, that it requires no less than 109770 years for the
+greater axis of the terrestrial orbit to do the same. It is evident that
+the same secular variation which changes the sun's distance from the
+earth, and occasions the acceleration in the moon's mean motion, must
+affect the motion of the nodes and perigee; and it consequently appears,
+from theory as well as observation, that both these elements are subject
+to a secular inequality, arising from the variation in the eccentricity
+of the earth's orbit, which connects them with the acceleration; so that
+both are retarded when the mean motion is anticipated. The secular
+variations in these three elements are in the ratio of the numbers 3,
+0.735, and 1; whence the three motions of the moon, with regard to the
+sun, to her perigee, and to her nodes, are continually accelerated, and
+their secular equations are as the numbers 1, 4, and 0.265, or according
+to the most recent investigations as 1, 4, 6776 and 0.391. A comparison
+of ancient eclipses observed by the Arabs, Greeks, and Chaldeans,
+imperfect as they are, with modern observations, perfectly confirms
+these results of analysis.
+
+Future ages will develop these great inequalities, which at some most
+distant period will amount to many circumferences. They are indeed
+periodic; but who shall tell their period? Millions of years must elapse
+before that great cycle is accomplished; but 'such changes, though rare
+in time, are frequent in eternity.'
+
+The moon is so near, that the excess of matter at the earth's equator
+occasions periodic variations in her longitude and latitude; and, as the
+cause must be proportional to the effect, a comparison of these
+inequalities, computed from theory, with the same given by observation,
+shows that the compression of the terrestrial spheroid, or the ratio of
+the difference between the polar and equatorial diameter to the diameter
+of the equator is 1/305.05. It is proved analytically, that if a fluid
+mass of homogeneous matter, whose particles attract each other inversely
+as the square of the distance, were to revolve about an axis, as the
+earth, it would assume the form of a spheroid, whose compression is
+1/230. Whence it appears, that the earth is not homogeneous, but decreases
+in density from its centre to its circumference. Thus the moon's eclipses
+show the earth to be round, and her inequalities not only determine the
+form, but the internal structure of our planet; results of analysis which
+could not have been anticipated. Similar inequalities in Jupiter's
+satellites prove that his mass is not homogeneous, and that his
+compression is 1/13·8.
+
+The motions of the moon have now become of more importance to the
+navigator and geographer than those of any other body, from the
+precision with which the longitude is determined by the occultations of
+stars and lunar distances. The lunar theory is brought to such
+perfection, that the times of these phenomena, observed under any
+meridian, when compared with that computed for Greenwich in the Nautical
+Almanack, gives the longitude of the observer within a few miles. The
+accuracy of that work is obviously of extreme importance to a maritime
+nation; we have reason to hope that the new Ephemeris, now in
+preparation, will be by far the most perfect work of the kind that ever
+has been published.
+
+From the lunar theory, the mean distance of the sun from the earth, and
+thence the whole dimensions of the solar system are known; for the
+forces which retain the earth and moon in their orbits, are respectively
+proportional to the radii vectores of the earth and moon, each being
+divided by the square of its periodic time; and as the lunar theory
+gives the ratio of the forces, the ratio of the distance of the sun and
+moon from the earth is obtained: whence it appears that the sun's
+distance from the earth is nearly 396 times greater than that of the
+moon.
+
+The method however of finding the absolute distances of the celestial
+bodies in miles, is in fact the same with that employed in measuring
+distances of terrestrial objects. From the extremities of a known base
+the angles which the visual rays from the object form with it, are
+measured; their sum subtracted from two right-angles gives the angle
+opposite the base; therefore by trigonometry, all the angles and sides
+of the triangle may be computed; consequently the distance of the object
+is found. The angle under which the base of the triangle is seen from
+the object, is the parallax of that object; it evidently increases and
+decreases with the distance; therefore the base must be very great
+indeed, to be visible at all from the celestial bodies. But the globe
+itself whose dimensions are ascertained by actual admeasurement,
+furnishes a standard of measures, with which we compare the distances,
+masses, densities, and volumes of the sun and planets.
+
+The courses of the great rivers, which are in general navigable to a
+considerable extent, prove that the curvature of the land differs but
+little from that of the ocean; and as the heights of the mountains and
+continents are, at any rate, quite inconsiderable when compared with the
+magnitude of the earth, its figure is understood to be determined by a
+surface at every point perpendicular to the direction of gravity, or of
+the plumb-line, and is the same which the sea would have if it were
+continued all round the earth beneath the continents. Such is the figure
+that has been measured in the following manner:--
+
+A terrestrial meridian is a line passing through both poles, all the
+points of which have contemporaneously the same noon. Were the lengths
+and curvatures of different meridians known, the figure of the earth
+might be determined; but the length of one degree is sufficient to give
+the figure of the earth, if it be measured on different meridians, and
+in a variety of latitudes; for if the earth were a sphere, all degrees
+would be of the same length, but if not, the lengths of the degrees will
+be greatest where the curvature is least; a comparison of the length of
+the degrees in different parts of the earth's surface will therefore
+determine its size and form.
+
+An arc of the meridian may be measured by observing the latitude of its
+extreme points, and then measuring the distance between them in feet or
+fathoms; the distance thus determined on the surface of the earth,
+divided by the degrees and parts of a degree contained in the difference
+of the latitudes, will give the exact length of one degree, the
+difference of the latitudes being the angle contained between the
+verticals at the extremities of the arc. This would be easily
+accomplished were the distance unobstructed, and on a level with the
+sea; but on account of the innumerable obstacles on the surface of the
+earth, it is necessary to connect the extreme points of the arc by a
+series of triangles, the sides and angles of which are either measured
+or computed, so that the length of the arc is ascertained with much
+laborious computation. In consequence of the inequalities of the
+surface, each triangle is in a different plane; they must therefore be
+reduced by computation to what they would have been, had they been
+measured on the surface of the sea; and as the earth is spherical, they
+require a correction to reduce them from plane to spherical triangles.
+
+Arcs of the meridian have been measured in a variety of latitudes, both
+north and south, as well as arcs perpendicular to the meridian. From
+these measurements it appears that the length of the degrees increase
+from the equator to the poles, nearly as the square of the sine of the
+latitude; consequently, the convexity of the earth diminishes from the
+equator to the poles. Many discrepancies occur, but the figure that most
+nearly follows this law is an ellipsoid of revolution, whose equatorial
+radius is 3962.6 miles, and the polar radius 3949.7; the difference, or
+12.9 miles, divided by the equatorial radius, is 1/308·7, or 1/309
+nearly; this fraction is called the compression of the earth, because,
+according as it is greater or less, the terrestrial ellipsoid is more
+or less flattened at the poles; it does not differ much from that given
+by the lunar inequalities. If we assume the earth to be a sphere, the
+length of a degree of the meridian is 69 1/22 British miles; therefore
+360 degrees, or the whole circumference of the globe is 24856, and the
+diameter, which is something less than a third of the circumference, is
+7916 or 8000 miles nearly. Eratosthenes, who died 194 years before the
+Christian era, was the first to give an approximate value of the earth's
+circumference, by the mensuration of an arc between Alexandria and Syene.
+
+But there is another method of finding the figure of the earth, totally
+independent of either of the preceding. If the earth were a homogeneous
+sphere without rotation, its attraction on bodies at its surface would
+be everywhere the same; if it be elliptical, the force of gravity
+theoretically ought to increase, from the equator to the pole as the
+square of the sine of the latitude; but for a spheroid in rotation, by
+the laws of mechanics the centrifugal force varies as the square of the
+sine of the latitude from the equator where it is greatest, to the pole
+where it vanishes; and as it tends to make bodies fly off the surface,
+it diminishes the effects of gravity by a small quantity. Hence by
+gravitation, which is the difference of these two forces, the fall of
+bodies ought to be accelerated in going from the equator to the poles,
+proportionably to the square of the sine of the latitude; and the weight
+of the same body ought to increase in that ratio. This is directly proved
+by the oscillations of the pendulum; for if the fall of bodies be
+accelerated, the oscillations will be more rapid; and that they may
+always be performed in the same time, the length of the pendulum must
+be altered. Now, by numerous and very careful experiments, it is proved
+that a pendulum, which makes 86400 oscillations in a mean day at the
+equator, will do the same at every point of the earth's surface, if
+its length be increased in going to the pole, as the square of the
+sine of the latitude. From the mean of these it appears that the
+compression of the terrestrial spheroid is about 1/342, which does not
+differ much from that given by the lunar inequalities, and from the arcs
+of the meridian. The near coincidence of these three values, deduced
+by methods so entirely independent of each other, shows that the mutual
+tendencies of the centres of the celestial bodies to one another, and
+the attraction of the earth for bodies at its surface, result from the
+reciprocal attraction of all their particles. Another proof may be added;
+the nutation of the earth's axis, and the precession of the equinoxes,
+are occasioned by the action of the sun and moon on the protuberant
+matter at the earth's equator; and although these inequalities do not
+give the absolute value of the terrestrial compression, they show that
+the fraction expressing it is comprised between the limits
+1/279 and 1/578.
+
+It might be expected that the same compression should result from each,
+if the different methods of observation could be made without error.
+This, however, is not the case; for such discrepancies are found both
+in the degrees of the meridian and in the length of the pendulum, as
+show that the figure of the earth is very complicated; but they are
+so small when compared with the general results, that they may be
+disregarded. The compression deduced from the mean of the whole,
+appears to be about 1/320; that given by the lunar theory has the advantage
+of being independent of the irregularities at the earth's surface,
+and of local attractions. The form and size of the earth being determined,
+it furnishes a standard of measure with which the dimensions of the
+solar system may be compared.
+
+The parallax of a celestial body is the angle under which the radius
+of the earth would be seen if viewed from the centre of that body;
+it affords the means of ascertaining the distances of the sun, moon,
+and planets. Suppose that, when the moon is in the horizon at the
+instant of rising or setting, lines were drawn from her centre to the
+spectator and to the centre of the earth, these would form a right-angled
+triangle with the terrestrial radius, which is of a known length;
+and as the parallax or angle at the moon can be measured, all the angles
+and one side are given; whence the distance of the moon from the centre
+of the earth may be computed. The parallax of an object may be found,
+if two observers under the same meridian, but at a very great distance
+from one another, observe its zenith distances on the same day at the
+time of its passage over the meridian. By such contemporaneous
+observations at the Cape of Good Hope and at Berlin, the mean horizontal
+parallax of the moon was found to be 3454"·2; whence the mean distance
+of the moon is about sixty times the mean terrestrial radius, or 240000
+miles nearly. Since the parallax is equal to the radius of the earth
+divided by the distance of the moon; under the same parallel of latitude
+it varies with the distance of the moon from the earth, and proves the
+ellipticity of the lunar orbit; and when the moon is at her mean
+distance, it varies with the terrestrial radii, thus showing that the
+earth is not a sphere.
+
+Although the method described is sufficiently accurate for finding the
+parallax of an object so near as the moon, it will not answer for the
+sun which is so remote, that the smallest error in observation would
+lead to a false result; but by the transits of Venus that difficulty
+is obviated. When that planet is in her nodes, or within 1 1/4° of them,
+that is, in, or nearly in the plane of the ecliptic, she is occasionally
+seen to pass over the sun like a block spot. If we could imagine that
+the sun and Venus had no parallax, the line described by the planet on
+his disc, and the duration of the transit, would be the same to all
+the inhabitants of the earth; but as the sun is not so remote but that
+the semidiameter of the earth has a sensible magnitude when viewed from
+his centre, the line described by the planet in its passage over his
+disc appears to be nearer to his centre or farther from it, according
+to the position of the observer; So that the duration of the transit
+varies with the different points of the earth's surface at which it is
+observed. This difference of time, being entirely the effect of parallax,
+furnishes the means of computing it from the known motions of the earth
+and Venus, by the same method as for the eclipses of the sun. In fact
+the ratio of the distances of Venus and the sun from the earth at the
+time of the transit, are known from the theory of their elliptical
+motion; consequently, the ratio of the parallaxes of these two bodies,
+being inversely as their distances, is given; and as the transit gives
+the difference of the parallaxes, that of the sun is obtained. In 1769,
+the parallax of the sun was determined by observations of a transit of
+Venus made at Wardhus in Lapland, and at Otaheite in the South Sea,
+the latter observation being the object of Cook's first voyage. The
+transit lasted about six hours at Otaheite, and the difference in the
+duration at these two stations was eight minutes; whence the sun's
+parallax was found to be 8"·72; but by other considerations it has
+subsequently been reduced to 8"·575; from which the mean distance of
+the sun appears to be about 95996000, or ninety-six millions of miles
+nearly. This is confirmed by an inequality in the motion of the moon,
+which depends on the parallax of the sun, and which when compared
+with observation gives 8"·6 for the sun's parallax.
+
+The parallax of Venus is determined by her transits, that of Mars
+by direct observation. The distances of these two planets from the
+earth are therefore known in terrestrial radii; consequently their
+mean distances from the sun may be computed and as the ratios of the
+distances of the planets from the sun are known by Kepler's law,
+their absolute distances in miles are easily found.
+
+Far as the earth seems to be from the sun, it is near to him when
+compared with Uranus; that planet is no less than 1843 millions of
+miles from the luminary that warms and enlivens the world; to it,
+situate on the verge of the system, the sun must appear not much
+larger than Venus does to us. The earth cannot even be visible as a
+telescopic object to a body so remote; yet man, the inhabitant of the
+earth, soars beyond the vast dimensions of the system to which his
+planet belongs, and assumes the diameter of its orbit as the base
+of a triangle, whose apex extends to the stars.
+
+Sublime as the idea is, this assumption proves ineffectual, for
+the apparent places of the fixed stars are not sensibly changed by
+the earth's annual revolution; and with the aid derived from the
+refinements of modern astronomy and the most perfect instruments,
+it is still a matter of doubt whether a sensible parallax has been
+detected, even in the nearest of these remote suns. If a fixed star
+had the parallax of one second, its distance from the sun would be
+20500000 millions of miles. At such a distance not only the terrestrial
+orbit shrinks to a point, but, where the whole solar system, when
+seen in the focus of the most powerful telescope, might be covered
+by the thickness of a spider's thread. Light, flying at the rate
+of 200000 miles in a second, would take three years and seven days
+to travel over that space; one of the nearest stars may therefore
+have been kindled or extinguished more than three years before we
+could have been aware of so mighty an event. But this distance must
+be small when compared with that of the most remote of the bodies
+which are visible in the heavens. The fixed stars are undoubtedly
+luminous like the sun; it is therefore probable that they are not
+nearer to one another than the sun is to the nearest of them. In
+the milky way and the other starry nebulæ, some of the stars that
+seem to us to be close to others, may be far behind them in the
+boundless depth of space; nay, may rationally be supposed to be
+situated many thousand times further off: light would therefore
+require thousands of years to come to the earth from those myriads
+of suns, of which our own is but 'the dim and remote companion.'
+
+The masses of such planets as have no satellites are known by comparing
+the inequalities they produce in the motions of the earth and of each
+other, determined theoretically, with the same inequalities given by
+observation, for the disturbing cause must necessarily be proportional
+to the effect it produces. But as the quantities of matter in any two
+primary planets are directly as the cubes of the mean distances at which
+their satellites revolve, and inversely as the squares of their periodic
+times, the mass of the sun and of any planets which have satellites, may
+be compared with the mass of the earth. In this manner it is computed
+that the mass of the sun is 354936 times greater than that of the earth;
+whence the great perturbations of the moon and the rapid motion of the
+perigee and nodes of her orbit. Even Jupiter, the largest of the
+planets, is 1070.5 times less than the sun. The mass of the moon is
+determined from four different sources,--from her action on the
+terrestrial equator, which occasions the rotation in the axis of
+rotation; from her horizontal parallax, from an inequality she produces
+in the sun's longitude, and from her action on the titles. The three
+first quantities, computed from theory, and compared with their observed
+values, give her mass respectively equal to the 1/71, 1/74·2, and 1/69·2
+part of that of the earth, which do not differ very much from each
+other; but, from her action in raising  the tides, which furnishes
+the fourth method, her mass appears to be about the seventy-fifth part
+of that of the earth, a value that cannot differ much from the truth.
+
+The apparent diameters of the sun, moon, and planets are determined by
+measurement; therefore their real diameters may be compared with that of
+the earth; for the real diameter of a planet is to the real diameter of
+the earth, or 8000 miles, as the apparent diameter of the planet to the
+apparent diameter of the earth as seen from the planet, that is, to
+twice the parallax of the planet The mean apparent diameter of the sun
+is 1920", and with the solar parallax 8"·65, it will be found that
+the diameter of the sun is about 888000 miles; therefore, the centre of
+the sun were to coincide with the centre of the earth, his volume would
+not only include the orbit of the moon, but would extend nearly as far
+again, for the moon's mean distance from the earth is about sixty times
+the earth's mean radius or 240000 miles; so that twice the distance of
+the moon is 480000 miles, which differs but little from the solar
+radius; his equatorial radius is probably not much less than the major
+axis of the lunar orbit.
+
+The diameter of the moon is only 2160 miles; and Jupiter's diameter of
+88000 miles is incomparably less than that of the sun The diameter of
+Pallas does not much exceed 71 miles, so that an inhabitant of that
+planet, in one of our steam-carriages, might go round his world in five
+or six hours.
+
+The oblate form of the celestial bodies indicates rotatory motion, and
+this has been confirmed, in most cases, by tracing spots on their
+surfaces, whence their poles and times of rotation have been determined.
+The rotation of Mercury is unknown, on account of his proximity to the
+sun; and that of the new planets has not yet been ascertained. The sun
+revolves in twenty-five days ten hours, about an axis that is directed
+towards a point half way between the pole star and Lyra, the plane of
+rotation being inclined a little more than 70° to that on which the
+earth revolves. From the rotation of the sun, there is every reason to
+believe that he has a progressive motion in space, although the
+direction to which he tends is as yet unknown; but in consequence of the
+reaction of the planets, he describes a small irregular orbit about the
+centre of inertia of the system, never deviating from his position by
+more than twice his own diameter, or about seven times the distance of
+the moon from the earth.
+
+The sun and all his attendants rotate from west to east on axes that
+remain nearly parallel to themselves in every point of their orbit, and
+with angular velocities that are sensibly uniform. Although the
+uniformity in the direction of their rotation is a circumstance hitherto
+unaccounted for in the economy of Nature, yet from the design and
+adaptation of every other part to the perfection of the whole, a
+coincidence so remarkable cannot be accidental; and as the revolutions
+of the planets and satellites are also from west to east, it is evident
+that both must have arisen from the primitive causes which have
+determined the planetary motions.
+
+The larger planets rotate in shorter periods than the smaller planets
+and the earth; their compression is consequently greater, and the action
+of the sun and of their satellites occasions a nutation in their axes,
+and a precession of their equinoxes, similar to that which obtains in
+the terrestrial spheroid from the attraction of the sun and moon on the
+prominent matter at the equator. In comparing the periods of the
+revolutions of Jupiter and Saturn with the times of their rotation, it
+appears that a year of Jupiter contains nearly ten thousand of his days,
+and that of Saturn about thirty thousand Saturnian days.
+
+The appearance of Saturn is unparalleled in the system of the world; he
+is surrounded by a ring even brighter than himself, which always remains
+in the plane of his equator, and viewed with a very good telescope, it
+is found to consist of two concentric rings, divided by a dark band. By
+the laws of mechanics, it is impossible that this body can retain its
+position by the adhesion of its particles alone; it must necessarily
+revolve with a velocity that will generate a centrifugal force
+sufficient to balance the attraction of Saturn. Observation confirms the
+truth of these principles, showing that the rings rotate about the
+planet in 10 1/2 hours, which is considerably less than the time a
+satellite would take to revolve about Saturn at the same distance. Their
+plane is inclined to the ecliptic at an angle of 31°; and in consequence
+of this obliquity of position they always appear elliptical to us, but
+with an eccentricity so variable as even to be occasionally like a
+straight line drawn across the planet. At present the apparent axes of
+the rings are as 1000 to 160; and on the 29th of September, 1832,
+the plane of the rings will pass through the centre of the earth
+when they will be visible only with superior instruments, and will
+appear like a fine line across the disc of Saturn. On the 1st of
+December in the same year, the plane of the rings will pass through
+the centre of the sun.
+
+It is a singular result of the theory, that the rings could not maintain
+their stability of rotation if they were everywhere of uniform
+thickness; for the smallest disturbance would destroy the equilibrium,
+which would become more and more deranged, till at last they would be
+precipitated on the surface of the planet. The rings of Saturn must
+therefore be irregular solids of unequal breadth in the different parts
+of the circumference, so that their centres of gravity do not coincide
+with the centres of their figures.
+
+Professor Struve has also discovered that the centre of the ring is not
+concentric with the centre of Saturn; the interval between the outer
+edge of the globe of the planet and the outer edge of the ring on one
+side, is 11"·073, and on the other side the interval is 11"·288;
+consequently there is an eccentricity of the globe in the ring of
+0"·215.
+
+If the rings obeyed different forces, they would not remain in the same
+plane, but the powerful attraction of Saturn always maintains them and
+his satellites in the plane of his equator. The rings, by their mutual
+action, and that of the sun and satellites, must oscillate about the
+centre of Saturn, and produce phenomena of light and shadow, whose
+periods extend to many years.
+
+The periods of the rotation of the moon and the other satellites are
+equal to the times of their revolutions, consequently these bodies
+always turn the same face to their primaries; however, as the mean
+motion of the moon is subject to a secular inequality which will
+ultimately amount to many circumferences, if the rotation of the moon
+were perfectly uniform, and not affected by the same inequalities, it
+would cease exactly to counterbalance the motion of revolution; and the
+moon, in the course of ages, would successively and gradually discover
+every point other surface to the earth. But theory proves that this
+never can happen; for the rotation of the moon, though it does not
+partake of the periodic inequalities of her revolution, is affected by
+the same secular variations, so that her motions of rotation and
+revolution round the earth will always balance each other, and remain
+equal. This circumstance arises from the form of the lunar spheroid,
+which has three principal axes of different lengths at right angles to
+each other. The moon is flattened at the poles from her centrifugal
+force, therefore her polar axis is least; the other two are in the plane
+of her equator, but that directed towards the earth is the greatest. The
+attraction of the earth, as if it had drawn out that part of the moon's
+equator, constantly brings the greatest axis, and consequently the same
+hemisphere towards us, which makes her rotation participate in the
+secular variations in her mean motion of revolution. Even if the angular
+velocities of rotation and revolution had not been nicely balanced in
+the beginning of the moon's motion, the attraction of the earth would
+have recalled the greatest axis to the direction of the line joining the
+centres of the earth and moon; so that it would vibrate on each side of
+that line in the same manner as a pendulum oscillates on each side of
+the vertical from the influence of gravitation.
+
+No such libration is perceptible; and as the smallest disturbance would
+make it evident, it is clear that if the moon has ever been touched by a
+comet, the mass of the latter must have been extremely small; for if it
+had been only the hundred-thousandth part of that of the earthy it would
+have rendered the libration sensible. A similar libration exists in the
+motions of Jupiter's satellites; but although the comet of 1767 and 1779
+passed through the midst of them, their libration still remains
+insensible. It is true, the moon is liable to librations depending on
+the position of the spectator; at her rising, part of the western edge
+of her disc is visible, which is invisible at her setting, and the
+contrary takes place with regard to her eastern edge. There are also
+librations arising from the relative positions of the earth and moon in
+their respective orbits, but as they are only optical appearances, one
+hemisphere will be eternally concealed from the earth. For the same
+reason, the earth, which must be so splendid an object to one lunar
+hemisphere, will be for ever veiled from the other. On account of these
+circumstances, the remoter hemisphere of the moon has its day a
+fortnight long, and a night of the same duration not even enlightened by
+a moon, while the favoured side is illuminated by the reflection of the
+earth during its long night. A moon exhibiting a surface thirteen times
+larger than ours, with all the varieties of clouds, land, and water
+coming successively into view, would be a splendid object to a lunar
+traveller in a journey to his antipodes.
+
+The great height of the lunar mountains probably has a considerable
+influence on the phenomena of her motion, the more so as her compression
+is small, and her mass considerable.
+
+In the curve passing through the poles, and that diameter of the moon
+which always points to the earth, nature has furnished a permanent
+meridian, to which the different spots on her surface have been
+referred, and their positions determined with as much accuracy as those
+of many of the most remarkable places on the surface of our globe.
+
+The rotation of the earth which determines the length of the day may be
+regarded as one of the most important elements in the system of the
+world. It serves as a measure of time, and forms the standard of
+comparison for the revolutions of the celestial bodies, which by their
+proportional increase or decrease would soon disclose any changes it
+might sustain. Theory and observation concur in proving, that among the
+innumerable vicissitudes that prevail throughout creation, the period of
+the earth's diurnal rotation is immutable. A fluid, as Mr. Babbage
+observes, in falling from a higher to a lower level, carries with it the
+velocity due to its revolution with the earth at a greater distance from
+its centre. It will therefore accelerate, although to an almost
+infinitesimal extent, the earth's daily rotation. The sum of all these
+increments of velocity, arising from the descent of all the rivers on
+the earth's surface, would in time become perceptible, did not nature,
+by the process of evaporation, raise the waters back to their sources;
+and thus again by removing matter to a greater distance from the centre,
+destroy the velocity generated by its previous approach; so that the
+descent of the rivers does not affect the earth's rotation. Enormous
+masses projected by volcanoes from the equator to the poles, and the
+contrary, would indeed affect it, but there is no evidence of such
+convulsions. The disturbing action of the moon and planets, which has so
+powerful an effect on the revolution of the earth, in no way influences
+its rotation: the constant friction of the trade winds on the mountains
+and continents between the tropics does not impede its velocity, which
+theory even proves to be the same, as if the sea together with the earth
+formed one solid mass. But although these circumstances be inefficient,
+a variation in the mean temperature would certainly occasion a
+corresponding change in the velocity of rotation: for in the science of
+dynamics, it is a principle in a system of bodies, or of particles
+revolving about a fixed centre, that the momentum, or sum of the
+products of the mass of each into its angular velocity and distance from
+the centre is a constant quantity, if the system be not deranged by an
+external cause. Now since the number of particles in the system is the
+same whatever its temperature may be, when their distances from the
+centre are diminished, their angular velocity must be increased in order
+that the preceding quantity may still remain constant. It follows then,
+that as the primitive momentum of rotation with which the earth was
+projected into space must necessarily remain the same, the smallest
+decrease in heat, by contracting the terrestrial spheroid, would
+accelerate its rotation, and consequently diminish the length of the
+day. Notwithstanding the constant accession of heat from the sun's rays,
+geologists have been induced to believe from the nature of fossil
+remains, that the mean temperature of the globe is decreasing.
+
+The high temperature of mines, hot springs, and above all, the internal
+fires that have produced, and do still occasion such devastation on our
+planet, indicate an augmentation of heat towards its centre the increase
+of density in the strata corresponding to the depth and the form of the
+spheroid, being what theory assigns to a fluid mass in rotation, concur
+to induce the idea that the temperature of the earth was originally so
+high as to reduce all the substances of which it is composed to a state
+of fusion, and that in the course of ages it has cooled down to its
+present state; that it is still becoming colder, and that it will
+continue to do so, till the whole mass arrives at the temperature of the
+medium in which it is placed, or rather at a state of equilibrium
+between this temperature, the cooling power of its own radiation, and
+the heating effect of the sun's rays. But even if this cause be
+sufficient to produce the observed effects, it must be extremely slow in
+its operation; for in consequence of the rotation of the earth being a
+measure of the periods of the celestial motions, it has been proved,
+that if the length of the day had decreased by the three hundredth part
+of a second since the observations of Hipparchus two thousand years ago,
+it would have diminished the secular equation of the moon by 4"·4. It
+is therefore beyond a doubt, that the mean temperature of the earth
+cannot have sensibly varied during that time; if then the appearances
+exhibited by the strata really owing to a decrease of internal
+temperature, it either shows the immense periods requisite to produce
+geological changes to which two thousand years are as nothing, or that
+the mean temperature of the earth had arrived at a state of equilibrium
+before these observations. However strong the indication of the
+primitive fluidity of the earth, as there is no direct proof, it can
+only be regarded as a very probable hypothesis; but one of the most
+profound philosophers and elegant writers of modern times has found, in
+the secular variation of the eccentricity of the terrestrial orbit, an
+evident cause of decreasing temperature. That accomplished author, in
+pointing out the mutual dependences of phenomena, says--'It is evident
+that the mean temperature of the whole surface of the globe, in so far
+as it is maintained by the action of the sun at 8 higher degree than it
+would have were the sun extinguished, must depend on the mean quantity
+of the sun's rays which it receives, or, which comes to the same thing,
+on the total quantity received in a given invariable time: and the
+length of the year being unchangeable in all the fluctuations of the
+planetary system, it follows, that the total amount of solar radiation
+will determine, _cœteris paribus_, the general climate of the earth. Now
+it is not difficult to show, that this amount is inversely proportional
+to the minor axis of the ellipse described by the earth about the sun,
+regarded as slowly variable; and that, therefore, the major axis
+remaining, as we know it to be, constant, and the orbit being actually
+in a state of approach to a circle, and consequently the minor axis
+being on the increase, the mean annual amount of solar radiation
+received by the whole earth must be actually on the decrease. We have,
+therefore, an evident real cause to account for the phenomenon.' The
+limits of the variation in the eccentricity of the earth's orbit are
+unknown; but if its ellipticity has ever been as great as that of the
+orbit of Mercury or Pallas, the mean temperature of the earth must have
+been sensibly higher than it is at present; whether it was great enough
+to render our northern climates fit for the production of tropical
+plants, and for the residence of the elephant, and the other inhabitants
+of the torrid zone, it is impossible to say.
+
+The relative quantity of heat received by the earth at different moments
+during a single revolution, varies with the position of the perigee of
+its orbit, which accomplishes a tropical revolution in 20935 years. In
+the year 1250 of our era, and 29653 years before it, the perigee
+coincided with the summer solstice; at both these periods the earth was
+nearer the sun during the summer, and farther from him in the winter
+than in any other position of the apsides: the extremes of temperature
+must therefore have been greater than at present; but as the terrestrial
+orbit was probably more elliptical at the distant epoch, the heat of the
+summers must have been very great though possibly compensated by the
+rigour of the winters; at all events, none of these changes affect the
+length of the day.
+
+It appears from the marine shells found on the tops of the highest
+mountains, and in almost every part of the globe, that immense
+continents have been elevated above the ocean, which must have which
+must have engulphed others. Such a catastrophe would be occasioned by a
+variation in the position of the axis of rotation on the surface of the
+earth; for the seas ending to the new equator would leave some portions
+of the globe, and overwhelm others.
+
+But theory proves that neither nutation, precession, nor any of the
+disturbing forces that affect the system, have the smallest influence on
+the axis of rotation, which maintains a permanent position on the
+surface, if the earth be not disturbed in its rotation by some foreign
+cause, as the collision of a comet which may have happened in the
+immensity of time. Then indeed, the equilibrium could only have been
+restored by the rushing of the seas to the new equator, which they would
+continue to do, till the surface was every where perpendicular to the
+direction of gravity. But it is probable that such an accumulation of
+the waters would not be sufficient to restore equilibrium if the
+derangement had been great; for the mean density of the sea is only
+about a fifth part of the mean density of the earth, and the mean depth
+even of the Pacific ocean is not more than four miles, whereas the
+equatorial radius of the earth exceeds the polar radius by twenty-five
+or thirty miles; consequently the influence of the sea on the direction
+of gravity is very small; and as it appears that a great change in the
+position of the axes is incompatible with the law of equilibrium, the
+geological phenomena must be ascribed to an internal cause. Thus amidst
+the mighty revolutions which have swept innumerable races of organized
+beings from the earth, which have elevated plains, and buried mountains
+in the ocean, the rotation of the earth, and the position of the axis on
+its surface, have undergone but slight variations.
+
+It is beyond a doubt that the strata increase in density from the
+surface of the earth to its centre, which is even proved by the lunar
+inequalities; and it is manifest from the mensuration of arcs of the
+meridian and the lengths of the seconds pendulum that the strata are
+elliptical and concentric. This certainly would have happened if the
+earth had originally been fluid, for the denser parts must have subsided
+towards the centre, as it approached a state of equilibrium; but the
+enormous pressure of the superincumbent mass is a sufficient cause for
+these phenomena. Professor Leslie observes, that air compressed into the
+fiftieth part of its volume has its elasticity fifty times augmented; if
+it continue to contract at that rate, it would, from its own incumbent
+weight, acquire the density of water at the depth of thirty-four miles.
+But water itself would have its density doubled at the depth of
+ninety-three miles, and would even attain the density of quicksilver at
+a depth of 362 miles. In descending therefore towards the centre through
+4000 miles, the condensation of ordinary materials would surpass the
+utmost powers of conception. But a density so extreme is not borne out
+by astronomical observation. It might seem therefore to follow, that our
+planet must have a widely cavernous structure, and that we tread on a
+crust or shell, whose thickness bears a very small proportion to the
+diameter of its sphere. Possibly too this great condensation at the
+central regions may be counterbalanced by the increased elasticity due
+to a very elevated temperature. Dr. Young says that steel would be
+compressed into one-fourth, and stone into one-eighth of its bulk at the
+earth's centre. However we are yet ignorant of the laws of compression
+of solid bodies beyond a certain limit; but, from the experiments of Mr.
+Perkins, they appear to be capable of a greater degree of compression
+than has generally been imagined.
+
+It appears then, that the axis of rotation is invariable on the surface
+of the earth, and observation shows, that were it not for the action of
+the sun and moon on the matter at the equator, it would remain parallel
+to itself in every point of its orbit.
+
+The attraction of an exterior body not only draws a spheroid towards it;
+but, as the force varies inversely as the square of the distance, it
+gives it a motion about its centre of gravity, unless when the
+attracting body is situated in the prolongation of one of the axes of
+the spheroid.
+
+The plane of the equator is inclined to the plane of the ecliptic at an
+angle of about 23° 28', and the inclination of the lunar orbit on the
+same is nearly 5°; consequently, from the oblate figure of the earth,
+the sun and moon acting obliquely and unequally on the different parts
+of the terrestrial spheroid, urge the plane of the equator from its
+direction, and force it to move from east to west, so that the
+equinoctial points have a slow retrograde motion on the plane of the
+ecliptic of about 50"·412 annually. The direct tendency of this action
+would be to make the planes of the equator and ecliptic coincide; but in
+consequence of the rotation of the earth, the inclination of the two
+planes remains constant, as a top in spinning preserves the same
+inclination to the plane of the horizon. Were the earth spherical this
+effect would not be produced, and the equinoxes would always correspond
+to the same points of the ecliptic, at least as far as this kind of
+action is concerned. But another and totally different cause operates on
+this motion, which has already been mentioned. The action of the planets
+on one another and on the sun, occasions a very slow variation in the
+position of the plane of the ecliptic, which affects its inclination on
+the plane of the equator, and gives the equinoctial points a slow but
+direct motion on the ecliptic of 0"·312 annually, which is entirely
+independent of the figure of the earth, and would be the same if it were
+a sphere. Thus the sun and moon, by moving the plane of the equator,
+cause the equinoctial points to retrograde on the ecliptic; and the
+planets, by moving the plane of the ecliptic, give them a direct motion,
+but much less than the former; consequently the difference of the two is
+the mean precession, which is proved, both by theory and observation, to
+be about 50"·1 annually. As the longitudes of all the fixed stars are
+increased by this quantity, the effects of precession are soon detected;
+it was accordingly discovered by Hipparchus, in the year 128 before
+Christ, from a comparison of his own observations with those of
+Timocharis, 155 years before. In the time of Hipparchus the entrance of
+the sun into the constellation Aries was the beginning of spring, but
+since then the equinoctial points have receded 30°; so that the
+constellations called the signs of the zodiac are now at a considerable
+distance from those divisions of the ecliptic which bear their names.
+Moving at the rate of 50"·1 annually, the equinoctial points will
+accomplish a revolution in 25868 years; but as the precession varies in
+different centuries, the extent of this period will be slightly
+modified. Since the motion of the sun is direct, and that of the
+equinoctial points retrograde, he takes a shorter time to return to the
+equator than to arrive at the same stars; so that the tropical year of
+365.242264 days must be increased by the time he takes to move through
+an arc of 50"·1, in order to have the length of the sidereal year. By
+simple proportion it is the 0.014119th part of a day, so that the
+sidereal year is 365.256383.
+
+The mean annual precession is subject to a secular variation; for
+although the change in the plane of the ecliptic which is the orbit of
+the sun, be independent of the form of the earth, yet by bringing the
+sun, moon and earth into different relative positions from age to age,
+it alters the direct action of the two first on the prominent matter at
+the equator; on this account the motion of the equinox is greater by
+0"·455 now than it was in the lime of Hipparchus; consequently the
+actual length of the tropical year is about 4"·154 shorter than it was
+at that time. The utmost change that it can experience from this cause
+amounts to 43".
+
+Such is the secular motion of the equinoxes, but it is sometimes
+increased and sometimes diminished by periodic variations, whose periods
+depend on the relative positions of the sun and moon with regard to the
+earth, and occasioned by the direct action of these bodies on the
+equator. Dr. Bradley discovered that by this action the moon causes the
+pole of the equator to describe a small ellipse in the heavens, the
+diameters of which are 16" and 20". The period of this inequality is
+nineteen years, the time employed by the nodes of the lunar orbit to
+accomplish a revolution. The sun causes a small variation in the
+description of this ellipse; it runs through its period in half a year.
+This nutation in the earth's axis affects both the precession and
+obliquity with small periodic variations; but in consequence of the
+secular variation in the position of the terrestrial orbit, which is
+chiefly owing to the disturbing energy of Jupiter on the earth, the
+oblique of the ecliptic is annually diminished by 0"·52109. With
+regard to the fixed stars, this variation in the course of ages may
+amount to tea or eleven degrees; but the obliquity of the ecliptic to
+the equator can never vary more than two or three degrees, since the
+equator will follow in some measure the motion of the ecliptic.
+
+It is evident that the places of all the celestial bodies are affected
+by precession and nutation, and therefore all observations of them must
+be corrected for these inequalities.
+
+The densities of bodies are proportional to their masses divided by
+their volumes; hence if the sun and planets be assumed to be spheres,
+their volumes will be as the cubes of their diameters. Now the apparent
+diameters of the sun and earth at their mean distance, are 1922" and
+17"·08, and the mass of the earth is the 1/354936th part of that of the
+sun taken as the unit; it follows therefore, that the earth is nearly
+four times as dense as the sun; but the sun is so large that his
+attractive force would cause bodies to fall through about 450 feet
+in a second; consequently if he were even habitable by human beings,
+they would be unable to move, since their weight would be thirty
+times as great as it is here. A moderate sized man would weigh about
+two tons at the surface of the sun. On the contrary, at the surface
+of the four new planets we should be so light, that it would be
+impossible to stand from the excess of our muscular force, for a man
+would only weigh a few pounds. All the planets and satellites appear
+to be of less density than the earth. The motions of Jupiter's
+satellites show that his density increases towards his centre; and
+the singular irregularities in the form of Saturn, and the great
+compression of Mars, prove the internal structure of these two planets
+to be very far from uniform.
+
+Astronomy has been of immediate and essential use in affording
+invariable standards for measuring duration, distance, magnitude, and
+velocity. The sidereal day, measured by the time elapsed between two
+consecutive transits of any star at the same meridian, and the sidereal
+year, are immutable units with which to compare all great periods of
+time; the oscillations of the isochronous pendulum measure its smaller
+portions. By these invariable standards alone we can judge of the slow
+changes that other elements of the system may have undergone in the
+lapse of ages.
+
+The returns of the sun to the same meridian, and to the same equinox or
+solstice, have been universally adopted as the measure of our civil days
+and years. The solar or astronomical day is the time that elapses
+between two consecutive noons or midnights; it is consequently longer
+than the sidereal day, on account of the proper motion of the sun during
+a revolution of the celestial sphere; but as the sun moves with greater
+rapidity at the winter than at the summer solstice, the astronomical day
+is more nearly equal to the sidereal day in summer than in winter. The
+obliquity of the ecliptic also affects its duration, for in the
+equinoxes the arc of the equator is less than the corresponding arc of
+the ecliptic, and in the solstices it is greater. The astronomical day
+is therefore diminished in the first case, and increased in the second.
+If the sun moved uniformly in the equator at the rate of 59' 8"·3
+every day, the solar days would be all equal; the time therefore, which
+is reckoned by the arrival of an imaginary sun at the meridian, or of
+one which is supposed to move in the equator, is denominated mean solar
+time, such as is given by clocks and watches in common life: when it is
+reckoned by the arrival of the real sun at the meridian, it is apparent
+time, such as is given by dials. The difference between the time shown
+by a clock and a dial is the equation of time given in the Nautical
+Almanac, and sometimes amounts to as much as sixteen minutes. The
+apparent and mean time coincide four times in the year.
+
+Astronomers begin the day at noon, but in common reckoning the day
+begins at midnight. In England it is divided into twenty-four hours,
+which are counted by twelve and twelve; but in France, astronomers
+adopting decimal division, divide the day into ten hours, the hour into
+one hundred minutes, and the minute into a hundred seconds, because of
+the facility in computation, and in conformity with their system of
+weights and measures. This subdivision is not used in common life, nor
+has it been adopted in any other country, though their scientific
+writers still employ that division of time. The mean length of the day,
+though accurately determined, is not sufficient for the purposes either
+of astronomy or civil life. The length of the year is pointed out by
+nature as a measure of long periods; but the incommensurability that
+exists between the lengths of the day, and the revolutions of the sun,
+renders it difficult to adjust the estimation of both in whole numbers.
+If the revolution of the sun were accomplished in 365 days, all the
+years would be of precisely the same number of days, and would begin and
+end with the sun at the same point of the ecliptic; but as the sun's
+revolution includes the fraction of a day, a civil year and a revolution
+of the sun have not the same duration. Since the fraction is nearly the
+fourth of a day, four years are nearly equal to four revolutions of the
+sun, so that the addition of a supernumerary day every fourth year
+nearly compensates the difference; but in process of time further
+correction will be necessary, because the fraction is less than the
+fourth of a day. The period of seven days, by far the most permanent
+division of time, and the most ancient monument of astronomical
+knowledge, was used by the Brahmins in India with the same denominations
+employed by us, and was alike found in the Calendars of the Jews,
+Egyptians, Arabs, and Assyrians; it has survived the fall of empires,
+and has existed among all successive generations, a proof of their
+common origin.
+
+The new moon immediately following the winter solstice in the 707th year
+of Rome was made the 1st of January of the first year of Cæsar; the
+25th of December in his 45th year, is considered as the date of Christ's
+nativity; and Cæsar's 46th year is assumed to be the first of our era.
+The preceding year is called the first year before Christ by
+chronologists, but by astronomers it is called the year 0. The
+astronomical year begins on the 31st of December at noon; and the date
+of an observation expresses the days and hours which actually elapsed
+since that time.
+
+Some remarkable astronomical eras are determined by the position of the
+major axis of the solar ellipse. Moving at the rate of 61"·906
+annually, it accomplishes a tropical revolution in 20935 years. It
+coincided with the line of the equinoxes 4000 or 4089 years before the
+Christian era, much about the time chronologists assign for the creation
+of man. In 6485 the major axis will again coincide with the line of the
+equinoxes, but then the solar perigee will coincide with the equinox of
+spring; whereas at the creation of man it coincided with the autumnal
+equinox. In the year 1250 the major axis was perpendicular to the line
+of the equinoxes, and then the solar perigee coincided with the solstice
+of winter, and the apogee with the solstice of summer. On that account
+La Place proposed the year 1250 as a universal epoch, and that the
+vernal equinox of that year should be the first day of the first year.
+
+The variations in the positions of the solar ellipse occasion
+corresponding changes in the length of the seasons. In its present
+position spring is shorter than summer, and autumn longer than winter;
+and while the solar perigee continues as it now is, between the solstice
+of winter and the equinox of spring, the period including spring and
+summer will be longer than that including autumn and winter: in this
+century the difference is about seven days. These intervals will be
+equal towards the year 6485, when the perigee comes to the equinox of
+spring. Were the earth's orbit circular, the seasons would be equal;
+their differences arise from the eccentricity of the earth's orbit,
+small as it is; but the changes are so gradual as to be imperceptible in
+the short space of human life.
+
+No circumstance in the whole science of astronomy excites a deeper
+interest than its application to chronology. 'Whole nations,' says La
+Place, 'have been swept from the earth, with their language, arts and
+sciences, leaving but confused masses of ruin to mark the place where
+mighty cities stood; their history, with the exception of a few doubtful
+traditions, has perished; but the perfection of their astronomical
+observations marks their high antiquity, fixes the periods of their
+existence, and proves that even at that early period they must have made
+considerable progress in science.'
+
+The ancient state of the heavens may now be computed with great
+accuracy; and by comparing the results of computation with ancient
+observations, the exact period at which they were made may be verified
+if true, or if false, their error may be detected. If the date be
+accurate, and the observation good, it will verify the accuracy of
+modern tables, and show to how many centuries they may be extended,
+without the fear of error. A few examples will show the importance of
+this subject.
+
+At the solstices the sun is at his greatest distance from the equator,
+consequently his declination at these times is equal to the obliquity of
+the ecliptic, which in former times was determined from the meridian
+length of the shadow of the style of a dial on the day of the solstice.
+The lengths of the meridian shadow at the summer and winter solstice are
+recorded to have been observed at the city of Layang, in China, 1100
+years before the Christian era. From these, the distances of the sun
+from the zenith of the city of Layang are known. Half the sum of these
+zenith distances determines the latitude, and half their difference
+gives the obliquity of the ecliptic at the period of the observation;
+and as the law of the variation in the obliquity is known, both the time
+and place of the observations have been verified by computation from
+modern tables. Thus the Chinese had made some advances in the science of
+astronomy at that early period; the whole chronology of the Chinese is
+founded on the observations of eclipses, which prove the existence of
+that empire for more than 4700 years. The epoch of the lunar tables of
+the Indians, supposed by Bailly to be 3000 before the Christian era, was
+proved by La Place from the acceleration of the moon, not to be more
+ancient than the time of Ptolemy. The great inequality of Jupiter and
+Saturn whose cycle embraces 929 years, is peculiarly fitted for marking
+the civilization of a people. The Indians had determined the mean
+motions of these two planets in that part of their periods when the
+apparent menu motion of Saturn was at the slowest, and that of Jupiter
+the most rapid. The periods in which that happened were 3102 years
+before the Christian era, and the year 1491 after it.
+
+The returns of comets to their perihelia may possibly mark the present
+state of astronomy to future ages.
+
+The places of the fixed stars are affected by the precession of the
+equinoxes; and as the law of that variation is known, their positions at
+any time may be computed. Now Eudoxus, a contemporary of Plato, mentions
+a star situate in the pole of the equator, and from computation it
+appears that  _χ_ Draconis was not very far from that place about 3000
+years ago; but as Eudoxus lived only about 2150 years ago, he must have
+described an anterior state of the heavens, supposed to be the same that
+was determined by Chiron, about the time of the siege of Troy. Every
+circumstance concurs in showing that astronomy was cultivated in the
+highest ages of antiquity.
+
+A knowledge of astronomy leads to the interpretation of hieroglyphical
+characters, since astronomical signs are often found on the ancient
+Egyptian monuments, which were probably employed by the priests to
+record dates. On the ceiling of the portico of a temple among the ruins
+of Tentyris, there is a long row of figures of men and animals,
+following each other in the some direction among these are the twelve
+signs of the zodiac, placed according to the motion of the sun: it is
+probable that the first figure in the procession represents the
+beginning of the year. Now the first is the Lion as if coming out of the
+temple; and as it is well known that the agricultural year of the
+Egyptians commenced at the solstice of summer, the epoch of the
+inundations of the Nile, if the preceding hypothesis be true, the
+solstice at the time the temple was built must have happened in the
+constellation of the lion; but as the solstice now happens 21° 6' north
+of the constellation of the Twins, it is easy to compute that the zodiac
+of Tentyris must have been made 4000 years ago.
+
+The author had occasion to witness an instance of this most interesting
+application of astronomy, in ascertaining the dale of a papyrus sent
+from Egypt by Mr. Salt, in the hieroglyphical researches of the late Dr.
+Thomas Young, whose profound and varied acquirements do honour not only
+to his country, but to the age in which he lived. The manuscript was
+found in a mummy case; it proved to be a horoscope of the age of
+Ptolemy, and its antiquity was determined from the configuration of the
+heavens at the time of its construction.
+
+The form of the earth furnishes a standard of weights and measures for
+the ordinary purposes of life, as well as for the determination of the
+masses and distances of the heavenly bodies. The length of the pendulum
+vibrating seconds in the latitude of London forms the standard of the
+British measure of extension. Its length oscillating in vacuo at the
+temperature of 62° of Fahrenheit, and reduced to the level of the sea,
+was determined by Captain Kater, in parts of the imperial standard yard,
+to be 39.1387 inches. The weight of a cubic inch of water at the
+temperature of 62° Fahrenheit, barometer 30, was also determined in
+parts of the imperial troy pound, whence a standard both of weight and
+capacity is deduced. The French have adopted the metre for their unit of
+linear measure, which is the ten millionth part of that quadrant of the
+meridian passing through Formentera and Greenwich, the middle of which
+is nearly in the forty-fifth degree of latitude. Should the national
+standards of the two countries be lost in the vicissitudes of human
+affairs, both may be recovered, since they are derived from natural
+standards presumed to be invariable. The length of the pendulum would be
+found again with more facility than the metre; but as no measure is
+mathematically exact, an error in the original standard may at length
+become sensible in measuring a great extent, whereas the error that must
+necessarily arise in measuring the quadrant of the meridian is rendered
+totally insensible by subdivision in taking its ten millionth part. The
+French have adopted the decimal division not only in time, but in their
+degrees, weights, and measures, which affords very great facility in
+computation. It has not been adopted by any other people; though nothing
+is more desirable than that all nations should concur in using the same
+division and standards, not only on account of the convenience, but as
+affording a more definite idea of quantity. It is singular that the
+decimal division of the day, of degrees, weights and measures, was
+employed in China 4000 years ago; and that, at the time Ibn Yunus made
+his observations at Cairo, about the year 1000, the Arabians were in the
+habit of employing the vibrations of the pendulum in their astronomical
+observations.
+
+One of the most immediate and striking effects of a gravitating force
+external to the earth is the alternate rise and fall of the surface of
+the sea twice in the course of a lunar day, or 24^h 50^m 48^s of mean solar
+time. As it depends on the action of the sun and moon, it is classed
+among astronomical problems, of which it is by far the most difficult
+and the least satisfactory. The form of the surface of the ocean in
+equilibrio, when revolving with the earth round its axis, is an
+ellipsoid flattened at the poles; but the action of the sun and moon,
+especially of the moon, disturbs the equilibrium of the ocean.
+
+If the moon attracted the centre of gravity of the earth and all its
+particles with equal and parallel forces, the whole system of the earth
+and the waters that cover it, would yield to these forces with a common
+motion, and the equilibrium of the seas would remain undisturbed. The
+difference of the forces, and the inequality of their directions, alone
+trouble the equilibrium.
+
+It is proved by daily experience, as well as by strict mechanical
+reasoning, that if a number of waves or oscillations be excited in a
+fluid by different forces, each pursues its course, and has its effect
+independently of the rest. Now in the tides there are three distinct
+kinds of oscillations, depending on different causes, producing their
+effects independently of each other, which may therefore be estimated
+separately.
+
+The oscillations of the first kind which are very small, are independent
+of the rotation of the earth; and as they depend on the motion of the
+disturbing body in its orbit, they are of long periods. The second kind
+of oscillations depends on the rotation of the earth, therefore their
+period is nearly a day: and the oscillations of the third kind depend on
+an angle equal to twice the angular rotation of the earth; and
+consequently happen twice in twenty-four hours. The first afford no
+particular interest, and are extremely small; but the difference of two
+consecutive tides depends on the second. At the time of the solstices,
+this difference which, according to Newton's theory, ought to be very
+great, is hardly sensible on our shores. La Place has shown that this
+discrepancy arises from the depth of the sea, and that if the depth were
+uniform, there would be no difference in the consecutive tides, were it
+not for local circumstances: it follows therefore, that as this
+difference is extremely small, the sea, considered in a large extent,
+must be nearly of uniform depth, that is to say, there is a certain mean
+depth from which the deviation is not great. The mean depth of the
+Pacific Ocean is supposed to be about four miles, that of the Atlantic
+only three. From the formulæ which determine the difference of the
+consecutive tides it is also proved that the precession of the
+equinoxes, and the nutation in the earth's axis, are the same as if the
+sea formed one solid mass with the earth.
+
+The third kind of oscillations are the semidiurnal tides, so remarkable
+on our coasts; they are occasioned by the combined action of the sun and
+moon, but as the effect of each is independent of the other, they may be
+considered separately.
+
+The particles of water under the moon are more attracted than the centre
+of gravity of the earth, in the inverse ratio of the square of the
+distances; hence they have a tendency to leave the earth, but are
+retained by their gravitation, which this tendency diminishes. On the
+contrary, the moon attracts the centre of the earth more powerfully than
+she attracts the particles of water in the hemisphere opposite to her;
+so that the earth has a tendency to leave the waters but is retained by
+gravitation, which this tendency again diminishes. Thus the waters
+immediately under the moon are drawn from the earth at the same time
+that the earth is drawn from those which are diametrically opposite to
+her; in both instances producing an elevation of the ocean above the
+surface of equilibrium of nearly the same height; for the diminution of
+the gravitation of the particles in each position is almost the same, on
+account of the distance of the moon being great in comparison of the
+radius of the earth. Were the earth entirely covered by the sea, the
+water thus attracted by the moon would assume the form of an oblong
+spheroid, whose greater axis would point towards the moon, since the
+columns of water under the moon and in the direction diametrically
+opposite to her are rendered lighter, in consequence of the diminution
+of their gravitation in order to preserve the equilibrium, the axes 90°
+distant would be shortened. The elevation, on account of the smaller
+space to which it is confined, is twice as great as the depression,
+because the contents of the spheroid always remain the same. The effects
+of the sun's attraction are in all respects similar to those of the
+moon's, though really less in degree, on account of his distance; he
+therefore only modifies the form of this spheroid a little. If the
+waters were capable of instantly assuming the form of equilibrium, that
+is, the form of the spheroid, its summit would always point to the moon,
+notwithstanding the earth's rotation; but on account of their
+resistance, the rapid motion produced in them by rotation prevents them
+from assuming at every instant the form which the equilibrium of the
+forces acting on them requires. Hence, on account of the inertia of the
+waters, if the tides be considered relatively to the whole earth and
+open sea, there is a meridian about 30° eastward of the moon, where it
+is always high water both in the hemisphere where the moon is, and in
+that which is opposite. On the west side of this circle the tide is
+flowing, on the east it is ebbing, and on the meridian at 90° distant,
+it is everywhere low water. It is evident that these tides must happen
+twice in a day, since in that time the rotation of the earth brings the
+same point twice under the meridian of the moon, once under the superior
+and once under the inferior meridian.
+
+In the semidiurnal tides there are two phenomena particularly to be
+distinguished, one that happens twice in a month, and the other twice in
+a year.
+
+The first phenomenon is, that the tides are much increased in the
+syzigies, or at the time of new and full moon. In both cases the sun and
+moon are in the same meridian, for when the moon is new they are in
+conjunction, and when she is full they are in opposition. In each of
+these positions their action is combined to produce the highest or
+spring tides under that meridian, and the lowest in those points that
+are 90° distant. It is observed that the higher the sea rises in the
+full tide, the lower it is in the ebb. The neap tides lake place when
+the moon is in quadrature, they neither rise so high nor sink so low as
+the spring tides. The spring tides are much increased when the moon is
+in perigee. It is evident that the spring tides must happen twice a
+month, since in that time the moon is once new and once full.
+
+The second phenomenon in the tides is the augmentation which occurs at
+the time of the equinoxes when the sun's declination is zero, which
+happens twice every year. The greatest tides take place when a new or
+full moon happens, near the equinoxes while the moon is in perigee. The
+inclination of the moon's orbit on the ecliptic is 5° 9'; hence in
+the equinoxes the action of the moon would be increased if her node were
+to coincide with her perigee. The equinoctial gales often raise these
+tides to a great height. Beside these remarkable variations, there are
+others arising from the declination of the moon, which has a great
+influence on the ebb and flow of the waters.
+
+Both the height and time of high water are thus perpetually changing;
+therefore, in solving the problem, it is required to determine the
+heights to which they rise, the times at which they happen, and the
+daily variations.
+
+The periodic motions of the waters of the ocean on the hypothesis of an
+ellipsoid of revolution entirely covered by the sea, are very far from
+according with observation; this arises from the very great
+irregularities in the surface of the earth, which is but partially
+covered by the sea, the variety in the depths of the ocean, the manner
+in which it is spread out on the earth, the position and inclination of
+the shores, the currents, the resistance the waters meet with, all of
+them causes which it is impossible to estimate, but which modify the
+oscillations of the great mass of the ocean. However, amidst all these
+irregularities, the ebb and flow of the sea maintain a ratio to the
+forces producing them sufficient to indicate their nature, and to verify
+the law of the attraction of the sun and moon on the sea. La Place
+observes, that the investigation of such relations between cause and
+effect is no less useful in natural philosophy than the direct solution
+of problems, either to prove the existence of the causes, or trace the
+laws of their effects. Like the theory of probabilities, it is a happy
+supplement to the ignorance and weakness of the human mind. Thus the
+problem of the tides does not admit of a general solution; it is
+certainly necessary to analyse the funeral phenomena which ought to
+result from the attraction of the sun and moon, but these must be
+corrected in each particular case by those local observations which are
+modified by the extent and depth of the sea, and the peculiar
+circumstances of the port.
+
+Since the disturbing action of the sun and moon can only become sensible
+in a very great extent of water, it is evident that the Pacific ocean is
+one of the principal sources of our tides; but in consequence of the
+rotation of the earth, and the inertia of the ocean, high water does not
+happen till some time after the moon's southing. The tide raised in that
+world of waters is transmitted to the Atlantic, and from that sea it
+moves in a northerly direction along the coasts of Africa and Europe,
+arriving later and later at each place. This great wave however is
+modified by the tide raised in the Atlantic, which sometimes combines
+with that from the Pacific in raising the sea, and sometimes is in
+opposition to it, so that the tides only rise in proportion to their
+difference. This great combined wave, reflected by the shores of the
+Atlantic, extending nearly from pole to pole, still coming northward,
+occurs through the Irish and British channels into the North sea, so
+that the tides in our ports are modified by those of another hemisphere.
+Thus the theory of the tides in each port, both as to their height and
+the times at which they take place, is really a matter of experiment,
+and can only be perfectly determined by the mean of a very great number
+of observations including several revolutions of the moon's nodes.
+
+The height to which the tides rise is much greater in narrow channels
+than in the open sea, on account of the obstructions they meet with. In
+high latitudes where the ocean is less directly under the influence of
+the luminaries, the rise and fall of the sea is inconsiderable, so that,
+in all probability, there is no tide at the poles, or only a small
+annual and monthly one. The ebb and flow of the sea are perceptible in
+rivers to a very great distance from their estuaries. In the straits of
+Pauxis, in the river of the Amazons, more than five hundred miles from
+the sea, the tides are evident. It requires so many days for the tide to
+ascend this mighty stream, that the returning tides meet a succession of
+those which are coming up; so that every possible variety occurs in some
+part or other of its shores, both as to magnitude and time. It requires
+a very wide expanse of water to accumulate the impulse of the sun and
+moon, so as to render their influence sensible; on that account the
+tides in the Mediterranean and Black Sea are scarcely perceptible.
+
+These perpetual commotions in the waters of the ocean are occasioned by
+forces that bear a very small proportion to terrestrial gravitation: the
+sun's action in raising the ocean is only the 1/38448000 of gravitation
+at the earth's surface, and the action of the moon is little more than
+twice as much these forces being in the ratio of 1 to 2.35333. From this
+ratio the mass of the moon is found to be only 1/15 part of that of the
+earth. The initial state of the ocean has no influence on the tides;
+for whatever its primitive conditions may have been, they must soon have
+vanished by the friction and mobility of the fluid. One of the most
+remarkable circumstances in the theory of the tides is the assurance
+that in consequence of the density of the sea being only one-fifth of
+the mean density of the earth, the stability of the equilibrium of the
+ocean never can be subverted by any physical cause whatever. A general
+inundation arising from the mere instability of the ocean is therefore
+impossible.
+
+The atmosphere when in equilibrio is an ellipsoid flattened at the poles
+from its rotation with the earth: in that state its strata are of
+uniform density at equal heights above the level of the sea, and it is
+sensibly of finite extent, whether it consists of particles infinitely
+divisible or not. On the latter hypothesis it must really be finite; and
+even if the particles of matter be infinitely divisible, it is known by
+experience to be of extreme tenuity at very small heights. The barometer
+rises in proportion to the superincumbent pressure. Now at the
+temperature of melting ice, the density of mercury is to that of air as
+10320 to 1; and as the mean height of the barometer is 29.528 inches,
+the height of the atmosphere by simple proportion is 30407 feet, at the
+mean temperature of 62°, or 34153 feet, which is extremely small, when
+compared with the radius of the earth. The action of the sun and moon
+disturbs the equilibrium of the atmosphere, producing oscillations
+similar to those in the ocean, which occasion periodic variations in the
+heights of the barometer. These, however, are so extremely small, that
+their existence in latitudes so far removed from the equator is
+doubtful; a series of observations within the tropics can alone decide
+this delicate point. La Place seems to think that the flux and reflux
+distinguishable at Paris may be occasioned by the rise and fall of the
+ocean, which forms a variable base to so great a portion of the
+atmosphere.
+
+The attraction of the sun and moon has no sensible effect on the trade
+winds; the heat of the sun occasions these aerial currents, by rarefying
+the air at the equator, which causes the cooler and more dense part of
+the atmosphere to rush along the surface of the earth to the equator,
+while that which is heated is carried along the higher strata to the
+poles, forming two currents in the direction of the meridian. But the
+rotatory velocity of the air corresponding to its geographical situation
+decreases towards the poles; in approaching the equator it must
+therefore revolve more slowly than the corresponding parts of the earth,
+and the bodies on the surface of the earth must strike against it with
+the excess of their velocity, and by its reaction they will meet with a
+resistance contrary to their motion of rotation; so that the wind will
+appear, to a person supposing himself to be at rest, to blow in a
+contrary direction to the earth's rotation, or from east to west, which
+is the direction of the trade winds. The atmosphere scatters the sun's
+rays, and gives all the beautiful tints and cheerfulness of day. It
+transmits the blue light in greatest abundance; the higher we ascend,
+the sky assumes a deeper hue, but in the expanse of space the sun and
+stars must appear like brilliant specks in profound blackness.
+
+The sun and most of the planets appear to be surrounded with atmospheres
+of considerable density. The attraction of the earth has probably
+deprived the moon of hers, for the refraction of the air at the surface
+of the earth is at least a thousand times as great as at the moon. The
+lunar atmosphere, therefore, must be of a greater degree of rarity than
+can be produced by our best air-pumps; consequently no terrestrial
+animal could exist in it.
+
+Many philosophers of the highest authority concur in the belief that
+light consists in the undulations of a highly elastic ethereal medium
+pervading space, which, communicated to the optic nerves produce the
+phenomena of vision. The experiments of our illustrious countryman, Dr.
+Thomas Young, and those of the celebrated Fresnel, show that this theory
+accords better with all the observed phenomena than that of the emission
+of particles from the luminous body. As sound is propagated by the
+undulations of the air, its theory is in a great many respects similar
+to that of light. The grave or low tones are produced by very slow
+vibrations, which increase in frequency progressively as the note
+becomes more acute. When the vibrations of a musical chord, for example,
+are less than sixteen in a second, it will not communicate a continued
+sound to the ear; the vibrations or pulses increase in number with the
+acuteness of the note, till at last all sense of pitch is lost. The
+whole extent of human hearing, from the lowest notes of the organ to the
+highest known cry of insects, as of the cricket, includes about nine
+octaves.
+
+The undulations of light are much more rapid than those of sound, but
+they are analogous in this respect, that as the frequency of the
+pulsations in sound increases from the low tones to the higher, so those
+of light augment in frequency, from the red rays of the solar spectrum
+to the extreme violet. By the experiments of Sir William Herschel, it
+appears that the heat communicated by the spectrum increases from the
+violet to the red rays; but that the maximum of the hot invisible rays
+is beyond the extreme red. Heat in all probability consists, like light
+and sound, in the undulations of an elastic medium. All the principal
+phenomena of heat may actually be illustrated by a comparison with those
+of sound. The excitation of heat and sound are not only similar, but
+often identical, as in friction and percussion; they are both
+communicated by contact and by radiation; and Dr. Young observes, that
+the effect of radiant heat in raising the temperature of a body upon
+which it falls, resembles the sympathetic agitation of a string, when
+the sound of another string, which is in unison with it, is transmitted
+to it through the air. Light, heat, sound, and the waves of fluids are
+all subject to the same laws of reflection, and, indeed, their
+undulating theories are perfectly similar. If, therefore, we may judge
+from analogy, the undulations of the heat producing rays must be less
+frequent than those of the extreme red of the solar spectrum; but if the
+analogy were perfect, the interference of two hot rays ought to produce
+cold, since darkness results from the interference of two undulations of
+light, silence ensues from the interference of two undulations of sound;
+and still water, or no tide, is the consequence of the interference of
+two tides.
+
+The propagation of sound requires a much denser medium than that of
+either light or heat; its intensity diminishes as the rarity of the air
+increases; so that, at a very small height above the surface of the
+earth, the noise of the tempest ceases, and the thunder is heard no more
+in those boundless regions where the heavenly bodies accomplish their
+periods in eternal and sublime silence.
+
+What the body of the sun may be, it is impossible to conjecture; but he
+seems to be surrounded by an ocean of flame through which his dark
+nucleus appears like black spots, often of enormous size. The solar
+rays, which probably arise from the chemical processes that continually
+take place at his surface, are transmitted through space in all
+directions; but, notwithstanding the sun's magnitude, and the
+inconceivable heat that must exist where such combustion is going on, as
+the intensity both of his light and heat diminishes with the square of
+the distance, his kindly influence can hardly be felt at the boundaries
+of our system. Much depends on the manner in which the rays fall, as we
+readily perceive from the different climates on our globe. In winter the
+earth is nearer the sun by 1/30th than in summer, but the rays strike
+the northern hemisphere more obliquely in winter than in the other half
+of the year. In Uranus the sun must be seen like a small but brilliant
+star, not above the hundred and fiftieth part so bright as he appears
+to us; that is however 2000 times brighter than our moon to us, so
+that he really is a sun to Uranus, and probably imparts some degree
+of warmth. But if we consider that water would not remain fluid in any
+part of Mars, even at his equator, and that in the temperate zones of
+the same planet even alcohol and quicksilver would freeze, we may form
+some idea of the cold that must reign in Uranus, unless indeed the
+ether has a temperature. The climate of Venus more nearly resembles
+that of the earth, though, excepting perhaps at her poles, much too
+hot for animal and vegetable life as they exist here; but in Mercury
+the mean heat, arising only from the intensity of the sun's rays,
+must be above that of boiling quick-silver, and water would boil even
+at his poles. Thus the planets, though kindred with the earth in
+motion and structure, are totally unfit for the habitation of such
+a being as man.
+
+The direct light of the sun has been estimated to be equal to that of
+5563 wax candles of a moderate size, supposed to be placed at the
+distance of one foot from the object: that of the moon is probably only
+equal to the light of one candle at the distance of twelve feet;
+consequently the light of the sun is more than three hundred thousand
+times greater than that of the moon; for which reason the light of the
+moon imparts no heat, even when brought to a focus by a mirror.
+
+In adverting to the peculiarities in the form and nature of the earth
+and planets, it is impossible to pass in silence the magnetism of the
+earth, the director of the mariner's compass, and his guide through the
+ocean. This property probably arises from metallic iron in the interior
+of the earth, or from the circulation of currents of electricity round
+it: its influence extends over every part of its surface, but its
+accumulation and deficiency determine the two poles of this great
+magnet, which are by no means the same as the poles of the earth's
+rotation. In consequence of their attraction and repulsion, a needle
+freely suspended, whether it be magnetic or not, only remains in
+equilibrio when in the magnetic meridian, that is, in the plane which
+passes through the north and south magnetic poles. There are places
+where the magnetic meridian coincides with the terrestrial meridian; in
+these a magnetic needle freely suspended, points to the true north, but
+if it be carried successively to different places on the earth's
+surface, its direction will deviate sometimes to the east and sometimes
+to the west of north. Lines drawn on the globe through all the places
+where the needle points due north and south, are called lines of no
+variation, and are extremely complicated. The direction of the needle is
+not even constant in the same place, but changes in a few years,
+according to a law not yet determined. In 1657, the line of no variation
+passed through London. In the year 1819, Captain Parry, in his voyage to
+discover the north-west passage round America, sailed directly over the
+magnetic pole; and in 1824, Captain Lyon, when on en expedition for the
+same purpose, found that the variation of the compass was 37° 30'
+west, and that the magnetic pole was then situate in 63° 26' 51"
+north latitude, and in 80° 51' 25" west longitude. It appears
+however from later researches that the law of terrestrial magnetism is
+of considerable complication, and the existence of more than one
+magnetic pole in either hemisphere has been rendered highly probable.
+The needle is also subject to diurnal variations; in our latitudes it
+moves slowly westward from about three in the morning till two, and
+returns to its former position in the evening.
+
+A needle suspended so as only to be moveable in the vertical plane, dips
+or become more and more inclined to the horizon the nearer it is brought
+to the magnetic pole. Captain Lyon found that the dip in the latitude
+and longitude mentioned was 86° 32'. What properties the planets may
+have in this respect, it is impossible to know, but it is probable that
+the moon has become highly magnetic, in consequence of her proximity to
+the earth, and because her greatest diameter always points towards it.
+
+The passage of comets has never sensibly disturbed the stability of the
+solar system; their nucleus is rare, and their transit so rapid, that
+the time has not been long enough to admit of a sufficient accumulation
+of impetus to produce a perceptible effect. The comet of 1770 passed
+within 80000 miles of the earth without even affecting our tides, and
+swept through the midst of Jupiter's satellites without deranging the
+motions of those little moons. Had the mass of that comet been equal to
+the mass of the earth, its disturbing action would have shortened the
+year by the ninth of a day; but, as Delambre's computations from the
+Greenwich observations of the sun, show that the length of the year has
+not been sensibly affected by the approach of the comet. La Place proved
+that its mass could not be so much as the 5000th part of that of the
+earth. The paths of comets have every possible inclination to the plane
+of the ecliptic, and unlike the planets, their motion is frequently
+retrograde. Comets are only visible when near their perihelia. Then
+their velocity is such that its square is twice as great as that of a
+body moving in a circle at the same distance; they consequently remain a
+very short time within the planetary orbits; and as all the conic
+sections of the same focal distance sensibly coincide through a small
+arc on each side of the extremity of their axis, it is difficult to
+ascertain in which of these curves the comets move, from observations
+made, as they necessarily must be, at their perihelia: but probably they
+all move in extremely eccentric ellipses, although, in most cases, the
+parabolic curve coincides most nearly with their observed motions. Even
+if the orbit be determined with all the accuracy that the case admits
+of, it may be difficult, or even impossible, to recognise a comet on its
+return, because its orbit would be very much changed if it passed near
+any of the large planets of this or of any other system, in consequence
+of their disturbing energy, which would be very great on bodies of so
+rare a nature. Halley and Clairaut predicted that, in consequence of the
+attraction of Jupiter and Saturn, the return of the comet of 1759 would
+be retarded 618 days, which was verified by the event as nearly as could
+be expected.
+
+The nebulous appearance of comets is perhaps occasioned by the vapours
+which the solar heat raises at their surfaces in their passage at the
+perihelia, and which are again condensed as they recede from the sun.
+The comet of 1680 when in its perihelion was only at the distance of
+one-sixth of the sun's diameter, or about 148000 miles from its surface;
+it consequently would be exposed to a heat 27500 times greater than that
+received by the earth. As the sun's heat is supposed to be in proportion
+to the intensity of his height, it is probable that a degree of heat so
+very intense would be sufficient to convert into vapour every
+terrestrial substance with which we are acquainted.
+
+In those positions of comets where only half of their enlightened
+hemisphere ought to be seen, they exhibit no phases even when viewed
+with high magnifying powers. Some slight indications however were once
+observed by Hevelius and La Hire in 1682; and in 1811 Sir William
+Herschel discovered a small luminous point, which he concluded to be the
+disc of the comet. In general their masses are so minute, that they have
+no sensible diameters, the nucleus being principally formed of denser
+strata of the nebulous matter, but so rare that stars have been seen
+through them. The transit of a comet over the sun's disc would afford
+the best information on this point. It was computed that such an event
+was to take place in the year 1627; unfortunately the sun was hid by
+clouds in this country, but it was observed at Viviers and at Marseilles
+at the time the comet must have been on it, but no spot was seen. The
+tails are often of very great length, and are generally situate in the
+planes of their orbits; they follow them in their descent towards the
+sun, but precede them in their return, with a small degree of curvature;
+but their extent and form must vary in appearance, according to the
+position of their orbits with regard to the ecliptic. The tail of the
+comet of 1680 appeared, at Paris, to extend over sixty-two degrees. The
+matter of which the tail is composed must be extremely buoyant to
+precede a body moving with such velocity; indeed the rapidity of its
+ascent cannot be accounted for. The nebulous part of comets diminishes
+every time they return to their perihelia; after frequent returns they
+ought to lose it altogether, and present the appearance of a fixed
+nucleus; this ought to happen sooner in comets of short periods. La
+Place supposes that the comet of 1682 must be approaching rapidly to
+that state. Should the substances be altogether or even to a great
+degree evaporated, the comet wilt disappear for ever. Possibly comets
+may have vanished from our view sooner than they otherwise would have
+done from this cause. Of about six hundred comets that have been seen at
+different times, three are now perfectly ascertained to form part of our
+system; that is to say, they return to the sun at intervals of 76, 6 1/3,
+and 3 1/4 years nearly.
+
+A hundred and forty comets have appeared within the earth's orbit during
+the last century that have not again been seen; if a thousand years be
+allowed as the average period of each, it may be computed by the theory
+of probabilities, that the whole number that range within the earth's
+orbit must be 1400; but Uranus being twenty times more distant, there
+may be no less than 11,200,000 comets that come within the known extent
+of our system. In such a multitude of wandering bodies it is just
+possible that one of them may come in collision with the earth; but even
+if it should, the mischief would be local, and the equilibrium soon
+restored. It is however more probable that the earth would only be
+deflected a little from its course by the near approach of the comet,
+without being touched. Great as the number of comets appears to be, it
+is absolutely nothing when compared to the number of the fixed stars.
+About two thousand only are visible to the naked eye, but when we view
+the heavens with a telescope, their number seems to be limited only by
+the imperfection of the instrument. In one quarter of an hour Sir
+William Herschel estimated that 116000 stars passed through the field of
+his telescope, which subtended an angle of 15'. This however was
+stated as a specimen of extraordinary crowding; but at an average the
+whole expanse of the heavens must exhibit about a hundred millions of
+fixed stars that come within the reach of telescopic vision.
+
+Many of the stars have a very small progressive motion, especially _μ_
+Cassiopeia and 61 Cygni, both small stars; and, as the sun is decidedly
+a star, it is an additional reason for supposing the solar system to be
+in motion. The distance of the fixed stars is too great to admit of
+their exhibiting a sensible disc; but in all probability they are
+spherical, and must certainly be so, if gravitation pervades all space.
+With a fine telescope they appear like a point of light; their twinkling
+arises from sudden changes in the refractive power of the air, which
+would not be sensible if they had discs like the planets. Thus we can
+learn nothing of the relative distances of the stars from us and from
+one another, by their apparent diameters; but their annual parallax
+being insensible, shows that we must be one hundred millions of millions
+of miles from the nearest; many of them however must be vastly more
+remote, for of two stars that appear close together, one may be far
+beyond the other in the depth of space. The light of Sirius, according
+to the observations of Mr. Herschel, is 324 times greater than that of a
+star of the sixth magnitude; if we suppose the two to be really of the
+same size, their distances from us must be in the ratio of 57.3 to 1,
+because light diminishes as the square of the distance of the luminous
+body increases.
+
+Of the absolute magnitude of the stars, nothing is known, only that many
+of them must be much larger than the sun, from the quantity of light
+emitted by them. Dr. Wollaston determined the approximate ratio that the
+light of a wax candle bears to that of the sun, moon, and stars, by
+comparing their respective images reflected from small glass globes
+filled, with mercury, whence a comparison was established between the
+quantities of light emitted by the celestial bodies themselves. By this
+method he found that the light of the sun is about twenty millions of
+millions of times greater than that of Sirius, the brightest, and
+supposed to be the nearest of the fixed stars. If Sirius had a parallax
+of half a second, its distance from the earth would be 525481 times the
+distance of the sun from the earth; and therefore Sirius, placed where
+the sun is, would appear to us to be 3.7 times as large as the sun, and
+would give 13.8 times more light; but many of the fixed stars must be
+immensely greater than Sirius. Sometimes stars have all at once
+appeared, shone with a brilliant light, and then vanished. In 1572 a
+star was discovered in Cassiopeia, which rapidly increased in brightness
+till it even surpassed that of Jupiter; it then gradually diminished in
+splendour, and after exhibiting all the variety of tints that indicates
+the changes of combustion, vanished sixteen months after its discovery,
+without altering its position. It is impossible to imagine any thing
+more tremendous than a conflagration that could be visible at such a
+distance. Some stars are periodic, possibly from the intervention of
+opaque bodies revolving about them, or from extensive spots on their
+surfaces. Many thousands of stars that seem to be only brilliant points,
+when carefully examined are found to be in reality systems of two or
+more suns revolving about a common centre. These double and multiple
+stars are extremely remote, requiring the most powerful telescopes to
+show them separately.
+
+The first catalogue of double stars in which their places and relative
+positions are determined, was accomplished by the talents and industry
+of Sir William Herschel, to whom astronomy is indebted for so many
+brilliant discoveries, and with whom originated the idea of their
+combination in binary and multiple systems, an idea which his own
+observations had completely established, but which has since received
+additional confirmation from those of his son and Sir James South, the
+former of whom, as well as Professor Struve of Dorpat, have added many
+thousands to their numbers. The motions of revolution round a common
+centre of many have been clearly established, and their periods
+determined with considerable accuracy. Some have already since their
+first discovery accomplished nearly a whole revolution, and one, if the
+latest observations can be depended on, is actually considerably
+advanced in its second period. These interesting systems thus present a
+species of sidereal chronometer, by which the chronology of the heavens
+will be marked out to future ages by epochs of their own, liable to no
+fluctuations from planetary disturbances such as obtain in our system.
+
+Possibly among the multitudes of small stars, whether double or
+insulated, some may be found near enough to exhibit distinct parallactic
+motions, or perhaps something approaching to planetary motion, which may
+prove that solar attraction is not confined to our system, or may lead
+to the discovery of the proper motion of the sun. The double stars are
+of various hues, but most frequently exhibit the contrasted colours. The
+large star is generally yellow, orange, or red; and the small star blue,
+purple, or green. Sometimes a white star is combined with a blue or
+purple, and more rarely a red and white are united. In many cases, these
+appearances are due to the influences of contrast on our judgment of
+colours. For example, in observing a double star where the large one is
+of a full ruby red, or almost blood colour, and the small one a fine
+green, the latter lost its colour when the former was hid by the cross
+wires of the telescope. But there are a vast number of instances where
+the colours are too strongly marked to be merely imaginary. Mr. Herschel
+observes in one of his papers in the _Philosophical Transactions_, as a
+very remarkable fact, that although red single stars are common enough,
+no example of an insulated blue, green, or purple one has as yet been
+produced.
+
+In some parts of the heavens, the stars are so near together as to form
+clusters, which to the unassisted eye appear like thin white clouds;
+such is the milky way, which has its brightness from the diffused light
+of myriads of stars. Many of these clouds, however, are never resolved
+into separate stars, even by the highest magnifying powers. This
+nebulous matter exists in vast abundance in space. No fewer than 2500
+nebulæ were observed by Sir William Herschel, whose places have been
+computed from his observations, reduced to a common epoch, and arranged
+into a catalogue in order of right ascension by his sister Miss Caroline
+Herschel, a lady so justly celebrated for astronomical knowledge and
+discovery. The nature and use of this matter scattered over the heavens
+in such a variety of forms is involved in the greatest obscurity. That
+it is a self-luminous, phosphorescent material substance, in a highly
+dilated or gaseous state, but gradually subsiding by the mutual
+gravitation of its particles into stars and sidereal systems, is the
+hypothesis which seems to be most generally received; but the only way
+that any real knowledge on this mysterious subject can be obtained, is
+by the determination of the form, place, and present state of each
+individual nebula, and a comparison of these with future observations
+will show generations to come the changes that may now be going on in
+these rudiments of future systems. With this view, Mr. Herschel is now
+engaged in the difficult and laborious investigation, which is
+understood to be nearly approaching its completion, and the results of
+which we may therefore hope ere long to see made public. The most
+conspicuous of these appearances are found in Orion, and in the girdle
+of Andromeda. It is probable that light must be millions of years
+travelling to the earth from some of the nebulæ.
+
+So numerous are the objects which meet our view in the heavens, that we
+cannot imagine a part of space where some light would not strike the
+eye: but as the fixed stars would not be visible at such distances, if
+they did not shine by their own light, it is reasonable to infer that
+they are suns; and if so, they are in all probability attended by
+systems of opaque bodies, revolving about them as the planets do about
+ours. But although there be no proof that planets not seen by us revolve
+about these remote suns, certain it is, that there are many invisible
+bodies wandering in space, which, occasionally coming within the sphere
+of the earth's attraction, are ignited by the velocity with which they
+pass through the atmosphere, and are precipitated with great violence on
+the earth. The obliquity of the descent of meteorites, the peculiar
+matter of which they are composed, and the explosion with which their
+fall is invariably accompanied, show that they are foreign to our
+planet. Luminous spots altogether independent of the phases have
+occasionally appeared on the dark part of the moon, which have been
+ascribed to the light arising from the eruption of volcanoes; whence it
+has been supposed that meteorites have been projected from the moon by
+the impetus of volcanic eruption; it has even been computed, that if a
+stone were projected from the moon in a vertical line, and with an
+initial velocity of 10992 feet in a second, which is more than four
+times the velocity of a ball when first discharged from a cannon,
+instead of falling back to the moon by the attraction of gravity, it
+would come within the sphere of the earth's attraction, and revolve
+about it like a satellite. These bodies, impelled either by the
+direction of the primitive impulse, or by the disturbing action of the
+sun, might ultimately penetrate the earth's atmosphere, and arrive at
+its surface. But from whatever source meteoric stones may come, it seems
+highly probable, that they have a common origin, from the uniformity, we
+may almost say identity, of their chemical composition.
+
+The known quantity of matter bears a very small proportion to the
+immensity of space. Large as the bodies are, the distances that separate
+them are immeasurably greater; but as design is manifest in every part
+of creation, it is probable that if the various systems in the universe
+had been nearer to one another, their mutual disturbances would have
+been inconsistent with the harmony and stability of the whole. It is
+clear that space is not pervaded by atmospheric air, since its
+resistance would long ere this have destroyed the velocity of the
+planets; neither can we affirm it to be void, when it is traversed in
+all directions by light, heat, gravitation, and possibly by influences
+of which we can form no idea; but whether it be replete with an ethereal
+medium, time alone will show.
+
+Though totally ignorant of the laws which obtain in the more distant
+regions of creation, we are assured, that one alone regulates the
+motions of our own system; and as general laws form the ultimate object
+of philosophical research, we cannot conclude these remarks without
+considering the nature of that extraordinary power, whose effects we
+have been endeavouring to trace through some of their mazes. It was at
+one time imagined, that the acceleration in the moon's mean motion was
+occasioned by the successive transmission of the gravitating force; but
+it has been proved, that, in order to produce this effect, its velocity
+must be about fifty millions of times greater than that of light, which
+flies at the rate of 200000 miles in a second; its action even at the
+distance of the sun may therefore be regarded as instantaneous; yet so
+remote are the nearest of the fixed stars, that it may be doubted
+whether the sun has any sensible influence on them.
+
+The analytical expression for the gravitating force is a straight line;
+the curves in which the celestial bodies move by the force of
+gravitation are only lines of the second order; the attraction of
+spheroids according to any other law would be much more complicated; and
+as it is easy to prove that matter might have been moved according to an
+infinite variety of laws, it may be concluded, that gravitation must
+have been selected by Divine wisdom out of an infinity of other laws,
+its being the most simple, and that which gives the greatest stability
+to the celestial motions.
+
+It is a singular result of the simplicity of the laws of nature, which
+admit only of the observation and comparison of ratios, that the
+gravitation and theory of the motions of the celestial bodies are
+independent of their absolute magnitudes and distances; consequently if
+all the bodies in the solar system, their mutual distances, and their
+velocities, were to diminish proportionally, they would describe curves
+in all respect similar to those in which they now move; and the system
+might be successively reduced to the smallest sensible dimensions, and
+still exhibit the same appearances. Experience shows that a very
+different law of attraction prevails when the particles of matter are
+placed within inappreciable distances from each other, as in chemical
+and capillary attractions, and the attraction of cohesion; whether it be
+a modification of gravity, or that some new and unknown power comes into
+action, does not appear; but as a change in the law of the force takes
+place at one end of the scale, it is possible that gravitation may not
+remain the same at the immense distance of the fixed stars. Perhaps the
+day may come when even gravitation, no longer regarded as an ultimate
+principle, may be resolved into a yet more general cause, embracing
+every law that regulates the material world.
+
+The action of the gravitating force is not impeded by the intervention
+even of the densest substances. If the attraction of the sun for the
+centre of the earthy and for the hemisphere diametrically opposite to
+him, was diminished by a difficulty in penetrating the interposed
+matter, the tides would be more obviously affected. Its attraction is
+the same also, whatever the substances of the celestial bodies may be,
+for if the action of the sun on the earth differed by a millionth part
+from his action on the moon, the difference would occasion a variation
+in the sun's parallax amounting to several seconds, which is proved to
+be impossible by the agreement of theory with observation. Thus all
+matter is pervious to gravitation, and is equally attracted by it.
+
+As far as human knowledge goes, the intensity of gravitation, has never
+varied within the limits of the solar system; nor does even analogy lead
+us to expect that it should; on the contrary, there is every reason to
+be assured, that the great laws of the universe are immutable like their
+Author. Not only the sun and planets, but the minutest particles in all
+the varieties of their attractions and repulsions, nay even the
+imponderable matter of the electric, galvanic, and magnetic fluids are
+obedient to permanent laws, though we may not be able in every case to
+resolve their phenomena into general principles. Nor can we suppose the
+structure of the globe alone to be exempt from the universal fiat,
+though ages may pass before the changes it has undergone, or that are
+now in progress, can be referred to existing causes with the same
+certainty with which the motions of the planets and all their secular
+variations are referable to the law of gravitation. The traces of
+extreme antiquity perpetually occurring to the geologist, give that
+information as to the origin of things which we in vain look for in the
+other parts of the universe. They date the beginning of time; since
+there is every reason to believe, that the formation of the earth was
+contemporaneous with that of the rest of the planets; but they show that
+creation is the work of Him with whom 'a thousand years are as one day,
+and one day as a thousand years.'
