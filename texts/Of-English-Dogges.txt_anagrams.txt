@@ -1,0 +1,157 @@
+Word Profiles:
+_the: 1 anagrams: the_ (1) 
+flie: 1 anagrams: life (1) 
+on: 1 anagrams: no (48) 
+there: 1 anagrams: three (5) 
+cause,: 1 anagrams: caues, (1) 
+whose: 1 anagrams: showe (1) 
+no: 1 anagrams: on (13) 
+nay: 1 anagrams: any (27) 
+for: 1 anagrams: fro (1) 
+also: 1 anagrams: sola (1) 
+diuerse: 1 anagrams: residue (1) 
+how: 1 anagrams: who (6) 
+lyfe: 1 anagrams: flye (1) 
+two: 1 anagrams: wot (1) 
+wordes: 1 anagrams: sworde (1) 
+est: 1 anagrams: set (9) 
+sola: 1 anagrams: also (26) 
+seuerally,: 1 anagrams: leasurely, (1) 
+set: 1 anagrams: est (1) 
+stayed: 1 anagrams: stayde (1) 
+earnest: 1 anagrams: stearne (1) 
+three: 1 anagrams: there (29) 
+sortes.: 1 anagrams: sorest. (1) 
+wherto: 1 anagrams: worthe (1) 
+thing: 1 anagrams: night (4) 
+use: 1 anagrams: seu (1) 
+darke: 1 anagrams: raked (1) 
+caues,: 1 anagrams: cause, (2) 
+layde: 1 anagrams: delay (1) 
+lenght,: 1 anagrams: length, (1) 
+any: 1 anagrams: nay (2) 
+reaches,: 1 anagrams: searche, (1) 
+streame,: 1 anagrams: tearmes, (1) 
+fro: 1 anagrams: for (129) 
+dooers: 1 anagrams: doores (1) 
+length: 1 anagrams: lenght (1) 
+night: 1 anagrams: thing (8) 
+mingled: 1 anagrams: medling (1) 
+residue: 1 anagrams: diuerse (5) 
+signe: 1 anagrams: seing (1) 
+There: 1 anagrams: Three (1) 
+likewyse: 1 anagrams: lykewise (1) 
+Duke_: 1 anagrams: _Duke (1) 
+_Duke: 1 anagrams: Duke_ (1) 
+iudge: 1 anagrams: guide (1) 
+frame: 1 anagrams: farme (1) 
+warren,: 1 anagrams: warner, (1) 
+(12): 1 anagrams: (21) (1) 
+leaner,: 1 anagrams: learne, (1) 
+dayes: 1 anagrams: sayde (1) 
+space: 1 anagrams: scape (1) 
+night,: 1 anagrams: thing, (1) 
+(13): 1 anagrams: (31) (1) 
+Section._: 1 anagrams: Section_. (4) 
+(14): 1 anagrams: (41) (1) 
+fowles,: 1 anagrams: wolfes, (3) 
+seing: 1 anagrams: signe (3) 
+seas: 1 anagrams: asse (1) 
+thing,: 1 anagrams: night, (2) 
+seu: 1 anagrams: use (1) 
+lykewise: 1 anagrams: likewyse (1) 
+stounge: 1 anagrams: tounges (1) 
+whereat: 1 anagrams: weather (1) 
+winges: 1 anagrams: swinge (1) 
+leasurely,: 1 anagrams: seuerally, (1) 
+Section_.: 1 anagrams: Section._ (1) 
+(21): 1 anagrams: (12) (1) 
+who: 1 anagrams: how (9) 
+Spainell: 1 anagrams: Spaniell (8) 
+Spaniell: 1 anagrams: Spainell (1) 
+(23): 1 anagrams: (32) (1) 
+shepherdes: 1 anagrams: sheepherds (1) 
+wolfes,: 1 anagrams: fowles, (1) 
+(who: 1 anagrams: (how (1) 
+(24): 1 anagrams: (42) (1) 
+guide: 1 anagrams: iudge (1) 
+drawe: 1 anagrams: warde (1) 
+farme: 1 anagrams: frame (2) 
+sworde: 1 anagrams: wordes (4) 
+(how: 1 anagrams: (who (2) 
+life: 1 anagrams: flie (1) 
+scape: 1 anagrams: space (3) 
+doores: 1 anagrams: dooers (1) 
+warde: 1 anagrams: drawe (3) 
+(31): 1 anagrams: (13) (1) 
+weather: 1 anagrams: whereat (1) 
+sayde: 1 anagrams: dayes (2) 
+tounges: 1 anagrams: stounge (1) 
+searche,: 1 anagrams: reaches, (1) 
+(32): 1 anagrams: (23) (1) 
+medling: 1 anagrams: mingled (3) 
+flye: 1 anagrams: lyfe (2) 
+worthe: 1 anagrams: wherto (1) 
+drawer: 1 anagrams: reward (1) 
+(34): 1 anagrams: (43) (1) 
+Three: 1 anagrams: There (8) 
+swinge: 1 anagrams: winges (1) 
+stearne: 1 anagrams: earnest (7) 
+lenght: 1 anagrams: length (2) 
+showe: 1 anagrams: whose (11) 
+asse: 1 anagrams: seas (2) 
+warner,: 1 anagrams: warren, (1) 
+tearmes,: 1 anagrams: streame, (1) 
+(41): 1 anagrams: (14) (1) 
+(42): 1 anagrams: (24) (1) 
+(43): 1 anagrams: (34) (1) 
+wot: 1 anagrams: two (14) 
+learne,: 1 anagrams: leaner, (1) 
+stayde: 1 anagrams: stayed (1) 
+delay: 1 anagrams: layde (2) 
+the_: 1 anagrams: _the (1) 
+reward: 1 anagrams: drawer (1) 
+32: 1 anagrams: 23 (1) 
+21: 1 anagrams: 12 (2) 
+12: 1 anagrams: 21 (2) 
+raked: 1 anagrams: darke (2) 
+sorest.: 1 anagrams: sortes. (2) 
+23: 1 anagrams: 32 (4) 
+Shepherdes: 1 anagrams: Sheepherds (1) 
+sheepherds: 1 anagrams: shepherdes (1) 
+Sheepherds: 1 anagrams: Shepherdes (2) 
+length,: 1 anagrams: lenght, (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+2: 15/65 = 23.076923076923077%
+4: 6/28 = 21.428571428571427%
+3: 11/58 = 18.96551724137931%
+1: 10/68 = 14.705882352941178%
+S: 17/132 = 12.878787878787879%
+(: 15/128 = 11.71875%
+): 12/127 = 9.448818897637794%
+f: 142/1669 = 8.508088675853804%
+o: 288/4803 = 5.996252342286072%
+r: 232/4180 = 5.55023923444976%
+w: 70/1278 = 5.477308294209703%
+T: 9/222 = 4.054054054054054%
+y: 44/1463 = 3.007518796992481%
+n: 148/4991 = 2.965337607693849%
+s: 123/4415 = 2.7859569648924123%
+l: 74/2679 = 2.7622247107129527%
+e: 267/10385 = 2.5710158883004333%
+h: 111/4341 = 2.5570145127850727%
+a: 115/4883 = 2.3551095637927504%
+g: 34/1833 = 1.8548827059465356%
+t: 107/5946 = 1.7995290951900438%
+_: 9/516 = 1.744186046511628%
+p: 18/1115 = 1.6143497757847534%
+,: 22/1365 = 1.611721611721612%
+k: 7/483 = 1.4492753623188406%
+d: 41/2847 = 1.4401123990165086%
+D: 2/159 = 1.257861635220126%
+i: 51/4510 = 1.130820399113082%
+.: 8/741 = 1.0796221322537112%
+u: 19/2412 = 0.7877280265339968%
+c: 14/1839 = 0.7612833061446439%
+m: 9/1538 = 0.5851755526657998%

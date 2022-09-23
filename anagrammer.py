@@ -123,6 +123,12 @@ def main():
     for other_word in word_array:
       if (other_word.word != word.word) and (np.array_equal(word.characters, other_word.characters)):
         word.add_anagram(other_word.word)
+    # For each word that has anagrams, add to its character's anagram count
+    for character in word.characters:
+      for existing_character in character_array:
+        if existing_character.character == character:
+          if word.anagram_count > 0:
+            existing_character.add_anagram()
   
   # Sort word array by number of anagrams
   word_array.sort(key=lambda x: x.anagram_count, reverse=True)
@@ -135,15 +141,6 @@ def main():
         break
     else:
       output_word_array.append(word)
-
-  # For each unique word with anagrams, add to its character's anagram count
-  for word in output_word_array:
-    for character in word.characters:
-      for existing_character in character_array:
-        if existing_character.character == character:
-          for anagram in word.anagrams:
-            for i in range(word.anagrams[anagram]):
-              existing_character.add_anagram()
 
   # Sort character array by number of anagrams
   character_array.sort(key=lambda x: x.percentage(), reverse=True)
