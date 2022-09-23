@@ -5,7 +5,8 @@ from pomegranate import *
 import argparse
 
 #dir = os.getcwd()+'/HMM_model/model.txt'
-dir = os.getcwd()+'/test_texts/test.txt'
+dir = os.getcwd()+'/texts/The-Medicinal-Plants-of-the-Philippines.txt'
+VM = os.getcwd() + '/texts/voynich-manuscript.txt_formatted.txt'
 
 #test read
 file = open(dir, 'r')
@@ -22,9 +23,10 @@ numbers = ['0','1','2','3','4','5','6','7','8','9']
 string_count, num_transitions, word_transitions = 0, 0, 0
 num_count, word_count = 0,0
 text = HMM_functions.format_text(dir)
-print(text)
+#print(text)
 classification, longest_length, list_of_lengths, num_count, word_count = HMM_functions.classify(text, numbers, num_count, word_count)
 #print(classification, longest_length, list_of_lengths, num_count, word_count)
+#print(list_of_lengths)
 
 transition_matrix = np.zeros([2,2])
 initial_prob = np.zeros([2])
@@ -49,8 +51,8 @@ initial_prob, transition_matrix, conditional_matrix = HMM_functions.final_prob(i
 #print(conditional_matrix)
 
 
-results, vm_text = HMM_functions.make_model(dir, transition_matrix, conditional_matrix, initial_prob, list_of_lengths)
-print("restults: ")
+results, vm_text = HMM_functions.make_model(VM, transition_matrix, conditional_matrix, initial_prob, list_of_lengths)
+#print("restults: ")
 print(results)
 PN = HMM_functions.analyse_vm(results, vm_text)
 print(PN)
@@ -174,9 +176,9 @@ for line_no in range(len(text)):
 input_text = []
 numbers = ['0','1','2','3','4','5','6','7','8','9']
 
-for line_no in range(len(text)):
-	input_text= input_text + (text[line_no].split())
-	input_text[line_no] = input_text[line_no].replace("\n","")
+# for line_no in range(len(text)):
+# 	input_text= input_text + (text[line_no].split())
+# 	input_text[line_no] = input_text[line_no].replace("\n","")
 
 #print(input_text)
 

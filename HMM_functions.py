@@ -59,21 +59,23 @@ def make_model(voynich, transition, emission, start, list_of_lengths) :
 	num_dist = {}
 	word_dist = {}
 
-	print(emission)
+	#print(emission)
 	#print(emission[1][1])
 
 	observed_sizes = list(range(1, max(list_of_lengths)+1))
-	print(len(emission[0]))
+	print("List Len:")
+	print(max(list_of_lengths))
+	#print(len(emission[0]))
 	# print("obs: ", observed_sizes)
 	#obserable_vals = list(map(chr,observed_sizes))
-	print("obs: ", chr(observed_sizes[0]))
+	#print("obs: ", chr(observed_sizes[0]))
 
 	for i in range(len(emission[0])) :
 		num_dist.update({str(observed_sizes[i]): emission[0][i]})
 		word_dist.update({str(observed_sizes[i]): emission[1][i]})
 
-	print(num_dist)
-	print(word_dist)
+	#print(num_dist)
+	#print(word_dist)
 
 	d1 = DiscreteDistribution(num_dist)
 	d2 = DiscreteDistribution(word_dist)
@@ -96,8 +98,11 @@ def make_model(voynich, transition, emission, start, list_of_lengths) :
 
 	#print(observations)
 
-	print(", ".join(state.name for i, state in model.viterbi(list(observations))[1]))
-	result_states_string = (", ".join(state.name for i, state in model.viterbi(list(observations))[1]))
+	#print(", ".join(state.name for i, state in model.viterbi(list(observations))[1]))
+	# print((list(observations)))
+	
+	#print((list(observations))[1])
+	result_states_string = (", ".join(state.name for i, state in model.viterbi(observations)[1]))
 
 	result_states = result_states_string.split(", ")
 	result_states.pop(0)
@@ -107,14 +112,18 @@ def make_model(voynich, transition, emission, start, list_of_lengths) :
 def observe_vm(voynich) :
 # analyses the unknown text based on the model and notes what should be a number based on the sequence
 	vm_text = format_text(voynich)
-	observations = ''
-	print('text:')
+	#observations = ''
+	observations = []
+	#print('text:')
 	#print(vm_text)
 	# for line in vm_text:
 	for string in vm_text :
-		observations = observations + (str(len(string)))
-
-	#print(observations)
+		if (len(string) != 0): 
+			#observations = observations + (str(len(string)))
+			observations.append(str(len(string)))
+	#print("obs: ")
+	#print(max(observations))
+	#print(vm_text[observations.index(max(observations))])
 	return observations, vm_text
 
 def analyse_vm(model_states, vm_text) :
@@ -130,6 +139,7 @@ def analyse_vm(model_states, vm_text) :
 def classify(all_strings, numbers, num_count, word_count) :
 	classification = []
 	list_of_lengths = []
+	num_flag = 0
 
 	for string in all_strings :
 		list_of_lengths.append(len(string))
@@ -234,6 +244,7 @@ def format_text(input_directory) :
 
 	for line in formatted : 
 		for string in line:
-			formatted_text.append(string) 
+			if(len(string) != 0):
+				formatted_text.append(string) 
 		
 	return formatted_text
