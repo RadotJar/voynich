@@ -1,0 +1,52 @@
+Word Profiles:
+rebus: 1 anagrams: suber (1) 
+is: 1 anagrams: si (11) 
+hoc: 1 anagrams: och (2) 
+parum: 1 anagrams: puram (1) 
+intra: 1 anagrams: natri (7) 
+sed: 1 anagrams: des (1) 
+si: 1 anagrams: is (1) 
+dein: 1 anagrams: inde (4) 
+inde: 1 anagrams: dein (5) 
+och: 1 anagrams: hoc (6) 
+suber: 1 anagrams: rebus (1) 
+simul: 1 anagrams: limus (1) 
+natri: 1 anagrams: intra (2) 
+0,01.: 1 anagrams: 0,10. (1) 
+eam: 1 anagrams: mea (1) 
+puram: 1 anagrams: parum (2) 
+des: 1 anagrams: sed (8) 
+0,10.: 1 anagrams: 0,01. (1) 
+0,065: 1 anagrams: 0,056 (1) 
+0,010: 1 anagrams: 0,001 (2) 
+mea: 1 anagrams: eam (1) 
+0,056: 1 anagrams: 0,065 (1) 
+0,001: 1 anagrams: 0,010 (3) 
+limus: 1 anagrams: simul (1) 
+3,0: 1 anagrams: 0,3 (1) 
+0,3: 1 anagrams: 3,0 (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+0: 25/160 = 15.625%
+6: 2/15 = 13.333333333333334%
+1: 7/53 = 13.20754716981132%
+3: 2/30 = 6.666666666666667%
+5: 2/40 = 5.0%
+h: 8/190 = 4.2105263157894735%
+d: 18/471 = 3.821656050955414%
+,: 11/360 = 3.0555555555555554%
+s: 25/1116 = 2.240143369175627%
+n: 18/891 = 2.0202020202020203%
+i: 32/1665 = 1.921921921921922%
+e: 22/1455 = 1.5120274914089347%
+r: 14/1120 = 1.25%
+c: 8/768 = 1.0416666666666665%
+m: 7/807 = 0.8674101610904585%
+o: 8/925 = 0.8648648648648649%
+a: 14/1684 = 0.831353919239905%
+b: 2/284 = 0.7042253521126761%
+t: 9/1280 = 0.703125%
+.: 2/302 = 0.6622516556291391%
+p: 3/536 = 0.5597014925373134%
+u: 7/1350 = 0.5185185185185185%
+l: 2/562 = 0.3558718861209964%

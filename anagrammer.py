@@ -122,7 +122,9 @@ def main():
   for word in word_array:
     for other_word in word_array:
       if (other_word.word != word.word) and (np.array_equal(word.characters, other_word.characters)):
-        word.add_anagram(other_word.word)
+        # Ignore single character words
+        if len(word.characters) > 1:
+          word.add_anagram(other_word.word)
     # For each word that has anagrams, add to its character's anagram count
     for character in word.characters:
       for existing_character in character_array:
