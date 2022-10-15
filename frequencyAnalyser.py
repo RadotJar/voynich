@@ -44,7 +44,8 @@ def main():
            file.write(line)
     
     # Plotting
-    plotting( char_freq_list, fileName )
+    if ( word_count > 0 ):
+        plotting(char_freq_list, fileName)
 
 # Performs Voynich Manuscript specific analysis
 def analyse_voynich(lines):
@@ -149,8 +150,10 @@ def analyse(lines):
                     index = unique_characters.index(char)
                     frequency[index] = frequency[index] + 1
             
-    
-    average_word_length = word_len_sum / word_count
+    if (word_count == 0):
+        average_word_length = 0
+    else:
+        average_word_length = word_len_sum / word_count
 
     return word_count, unique_characters, frequency, longest_word_length, longest_word, average_word_length
 
