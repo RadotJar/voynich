@@ -1,0 +1,183 @@
+Word Profiles:
+seine: 2 anagrams: eines (26) seien (3) 
+eines: 2 anagrams: seine (25) seien (3) 
+4,3: 2 anagrams: 43, (1) 34, (2) 
+seien: 2 anagrams: seine (25) eines (26) 
+43,: 2 anagrams: 4,3 (2) 34, (2) 
+34,: 2 anagrams: 4,3 (2) 43, (1) 
+12: 1 anagrams: 21 (2) 
+ihre: 1 anagrams: hier (67) 
+sie: 1 anagrams: sei (6) 
+ewigen: 1 anagrams: wenige (2) 
+hier: 1 anagrams: ihre (72) 
+einem: 1 anagrams: meine (1) 
+Schien: 1 anagrams: Schein (1) 
+ein: 1 anagrams: nie (1) 
+ihn: 1 anagrams: hin (10) 
+sein: 1 anagrams: eins (1) 
+unser: 1 anagrams: unsre (1) 
+mittleren: 1 anagrams: ermitteln (1) 
+demnach: 1 anagrams: nachdem (4) 
+eins: 1 anagrams: sein (41) 
+Sehne: 1 anagrams: Sehen (1) 
+hin: 1 anagrams: ihn (18) 
+erschien: 1 anagrams: sicheren (1) 
+lange: 1 anagrams: lagen (1) 
+erscheinen: 1 anagrams: erschienen (3) 
+bleiben,: 1 anagrams: blieben, (1) 
+Wage: 1 anagrams: Wega (8) 
+ungeheure: 1 anagrams: ungeheuer (2) 
+1800: 1 anagrams: 1080 (1) 
+falschen: 1 anagrams: schlafen (1) 
+58: 1 anagrams: 85 (3) 
+ungeheuren: 1 anagrams: ungeheuern (1) 
+bewegt: 1 anagrams: gewebt (1) 
+17: 1 anagrams: 71 (5) 
+wenige: 1 anagrams: ewigen (2) 
+Schein: 1 anagrams: Schien (1) 
+22.: 1 anagrams: 2.2 (1) 
+Wein: 1 anagrams: Wien (2) 
+Wien: 1 anagrams: Wein (1) 
+57: 1 anagrams: 75 (2) 
+nachdem: 1 anagrams: demnach (4) 
+sie,: 1 anagrams: sei, (2) 
+erweisen: 1 anagrams: erwiesen (2) 
+6,0: 1 anagrams: 0,6 (1) 
+42: 1 anagrams: 24 (3) 
+1902: 1 anagrams: 1920 (1) 
+27: 1 anagrams: 72 (4) 
+18: 1 anagrams: 81 (2) 
+25: 1 anagrams: 52 (2) 
+28: 1 anagrams: 82 (2) 
+sei,: 1 anagrams: sie, (2) 
+39: 1 anagrams: 93 (1) 
+lagen,: 1 anagrams: lange, (1) 
+14: 1 anagrams: 41 (1) 
+erschienen: 1 anagrams: erscheinen (5) 
+sie.: 1 anagrams: sei. (3) 
+ahnen: 1 anagrams: nahen (4) 
+gewebt: 1 anagrams: bewegt (4) 
+sei: 1 anagrams: sie (172) 
+Sehen: 1 anagrams: Sehne (2) 
+lange,: 1 anagrams: lagen, (2) 
+niedrigeren: 1 anagrams: erniedrigen (1) 
+12.: 1 anagrams: 21. (2) 
+31.: 1 anagrams: 13. (1) 
+freien: 1 anagrams: feiner (1) 
+35: 1 anagrams: 53 (6) 
+erniedrigen: 1 anagrams: niedrigeren (1) 
+meine: 1 anagrams: einem (70) 
+36: 1 anagrams: 63 (1) 
+schlafen: 1 anagrams: falschen (1) 
+43: 1 anagrams: 34 (2) 
+21185: 1 anagrams: 21158 (1) 
+61: 1 anagrams: 16 (5) 
+Wega: 1 anagrams: Wage (2) 
+46: 1 anagrams: 64 (1) 
+erwiesen: 1 anagrams: erweisen (2) 
+16: 1 anagrams: 61 (7) 
+ungeheuern: 1 anagrams: ungeheuren (12) 
+0,1: 1 anagrams: 1,0 (2) 
+2,3: 1 anagrams: 23, (2) 
+2,1: 1 anagrams: 1,2 (3) 
+0,3: 1 anagrams: 30, (1) 
+0,6: 1 anagrams: 6,0 (1) 
+1,4: 1 anagrams: 14, (1) 
+1,0: 1 anagrams: 0,1 (2) 
+1,2: 1 anagrams: 2,1 (2) 
+1080: 1 anagrams: 1800 (3) 
+Parallaxmessungen: 1 anagrams: Parallaxenmessung (1) 
+ermitteln: 1 anagrams: mittleren (2) 
+dunkle: 1 anagrams: dunkel (2) 
+sei.: 1 anagrams: sie. (2) 
+sicheren: 1 anagrams: erschien (4) 
+13.: 1 anagrams: 31. (2) 
+24: 1 anagrams: 42 (3) 
+21: 1 anagrams: 12 (4) 
+45: 1 anagrams: 54 (3) 
+48: 1 anagrams: 84 (3) 
+64: 1 anagrams: 46 (3) 
+nie: 1 anagrams: ein (132) 
+81: 1 anagrams: 18 (3) 
+2.2: 1 anagrams: 22. (1) 
+nahen: 1 anagrams: ahnen (1) 
+unsre: 1 anagrams: unser (21) 
+dunkel: 1 anagrams: dunkle (3) 
+72: 1 anagrams: 27 (3) 
+ungeheuer: 1 anagrams: ungeheure (6) 
+21158: 1 anagrams: 21185 (1) 
+47: 1 anagrams: 74 (2) 
+65: 1 anagrams: 56 (2) 
+21.: 1 anagrams: 12. (2) 
+1901: 1 anagrams: 1910 (1) 
+16.: 1 anagrams: 61. (1) 
+Parallaxenmessung: 1 anagrams: Parallaxmessungen (1) 
+78: 1 anagrams: 87 (2) 
+blieben,: 1 anagrams: bleiben, (2) 
+feiner: 1 anagrams: freien (2) 
+54: 1 anagrams: 45 (2) 
+56: 1 anagrams: 65 (3) 
+lagen: 1 anagrams: lange (9) 
+63: 1 anagrams: 36 (3) 
+85: 1 anagrams: 58 (7) 
+82: 1 anagrams: 28 (2) 
+53: 1 anagrams: 35 (6) 
+73: 1 anagrams: 37 (2) 
+68: 1 anagrams: 86 (2) 
+71: 1 anagrams: 17 (3) 
+34: 1 anagrams: 43 (5) 
+41: 1 anagrams: 14 (3) 
+23,: 1 anagrams: 2,3 (2) 
+29: 1 anagrams: 92 (4) 
+52: 1 anagrams: 25 (4) 
+74: 1 anagrams: 47 (6) 
+84: 1 anagrams: 48 (4) 
+30,: 1 anagrams: 0,3 (1) 
+61.: 1 anagrams: 16. (1) 
+93: 1 anagrams: 39 (3) 
+37: 1 anagrams: 73 (1) 
+92: 1 anagrams: 29 (1) 
+87: 1 anagrams: 78 (2) 
+86: 1 anagrams: 68 (2) 
+75: 1 anagrams: 57 (4) 
+14,: 1 anagrams: 1,4 (1) 
+1910: 1 anagrams: 1901 (2) 
+1912: 1 anagrams: 1921 (1) 
+1920: 1 anagrams: 1902 (3) 
+1921: 1 anagrams: 1912 (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+4: 53/135 = 39.25925925925926%
+5: 46/145 = 31.724137931034484%
+6: 33/108 = 30.555555555555557%
+2: 59/199 = 29.64824120603015%
+7: 36/130 = 27.692307692307693%
+8: 40/146 = 27.397260273972602%
+3: 49/180 = 27.22222222222222%
+1: 77/343 = 22.448979591836736%
+9: 18/115 = 15.65217391304348%
+i: 747/12193 = 6.126466005084884%
+0: 23/412 = 5.582524271844661%
+s: 382/8914 = 4.285393762620597%
+e: 1090/27895 = 3.9075103065065426%
+h: 221/7057 = 3.1316423409380754%
+n: 530/18047 = 2.9367761954895553%
+W: 13/541 = 2.4029574861367835%
+m: 84/3773 = 2.2263450834879404%
+x: 2/92 = 2.1739130434782608%
+r: 211/11156 = 1.8913589100035857%
+,: 39/2260 = 1.7256637168141593%
+g: 57/4027 = 1.4154457412465855%
+u: 71/5517 = 1.286931303244517%
+.: 16/1678 = 0.9535160905840285%
+P: 2/299 = 0.6688963210702341%
+w: 13/2007 = 0.6477329347284505%
+a: 44/7355 = 0.5982324949014276%
+c: 25/4570 = 0.5470459518599562%
+l: 30/5963 = 0.5031024652020796%
+b: 11/2626 = 0.41888804265041885%
+S: 5/1396 = 0.35816618911174786%
+f: 5/1771 = 0.282326369282891%
+k: 5/1806 = 0.2768549280177187%
+d: 15/7333 = 0.2045547524887495%
+t: 11/8314 = 0.13230695212893914%

@@ -1,0 +1,62 @@
+Word Profiles:
+ripam: 2 anagrams: impar (1) prima (1) 
+impar: 2 anagrams: ripam (1) prima (1) 
+prima: 2 anagrams: ripam (1) impar (1) 
+in: 1 anagrams: ni (1) 
+usum,: 1 anagrams: suum, (1) 
+alterum: 1 anagrams: relatum (1) 
+esse: 1 anagrams: sese (1) 
+usus: 1 anagrams: suus (1) 
+loca: 1 anagrams: calo (1) 
+si: 1 anagrams: is (4) 
+arte: 1 anagrams: erat (2) 
+pedes: 1 anagrams: spede (1) 
+aquis: 1 anagrams: quasi (5) 
+etsi: 1 anagrams: iste (5) 
+quasi: 1 anagrams: aquis (3) 
+suus: 1 anagrams: usus (10) 
+invenerit,: 1 anagrams: inveniret, (1) 
+relatum: 1 anagrams: alterum (4) 
+avis: 1 anagrams: vias (1) 
+is: 1 anagrams: si (19) 
+manu: 1 anagrams: unam (1) 
+sese: 1 anagrams: esse (7) 
+suum,: 1 anagrams: usum, (1) 
+aquilam: 1 anagrams: aliquam (1) 
+aliter: 1 anagrams: litera (1) 
+vias: 1 anagrams: avis (1) 
+inveniret,: 1 anagrams: invenerit, (1) 
+iste: 1 anagrams: etsi (6) 
+unam: 1 anagrams: manu (1) 
+amor: 1 anagrams: mora (2) 
+ni: 1 anagrams: in (110) 
+erat: 1 anagrams: arte (2) 
+calo: 1 anagrams: loca (1) 
+certe: 1 anagrams: recte (1) 
+recte: 1 anagrams: certe (1) 
+litera: 1 anagrams: aliter (1) 
+aliquam: 1 anagrams: aquilam (1) 
+Spainel: 1 anagrams: Spaniel (1) 
+Spaniel: 1 anagrams: Spainel (2) 
+spede: 1 anagrams: pedes (1) 
+mora: 1 anagrams: amor (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+n: 120/2130 = 5.633802816901409%
+i: 169/3208 = 5.268079800498753%
+S: 3/76 = 3.9473684210526314%
+s: 86/2278 = 3.775241439859526%
+q: 10/513 = 1.949317738791423%
+e: 53/2935 = 1.805792163543441%
+u: 43/2528 = 1.7009493670886076%
+a: 38/2527 = 1.5037593984962405%
+l: 14/958 = 1.4613778705636742%
+t: 26/2161 = 1.203146691346599%
+m: 17/1443 = 1.178101178101178%
+r: 21/1927 = 1.0897768552153606%
+p: 8/738 = 1.084010840108401%
+v: 4/429 = 0.9324009324009324%
+,: 4/708 = 0.5649717514124294%
+c: 4/1130 = 0.35398230088495575%
+o: 5/1684 = 0.29691211401425177%
+d: 2/913 = 0.21905805038335158%

@@ -1,0 +1,214 @@
+Word Profiles:
+seine: 2 anagrams: eines (34) seien (2) 
+eines: 2 anagrams: seine (14) seien (2) 
+scheinen: 2 anagrams: chinense (1) schienen (1) 
+seien: 2 anagrams: seine (14) eines (34) 
+chinense: 2 anagrams: scheinen (5) schienen (1) 
+schienen: 2 anagrams: scheinen (5) chinense (1) 
+19.: 1 anagrams: 91. (2) 
+westlichen: 1 anagrams: wesentlich (35) 
+_I.: 1 anagrams: I._ (2) 
+28.: 1 anagrams: 82. (1) 
+37;: 1 anagrams: 73; (3) 
+42.: 1 anagrams: 24. (2) 
+47;: 1 anagrams: 74; (1) 
+51.: 1 anagrams: 15. (1) 
+_IV.: 1 anagrams: _VI. (1) 
+61.: 1 anagrams: 16. (2) 
+68.: 1 anagrams: 86. (2) 
+71.: 1 anagrams: 17. (1) 
+73;: 1 anagrams: 37; (1) 
+74;: 1 anagrams: 47; (1) 
+81.: 1 anagrams: 18. (2) 
+82.: 1 anagrams: 28. (1) 
+_VI.: 1 anagrams: _IV. (2) 
+86.: 1 anagrams: 68. (1) 
+87.: 1 anagrams: 78. (1) 
+91.: 1 anagrams: 19. (2) 
+ihre: 1 anagrams: hier (17) 
+sie: 1 anagrams: sei (10) 
+124;: 1 anagrams: 142; (1) 
+127;: 1 anagrams: 271; (1) 
+142;: 1 anagrams: 124; (1) 
+Vegetation_: 1 anagrams: _Vegetation (3) 
+ED.: 1 anagrams: DE. (4) 
+24.: 1 anagrams: 42. (1) 
+78.: 1 anagrams: 87. (2) 
+*1881.*: 1 anagrams: *1881*. (1) 
+*1887.*: 1 anagrams: *1878.* (4) 
+*1886.*: 1 anagrams: *1868.* (1) 
+*1888.*: 1 anagrams: *1888*. (1) 
+*1883.*: 1 anagrams: *1838.* (1) 
+_Vegetation: 1 anagrams: Vegetation_ (1) 
+VI.: 1 anagrams: IV. (2) 
+*1885.*: 1 anagrams: *1858.* (1) 
+*1876.*: 1 anagrams: *1867.* (1) 
+*1878.*: 1 anagrams: *1887.* (5) 
+trees,: 1 anagrams: teres, (1) 
+*1846.*: 1 anagrams: *1864.* (1) 
+*1868.*: 1 anagrams: *1886.* (2) 
+*1864.*: 1 anagrams: *1846.* (1) 
+*1874.*: 1 anagrams: *1847.* (1) 
+ad: 1 anagrams: da (35) 
+*1838.*: 1 anagrams: *1883.* (7) 
+_Botany: 1 anagrams: Botany_ (1) 
+I._: 1 anagrams: _I. (3) 
+*1847.*: 1 anagrams: *1874.* (2) 
+Journ._: 1 anagrams: _Journ. (1) 
+India._: 1 anagrams: India_. (1) 
+*1867.*: 1 anagrams: *1876.* (3) 
+la: 1 anagrams: al (2) 
+DE.: 1 anagrams: ED. (1) 
+al: 1 anagrams: la (13) 
+einer: 1 anagrams: reine (2) 
+16.: 1 anagrams: 61. (2) 
+_Journ.: 1 anagrams: Journ._ (1) 
+Botany_: 1 anagrams: _Botany (1) 
+*1858.*: 1 anagrams: *1885.* (2) 
+_Japan: 1 anagrams: Japan_ (1) 
+Reisen: 1 anagrams: Riesen (3) 
+18.: 1 anagrams: 81. (1) 
+urnes: 1 anagrams: unser (3) 
+wesentlich: 1 anagrams: westlichen (2) 
+ist: 1 anagrams: its (3) 
+streben: 1 anagrams: sterben (3) 
+gar: 1 anagrams: arg (1) 
+ihn: 1 anagrams: hin (2) 
+erscheinen: 1 anagrams: erschienen (1) 
+*1881*.: 1 anagrams: *1881.* (7) 
+einem: 1 anagrams: meine (7) 
+freien: 1 anagrams: feiner (1) 
+ein: 1 anagrams: nie (16) 
+meine: 1 anagrams: einem (57) 
+_Rhodoreae._: 1 anagrams: _Rhodoreae_. (1) 
+Substrat: 1 anagrams: Subtrats (1) 
+bleiben: 1 anagrams: blieben (3) 
+weder: 1 anagrams: werde (4) 
+ebenso: 1 anagrams: soeben (6) 
+treiben: 1 anagrams: breiten (1) 
+blieben: 1 anagrams: bleiben (6) 
+hat_.: 1 anagrams: hat._ (1) 
+scheinen,: 1 anagrams: schienen, (1) 
+manche: 1 anagrams: machen (2) 
+unser: 1 anagrams: urnes (1) 
+werde: 1 anagrams: weder (2) 
+sie,: 1 anagrams: sei, (4) 
+nie: 1 anagrams: ein (106) 
+sterile: 1 anagrams: rieselt (1) 
+erscheint: 1 anagrams: reichsten (1) 
+sei: 1 anagrams: sie (159) 
+da: 1 anagrams: ad (1) 
+treiben,: 1 anagrams: breiten, (1) 
+hier: 1 anagrams: ihre (66) 
+sah: 1 anagrams: has (1) 
+breiten,: 1 anagrams: treiben, (1) 
+its: 1 anagrams: ist (189) 
+vorher: 1 anagrams: hervor (1) 
+hin: 1 anagrams: ihn (3) 
+Subtrats: 1 anagrams: Substrat (26) 
+sind_.: 1 anagrams: sind._ (1) 
+verblieben: 1 anagrams: verbleiben (1) 
+Fasern: 1 anagrams: Farnes (1) 
+verliehen: 1 anagrams: verleihen (1) 
+ungeheure: 1 anagrams: ungeheuer (2) 
+Riesen: 1 anagrams: Reisen (5) 
+bleiben.: 1 anagrams: blieben. (2) 
+unterscheiden: 1 anagrams: unterschieden (2) 
+sterben: 1 anagrams: streben (1) 
+IV.: 1 anagrams: VI. (2) 
+erschien: 1 anagrams: sicheren (1) 
+24: 1 anagrams: 42 (1) 
+machen: 1 anagrams: manche (15) 
+soeben: 1 anagrams: ebenso (11) 
+13: 1 anagrams: 31 (1) 
+hat._: 1 anagrams: hat_. (1) 
+sei,: 1 anagrams: sie, (5) 
+sind._: 1 anagrams: sind_. (1) 
+reine: 1 anagrams: einer (106) 
+ungeheuer: 1 anagrams: ungeheure (1) 
+bleiben,: 1 anagrams: blieben, (1) 
+gerne: 1 anagrams: enger (1) 
+verbleiben: 1 anagrams: verblieben (6) 
+Farnes: 1 anagrams: Fasern (1) 
+unterschieden: 1 anagrams: unterscheiden (5) 
+erschienen: 1 anagrams: erscheinen (2) 
+verleihen: 1 anagrams: verliehen (1) 
+breiten: 1 anagrams: treiben (2) 
+rieselt: 1 anagrams: sterile (1) 
+enger: 1 anagrams: gerne (1) 
+fehlen.: 1 anagrams: helfen. (1) 
+feiner: 1 anagrams: freien (3) 
+48: 1 anagrams: 84 (1) 
+reichsten: 1 anagrams: erscheint (4) 
+schienen,: 1 anagrams: scheinen, (1) 
+84: 1 anagrams: 48 (1) 
+42: 1 anagrams: 24 (2) 
+blieben.: 1 anagrams: bleiben. (2) 
+arg: 1 anagrams: gar (9) 
+blieben,: 1 anagrams: bleiben, (2) 
+Japan_: 1 anagrams: _Japan (1) 
+teres,: 1 anagrams: trees, (1) 
+hervor: 1 anagrams: vorher (8) 
+sicheren: 1 anagrams: erschien (2) 
+helfen.: 1 anagrams: fehlen. (2) 
+*1888*.: 1 anagrams: *1888.* (1) 
+_Rhodoreae_.: 1 anagrams: _Rhodoreae._ (1) 
+15.: 1 anagrams: 51. (1) 
+17.: 1 anagrams: 71. (1) 
+IV.]: 1 anagrams: VI.] (1) 
+VI.]: 1 anagrams: IV.] (1) 
+32: 1 anagrams: 23 (1) 
+12: 1 anagrams: 21 (1) 
+21: 1 anagrams: 12 (1) 
+271;: 1 anagrams: 127; (1) 
+23: 1 anagrams: 32 (2) 
+India_.: 1 anagrams: India._ (1) 
+has: 1 anagrams: sah (6) 
+31: 1 anagrams: 13 (3) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+8: 90/211 = 42.65402843601896%
+]: 2/6 = 33.33333333333333%
+7: 29/96 = 30.208333333333332%
+*: 84/310 = 27.09677419354839%
+1: 75/346 = 21.67630057803468%
+4: 17/97 = 17.525773195876287%
+3: 19/117 = 16.23931623931624%
+6: 16/111 = 14.414414414414415%
+2: 17/158 = 10.759493670886076%
+9: 4/61 = 6.557377049180328%
+5: 5/94 = 5.319148936170213%
+i: 918/19990 = 4.592296148074037%
+_: 28/660 = 4.242424242424243%
+s: 559/14529 = 3.847477458875353%
+J: 4/112 = 3.571428571428571%
+I: 16/504 = 3.1746031746031744%
+;: 10/326 = 3.067484662576687%
+e: 1183/40926 = 2.890583003469677%
+.: 104/3697 = 2.8130916959697054%
+b: 99/3839 = 2.5787965616045847%
+t: 320/13262 = 2.4129090634896695%
+V: 13/547 = 2.376599634369287%
+S: 27/1211 = 2.2295623451692816%
+n: 540/25562 = 2.1125107581566387%
+r: 311/16493 = 1.885648456921118%
+R: 10/548 = 1.824817518248175%
+h: 197/11440 = 1.7220279720279719%
+m: 81/5620 = 1.4412811387900355%
+w: 43/3016 = 1.4257294429708223%
+v: 18/1656 = 1.0869565217391304%
+c: 81/8145 = 0.9944751381215469%
+a: 130/13150 = 0.988593155893536%
+l: 82/9096 = 0.9014951627088831%
+D: 5/729 = 0.6858710562414266%
+o: 38/6542 = 0.5808621216753286%
+u: 46/8517 = 0.540096278032171%
+d: 55/11543 = 0.4764792514944122%
+,: 18/3849 = 0.46765393608729544%
+E: 5/1124 = 0.4448398576512456%
+g: 19/6171 = 0.30789175174201916%
+F: 2/687 = 0.2911208151382824%
+f: 7/3198 = 0.2188868042526579%
+y: 2/1180 = 0.1694915254237288%
+B: 2/1309 = 0.15278838808250572%
+p: 2/3616 = 0.05530973451327434%
