@@ -1,0 +1,15 @@
+Summary
+-------
+Number of words: 12
+Number of unique characters: 6
+Longest word: aelrst (6 characters)
+Average word length: 6.0
+--------------------
+Character frequencies
+--------------------
+a: 12.0
+e: 12.0
+l: 12.0
+r: 12.0
+s: 12.0
+t: 12.0

@@ -6,7 +6,7 @@
 # The script echoes the outputs of each individual test run.
 # More tests and scripts to test can be added to the suite by adding test filenames and script names to the array below.
 
-TESTS=(empty.txt)
+TESTS=(empty.txt multi_line.txt one_character.txt single_number.txt single_word.txt multi_paragraph.txt single_repeated_character.txt all_anagrams.txt)
 SCRIPTS=(frequency anagram)
 
 

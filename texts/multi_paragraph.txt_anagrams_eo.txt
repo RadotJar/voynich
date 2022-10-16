@@ -1,0 +1,13 @@
+Word Profiles:
+dog: 1 anagrams: god (1) 
+ate: 1 anagrams: eat (1) 
+god: 1 anagrams: dog (3) 
+eat: 1 anagrams: ate (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+g: 4/4 = 100.0%
+d: 4/7 = 57.14285714285714%
+a: 2/4 = 50.0%
+o: 4/10 = 40.0%
+t: 2/8 = 25.0%
+e: 2/11 = 18.181818181818183%

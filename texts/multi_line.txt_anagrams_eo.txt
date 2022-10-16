@@ -1,0 +1,9 @@
+Word Profiles:
+file: 1 anagrams: life (1) 
+life: 1 anagrams: file (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+f: 2/3 = 66.66666666666666%
+e: 2/5 = 40.0%
+l: 2/5 = 40.0%
+i: 2/7 = 28.57142857142857%

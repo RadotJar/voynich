@@ -1,0 +1,21 @@
+Word Profiles:
+aelrst: 11 anagrams: alerts (1) alters (1) artels (1) estral (1) laster (1) ratels (1) salter (1) slater (1) staler (1) stelar (1) talers (1) 
+alerts: 11 anagrams: aelrst (1) alters (1) artels (1) estral (1) laster (1) ratels (1) salter (1) slater (1) staler (1) stelar (1) talers (1) 
+alters: 11 anagrams: aelrst (1) alerts (1) artels (1) estral (1) laster (1) ratels (1) salter (1) slater (1) staler (1) stelar (1) talers (1) 
+artels: 11 anagrams: aelrst (1) alerts (1) alters (1) estral (1) laster (1) ratels (1) salter (1) slater (1) staler (1) stelar (1) talers (1) 
+estral: 11 anagrams: aelrst (1) alerts (1) alters (1) artels (1) laster (1) ratels (1) salter (1) slater (1) staler (1) stelar (1) talers (1) 
+laster: 11 anagrams: aelrst (1) alerts (1) alters (1) artels (1) estral (1) ratels (1) salter (1) slater (1) staler (1) stelar (1) talers (1) 
+ratels: 11 anagrams: aelrst (1) alerts (1) alters (1) artels (1) estral (1) laster (1) salter (1) slater (1) staler (1) stelar (1) talers (1) 
+salter: 11 anagrams: aelrst (1) alerts (1) alters (1) artels (1) estral (1) laster (1) ratels (1) slater (1) staler (1) stelar (1) talers (1) 
+slater: 11 anagrams: aelrst (1) alerts (1) alters (1) artels (1) estral (1) laster (1) ratels (1) salter (1) staler (1) stelar (1) talers (1) 
+staler: 11 anagrams: aelrst (1) alerts (1) alters (1) artels (1) estral (1) laster (1) ratels (1) salter (1) slater (1) stelar (1) talers (1) 
+stelar: 11 anagrams: aelrst (1) alerts (1) alters (1) artels (1) estral (1) laster (1) ratels (1) salter (1) slater (1) staler (1) talers (1) 
+talers: 11 anagrams: aelrst (1) alerts (1) alters (1) artels (1) estral (1) laster (1) ratels (1) salter (1) slater (1) staler (1) stelar (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+a: 12/12 = 100.0%
+e: 12/12 = 100.0%
+l: 12/12 = 100.0%
+r: 12/12 = 100.0%
+s: 12/12 = 100.0%
+t: 12/12 = 100.0%

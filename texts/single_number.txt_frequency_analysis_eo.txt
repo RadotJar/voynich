@@ -1,0 +1,13 @@
+Summary
+-------
+Number of words: 1
+Number of unique characters: 4
+Longest word: 2543 (4 characters)
+Average word length: 4.0
+--------------------
+Character frequencies
+--------------------
+2: 1.0
+5: 1.0
+4: 1.0
+3: 1.0

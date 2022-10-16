@@ -1,0 +1,36 @@
+Summary
+-------
+Number of words: 24
+Number of unique characters: 27
+Longest word: quick (5 characters)
+Average word length: 3.4583333333333335
+--------------------
+Character frequencies
+--------------------
+e: 11.0
+o: 10.0
+t: 8.0
+h: 7.0
+d: 7.0
+a: 4.0
+g: 4.0
+n: 3.0
+f: 3.0
+x: 3.0
+T: 2.0
+u: 2.0
+i: 2.0
+r: 2.0
+m: 2.0
+s: 2.0
+q: 1.0
+c: 1.0
+k: 1.0
+b: 1.0
+w: 1.0
+j: 1.0
+p: 1.0
+v: 1.0
+l: 1.0
+z: 1.0
+y: 1.0
