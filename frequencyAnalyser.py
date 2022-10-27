@@ -35,6 +35,10 @@ def main():
     output_lines.append("--------------------\n")
     char_freq_list = list(zip(characters, frequencies))
     char_freq_list.sort(key=lambda x: x[1], reverse=True)
+
+    #if(input["voynich"]):
+     #   char_freq_list = char_freq_list[0:34]
+
     for (character, frequency) in char_freq_list:
         output_lines.append(character + ": " + str(frequency) + "\n")
 
@@ -162,7 +166,7 @@ def plotting(char_freq_list, fileName) :
     characters, frequencies = zip(*char_freq_list)
     # Plotting Frequency Analysisimport matplotlib.pyplot as plt
     freq = plot.figure(figsize=(20, 10))
-    plot.bar(characters, frequencies)
+    plot.bar(characters, frequencies, color='black')
     plot.xlabel("Character")
     plot.ylabel("Number of Occurences")
     plot.title("Frequency Analysis of " + fileName)

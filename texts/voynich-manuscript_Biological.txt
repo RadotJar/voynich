@@ -1,0 +1,1183 @@
+<f75r>     <! $Q=M $P=A $F=a $B=1 $I=B $L=B $H=2 $C=2>
+# page 147
+# biological
+# Currier's language B, hand 2
+# 2 lakes and 14 nymphs
+#
+<f75r.1,@P0>      <%>kchedykary.<->okeey.qokar.shyk,chedy.qotar.shedy
+<f75r.2,+P0>      dain.shey.ly.<->ssheol.qol{chh}dy.chedykar.chekeedy.ror
+<f75r.3,+P0>      qokain.chal.<->orchey.qey.kain.sheeky.ltain.olkar.or
+<f75r.4,+P0>      dackhy.lkamo.<->ykeey.lshey.kal.dy.shey.ok.shey.qokeedy
+<f75r.5,+P0>      shey,kar.chey.<->ckhey.r.ain.ol.olsheedy.qokeey.qoky
+<f75r.6,+P0>      pcheykeeor.olky.<->dar.okey.qokain.chcthy.qokeedy.qoky
+<f75r.7,+P0>      pchedy.qokshdy.<->ytain.chedy.qokar.chy.lol.chedy.qoky
+<f75r.8,+P0>      sor.chey.qokardy.<->dsheckhy.qokain.chckhy.lshedy.okeedy
+<f75r.9,+P0>      qokchdy.chcthy.lo.<->qokedy.qokan.checkhy.qokar.olchedy.sal
+<f75r.10,+P0>     dshor.qotar.chdy.<->shey.qokain.chckhy.dy.otey.tedy.lchedy
+<f75r.11,+P0>     qokeedy.qokair.oly.<->qokeedy.dy.qokal.okar.shedy.dor.chekam
+<f75r.12,+P0>     ssheckhy.qokal.oly.<->shey.r.ol.cheey.shey.dy,olshedy.qoky
+<f75r.13,+P0>     pchedy.keedy.qokedy.<->qokedy.qokedy.qokedy.qokain.olshedy
+<f75r.14,+P0>     sain.al,keishy.qokain,dy.<->olshedy.qokain.chckhy.qokain.otar,aly
+<f75r.15,+P0>     sain.qokain.qolkeeoly.<->saiin.chedy.<->sol.or.shedy.okchdy.qoky
+<f75r.16,+P0>     dshedy.qokar.sheedy.lch.<->shokain.chy.<->okshedy.qokain.chedy
+<f75r.17,+P0>     pchedar.shepchy.lshedary.<->dal.<->shal.<->shy,kol.shedy.qokam
+<f75r.18,+P0>     sol.sheedy.qol.shedy.qol.<->otain.char.sar.oly
+<f75r.19,+P0>     qokshedy.qol,shey.qoky.<->shey.{ith}ey.qokain.ar
+<f75r.20,+P0>     ry,shey.qor.chey.lchey,lo.<->ydain.shey.qokain
+<f75r.21,+P0>     oqokain.chey.qckhsy.or.<->ysheor.ol.lor.am
+<f75r.22,+P0>     odar,shey.qokain.chedy.<->or,shey.kar.chedy,sar
+<f75r.23,+P0>     pchey,kshey.qokeey.qokal.<->sshey.qol.chedyqokam
+<f75r.24,+P0>     qokain.olkeey.qolkary.<->sain.checthy.lor.ol
+<f75r.25,+P0>     sain.shckhy.qokeedy.shy.dy.<->qokeedy.lchedy.ram
+<f75r.26,+P0>     dain.ol.sheol.dain.ol.qoly.<->dar,ajy<$>
+#
+<f75r.27,+P0>     <%>pdalshor.shtol.qoty.pshar.shedy.okaldy.<->dar.otar.otody.dy.rol
+<f75r.28,+P0>     tchedy.pchedy.qokeey.sol.oldair.shecthy.qol.<->l.sheedy.qokeedy.lolchedy
+<f75r.29,+P0>     dain.chkal.dy.lo,lkaiin.ol.okeedyqol.dain.olchey.qokeedy.chedy.qotan
+<f75r.30,+P0>     qo,dain.cheeky.qokey.qokain.cheky.qokal.dain.chedy.o,kalol,shedy.okar,olom
+<f75r.31,+P0>     dshedy.qokey.chckhy.qokar.shedy.chey.qoked.qokedy.daldy<$>
+#
+<f75r.32,+P0>     <%>polshy.dal.shedy.qokain.dar.chsdy.shedy.qotar.shedy.ldy
+<f75r.33,+P0>     qokeey.l,shedy.qo,l.chedy.qokain.chcthedy.ltedy.darom
+<f75r.34,+P0>     s,olkedy.okal.dar.oty.okar.otar.ol,kain.oltedy
+<f75r.35,+P0>     qokain.sheety.qokain.dar.dar.shedy.qoka[in:r].oldy
+<f75r.36,+P0>     sol.keedy.qokeedy.qokey.okar.otar.dardardy
+<f75r.37,+P0>     qokedy.dy.sheety.qokedy.qokeedy.qokechdy.lol
+<f75r.38,+P0>     qokeedy.qokeedy.qokedy.qokedy.qokeedy.ldy
+<f75r.39,+P0>     yshedy.qokeedy.qokeedy.olkeedy.otey.koldy
+<f75r.40,+P0>     dar.shedy.qokain.shedy.dal,keedy.rshedy
+<f75r.41,+P0>     sokeedy.qokeedy.oteedy.qoky.dy,keedy.sy
+<f75r.42,+P0>     dshedy.qokedy.qokeedy.qoteey.qoteedy.d[o:a]r
+<f75r.43,+P0>     yshedy.chekar.oldy.qokain.chkar.otar,oldy
+<f75r.44,+P0>     dchedy.sain.okedy.qokedy.otedy.okoldy.otar.otam.olaiin.ch<->dar.dy
+<f75r.45,+P0>     sshedy.shckhy.qokey.okedy.sarol.oty.otedy.qotedy.otedy.okaiin
+<f75r.46,+P0>     qokey.qokedy.sheol.qokedy.dain.shedy.otol,chedy.ol[o:a]r<$>
+#
+# Text inside loop near top of page transcribed as block
+<f75r.47,@Pb>     <%>sal.okeedy
+<f75r.48,+Pb>     daly.ychey
+<f75r.49,+Pb>     sols.dara
+<f75r.50,+Pb>     ychty
+<f75r.51,+Pb>     saino
+<f75r.52,+Pb>     saldy
+<f75r.53,+Pb>     dainy<$>
+#
+#
+<f75v>     <! $Q=M $P=B $F=a $B=1 $I=B $L=B $H=2 $C=2>
+# page 148
+# biological
+# Currier's language B, hand 2
+# Oesophagus @ dissected stomach (GL) or water stream @ lake.
+# last character in first 5 lines aligned vertically reading slors
+#
+<f75v.1,@P0>      <%>pchedar.opchedy.qokedy.opchedy.qopdy.<->dain.chetas.ch{cphh}y.qotam
+<f75v.2,=L0>      s
+<f75v.3,*P0>      sor.sheky.qokain.okal.dal.olchedy.<->daiin.chckhy.lkar.chckhy,rom
+<f75v.4,=L0>      l
+<f75v.5,*P0>      dl.shckhy.kain.olchey.qokain.dalyrd.<->dl,shedy.qoteedy.cthedy.loly
+<f75v.6,=L0>      l
+<f75v.7,*P0>      qokchdy.qokal.dal.ol.chety.lchdy.<->shedy.ched.otedy.qotedy.otar
+<f75v.8,~L0>      o
+<f75v.9,+L0>      r
+<f75v.10,*P0>     qokeed.chedy,ky.okedy.lchedy.dar,ody.<->dchedy.dar.olchedy.otedy.qoky
+<f75v.11,=L0>     s
+<f75v.12,*P0>     qokedy.rshey.qol.chey.ol.chey.keed.<->sol.key.dy,kedy.qokal.dar.oly
+<f75v.13,+P0>     ocheain.cheedy.qokal.dain.sheeky.qoky.<->sshedy.tedy.otedy.tedy.taral
+<f75v.14,+P0>     qol.sheckhy.qokedy.qokedy.qokaly.<->sor,chedy.qoky.olshty.qokydy
+<f75v.15,+P0>     sal.ol.olain.olkey.olshed.qokaly.<->qokar.chedy.qokain.ty.lshdy,qo
+<f75v.16,+P0>     odchedy.qolshdy.shokshdy.qokain.?.<->or.shedy.qolol,keedy.qokalom
+<f75v.17,+P0>     sal.shed,ykain.qokain.sheckhy.ld.<->saiin.ckhy.lshedy<$>
+#
+# Text near nymphs treated as two-word labels.
+# That means 20 labels
+#
+<f75v.18,@Ln>     okshy
+<f75v.19,+Ln>     saral
+<f75v.20,@Ln>     dokal
+<f75v.21,+Ln>     darol
+<f75v.22,@Ln>     daldy
+<f75v.23,+Ln>     dal,shd
+<f75v.24,@Ln>     dalkar
+<f75v.25,+Ln>     qokal
+<f75v.26,@Ln>     dly
+<f75v.27,+Ln>     ory
+<f75v.28,@Ln>     oty
+<f75v.29,+Ln>     lchy
+<f75v.30,@Ln>     dary
+<f75v.31,+Ln>     dal
+<f75v.32,@Ln>     daldy
+<f75v.33,+Ln>     qoted
+<f75v.34,@Ln>     rkal
+<f75v.35,+Ln>     ykedy
+<f75v.36,@Ln>     olkchy
+<f75v.37,+Ln>     otoly
+#
+# Continue normal loci. Petersen counted the above as 11a and 12 so he's 1 out now
+<f75v.38,@P0>     <%>tolsheor.qokal.dar.olked.orol.kchey.okain.olchey.okar.sheky.dedy.kedy
+<f75v.39,+P0>     qoqokeey.olkain.qol,sheedy.qokeor.sheedy.qokal.or.chey.qokar.ol.aiin
+<f75v.40,+P0>     dlshedy.qokain.dal.qol.qol.ol.sheedy.cheey.dol.ol,sheey.qokain.olol
+<f75v.41,+P0>     sal.shedy.qokain.shey.qoin.ol,shey.ol.shey.qoky.qol,cheey.chl.or,sheolo
+<f75v.42,+P0>     o,l.sheey.qolshey.qokain.okaiin.charor<$>
+#
+<f75v.43,+P0>     <%>pokain.okeedy.or.chesy.solshey.qokeey.qotedy.olkedy.chey,tal.dy.qol
+<f75v.44,+P0>     olshees.ol,sheckhy.qokain.ol.chedy.qol.chedy.qol,keey.qolchedy.chealy
+<f75v.45,+P0>     yshey.qokar.olchedy.qor.oiin.okeedy.qokeed.qokeey.qokeey.otey.qoky.dy
+<f75v.46,+P0>     ychey.qotain.sheckhy.qokedy.qokedy.lsheckhy.qokain.dal.tol.olchedy
+<f75v.47,+P0>     qokain.olshey.qokain.dar.ol.shedy.qokedy.qokeedy.qotar.olshedy.oldy
+<f75v.48,+P0>     qokear.chedy.shckhy.dol.ycheedy.saino.ol.cheedy.qokar.otar.dal.daiin
+<f75v.49,+P0>     por.shey.okain.chedy.qolsheol.olchedy<$>
+#
+# Alignment of all following lines is very uncertain
+#
+<f75v.50,@Lt>     otal.opal
+<f75v.51,=Lt>     okeey.lol
+<f75v.52,=Lt>     olol
+<f75v.53,*Lt>     ytedy
+<f75v.54,+Lt>     otedy
+<f75v.55,+Lt>     oteey
+<f75v.56,+Lt>     qotedy
+<f75v.57,+Pb>     <%>okedy.qek,y,tedar.oly
+<f75v.58,+Pb>     s,alchedy.solkedy
+<f75v.59,+Pb>     qokeedy.qok[o:a]l.olkol<$>
+<f75v.60,@P1>     <%>kolkedy.qokedy.qoky.lpchdy.qotchdy.lol
+<f75v.61,+P1>     oksheyqolkeey.lchdy.soiin.ol.otchdy
+<f75v.62,+P1>     ykeechy.qokeedy.daiin.ol.olsheey.qoly
+<f75v.63,+P1>     oteey.qol,chey.qokey.oldy.olyly
+<f75v.64,+P1>     sshey.qol.dy.qokar.shey.ldy
+<f75v.65,+P1>     qokal.dain.dain.o,qoky.daiin
+<f75v.66,+P1>     okal.sheedy.qoteedy.qokchy,ly
+<f75v.67,+P1>     ykeedy.qokain.otain.shety
+<f75v.68,+P1>     o,cthey.shedy.otol.chckhey.ldy
+<f75v.69,+P1>     okeshey.olkedy.olkedy.qol,chey
+<f75v.70,+P1>     qokey.olchedy.otey.orol<$>
+#
+#
+<f76r>     <! $Q=M $P=C $F=b $B=2 $I=B $L=B $H=2 $C=2 $X=S>
+# page 149
+# text only
+# reversed in Brumbaugh p114
+# Currier's language B, hand 2
+# has 'key-like' sequence, here transcribed as L0 labels
+# at approximately the right place reading: sdqsolkrs
+#
+<f76r.1,@P0>      <%>potchokor.chcfhdy.opshdy.qolp.chcphy.chcphdy.opshey.qofshy.opchdy.sain.as,y
+<f76r.2,+P0>      dshedy.qotddyar.cthar.chep.dain.okain.qokeor.shedy.qol.ain.sheals,qokeey
+<f76r.3,+P0>      yshey.qokeey.qokey.qokeed.okedy.shky.qotedy.otedy.shol,qoty.ol,chedy.aiiny
+<f76r.4,*L0>      s
+<f76r.5,=P0>      qokedy.qokeey.or,or.or.chkorol.otey.qokedy.lkedy.chdy.qokchdy.qokal.chdam
+<f76r.6,+P0>      solchedy.qokeedy.qopchedy.qokeeo.rol.shedy.qokedy.sheey.okees.al.al.chedain.dar
+<f76r.7,*L0>      d
+<f76r.8,=P0>      qoaiin.ches.okeedal.qoked.qokeey.shedy.chey.lkeedy.okey.dar.aiin.chekain.oldy
+<f76r.9,+P0>      shed.al,shckhy.[r:s],ain.chcphedy.ain.olkeey.lkar.ain.otchy.lkain.chedy.dar.daly
+<f76r.10,*L0>     q
+<f76r.11,=P0>     qotedshedy.qorain.oteedy.chedy.ol.chdy.raiiin.chekain.dain.chckhy,sal.oty
+<f76r.12,+P0>     solshedy.qool.qctheed.shdy.qa.ol.keey.dain.saiin.s.ar.shedy.qokeor,okeedy
+<f76r.13,+P0>     qokeedy.checthy.chckhey.okal.okaiin.sheckhey.okeedy.otey.dal.y,kal.chedy,sar
+<f76r.14,*L0>     s
+<f76r.15,=P0>     chorshedy.qoked.okees,al.ar.aiin.ar,ain.chckheed,lchedy.shedy.qolair.chedy
+<f76r.16,+P0>     qotes.chedy.shckhy.qokeey.okeey.kain.checkhy.qokeedy.qotey.qotain.chekair
+<f76r.17,+P0>     chey.chckh.shey.qeeey.chol.lkain.shedy.qokeedy.okain.chedy.okeed.qokaloro
+<f76r.18,*L0>     o
+<f76r.19,=P0>     dcheedy.qolchey.qokeey.qokeey.chedy.qokar.shedy.shedy.lshedy.qolchedy.otedyl
+<f76r.20,+P0>     dshedy.qo.chedy.lchedy.qokey.qolchey.qotain.chckhy.shckhy.lchar.okar.alchdy
+<f76r.21,+P0>     qokch[s:?]dy.okeey,lchedy.qo.olain.ot.shedy.qotaly.dar.sain.shedy.oleeed
+<f76r.22,*L0>     l
+<f76r.23,=P0>     sheedy.qokedy.chedy.chedy.qokain.chckhy.olchy.l,ain.shedy.olaiin.chedy,qokey
+<f76r.24,+P0>     dalshedy.qol,sheedy.qokaldy.chepy.dain.alolor.olain.chedy.shecthy.qokey.lor
+<f76r.25,+P0>     qoloin.chey.qokeey.lchedy.chckhy.chey,ky.chey.qolal.lklchey.lchedy.chey.llaiir,y
+<f76r.26,+P0>     shedal.shey.qokey.qolchedy.qolain.ain.chey.qokaiin.okain.cheedy.lchey,l,oly.dy
+<f76r.27,*L0>     k
+<f76r.28,=P0>     soin.sheey.chear.ol,aiin.chodaiin.qokaiin.chey.qokalchey.dal,chdy.dal.ytal
+<f76r.29,+P0>     qokar.shedy.shedy.qokar.shedy.qokain.dar.shey.lshcthy.okar.okain.y,laiin,y
+<f76r.30,+P0>     darchey.cheolchey.shcthy.chedy.qo.qokey.dalaiin.sheeky.qokain.olky.sain.chy
+<f76r.31,*L0>     r
+<f76r.32,=P0>     che[o:a],r.ain.okaiin.dain.chey.dalshedy.qokaiin.che[o:a]l.shy.chedy.rain.chedy.shy
+<f76r.33,+P0>     qokedy.lkey.kal.shedy.qopchey.qo,l,pchedy.okchy.chckhy.shey.lol.r,ol.sheey.dar
+<f76r.34,+P0>     cheor.shey.qoolkal,shedy.shedy.shey.shedy.ollchy.shlches.shcthy.sain.oly
+<f76r.35,+P0>     sain.shedy.lshey.qokal.chcthy.okeolor.cheol.otar.chedy.qol.chcthy.chckhy
+<f76r.36,+P0>     qok[a:o]l.shedy.sheol.cheol.alshy.chol,chdy.talor.ol,alor.chol.okeor,ar,o.oly
+<f76r.37,*L0>     s
+<f76r.38,=P0>     oteey.lchey.chey.olsheol.qokal.chal<$>
+#
+<f76r.39,+P0>     <%>polalchdy.pshedy.opchedy.qokas.yksheol.qokeedy.oty,lshed.chpsheedy.ytal
+<f76r.40,+P0>     qolchey.shckhy.qokey.lchy.opchey.dain.shdy.qokedar.olchdy.sor.oty.dy.lchedy
+<f76r.41,+P0>     sain.ar.okedy.lcheey.qokey.shckhy.otedy.qokal.shey,qoky.dain.chedy.qokchd[y:a]l
+<f76r.42,+P0>     dain.chey.lsh.daiin.chey.lchedy.qol[a:o]in.qotal.shedy.dy.shecthy.otalam
+<f76r.43,+P0>     sor.shey.qokey.qokar.sheeoldy.chol.oly.chaly.lol.chdy<$>
+#
+<f76r.44,+P0>     <%>poleedaran.shckhy.qoty.ykar.alol.lkaiin.ol,shedy.otain.okar.opar.kolpy
+<f76r.45,+P0>     y,shedy.qo.or.okain.shey.qokaiin.okeedy.qochy.as.[o:a]in.sheey.chckhy
+<f76r.46,+P0>     dain.shear.okedy.otedy.okedy.lchedy.chedy.okar.chedy.otarain
+<f76r.47,+P0>     dain.chckhy.[o:a]r,aiin.sheey.qockhey.olchdar.sheey.otedy.olain.oky
+<f76r.48,+P0>     saiin.shckhy.lkeedy.qoky.okain.ytain.oteedy.okedor.shedy.qokal
+<f76r.49,+P0>     saiin.olaiin.oky.shol.sain.oky.l,kar.chedy.lkar.al.loral
+<f76r.50,+P0>     [p:f]chedy.@174;.sal.dol.shdy.olkedy.qokaiin.otal.rory<$>
+#
+<f76r.51,+P0>     <%>qkor.shedy.shey.keedy.sal.raiin.opchdy.dar,chedy.qopchedy.ro[r:s]ol
+<f76r.52,+P0>     olsheed.qokedy.qokeedy.qokedy.lkedy.lsheedy.okar.shedy.otain
+<f76r.53,+P0>     saiin.qol.shedy.ol.chedor.chal.shed.qoteedy.dshdy.okal.chedyl
+<f76r.54,+P0>     dal,or,chedy.qolaiin.okedal.olchedy.chdol.olchedy.choly.aiin,y
+<f76r.55,+P0>     sain.sheey.or.ar.al.solshey.okeedy.ldaiin.checkhey.okedalor
+<f76r.56,+P0>     qokaiin.ol.shedy.qokeey.or.shdy<$>
+#
+#
+<f76v>     <! $Q=M $P=D $F=b $B=2 $I=B $L=B $H=2 $C=2>
+# page 150
+# biological
+# Currier's language B, hand 2
+#
+<f76v.1,@P0>      <%>polarar.okor.opcheey.yteey.opchaly.lshedy.qofchdal.lkodol.<->opa,korols
+<f76v.2,+P0>      sshedy.keedy.cholkeeey.otedor.okor.shedy.chedy.qokeedy.oly.<->shey.qoyky
+<f76v.3,+P0>      dchedy.qokeedy.oteedy.chedaiin.chey.qokeedy.olkedy.ror.<->oteedy.okal
+<f76v.4,+P0>      salkeey.sor.shecthy.daiin.okor.chpchedy.{cp}chy.oty.olor.<->otchy.r,alchl
+<f76v.5,+P0>      s.otain.okain.chcthedy.qoteed.y.kedy.okedy.chedy.<->otedy.teyteg
+<f76v.6,+P0>      qotees.olkeey.okeedy.qoeeedy.chckhey.sheor.aiin.otar.<->cheedy.lchedy
+<f76v.7,+P0>      doteey.qo.okaiin.oteedy.otedy.cheolchdy.okeedy.otedy.qokedy.okedar.da
+<f76v.8,+P0>      qokeedy.ochedy.roiin.sheedy.qokeedy.okeedy.olor.okeedy.qolkchey.r,[o:a]l
+<f76v.9,+P0>      sheor.chey.ral.cheey.r.al.cheedy<$>
+#
+<f76v.10,+P0>     <%>cphdor.shedal.qopchdy.dshedy.shedy.tchedy.lsheetal.shecphy.daiin.dy
+<f76v.11,+P0>     cheor.sheedy.daiin.oekeedy.qokeey.qokedy.oteedy.shedy.qokedy.shedam
+<f76v.12,+P0>     solsheol.sheey.lteedy.qokeedy.qotal.chedy.checthy.otedeey.qokol.chedy.deey
+<f76v.13,+P0>     saiin.sheedy.qol.sheedy.okeeedy.qoteedy.chedy.qotedy.oleeedy.qoteedy.lo
+<f76v.14,+P0>     qokeedy.qol.cheedy.otedy.cthedy.otedy.qoteedy.shcthedy.qoeekeedy.deedy
+<f76v.15,+P0>     tchedy.lsheedy.chedal.chedy.checthey<$>
+#
+<f76v.16,+P0>     <%>polshdal.otedair.opshedal.qokedy.shedy.fschedal.tsheokeedy.oshepols
+<f76v.17,+P0>     sar.olkeey.shokaiin.sheolol.otedy.qekchdy.qoeeedy.qokedy.lkedy.chdy
+<f76v.18,+P0>     lshey.qockhedy.qodeey.qolkeedy.qokedy.chol.chedchey.daiin.olkedy
+<f76v.19,+P0>     or,as.sheey.otar.shedy.otchedy.checkhey.olchedy.checkhy.checkhy.lky
+<f76v.20,+P0>     dol.sheetey.qokedy.ol.checkhy.lshedy.qokeedy.cheedy.qokeedy.shl.loiii@175;
+<f76v.21,+P0>     cthedy.oteol.chdar.chckhy.chees.s[a:o]lkchdy.chey.lcheedy.lchedy.qoteedy
+<f76v.22,+P0>     sol,shey.qotedy.chey.dytey.teedy.lchey.qokedy.chedy.lal,chedy.lchedy
+<f76v.23,+P0>     dchedy.qokeedy.qotchy.qokol.shedy.shedy.chedy.olched[?:r].shetey.saiin
+<f76v.24,+P0>     qokeey.lsheey.dal.lchedy.olshey<$>
+#
+<f76v.25,+P0>     <%>psheoldy.opalshedy.qokshedy.qokedy.dor.shey.opchedy.dal.so,fcham
+<f76v.26,+P0>     dshol.qokaiin.ches.daiin.checkhy.oteoldy.qokeey.chckhy.lar,aly
+<f76v.27,+P0>     daiin.shckhey.qokeedy.saiin.chek.ain.r.ain.o.kan.chl[a:o]iiin
+<f76v.28,+P0>     saiin.sheckhy.cheolchey.qokedy.sair.sheckhy.l,keedy.lchedy
+<f76v.29,+P0>     sar.sheedy.qokeedy.qolkey.lchdy.schees.shees.al,ches.okaiin.alaldy
+<f76v.30,+P0>     tchedy.lshees,aiin.chees.tchy.rshed.chkaiin.sheky.shtal,cheedy.lsan
+<f76v.31,+P0>     sair.shekaiiin.shets.aiiin.shety.otey.okaiin.otedy.qotar.chedy
+<f76v.32,+P0>     tain.sheey.qotain.chedy.qokaiin.chedy.taiin.chckhedy.otol.oty
+<f76v.33,+P0>     saiin.otaiin.shckhedy<$>
+#
+<f76v.34,+P0>     <%>sakaiin.okeedy.chedy.qotain.cphey.opcheey.oty,saiin.otary
+<f76v.35,+P0>     ychees.alchedy.qokeedy.lshedy.tolchedy.lchedy.qoky.saiin.olor
+<f76v.36,+P0>     daiin.cheol.teey.lshety.okeey.qeedy<$>
+#
+<f76v.37,+P0>     <%>qoeedy.lchedy.chees.ol,oiiin.chchky.shekeey.qokey.qoky.saiin,sy
+<f76v.38,+P0>     saiin.chedy,shedy.qokeedy.lol,saiiin.qokain.chey.r.al.r.aiin.dl
+<f76v.39,+P0>     sshey.lshedy.qokaiin.shedy.okedy.san,ol,keedy.sor.qoky,dedy
+<f76v.40,+P0>     sol,shedy.qoky.daiin.shedy.chey.qokaiin.cheedy.qo.char,aiin
+<f76v.41,+P0>     sol.shey.chedy.qokedy.chedy.qol.r.aiin.shedy<$>
+#
+#
+<f77r>     <! $Q=M $P=E $F=c $B=3 $I=B $L=B $H=2 $C=2>
+# page 151
+# biological
+# Large blood vessels (GL)
+# Currier's language B, hand 2
+# Labels 1-10 cf. Petersen but put in order of page
+#
+<f77r.1,@Ln>      darchdar
+<f77r.2,+Lt>      olkchs
+<f77r.3,=Lt>      otedy
+<f77r.4,~Lt>      otork
+<f77r.5,=Lt>      otol
+<f77r.6,~Lt>      dchdy
+<f77r.7,~Lt>      soral
+<f77r.8,~Ln>      dotedy
+<f77r.9,@P0>      <%>poldarais,ol.qokol.chey.qopchedy.qopchedy.dylches.olkedy.loly
+<f77r.10,+P0>     tolchd,ar.shey.qotaiin.qotedy.qokol.chdy.qokain.chetey.sal
+<f77r.11,+P0>     qoteedy.qokaiin.shedy.chol.shedy.shcthey.qokeedy.oteedy.cham
+<f77r.12,+P0>     solteedy.qoteedy.qodeedy.chedaiin.chedy.shedaiin.she[a:o]lol.ched
+<f77r.13,+P0>     qokeedy.qol,sheedy.shol.tedy.chedy.lsheedy.qokedy.qolal.chedy
+<f77r.14,+P0>     sokcheey.sain.sheeol.qoteedy.qokaiin.shedy.qokeedy.qotedy
+<f77r.15,+P0>     qokeedy.shedy.qotol.shedy.qokaiin.sheety.qokeed,y.lchedy,lol
+<f77r.16,+P0>     sshedy.qotaiin.chedy.qokaiin.shedy.qolcheedy.qokeedy.lol
+<f77r.17,+P0>     qoteedy.qoteedy.qokedy.sheed.qeey.saiin.sheety.qokeedy,lol
+<f77r.18,+P0>     daiin.cheedy.lshey.qo,l,or.chees.sheckhedy.qol.cheedy.qotaiin
+<f77r.19,+P0>     qokeedy.lchey.lsheey.qokeedy.qokeedy.qokar.qokeey.laiin.chey
+<f77r.20,+P0>     qotain.sheal.qokeedy.qoteey.qokain.sheey.qotedy.dalchedy
+<f77r.21,+P0>     chedaiin.shedy.qokeedy.qokedy.qokeey.chedy.shear.olaiiny
+<f77r.22,+P0>     qoteedy.al.lchedy.r.oin.chy.chedaiin.cheey.okedy.qoky
+<f77r.23,+P0>     sheoky.qokaiin.chedy.lchedy.olshedy.qokeedy.chedy.qok[a:o]l
+<f77r.24,+P0>     daiin.dol,shor.cphey.lfcheal.shear.qolchy<$>
+#
+<f77r.25,+P0>     <%>otedy.qokar,shedy.qokal.shedar.dal,chedy.daror
+<f77r.26,+P0>     qoteedy.qokeedy.qokaiin.chcthy.lchedy.qokaly
+<f77r.27,+P0>     solchedy.qokain.okaiin.shedy.qokeedy.qotedy
+<f77r.28,+P0>     olchey.qotey.qokain.olcheedy.sar.lom
+<f77r.29,+P0>     saiin.cheeol.qokeedy.qokeedy.qotal
+<f77r.30,+P0>     qokaiin.chckhey.sa,iin.qolkain.cheeky.lol
+<f77r.31,+P0>     qokain.chckhy.qokeey.qotedy.qotedy.qotary
+<f77r.32,+P0>     qor.ain.cheol.ol.chealor.cheey.qet[eiiin:aiin].d[a:y]ry
+<f77r.33,+P0>     daiin.chedy.qol,keedy.qoteeedy.sar.oiiiin.cheety.dy
+<f77r.34,+P0>     qokaiin.shedy.chedy.qolchedy.qokaiin.qokaiin.checkhy.raiin
+<f77r.35,+P0>     solkeey.okaiin.chedy.qokain.sheedy.qokaiin.chedaiin.chealy
+<f77r.36,+P0>     dshedy.pchedy.qotain.chedy.d[o:a]lchl.qokeedy.qokol,olchey
+<f77r.37,+P0>     teeolain.chey.qoteedy.qokain.cheedy.cheey.lchedy<$>
+#
+<f77r.38,+P0>     <%>pol.shedy.qoeedy.qokaiin.chcphey.qol.ltaiin.shedy.qol
+<f77r.39,+P0>     olaiin.cheey.sheckhey.lsheey.qykaiin.sheedy.laiin
+<f77r.40,+P0>     daiiin.ol,eeedy.okaiin.sheeol.qotaiin.shody.qoty
+<f77r.41,+P0>     daiin,sh.qolchey.qotedy.qotal.r,ain.chl.s.arol
+<f77r.42,+P0>     qokeedy.qotedy.qokeedy.qokeedy.qokeey.[s:r],aiin.al
+<f77r.43,+P0>     d,chee,ol.cheedy.qotaiin.qoteedy.qotedy.raiin
+<f77r.44,+P0>     sheey.qepchedy.qol.cheedy.qokear.cheey.loly.dy
+<f77r.45,+P0>     qokaiin.ches.lchear.dal.chr.sl,s,ain.ol.raiin.lod
+<f77r.46,+P0>     daiin.chlchpsheey.tal.cheol.dag.as,otey.daiin
+<f77r.47,+P0>     ysheey.dal.saiis[o:a]l.sal.dalo.tain.dary.dalo
+<f77r.48,+P0>     sodar.oloky<$>
+#
+<f77r.49,@Ln>     otchdy
+<f77r.50,@Lt>     otolaiin,o
+#
+#
+<f77v>     <! $Q=M $P=F $F=c $B=3 $I=B $L=B $H=2 $C=2>
+# page 152
+# biological
+# Currier's  language B, hand 2
+# Kahn p865, Kraus XXIX
+# ladies in tubes
+# Uterus @ ovaries (top)? Intestines (right)? (GL)
+# First label numbers equal to Petersen's minus 7 because he counts
+# the nymphs first
+#
+<f77v.1,@Lt>      okain.y,kal
+<f77v.2,=Lt>      otol.shedy
+<f77v.3,=Lt>      olkeedal
+<f77v.4,@Lt>      otolor
+<f77v.5,=Lt>      [o:a]rchedal
+<f77v.6,@P0>      <%>qetedy.shedy.qotol.odal.chal.dar.qopshedy.qotedy.qotedy.qokedy.dal
+<f77v.7,+P0>      olshedy.qolsheedy.qy,r{oh}r.ycheedy.okedy.lshedy.chs.shdal.chedy.qolky
+<f77v.8,+P0>      qokeeey.shedy.qokeedy.qodykey.qokedy.rsheedy.taiiin.sheol.teedy.yry
+<f77v.9,+P0>      dcheol.kshey.qolchshy.cheol.olchedy.ol.chs.ol,sheedy.qokedy.chedy
+<f77v.10,+P0>     tchedar.alain.checkhy.sal.shedy.qokal.chedy.qokedy.qol.shedy.lol
+<f77v.11,+P0>     qockhy.dol,chdy.dsheedal.qokal.chedy.dal,shedy.qokeedy.dal.olchy
+<f77v.12,+P0>     lchedy.shedal.qokedy.okal.chedy.qokal.shedy.chedy.qol.chdy.lam
+<f77v.13,+P0>     sor.sheol.chdy.qokeedy.dar.shedy.chedy.qokal.chedy.qokey.lshedy.dal
+<f77v.14,+P0>     darcheedal.qeedy.qeedeey.olchey.lchey.qedy.or,cheey.qol.rar.ar
+<f77v.15,+P0>     qol,kaiin.shey<$>
+#
+<f77v.16,+P0>     <%>tedal.daiin.okaiin.shedy.qokedy.qokain.otedy.dasy
+<f77v.17,+P0>     olchedy.qol,shedy.qokchedy.qokeey.daiin.olol
+<f77v.18,+P0>     qokaiin.sheol.ekedy.qokey.qokal.dal.daly
+<f77v.19,+P0>     qoraiin.shey.qokaiin.chal,aiiin.chedy.qol
+<f77v.20,+P0>     daiin.salchedy.qokedy.qokal.shed,keoly
+<f77v.21,+P0>     qokal.salchedy.shey.fchor.qotas,olky.darory
+<f77v.22,+P0>     dalchey.qol.chedy.oqokain.olkaiin.chckhy.qokal.dar
+<f77v.23,+P0>     qokal.chees.ol.shedy.doraiin.ol.qoky.ches.ol,dal
+<f77v.24,+P0>     daiin.sheekey.qokeedy.daiin.dail.qokedy.qokedy.[r:s]ol
+<f77v.25,+P0>     lchor.oiiin.shedy.qokaiin.saiin.dal.sheedy.qokeedy.[r:s]al
+<f77v.26,+P0>     dairol.shedy.rchy.sheor.qokedy.qoky.chckhy.qokchy.ldol
+<f77v.27,+P0>     tshedy.qokain.chedal.fchedy.cheky.sain.chedy.qokain.ol
+<f77v.28,+P0>     ychedy.qokedy.qoked.ol,sheor.olchdy<$>
+#
+<f77v.29,+P0>     <%>tch[a:y]dchy.lshedy.daly.dal.dsheedy.pcheol.lfol.ol,cheedy.qoty
+<f77v.30,+P0>     shey.ol.sheey.qokedy.lchedy.qokaiin.dal.daiin.chedy
+<f77v.31,+P0>     qoa[s:r].shedy.qokaiin.shcthy.qotedy.rchr.oltedy.lchy
+<f77v.32,+P0>     ycheey.qolshedy.qokalchedy.qokaiin.checkhy.qokal
+<f77v.33,+P0>     qokaiin.cheky.rar.chedy.qokal.dar.y.qotal.dal.rain
+<f77v.34,+P0>     solkchedy.shar.ytal.dy.dychedy.lkchey.qokedy.rched
+<f77v.35,+P0>     tcho[r:s],sheey.qokain.qokain.sheol.qokeedy.qokal.dary
+<f77v.36,+P0>     qotchy.qokal.shedy.qokedy.lchedy.qokedy.qol.raiin.chey
+<f77v.37,+P0>     schedy.qotar.sarolsheedy.qokain.cheey.roiin.daiin.shey
+<f77v.38,+P0>     toldal.shedy.qokedy.qokain.dolcheedy.[r:s]olchedy.qokedy
+<f77v.39,+P0>     dcheol.kchedy.so{ikh}ey.qokal.qokal.shedy.sholdy.qotal.dar
+<f77v.40,+P0>     qokeey.rol.chdor.cheey.qokaiin.saiin.shedy.qokeedy.qokam
+<f77v.41,+P0>     chedy.lchedy.lkaiin.dy.qokal.dar.chdain.ldchey.ol,raiin.oldy
+<f77v.42,+P0>     tcheey.qokeey.qokal.lchedy.cheolkaiin.okol<$>
+#
+<f77v.43,@Ln>     saroral
+<f77v.44,@Lt>     okalo
+<f77v.45,@Ln>     o?eoedu
+#
+#
+<f78r>     <! $Q=M $P=G $F=d $B=4 $I=B $L=B $H=2 $C=2>
+# page 153
+# biological
+# Newbold plate V, Kraus XXIX, Kraus Autobiog p220
+# Currier's language B, hand 2
+# Two "ponds" with ladies and tube sections carrying something (GL)
+# Petersen's ID numbers in comments whenever this may be helpful
+#
+<f78r.1,@Lt>      <!16>okchdldlo
+<f78r.2,@Lt>      <!17>okchdy
+<f78r.3,@P0>      <%>tshedor.shedy.qopchedy.qokedy.dy,qokol.oky
+<f78r.4,+P0>      qokeedy.qokedy.shedy.tchedy.otar.olkedy.dam
+<f78r.5,+P0>      qckhedy.cheky.dol.chedy.qokedy.qokain.olkedy
+<f78r.6,+P0>      yteedy.qotal.dol,shedy.qokedar.chcthey.otor.dor.or
+<f78r.7,+P0>      qokal.otedy.qokedy.qokedy.dal.qokedy.qokedy.s,@176;am
+<f78r.8,+P0>      dshedy.qokedy.okar.qokedy.shedy.ykedy.shedy.qoky
+<f78r.9,+P0>      schedy.keedy.qokedy.chckhd.qokain.chedy.qotedy.dy
+<f78r.10,+P0>     dshedy.deedy.qokeedy.otedy.otal.tedy.otey.ol[o:a]iin
+<f78r.11,+P0>     qoky.okeedy.sheety.qoteedy.otey.shckhedy.sokol.or
+<f78r.12,+P0>     dor.shekedy.qokol.kechdy.otedy.ol.tedy.chckhedy
+<f78r.13,+P0>     qokedy.ol,kedy.qokain.okedy.kedy.tol,dy.qot[ee:ch]dy,dy
+<f78r.14,+P0>     sor.checkhy.or.chckhdy.dol.kedy.qokededy.qokan.ol
+<f78r.15,+P0>     dchckhedy.qokchdy.qokedy.okedy.dal,or.okeed.olkain
+<f78r.16,+P0>     qokol.oted.okain.ched.ar.alory
+<f78r.17,+P0>     soiin.kar.kedy.pche'y.tchdoltdy
+<f78r.18,+P0>     o,l,chedy.qokain.dar.ar.okain
+<f78r.19,+P0>     y.che[s:?].aiin.okeedy.qokain.chl
+<f78r.20,+P0>     sol,shedy.dalshdy.qokychdy
+<f78r.21,+P0>     lchedy.qokain.cheeky.lokedy
+<f78r.22,+P0>     yched.qokain.daiin.chckhdy.lr
+<f78r.23,+P0>     sain.sheor.olkchdy.roiin.okeedy
+<f78r.24,+P0>     qokeedy.kedy.qokeey.qokedy.olol
+<f78r.25,+P0>     sokeedy.keol.lorain.olkeey.raiin
+<f78r.26,+P0>     sol,shey.kary.or,shedy.qeedar.ain,anl
+<f78r.27,+P0>     daiin.chckhal.daiil,aldy<$>
+#
+<f78r.28,+P0>     <%>@176;orain.ol.qokeedy.kchol.tchal,olkee.yfchey.ofchedy.taly
+<f78r.29,+P0>     ssheky.ol,kedy.chckhy.dain.oty.qokor.oky.dain.chy.<!corr?>ol
+<f78r.30,+P0>     qokeedy.qokey.daiin.olkain.dal.chedy.ololdal.chcht[y:?].tedy
+<f78r.31,+P0>     solkeedy.sheckhy.qokedy.otal,shedy.otar.olchedy.cthdy
+<f78r.32,+P0>     qokedy.ckhdy.qokain.chedy.dalky.lkain.ykeedy.okaly.dy
+<f78r.33,+P0>     ytedy.daiin.ykedy.y,olsheey.qokeey.okal.ol,keedy.dyky
+<f78r.34,+P0>     dshedy.qokeedy.qopchedy.qokaly.dar.okaiin.o,keeal.am
+<f78r.35,+P0>     y.sain.checkhy.qokain.cheeky.daiin.daiin.y,tees.ol,y
+<f78r.36,+P0>     qotchedy.lchedy.lchedykedy.qol.<->saiin.ckhain.or
+<f78r.37,+P0>     osal.ol.s.aiin.shee'.aiin.oly
+<f78r.38,+P0>     sar,aiin.oteedy.ol.aiin.chedy
+<f78r.39,+P0>     qotaiin.qokaiin.o[t:k]edy.l,keedy
+<f78r.40,+P0>     shedy.qol.shedy.qokaiin.d,@206;ol
+<f78r.41,+P0>     ykain.chdar.chedy.qokain.dy
+<f78r.42,+P0>     dain.chfaiin.opaly.kotaly
+<f78r.43,+P0>     lchedy.pchedy.qokaiin.d[a:o]r<$>
+#
+<f78r.44,@Lt>     <!18>dar,alo{ifh}y
+<f78r.45,@Lt>     <!19>dchedaly
+<f78r.46,@Lt>     <!20>otarodla'y.<-><!21>orory
+<f78r.47,@Lt>     <!22>okaral
+#
+#
+<f78v>     <! $Q=M $P=H $F=d $B=4 $I=B $L=B $H=2 $C=2>
+# page 154
+# biological
+# Currier's language B, hand 2
+# 9 ladies in an odd-shaped bathtub
+# B@R p88
+#
+<f78v.1,@P0>      <%>@177;ykedy.olfchedy.qokedy.spchy.chedy.rol.dor.ofchedy.qokedy
+<f78v.2,+P0>      olshedy.qokedy.rshedy.cthdy.otedy.kedy.dal,dal.dol.oty.dal
+<f78v.3,+P0>      qokedy.chety.qolshedy.okedy.dol,eesolchey.qotedy.ol,dam
+<f78v.4,+P0>      ol,chy.lshdy.lcheckhy.ol.keedy.lcheckhey.l,olkedykain,ol
+<f78v.5,+P0>      qor.olkeey.olkain.ol.chsey.ol.cheeky.dar.okal.dal.olchedy
+<f78v.6,+P0>      ety.okeey.or.{ch'}eey.ykeey.lchey.qokain.okedy.qokedy,qol
+<f78v.7,+P0>      otor.y,shedy.otedy.shedy.qokeedy.qokedy.otar.otedy
+<f78v.8,+P0>      qokedy.otedy.qokain.oteedy.qokeedy.dar.okedy.dkedy.dain
+<f78v.9,+P0>      y,cheolk,o,lkeedy.qokedy.ol,chedol.okeedy.qotedy.rorarol
+<f78v.10,+P0>     dshedy.qokedy.or,shedy.pchedy.qoke[@166;:ee]dy.okedy.opchedy
+<f78v.11,+P0>     qol.chedy.qol.okeey.ykal.ol.chdy.qokain.chcthy.daiin
+<f78v.12,+P0>     sheor.ol.qokaiin.shckhy.otaly.qolsheey.qokal,sain
+<f78v.13,+P0>     dchokol.chedy.qokedy.qokey.qol.chedy.qokeedy.lchey
+<f78v.14,+P0>     qolkeshdy.qol.shedy.olkedy.okol,chedy.qokain.dal
+<f78v.15,+P0>     cheey.qolchedy.qokey.or.cheef.chckhey.tedy.qokedy.ls
+<f78v.16,+P0>     lshey.r,shedy.d,qokedy.okey.lchedy.qokdy.daiin.oly
+<f78v.17,+P0>     qol.sheedy.qol.lcheol.lchdy.dchdy.da.qar.olkal.dy
+<f78v.18,+P0>     chedy.shckhy.qokedy.dal.lshckhy.qol,qol.oteedy.qor
+<f78v.19,+P0>     lchedy.ol.chedar.shedy.lor.shedaldy.orain<$>
+#
+<f78v.20,+P0>     <%>qofcheol.opchedy.qokain.op,chedy,lchey.cphar.ol.okalor
+<f78v.21,+P0>     chedy.lshedy.olshedy.otaiin.ol.qokar.shedy.yteedy
+<f78v.22,+P0>     [o:y]kol.shey.ol.shedy.okal.okchey.okeol.ol,chedy.qol
+<f78v.23,+P0>     qol.chedy.okeshy.qoteedy.okeedy.ol,shedy.qokedy,dy
+<f78v.24,+P0>     ytaiin.shedy.ol.sheedy.olshdy.shey.kshdy.shol.kedy
+<f78v.25,+P0>     teeol.olkeshey.qolcheol.ol.or.sheckhedy.<-><!next line intruding>or.ol.sham
+<f78v.26,+P0>     qokaiin.or.sheedy.otain.ol.shedy.sol.fchedy.otaldy
+<f78v.27,+P0>     lol.kar.shr.r.ol.ols.sheey.ol.chedy.oltar.olkaiin
+<f78v.28,+P0>     olkain.shey.qokey.okar.ol.oteedy.chcthy.los.aiin,d
+<f78v.29,+P0>     lchedy.otchey.qol.chedy.lr.al.s.aiiin.ol.shedy.ary
+<f78v.30,+P0>     sal.shol.sain.sheety.or.oiiin.okal.oltal.qokar.ary
+<f78v.31,+P0>     sor,ar,or.dchor.otaiin.otain.ytedy.olshdy.sholkal
+<f78v.32,+P0>     lol.cheor.sheol.dy.qokar.otalor<$>
+#
+#
+<f79r>     <! $Q=M $P=I $F=e $B=5 $I=B $L=B $H=2 $C=2>
+# page 155
+# biological
+# Currier's  language B, hand 2
+# 7 ladies in various pipe systems
+# B@R p88
+#
+<f79r.1,@P0>      <%>torain.shedy,pchor.or.shek.otarpchdy.opcholor.otal.shedy
+<f79r.2,+P0>      qoteedy.lshdy.otchedy.olshey.olshee.qol,sheey.qoteey.loly
+<f79r.3,+P0>      yshealdy.rshedy.qoteedy.chckhey.qo,y.chey.lchey.qokeey.rchedy
+<f79r.4,+P0>      teey.dar.qotar,sheds.sheekeey.qokeey.okey.qolshy.olchey.qoky.ol
+<f79r.5,+P0>      qokal.shedy.chcthy.or,chear.salchey.qol.shal.chey,l,cheol.chol,chy
+<f79r.6,+P0>      shol.okar.ol,olkeey.qokey.sain.olcheey.qol.chey<$>
+#
+<f79r.7,+P0>      <%>polchedy.qokar.shey.qokl.ol.cheey.qokain.chey.qoty.qokar
+<f79r.8,+P0>      qokol.cheedy.qokal.shed.ykchedy.chcthy.yoky.qokal.cholo
+<f79r.9,+P0>      saiin.shedy.psheedy.qokar.sheol.qolchey.qoty.qokal.qokam
+<f79r.10,+P0>     qokshedy.qokain.cheor.okol.sheeol.qote{cr}y.choty.otechys
+<f79r.11,+P0>     sho{ikh}y.chedy.tshey.dshdy.otch[a:?]r.shek.chcthy.otal.ory
+<f79r.12,+P0>     qokchy.qotchey.ldain.shedy.qotaiin.sal<$>
+#
+<f79r.13,+P0>     <%>pshorol.shckhy.qotshdy.qokaldy.opchedy.qotar.or,aiin,ol
+<f79r.14,+P0>     saral.qokain.checkhy.qotal.qol.cheey.chey.dain.chedy,qol
+<f79r.15,+P0>     qokl.shey.qokal.chedy.okol.dyty.r.aiin.ol.sheol.lchey
+<f79r.16,+P0>     shain.shckhy.qoly.kshedy.otal.sheey.qokain.shey.qokam
+<f79r.17,+P0>     qokaiin.shy.lsheey.ls,air.or.aror.otaiin.ches.olol.ol
+<f79r.18,+P0>     solor.olshey.qokaiin.chey.qokain.otain.otain.otal,ol,dam
+<f79r.19,+P0>     sol,cheey.chol.sain.oral.shey.qokain.sheyky.sho[t:k]y.oly
+<f79r.20,+P0>     y.shal.y,chedar.o{ikh}y.scthey.tal.chear<$>
+#
+<f79r.21,+P0>     <%>pol.shar.sharpchey.otshey.okaos<!corr?>.aiin.okshey.dalkeeeyry
+<f79r.22,+P0>     lchey.dal,sheedy.efchedy.otain.shey.qofchey.ol.dorchedchey
+<f79r.23,+P0>     da[s:r].shear.qotaiin.ol.lkain.otchedy.or.olkl.o.tshedy.otory
+<f79r.24,+P0>     qokshedy.qolkeey.qolkeedy.qokedy.otain.otchey.okain.y
+<f79r.25,+P0>     cholchey.qotshy.qol,shey.qokar.shedy.oteey.chcthy<$>
+#
+<f79r.26,+P0>     <%>polaiin.olteedy.qotchey.dykeedy.qokchdy.opchedy.shol.ory
+<f79r.27,+P0>     qokeedy.sheey.kas.cheey.olkaiin.ol.ory.cholor.oty.oky
+<f79r.28,+P0>     y.dolsheey.qokain.o,dain.yteey.chyteey.otoldy,lchey
+<f79r.29,+P0>     lcheey.qochey.qody.qokal.olor.okchd.dchol.dchy.oly
+<f79r.30,+P0>     y,shedy.qotal.ysheey.olor<$>
+#
+<f79r.31,+P0>     <%>polshey.oltshedy.sheol.ykeey.okeey.cheor,sheedy.ol
+<f79r.32,+P0>     sol.cheedy.qoteedy.okaiin.ol,olaiin.shey.daiin.ch?[y:?].ol
+<f79r.33,+P0>     daiin.shedy.qotshedy.oteeedy.oteedy.chey.qoka[in:i?].ol
+<f79r.34,+P0>     lcheol,kchedy.qotas.sheey.teol.oteedy<$>
+#
+<f79r.35,+P0>     <%>polchedy.shedy.qoteedy.qotain.ody.chckhes.otal
+<f79r.36,+P0>     sol.sheeol.ol.cheey.o[s:d].sheky.sheol.or.shear.oly
+<f79r.37,+P0>     lcheol.ol.ol,sheey.olsheey.sholkeey.okchey.dain
+<f79r.38,+P0>     pol.olkeeey.sheol.qokeey<$>
+#
+<f79r.39,+P0>     <%>polkeey.qokol.otshdy.olky.orkor.she{cphh}edy.olkal
+<f79r.40,+P0>     y,shedy.qokched.oltchey.otchot[a:o]r.ol.okaiin.chckhy
+<f79r.41,+P0>     qokain.shedy.qotain.oteedy.chkain.ol.ol.chedy.oly
+<f79r.42,+P0>     sain.ok[a:?]io.chedy.lkchedy.aiin.okain.oly.cheedy
+<f79r.43,+P0>     y,shey.qokain.cheol.qoky.daiin.chka[g:m].ar.cheedy.ldy
+<f79r.44,+P0>     ody.aran.okeey.dar,cheory<$>
+#
+#
+<f79v>     <! $Q=M $P=J $F=e $B=5 $I=B $L=B $H=2 $C=2>
+# page 156
+# biological
+# Guy p212, Bennett p188 (he calls it f 80), Poundstone p193, Zimansky;
+# Mermaid or lady being eaten or coming out of a fish.
+# Lady with parasol holding a cross.
+# One lady holding a ring
+# Currier's language B, hand 2
+#
+<f79v.1,@P0>      <%>poldshedy.olkory.qotolol.otaldy.[y:o]tedol,or.olorol
+<f79v.2,+P0>      qoteedy.qokchey.qoty.lshey.qokain.shey.qorchedy
+<f79v.3,+P0>      dolsheol.okchy.qokain.sheedy.qokshedy.qokeedy.otaram
+<f79v.4,+P0>      qokeedy.qokeedy.qotain.sol.chedy.rchey.qoky.lchedy
+<f79v.5,+P0>      qolkeedy.qokedy.qotal.saiin.ory.qokedy.oteedy.lcheam
+<f79v.6,+P0>      ycheckhey.r.ain.chedy.qokain.chedy.ol,shedy.dar,ytam
+<f79v.7,+P0>      qokshey.qokeedy.qol,kedy.qokeedy.qokain.solchedy
+<f79v.8,+P0>      ychedy.qotey.okedy.tedyol.sheedy.qokeey.qoteedy.lol
+<f79v.9,+P0>      sar.ol.sheey.qokeedy.qokechey.qol<$>
+#
+<f79v.10,+P0>     <%>pchedy.lsheckhedy.qokeey.qokaiin.olky.opchedy,pchedy
+<f79v.11,+P0>     olcheey.lchedy.qolkeedy.qokain.chckhy.otar.olkam<$>
+<f79v.12,+P0>     <%>pshdy.ofchdy.qokedy.qoteedy.qokedy.qoltedy.qotedy.oky
+<f79v.13,+P0>     dain.ar.olshey.dytain.qokain.checthy.okeedy.qokeedy.ror
+<f79v.14,+P0>     qokeey.qokedy.okeey.qokol.sheedy.qokeedy.rolchey.qokeedy
+<f79v.15,+P0>     yteedy.qokeedy.qokain.olkeey.cheokain.dy,teey.qokain
+<f79v.16,+P0>     dol.sheey.qol.olkshey.qokeedy.olkeedy.qol.okaiin.oly
+<f79v.17,+P0>     qol.sheey.chol.ol.dar.qokaiin.cheekey.qoky.otain.oram
+<f79v.18,+P0>     qokain.sheey.qokeey.teey.oteey.lcheey.qokeey.olkeedy.rchey
+<f79v.19,+P0>     ykail,shy.qolar,shey.qokedy.qokedy.qokedy.dar.olkain.cham
+<f79v.20,+P0>     dchedy.lchey.qety.shedy.okain,ykees,olkey.oty.shey.qoly
+<f79v.21,+P0>     dshey.qokal.sheedy.sheky.orain.otshdy.dain.cther.aror
+<f79v.22,+P0>     tshey.ykeey.r,ch,[?:k]ain.oroiiin<$>
+#
+<f79v.23,+P0>     <%>tolkey.okar.ol.okaiin.otylor.qokol.okeedy.dalary
+<f79v.24,+P0>     ycheear.o.oiin.oeedy.qotain.chedy.qokeey.oteey.qokeey,lol
+<f79v.25,+P0>     qokeey.ol.olshdy.qotain.oteedy.olkain.otshey.sain.ol
+<f79v.26,+P0>     ykeedy.okaiin.dykaiin.otedy.dkeey,tar.ol.otol.oiiiny
+<f79v.27,+P0>     odchey.kar.akain.opar.otain.olkey<$>
+#
+<f79v.28,+P0>     <%>pchey.ksheol.qokain.ofchedy.otalshdy.olkair.otaiin.okeedy
+<f79v.29,+P0>     dain.sheyteedy.lk[y:a].opchedy.qotedy.otey.tal.dain.oteey.oty
+<f79v.30,+P0>     qokain.sheeky.okar,okey.qokey.tedy.skain.oteedy,qoky
+<f79v.31,+P0>     yshees.aiin.o.ykeedy.qokeedy.qokar.oteedy.roltain
+<f79v.32,+P0>     olkeey.ol,or.ocheey.ol.ol,o,keeedy.checkhy.aror<$>
+#
+<f79v.33,+P0>     <%>por,ar,or.yteey.teey.okar.oshey.qoky,chey.okeey.ldy.oral
+<f79v.34,+P0>     ykeeey.qokeey.lshey.qoky,tchedy.orsheedy.otain.sheor.oly
+<f79v.35,+P0>     qor.cheey.kain.chl.ol.otol.dain.otain.ol.oteedy.qokan
+<f79v.36,+P0>     ysheey.ol,shey.oltshsey.sheepshey<$>
+#
+<f79v.37,+P0>     <%>pol.ol.shal,kain.okeey.lkeey.qokal.otchsdy.okeshdy
+<f79v.38,+P0>     olkeeey.qokeey.okeedy.shedy.qokeey.okain.sheckhdy.dag
+<f79v.39,+P0>     qokeedy.ykeey.sheey.or.or.aiin.yefaiin.ch{cthh}y.dor.yty
+<f79v.40,+P0>     qokees.aiin.okain.ol.oiin.qokoin.sheky.qokeedy.qokar.ol
+<f79v.41,+P0>     yshedy.qokeey.okain.ol,keey.daldy.chedy.raiin.orain
+<f79v.42,+P0>     okchedy.qokain.sheky.chedy.ol,ain,y,daral<$>
+#
+#
+<f80r>     <! $Q=M $P=K $F=v $B=5 $I=B $L=B $H=2 $C=2>
+# page 157
+# biological
+# Guy p213 (who calls it f80v), Bennett p189
+# Currier's language B, hand  2
+# queens on top
+#
+<f80r.1,@Ln>      toroly
+<f80r.2,=Ln>      olchdy
+<f80r.3,=Ln>      okaly
+<f80r.4,=Ln>      okolo
+<f80r.5,=Ln>      okary
+<f80r.6,=Ln>      opor
+<f80r.7,~Ln>      olky
+<f80r.8,=Ln>      otalshedy
+<f80r.9,~Ln>      okar
+<f80r.10,+Ln>     okan
+<f80r.11,@P0>     <%>pdol.fshedy.{q@207;}polkain.octhor.okchdy.qokeedy.qopcheol.<->olkoiin.y,darshey
+<f80r.12,+P0>     dykshy.ol,otchedy.qokain.qotain.chckhey.qokain.okal.qotain.okedy.qo,l,r
+<f80r.13,+P0>     tchedy.qotair.cheol.qokal.qokal.cheety.qokaiin.qokar.qokain.chedy.qokam
+<f80r.14,+P0>     solkain.shl.lky.chcthy.qokain.qotchy.qotal.dy.chckhy.lchey.qotar.otal
+<f80r.15,+P0>     qokedy.qokeedy.checkhy.olchedy.qokain.chey.qokechckhy.otar.cheoltain.sy
+<f80r.16,+P0>     solchedy.qokeedy.qokar.ol.chedy.qokain.shecthy.qokeedy.saltar.chkain.oty
+<f80r.17,+P0>     solky.sheckhy.sheky.shkeol.qokar.sheky.chetain.ol.olkar.okain.sheky.qokal.da[?:y]
+<f80r.18,+P0>     paiin.sheol.qokain.chety.qokeedy.qokar.shcthy.qotol.shecthy.qokain.olkam
+<f80r.19,+P0>     dcheol.shedy.qok[ee:a]l.qotaiin.chtal.schcthy.qokal.chcthy.qokain.okain.oloky
+<f80r.20,+P0>     qoteedy,keey.qokain.chckhy.qoty.dalched.otain.shedy.qokair.shey.dalom
+<f80r.21,+P0>     shedy.qokey.shckhey.qotar.chckhy.otol.teol.sheol.qotal.oltain.chcthy
+<f80r.22,+P0>     qokeedy.qol.shecthy.qokalkeol.qoky.qokal.shedy.sal.olkain.shey.qokl
+<f80r.23,+P0>     yshey.l.shey,kaiin.lor.aiiin.shcthy.pchey,ty.ol.keedy,tar.oky.lar
+<f80r.24,+P0>     lol.chey.[r:?]chy.r,ol.dain.oty.qoty.otalor.sheckhy.olkeey.ral.chedy[o:a]r
+<f80r.25,+P0>     dar.sheal.cheeky.okain.sol.lshedy.dol.checthy.orol.eeesal.olo.teol.ory
+<f80r.26,+P0>     lchol.dar.shecthy.otedy.qol.olcheedy.opcheeky.qotchy.qokaiin.otair.olky
+<f80r.27,+P0>     lol.shar.otaiin.olkaiin.ol.olkain.oraiin.olor.checthy.olor<$>
+#
+<f80r.28,+P0>     <%>pcheolkal.dal.korchy.qotey.qoty.rchedy.qokal.olkolshedy.chty
+<f80r.29,+P0>     okchey.qoky.chedy.qokain.shedy.qol.sheey.qokal.dar,ary
+<f80r.30,+P0>     dshedy.qokal.chcthy.qokain.shedy.okaiin.shey.dainol
+<f80r.31,+P0>     qokal.checthy.sol.chey.okalol.okaly.qokeedy.oly
+<f80r.32,+P0>     solchey.qoky.r.cheykain.sheckhy.qokain.okain.ol
+<f80r.33,+P0>     solchey.qokeey.lkar.otal.olkeey.okain.shecthy.ol<$>
+#
+# Stream of blue liquid
+<f80r.34,+P0>     <%>{c@132;h}{c@133;h}ey.rcheky.shepchedy.qokar.ol.qockhey.olchey.qokedy.koroiin.y
+<f80r.35,+P0>     olkeey.l,sheol.qokeey.shedy.qol.shedy.qokain.shey.qoty.qokain.qokady
+<f80r.36,+P0>     qokeey.rchey.tain.oteey.qokain.shekaiin.sheckhy.qolshey.qokain.ol.lom
+<f80r.37,+P0>     sol.olkeeey.otar.orchey.qokeey.ltalor.olor.qokaiin.ol.shey.qotor,alom
+<f80r.38,+P0>     sor.olky.qoty,ty,tor.sheyky.t,otol.opchedy.qokain.sheky.qokain.ol
+<f80r.39,+P0>     qokeedy.qokail.oteey.otain.shedy.ykeey.rar.[a:o]lshees<$>
+#
+<f80r.40,+P0>     <%>torolshsdy.opchey.shepchy.qotain.shcthy.qokedy.daly
+<f80r.41,+P0>     tolkain.otal.chedy.qokar.ol.shedy.checkhy.or,oly
+<f80r.42,+P0>     y,cheeytal.checthy.qokain.qokain.checthy.qokain.ol
+<f80r.43,+P0>     sor.sheckhy.qokar.checkhy.okain.sheckhy.qokeey.ly
+<f80r.44,+P0>     qokain.shckhy.qokolkain.chedy.qokain.checthy.lor
+<f80r.45,+P0>     okain.shedy.qokan.chedy.qotain.cheky.lteey.lolom
+<f80r.46,+P0>     qokain.cheey.olkain.shedy.qokain.orol.s<$>
+#
+<f80r.47,+P0>     <%>polchy.efaloir.okain.okaiin.cheey,kaiin.ylor.olkeey.qokal
+<f80r.48,+P0>     sal.shy.loiin.cheey.qotl.shety.sheoky.qokaiin.cheey.ram
+<f80r.49,+P0>     t[iiin:ain].chey.ral,k[ar:ir].chey.lkl.ol.shees.okaiin.olky,oklor
+<f80r.50,+P0>     lol.chey.saiin.shety.okaiiin.sheor.tchey.lkaiin.okainy
+<f80r.51,+P0>     talkl.ol.s,al.cheoly.daiin.otaly.otain.chey.lkain.olom
+<f80r.52,+P0>     sol,tl.shey.qoklcheey.lkaiin.ol.olor.aiin,y,daiin.cheol,kain
+<f80r.53,+P0>     lol.eey.lchey.qokal.cheol.lchor.otlol<$>
+#
+#
+<f80v>     <! $Q=M $P=L $F=v $B=5 $I=B $L=B $H=2 $C=2>
+# page 158
+# biological
+# Currier's language B, hand 2
+# Strange object in one nymph's hand (same in f82r)
+#
+<f80v.1,@P0>      <%>pchedy.dolfchedy.qokeedy.qotedy.qotolfchedy.roly
+<f80v.2,+P0>      tshedy.qotedy.olkain.otal.chckhy.qoky.daiin.doly
+<f80v.3,+P0>      schedy.qolchedy.qokaiin.chcthy.otaiin.sheeky.qol
+<f80v.4,+P0>      qokedy.qokar.qokain.chedy.qol.qol.she{ctyh}y.qoly
+<f80v.5,+P0>      okeedy.chedy.olkeedy.o{ith}y.qokaiin.shckhy.qotain,ol
+<f80v.6,+P0>      tcheol.kedy.pcheol.kain.shedy.qokaiin.otey.qokedy.chedy<$>
+#
+<f80v.7,+P0>      <%>polshol.tchey.qokol.shedy.qotshey.saly.kchey.stolpchy
+<f80v.8,+P0>      olteedy.qokaiin.shedy.qokain.sheol.qokchdy.qokchdy.qoty,dy
+<f80v.9,+P0>      tchdy.qol.tol,tal.taldain.chckhy.qokal.dol.checthy.qokal,ly
+<f80v.10,+P0>     sol,sheey.qokaiin.shcthy.dolshedy.qokal.shecthy.qotainol
+<f80v.11,+P0>     tol,sheedy.qokar.olky.rorcheey.sheckhy.qotain.chedy.rol
+<f80v.12,+P0>     ycheol,kain.shey.qokain.chedy.qokol.olkain.sh{cthh}y,l
+<f80v.13,+P0>     lor.ar.ol.olor.chey.koldy<$>
+#
+<f80v.14,+P0>     <%>tshedy.qokain.shedy.qokas.otal.qopshedy.qoty.lchedy.qopalor
+<f80v.15,+P0>     qotaiin.chty.lchedy.s,aly,tol.chey.qoteedy.otal.dain.ol,dal
+<f80v.16,+P0>     cheol.key.qotar.dy.qotal.dy.keedy.qokain.oty.loldy,tal
+<f80v.17,+P0>     solcheol.qokaiin.shecthy.qokal.cheol,dy.qotlolkal.chedyr
+<f80v.18,+P0>     ychedy.qol.okaiin.olkedy.or.okain<$>
+#
+<f80v.19,+P0>     <%>psheoldy.dkshey.qokopy.ror.[o:a]por.olpo{ikh}y.oltydy
+<f80v.20,+P0>     ysheeyqorar.ol.cheey.daiin.shey.qokaiin.ol.okaiin
+<f80v.21,+P0>     tar,kain.okal.y,rchey.qokal.olor,aiin.okal.otam
+<f80v.22,+P0>     dchedy.qokal.ol.chey.dal.or.shedy.lshedy<$>
+#
+<f80v.23,+P0>     <%>polteshol.opy.shey.qopshedy.qoteedy.qotol.shy.kolshd.qoky
+<f80v.24,+P0>     yshedy.qokeey.qokey.qoty.qotol.otaiin.ol.chedy.qoky.daiin
+<f80v.25,+P0>     lshedy.qoty.olol.cheey.qokain.okalchy.tal.or.checthy,sar
+<f80v.26,+P0>     qoty.cheyqytaiin.chey.lchedy.shedy.olchey<$>
+#
+<f80v.27,+P0>     <%>pshol.kain.olkar.shey.qokain.dal.oltaiin.okain.shal.qoty
+<f80v.28,+P0>     olcheol.qokain.or.al.chain.qokain.ol.kaiin.okeedy.qokey,ly
+<f80v.29,+P0>     qokain.olkain.olkain.ol.keeol<$>
+#
+<f80v.30,+P0>     <%>pol.or.olkain.o{ikh}y.qokaiin.okain.okar.shey.qolky
+<f80v.31,+P0>     qol.ol,oiin.olkain.ol.chedy.qokain.olshey.qokain
+<f80v.32,+P0>     s,olkain.shol.kair.or.arolkeedy.olky.qolkain.shedy
+<f80v.33,+P0>     qokeedy.qoker.olkain.olshedy.qokey.qokeey.tchcthy.lom
+<f80v.34,+P0>     dol,sheyr.shey.olshey.cthor.ylchdy.olkain.shcthy.qoly
+<f80v.35,+P0>     tol.oltain.olkar.y.qol.qol.kain.okiin.ol,kain.shey,ldy
+<f80v.36,+P0>     soin.okain.sheor.ol.shey.daly.olshedy.olal,shedy.lchy
+<f80v.37,+P0>     polshdy.qokeedy.shky.ololchey<$>
+#
+<f80v.38,+P0>     <%>polkedy.lsheckhy.olky.ot.olkchy.rchey.qcthy.rchey.ral
+<f80v.39,+P0>     sol.aiin.chey.qokain.ches.ol.chckhy.qokeedy.tchdy.aral
+<f80v.40,+P0>     qokain.ol.cheeor.olar.chey.t[ch:?]ar.ol.chedy.qotal.olchedy
+<f80v.41,+P0>     tor.arol,ar.shckhy.lkol.otol.chedy.qokain.chckhy,qokal
+<f80v.42,+P0>     pol.ol,aiin.olkal,shar.shedy.qokol.chdy.ldol.dar.al
+<f80v.43,+P0>     sor.ain.shkain.shar.okshey.dalar.shokal.dy
+<f80v.44,+P0>     qokal.orol<$>
+#
+#
+<f81r>     <! $Q=M $P=M $F=w $B=4 $I=B $L=B $H=2 $C=2>
+# page 159
+# biological
+# Brumbaugh p9, Harper's; "hot tubs''
+# Currier's  language  B, hand 2
+# Right margin of text is irregular; missing picture?
+#
+<f81r.1,@P0>      <%>polchoy.qokedy.shol.opchedy.olpchedy.ofshdy.oly
+<f81r.2,+P0>      dchey.lshl.alched.qokol.chol.otar,chedy.oky
+<f81r.3,+P0>      qotey.l,chees.olkal.ol,chedy.okar.shedy
+<f81r.4,+P0>      dchedy.qokain.ol.ol.chcthy.ykeedy,al
+<f81r.5,+P0>      qol.cheol.okeey.ol.ol.olaiin.ol.or,ain
+<f81r.6,+P0>      sar.ol,eses.oteey.shor.qokeey.ol
+<f81r.7,+P0>      dshees.okain.chcthy.otey.okain
+<f81r.8,+P0>      pchedy.qokeey.oty.qotey.oteey.oly
+<f81r.9,+P0>      qoteesy.qotedy.qokeedy.chcphey
+<f81r.10,+P0>     chol.dain.otedy.cheey.qotain.ly
+<f81r.11,+P0>     olsheol.olkedy.sheckhedy.oltedy
+<f81r.12,+P0>     ychedy.tedy.ol.sheedy.qokeey.loly
+<f81r.13,+P0>     dchol.shedy.qotedy.qol.chedy.chetyry
+<f81r.14,+P0>     qokechedy.qolsheedy.or,ain.arol.oeeedy
+<f81r.15,+P0>     sain.ol.cheedy.qokeedy.otedy<$>
+#
+<f81r.16,+P0>     <%>polchdy.qopchol.qokor.olpchedy.opol.oraisy
+<f81r.17,+P0>     y,checthy.okeedy.shey.qokedy.ol.ochedar
+<f81r.18,+P0>     osheedy.shedy.ol.shedy.okeedy.oror
+<f81r.19,+P0>     qokedy.sheedy.chedy.qoteedy.olam
+<f81r.20,+P0>     qopchedy.qol.chedy.qokeey.odaiin.rain.daly
+<f81r.21,+P0>     dshedy.qokal.olkeey.oteey.olshey.otey,lol
+<f81r.22,+P0>     qotal.chedy.qol.ol.daiin.ol,chedar.ol.oly
+<f81r.23,+P0>     [ch:sh]ey.okain.sheckhy.soiin.chey.lchey
+<f81r.24,+P0>     par,ody.shecphy.cheol.qotaldar.otedy.oly
+<f81r.25,+P0>     sar.shedy.qol,otain.okair.okal.chedy.dy
+<f81r.26,+P0>     pchedy.qokey.oteol.qol.sheor.shedy.qcthdys
+<f81r.27,+P0>     sol.chedy.qokedy.olkedy.dol.qokchedy
+<f81r.28,+P0>     qokesdy.chedy.qokar.chey.taiin.otey.lchl
+<f81r.29,+P0>     y,sheedy.shy.chey.l,chcthy.ytar.olkaiin.ol
+<f81r.30,+P0>     l.shedy.qokedy.sor.olkar.ol,kaiin.olkshdy
+<f81r.31,+P0>     sol,shedy.ol.lchedy.shedy.shy.olkedy.ches.ar.or.oraiiin<$>
+#
+#
+<f81v>     <! $Q=M $P=N $F=w $B=4 $I=B $L=B $H=2 $C=2>
+# page 160
+# biological
+# Currier's language B, hand 2
+# 16 ladies in an odd-shaped bathtub
+#
+<f81v.1,@P0>      <%>par.shey.keedy.shekal.dal.dar.ol,pchedy.shek,dain.ofalsheky
+<f81v.2,+P0>      qokedy.okaiin.kair.okal.sar.ol.kain.olkain.al.ol.rol.dl
+<f81v.3,+P0>      saiin.daiin.olkeedy.okedy.dykain.shek.chdy.dalal.oldy
+<f81v.4,+P0>      qokaiin.okain.cheeky.dy.ol,kaiin.dain.dy.daiin.chcthy
+<f81v.5,+P0>      okaiin.daiin.otain.chckhy.okeedy.qoky.kar.daiin.okar
+<f81v.6,+P0>      qokain.okaiin.ol,chedy.cheol.lky.l.s.aiin.okain.daldy
+<f81v.7,+P0>      olor,ol.sheckhal.daiin.qokeedal.daiin.chckhy.schedy.qol
+<f81v.8,+P0>      ykol.or,shedy.sheedy.qolkeedy.daiin.dkain.cphedy.oldy
+<f81v.9,+P0>      yar,olchey,kaiin.okeey.daiin.olor.checkhy.daiidy<$>
+#
+<f81v.10,+P0>     <%>polshy.[a:o]shyteed.qop.okeedy.otedy.okshedy.qoty.dairam
+<f81v.11,+P0>     [y:?]shey.qokeey.okeey.oky.ykeey.qoky.oky.lky.olchy.ky.dsholyd
+<f81v.12,+P0>     qol.ol.chdy.shedy.qokedy.ytedy.chetedy.lkedey.ytedy
+<f81v.13,+P0>     ykeshey.dch[s:]ed<!s above e>,ytedy.ytedy.dar.ykeda{iph}y.qoty.ykedy.okal
+<f81v.14,+P0>     dshedy.ykeedy.sheeky.daiin.okedy.qokeed.qokedy.lchpchdy
+<f81v.15,+P0>     qokal.chedy.ol.sheey.salshcthdy.qofchedy.r.chedy.ltary
+<f81v.16,+P0>     lor.shedy.qoeedy.ol.chy.rshdy.lshedy.dar.chdy.pchdy
+<f81v.17,+P0>     sshkchdy.chedy.ol.shedy.qolchedy.qokain.{ch'}ckhy.dl.ral
+<f81v.18,+P0>     qokchdy.chey.ol.cheky.ol.shedy.qokedy.qokedy.chckhy.qoky
+<f81v.19,+P0>     solkeey.ol.shedy.qokar.shckhy.d{ch'}edy.qokar.qokal.dol,chy
+<f81v.20,+P0>     qocthey.chekal.chedy.qokedy.lshety.qoldy.ltedy.qotain
+<f81v.21,+P0>     lsho.qokey.lshedy.lshedy.chedy.qolky.lchedal.qol.otar
+<f81v.22,+P0>     qokal.qol.oiin.cheey.dal.lchedy.chedy.salchtedytar
+<f81v.23,+P0>     shol.qe[t:k]chy.ykaiin.olkain.shedy.qoky.dchedy.rol.olcthdy
+<f81v.24,+P0>     ytey.okchedy.qokal.okeey.qol.cheedy.sal.teol.dchdy.ly
+<f81v.25,+P0>     oshedy.qotedy.sh[o:a]l.chedy.y,shchey.ol,chey.qol,chedy,tchd.oky
+<f81v.26,+P0>     [?:q]ol.checholtar.oiin.okedy.dal.shey.olkeol.olkeedy.okeol
+<f81v.27,+P0>     dsheol.oiiin.olkeedy.tedy.cheky.shckhedy.chal<$>
+#
+<f81v.28,@Lt>     otain.olkal
+#
+#
+<f82r>     <! $Q=M $P=O $F=x $B=3 $I=B $L=B $H=2 $C=2>
+# page 161
+# biological
+# Currier's language B, hand 2
+# Strange object in one nynmph's hand, same as in f80v
+# Label nrs on this page same as Petersen
+#
+<f82r.1,@P0>      <%>qosheedy.qokeol.daiin.shckhy.<->okeeor.cheey.daiin.shey
+<f82r.2,+P0>      dchedy.qolchedy.qokain.dy.<->qokeedy.qokal.lcheckhy.lched
+<f82r.3,+P0>      qokeey.lcheckhedy.qokaly.<->solkaiin.chckhy.qokaiin
+<f82r.4,+P0>      qokaiin.octheol.chkeey.ldy.<->oteey.qokal.sheckhy.qoky
+<f82r.5,+P0>      sol.lkchedy.qokeedy.qokal.<->cthol.chedy.qoteedy.qokal
+<f82r.6,+P0>      sar.shedy.qol.shedaiin.sheckhy.okal.sheky.qotaiin.chedol
+<f82r.7,+P0>      dshedy.sotaiin.qokar.shedy.solshedy.qokeey.qoky.ls.cheey
+<f82r.8,+P0>      qekeey.sheedy.qokedy.lcho,r.cheey.qokey.qotal.chedy.qoteor
+<f82r.9,+P0>      ssholshecthy.qokaiin.chkedy.rchey.dairchey.qokaiin<$>
+#
+<f82r.10,@Lt>     orolda[ir:in]
+#
+<f82r.11,@P0>     <%>kolchdy.qokedy.qopol.qotedor.chopchedy.qotal,chedy.kam
+<f82r.12,+P0>     otedy.qodched.olqo.dar.checkho,lolol.okal.okarchedy
+<f82r.13,+P0>     tcheol.olchedy.qokeedy.qotedy.chedar.cheey.lchey.solarol
+<f82r.14,+P0>     r,olchy.qokal.chey.qokain.deeedy.qokeey.qokaiin.olchedy
+<f82r.15,+P0>     kedy.lchedy.qokedy.qok[ee:ch]dy.lkeedy.qokaiin.dy.daiin.chdy,dy
+<f82r.16,+P0>     qokeedy.lchedy.qokeedy.cheey.r.or.ol.s,aiin.chey.ra{cty}.dam
+<f82r.17,+P0>     dshedy.qoteey.chedy.qokeeey.qokedy.lteedy.qokeedy.ralchey
+<f82r.18,+P0>     polched.otain.shedy.shedy.dal.chedar.qokeey.ykeey.l,s,araiin,ory
+<f82r.19,+Pr>     okain.char.okain.qokeedy.lchy<$>
+#
+<f82r.20,*P0>     <%>posalshy.qokedy.cphal.shedy.sheol,keeedy.lkaiin.shedy.qoly
+<f82r.21,+P0>     daiin.cheoky.lkedy.salshey.daiin.chey.qol.chedy.qokeey.dal
+<f82r.22,+P0>     qokaiin.cheor.sheey.qokaiin.shckhey.qol,keeedy.qokeeey.ra[s:r]y
+<f82r.23,+P0>     cheey.qcthey.qokeey.lcheey.daiin.chey.qokeeedy.lchedy.lar
+<f82r.24,+P0>     qokeedy.lcheedy.qokeoy.sal.raiin.qokeey.lkeey.qokeey.raiin.ydy
+<f82r.25,+P0>     dol.qoesedy.sheea'l.sheedy.lshed.qockhey.lchedy.lar.sheey.ry
+<f82r.26,+P0>     tshey.qokeedy.cheal.lchedar.ches.aiin.oteey.qokaiin.okey
+<f82r.27,+P0>     pchedy.rsheal.daldy.qokeedy.rshedy.qoteedy.qokeedy.lochedy
+<f82r.28,+P0>     qokoiin.shedy.qokeedy.qotaiin.chcthey.qoteeol,chey.qokaiin.oly
+<f82r.29,+P0>     d,cheey.lchedy.qokeedy.lchedy.rchedy.ok{chh}y.qotedy.qoty.qoty
+<f82r.30,+P0>     qoteey.raiin.cheol.qoteey.shedy.qokeey.lshedy.qokeedy.rag
+<f82r.31,+P0>     cheol.ol.rsheedy.lchedy.qoty.lcheeor.qokain.cheedy.lched
+<f82r.32,+P0>     taiin.shedaiin.chckhey.lchey.lcheckhy.sheey.lr.chey.rain
+<f82r.33,+P0>     sain.ol,cheol.{ikh}ey.cheor.chey<$>
+#
+<f82r.34,@Ln>     okor
+<f82r.35,@Lt>     darol
+<f82r.36,@Ln>     okal
+<f82r.37,@Ln>     okaldy
+<f82r.38,@Lt>     darary
+<f82r.39,+Ln>     okaira[d:j]y
+<f82r.40,*Ln>     sororl
+<f82r.41,=Ln>     olk[o:a]ky
+<f82r.42,=Ln>     sokoly
+<f82r.43,=Ln>     dolol
+<f82r.44,=Ln>     olaiin
+<f82r.45,=Ln>     okeear
+#
+#
+<f82v>     <! $Q=M $P=P $F=x $B=3 $I=B $L=B $H=2 $C=2>
+# page 162
+# biological
+# Brumbaugh p104; B's allegorical reproduction
+# Currier's language B, hand 2
+#
+<f82v.1,@Ln>      otechdy
+<f82v.2,=Ln>      otedy
+<f82v.3,@Lt>      daiinoty
+<f82v.4,@Lt>      otedal
+<f82v.5,@P0>      <%>tokol.olfchedy.qokeedy.qokedal.shol.qotal.otdal,dal.olshedy
+<f82v.6,+P0>      qokedy.lshedy.qotol.dol,shedy.shedy,dy.darotedy.chetedy.lokam
+<f82v.7,+P0>      dair.o,l,chedy.qotedy.qotedy.chsdy.qotal.qoty.qokal.qokedy.lo
+<f82v.8,+P0>      qokain.sheol.qoteedy.chedy.qokey.qokedy.qokol.chedy.chedy.lchy
+<f82v.9,+P0>      solshedy.lchedy.dolshedy.qokal.sheckhy.shey.teeol.oteedy.qokedy
+<f82v.10,+P0>     qotey.qokal.shoky.qokal.chedy.qotalchedy<$>
+#
+<f82v.11,+P0>     <%>pcheol.dar.qokeey.cheeky.qokal.dal.shedy.pchdy.rol.qotedy.rol
+<f82v.12,+P0>     dal.shol.dar.ol,qoky.qol.chedy.qokar.qoteytyqoky.chcthy.qoky
+<f82v.13,+P0>     tchedy.qocthes.qokar.chckhy.qokain.cholkaiin.chckhdy.qokoldy
+<f82v.14,+P0>     dalchedy.lchey.rol.rol.cheey.s,ain.shey<$>
+#
+<f82v.15,+P0>     <%>tar.sheckhy.qokal.qokain.cheol.tedy.rchedy.pchedy.rsheol.dal
+<f82v.16,+P0>     qokedy.lchey.cheey.raiin.shes.qokchey.qokain.okal.dy.lchedam
+<f82v.17,+P0>     or,ain.shedy.qok,char.okai.qokeedy.rcheey.qotedy.chtedy.rches,aly
+<f82v.18,+P0>     ykeedy.qokeedy.chedy.qokar.okeey.lkedy.qokal.olkeedy.qokeedy.oky
+<f82v.19,+P0>     qokol.chedy.cheal.chedy.oty,chdy.dy.checkhy.otal,chl,s<$>
+#
+<f82v.20,+P0>     <%>tolsheol.qokedy.qolkedy.rshedy.qokedy.rsheedar.oinoly
+<f82v.21,+P0>     dain.chey.qokeeey.qoky.okaiin.okain.olkain.otain.okar,aly
+<f82v.22,+P0>     qokain.chedy.qolkshey.qotal.shey.qokain.ol,checkhy.ly
+<f82v.23,+P0>     yshedy.qolchey.qolaiin.otain.olkeedy.qotshedy.oll
+<f82v.24,+P0>     dshedy.qokaiin.olchedy.qokal.shedy.qotal.dytar,y,l@152;l
+<f82v.25,+P0>     qok.sheol.kechey.qoty.ral.tchdarol.sheytchdy.qokal
+<f82v.26,+P0>     saiin.shey.qokol.chol.qol.sheedy.qokal.shedy.qokaiin
+<f82v.27,+P0>     qokain.sheal.qolchedy.qokaiir.olkaiin.shedy<$>
+#
+<f82v.28,*P0>     <%>tchal.olkair.sheeky.qolchey.qokar.shey.qokain.otshedy
+<f82v.29,+P0>     daiin.chey.qoky.shedy.qokaiin.olkeedy.qokechedy.qotar
+<f82v.30,+P0>     pol.olor.chey.qokain.shedy.qokaiin.olchesy.ol.r.aindar
+<f82v.31,+P0>     qokeey.r,ain.chey.qolkain.oky.otaly.qokal,{i'h},olshalsy
+<f82v.32,+P0>     sar.al.loraiin.chey.qokain.o,roiiin<$>
+#
+<f82v.33,+P0>     <%>qody.shar.a{ith}y.qokchey.kchey.olkain.opchedy.qfol.shty.oral
+<f82v.34,+P0>     yckhey.qokain.cheky.otaiin.olor.okain.qolkeey.qotar.olkain
+<f82v.35,+P0>     cthor.chey.qsain.qokeey.qokain.otain.otal.okeedy.qokal.dym
+<f82v.36,+P0>     saiin.shey.qokeedy.qokar.sheecthey.qokaiin.daltedy.rcheald
+<f82v.37,+P0>     sol.chey.r.alchey.chol.olkol.chckhy.dalchckhy.olkain.olkeeyr
+<f82v.38,+P0>     pcheol.shedy.qokaiin.sholdy<$>
+#
+<f82v.39,@Ln>     olkeedy
+<f82v.40,@Ln>     okalchy
+#
+<f82v.41,@Ln>     okain
+<f82v.42,~Lt>     ok[a:e]oky
+<f82v.43,~Lt>     okedor
+<f82v.44,~Ln>     okol
+<f82v.45,@Lt>     okoldy
+<f82v.46,@Lt>     olkol
+<f82v.47,@Lt>     otedol
+<f82v.48,+Lt>     oteedy
+#
+#
+<f83r>     <! $Q=M $P=Q $F=y $B=2 $I=B $L=B $H=2 $C=2>
+# page 163
+# biological
+# Currier's  language B, hand 2
+#
+<f83r.1,@P0>      <%>tchedy.lpchedy.op{ch'}edy.chepol.pchedar.shedy.qopchedy
+<f83r.2,+P0>      sol.cheey.qokaiin.shol.lchs.shey.qoteedy.rches.ar.chedy.dor
+<f83r.3,+P0>      olkeedy.qotal.chkeedy.chey.daiin.chey.lchedy.qokaiin.qotal.dar
+<f83r.4,+P0>      qokshedy.chedy.qokedy.chkedy.daiin.shetar.shedy.qekaiin.chedy
+<f83r.5,+P0>      d{ch'}eey.qotaiin.checkhy.qoty.che[g:d].shedy.qokeey.rchedy.qoteedy.lo
+<f83r.6,+P0>      schedy.chedchy.qokal.olchedy.qokaiin.chedy.qokeedy.lchedy.qoky
+<f83r.7,+P0>      solshed.lsheedy.qeeedy.qoky.o,qol.rsheedy.qokedy.qoteedy.qoteedy
+<f83r.8,+P0>      pchedal.otedy.shecthedchy.qoky.chedy.chary<$>
+#
+<f83r.9,+P0>      <%>pchor.checphedy.qokedy.lsheedy.qokchdy.r.shedkedy.qopshdy,qopy
+<f83r.10,+P0>     olkeey.rchs.cheeb.ols.aiin.skal.dain.cthal,s,aiin.chky.lal.sam
+<f83r.11,+P0>     sor.shedy.qokaiin.chkain.shcthey.qokedy.okair.sheedy.lchedy.lo
+<f83r.12,+P0>     qockhol.sheckhy.otal.qokeal.sheckhdy.{ck}al.okedy.qokedy.qokal
+<f83r.13,+P0>     salcheol.tar.shedy.s,altedy.sair.qokedy.q{cphh}edy.lchcphedy.ldar
+<f83r.14,+P0>     qokchedy.qokeedy.shedy.qokshedy.dal.lchedy.qokaiin.shcthy.dal.sy
+<f83r.15,+P0>     saiin.shedal.shecthy.chey,tal.shcthy.dalchdy.qotchedy.lchedy
+<f83r.16,+P0>     tchedy.qokchdy.cheedar.chldaiin.chedy.qokain.checthy.chealror
+<f83r.17,+P0>     dche[o:?]kedy.lkeed.shckhey.ytaiin.shechy.schety<$>
+#
+<f83r.18,+P0>     <%>pdalshdy.shocphedy.otor.shedy.opshedy.otshdy.qokedol.shdy.soldy
+<f83r.19,+P0>     sar.shedaiin.ockhey.sain.ched.shedy.qetal.dal.shedy.shey.lchedy
+<f83r.20,+P0>     solkeedy.qoteedy.qokeey.qokedy.sol.cheeety.qokedy.qoky.saiin
+<f83r.21,+P0>     solkeedy.qokedy.otedy.sol,chedy.lkedy.qokchedy.qokedy.chckhdy.sar
+<f83r.22,+P0>     schedair.otchedy.qokeedy.chedain.chedy.qotedaiin.otaiin.otedy.ldy
+<f83r.23,+P0>     tchedy.qotedy.qokal.shedy.qokedy.shecthedy.shecthy.otor.chedy
+<f83r.24,+P0>     soiiin.checthy.chety.otaiin.olsaly.shedy<$>
+#
+<f83r.25,@P1>     <%>qokeedy.qolchey.qokeey.qokedy.chedy.otal
+<f83r.26,+P1>     otchey.qokeey.qoky.tol.shedy.qokylddy
+<f83r.27,+P1>     dain.chedy.qokeedy.shckhedy.shckhedy
+<f83r.28,+P1>     saiin.cheeky.sheey.qokedy.shedy.oldy
+<f83r.29,+P1>     salche'dy.cheey.qody.kesd.oldy
+<f83r.30,+P1>     s,okeedy.qokeedy.qoky.saii@208;<$>
+#
+<f83r.31,+P1>     <%>techedy.qotchedy.okeedy,ldy
+<f83r.32,+P1>     [?:s]cheol.qokchedy.lchedy.qokey
+<f83r.33,+P1>     sy.s,aiin.sheekchy.qokey.sain
+<f83r.34,+P1>     shky.lchedy.dolshed.qokchy
+<f83r.35,+P1>     saiin.cheky.okeeol.okain.chdy
+<f83r.36,+P1>     so[r:s],aiin.shy.shey.lshedy,qoky
+<f83r.37,+P1>     sol.lkedy.lchedy.qokol.shedy
+<f83r.38,+P1>     or.chey.qockhey.dairydy
+<f83r.39,+P1>     qokain.shey.kain.chckhal
+<f83r.40,+P1>     solchedy.olchedy.chedaiin
+<f83r.41,+P1>     solkey.lchedy.qolkain.dal
+<f83r.42,+P1>     sol.ol.chcthdy.l.chedy.lchdy
+<f83r.43,+P1>     daiin.sheol.chedy.qotal.sar
+<f83r.44,+P1>     skar.shedy<$>
+#
+# Writing below tubes
+<f83r.45,@Lt>     chtorol
+<f83r.46,=Lt>     olsaiin
+#
+<f83r.47,@Pb>     <%>otchdy.qokchdy.shedal
+<f83r.48,+Pb>     dal.cheol.lol.chdal.aiin
+<f83r.49,+Pb>     sol.daiiin.chedy<$>
+#
+<f83r.50,@Lt>     sasoldal
+<f83r.51,+Lt>     darolsy
+#
+<f83r.52,@Pb>     <%>solkeey.qekey.raly.ol
+<f83r.53,+Pb>     solchkal.cheol.qotar.ol
+<f83r.54,+Pb>     daiin.ol.dain.chey.ldalor
+<f83r.55,+Pb>     sol.rtain.cthal<$>
+#
+#
+<f83v>     <! $Q=M $P=R $F=y $B=2 $I=B $L=B $H=2 $C=2>
+# page 164
+# biological
+# Currier's  language B, hand 2
+#
+<f83v.1,@P0>      <%>poldaky.dalol.otedy.chtair.opchedy.qotal.chedy.chepchedy.opchey
+<f83v.2,+P0>      dol.shedy.qokedy.shedy.qotedar.checthedy.qokedy.qotal.chey.dar
+<f83v.3,+P0>      qotain.chcthy.dal,olkedy.shedy.qotaldy.qokaiin.dair.shedy.oteey
+<f83v.4,+P0>      dain.sheedy.oteeody.doldy.qotedy.qokeedy.qokedar.sheoldy.qol,oly
+<f83v.5,+P0>      qokal.shedy.qotain.chedy.chedol.daiin.otaiin.shedy.qokeedy.okaiin
+<f83v.6,+P0>      chedy.qoteedy.otalshedy.sol.chl.?es.okeol.shedy.qokolchedy.qokal
+<f83v.7,+P0>      qokeey.oteey.qokalol.chedy.dy.dol.qokal.olkshedy.qokeedy.qokal
+<f83v.8,+P0>      rolkeedy.qokaiin.okaiin.ched.okchey<$>
+#
+<f83v.9,@Lt>      ololary
+<f83v.10,@Lt>     okarchy
+<f83v.11,@P0>     <%>pchedar.shedal.qokar.shedal.<->okchdy.qokedy.okail.shedy.qoky.lsheg
+<f83v.12,+P0>     daiin.shckhy.qoeeo.lldar.cheey.qoal.qokeedy.olkar.sheedy.qokain.olal
+<f83v.13,+P0>     qol,chey.qo.lched.qolky.qokal.chedy.chedy.daiin.chckhy.cheor.ol.lal
+<f83v.14,+P0>     salched.qol,shedy.qolchedy.qolchdy.qol.rchedy.cheol,qokeor.sholdy
+<f83v.15,+P0>     qokaiin.cheol.shey.qokeey.cheol.dal.cheeaiin.olkeedy.qokal.chaloly
+<f83v.16,+P0>     daiin.qokal.sheckhey.qokeey.chal.qokeey.qokaiin.chedy.sar.al
+<f83v.17,+P0>     qokain.cheeal.qokaiin.sheol.qokear.cheedy.olcheey.qokal.qoka[?:n]y
+<f83v.18,+P0>     s,olkeedy.qokeedy.qokeedy.saiin.okaiin.chedy.qokeedy.qolkeedy
+<f83v.19,+P0>     qolchedy.qolteedy.qokeedy.qokal.okaiin.chear.checkhy.dal.checkhdy
+<f83v.20,+P0>     tocthey.cheor.olol.cheol.tedy.sheckhal.sheeckhy.cheal<$>
+#
+<f83v.21,+P0>     <%>qokeed.qokaiin.sheolkain.sheol.olkeedy,l,shedy
+<f83v.22,+P0>     char.qokar.cheolkain.shckhey.qokal.cheor,ols
+<f83v.23,+P0>     qol,aiiin.chckhedy.sheol.qokaiin.shckhy.lchey
+<f83v.24,+P0>     ol,cheedy.qokeedy.qokain.dalshal.shldy.lor
+<f83v.25,+P0>     y.shey.otechd.ar.okol.dal.shedy.qokaly
+<f83v.26,+P0>     sal.chear.shey.qokar.shedy.qokain.ollchy
+<f83v.27,+P0>     dsheol.cheol.shedy.qokaiin.cheeky.lols
+<f83v.28,+P0>     qol.shol.cheedy.qol.oqo.qokain.olsheam
+<f83v.29,+P0>     ol.cheal.shedy.chey,tal.shedal.dalshdy
+<f83v.30,+P0>     qokaiin.chedy.qokal.otal,chedy.qotals
+<f83v.31,+P0>     oy[ch:sh]ey.qol.qokal.chedy,qoty
+<f83v.32,+P0>     qol.olain.sheol.qo.qokal.sheol
+<f83v.33,+P0>     shey.opchey.cthey.ol{oh}y<$>
+<f83v.34,@Ln>     okchdy
+<f83v.35,@Lt>     okaiin
+#
+#
+<f84r>     <! $Q=M $P=S $F=z $B=1 $I=B $L=B $H=2 $C=2>
+# page 165
+# biological
+# Newbold VI, Zimansky; Public baths
+# Currier's language B, hand 2
+#
+# For nymph labels: Petersen ID in comments
+<f84r.1,@Lt>      <!1>ololal
+<f84r.2,@Ln>      <!2>or.shekar
+<f84r.3,+Ln>      <!3/low>ydy
+<f84r.4,@Ln>      <!3/high>okedy
+<f84r.5,=Ln>      <!3/high>loly
+<f84r.6,@Ln>      <!4>doiir
+<f84r.7,=Ln>      <!4>olshy
+<f84r.8,@Ln>      <!5>otedy
+<f84r.9,=Ln>      <!5>lkol
+<f84r.10,@Ln>     <!6>okolshy
+<f84r.11,@Ln>     <!7>otoly
+<f84r.12,@Ln>     <!8>dshedy
+<f84r.13,@P0>     <%>kol.chedy.qokeey.otedy.dytedy.okeedy.olshed.opshed.ykshedy.qotedy.opoly
+<f84r.14,+P0>     tol.or,sheey.chckhdy.schckhy.dal.y,shedy.otedy.qol.or.ol.eedy.qokeey.or,oly
+<f84r.15,+P0>     qokeey.dar.shedy.qokedy.qokeedy.qokedy.chedy.okain.chey.qokedy.dar.olardy
+<f84r.16,+P0>     tor.shedytedy.o'l.ol,cheol.shedy.shckhy.qokal.olkedy<$>
+#
+<f84r.17,+P0>     <%>pchol.cphol.sol,teol.tedy.qotedy.qokeedy.qokeey.ol,keedy.teyqokedy.qopor.oly
+<f84r.18,+P0>     otchy.olshedy.qokedy.shedy.okedy.shckhy.chckhy.olchey.schey.dal.chckhy.ral
+<f84r.19,+P0>     qokey.sol.yqokain.qolkeey.qotedy.qokain.shedy.salchedy<$>
+#
+<f84r.20,+P0>     <%>psholpchcfhdy.qokeedy.dy.qokedy.daiin.shckhedy.qokaiin.checthy.dar.checthy.am
+<f84r.21,+P0>     qokaiin.chol.cheky.okal,y,chey.okal.chedy,tor,y.otshedy.qokey.l,shedy<$>
+#
+<f84r.22,+P0>     <%>qotchsdy.ykeedy.qokal.ol.shedy.qokedy.qokeedy.qokeedy.chedy.raiin.chey.otar,dar
+<f84r.23,+P0>     dar.sheor.shcthy.qokeor.qotedy.rshedy.qolchey.oteey.qol.shedy.ol.dain.ol,or
+<f84r.24,+P0>     pol.tar.shedy,qokedy.okal.shey.qokar,chckhy.otchey.qokchedy.chey.qokaiin
+<f84r.25,+P0>     pchedy.qotchedy.otaiiin.chcthy.shedy.otedy.qoty.qotedy.ol,okedy.otedy.ram
+<f84r.26,+P0>     qotol.sh{cthh}y.oty.dar.shcthy.schdy.qokeedy.olkey<$>
+#
+<f84r.27,+P0>     <%>p[a:o]lchd.@146;chedy.shcthy.olky.dar.opalkaiin.o,qofchedy.or,aiiin.ofoly.oroly
+<f84r.28,+P0>     sar.ol.olaiin.y,qol,y,qor.or.ckhedy.chkedy.okain.shedy.qokolchedy.olain
+<f84r.29,+P0>     qokeedy.okeey.dar.olchedy.qsolkeedy.rar.checkhy.otar.chedy.olchcthy.lor
+<f84r.30,+P0>     dchdy.qokedy.ol,chckhy.olchdy.sar,or.ykeedy.chetey.rain.shedy.shekam
+<f84r.31,+P0>     ykchdar.or.arar.shedy.qokal.daiin.shedy.olkedy.qokedy.qoky.chedy.daiin
+<f84r.32,+P0>     qotar.ytedy.tedy.dar.olkedy.qotedy.shckhy.chtol.tedy.dar.or,oly
+<f84r.33,+P0>     shol.tchdy,tedy.ykain.shey.cheol,y,tedy.ol,kedy.okedar.ol,keed,ol,ary
+<f84r.34,+P0>     dsheyteey.sor.ol.shedy.daraldy.otedaiin.shckhchy.chckhy.daiin,aryly
+<f84r.35,+P0>     qokal.daiin.dain.otey.cheor.air.shckhy.or,air,oro<$>
+#
+<f84r.36,+P0>     <%>shey.dar.shey.dain.aiin.shedy.orol,ykar.okedy.qoky.chedy.okedar.chey.alol
+<f84r.37,@P1>     qoteedy.qokol.otedy.shedy.qokeedy.dal,ol,dam
+<f84r.38,+P1>     s,or,olchdy.lshedy.qokchy.dol.otedy.ytchor,olky
+<f84r.39,+P1>     dshedy.sheedy.qokedy.chedy.teedy.qokeedy
+<f84r.40,+P1>     qokeedy.dkedy.olshedy.qokal.shckhy.olkeedy
+<f84r.41,+P1>     dsheedy.oteedy.qotar.chekar.orshedy.saiin
+<f84r.42,+P1>     okaiin.otchdy.qokain.shedy.qokeey.qotedy
+<f84r.43,+P1>     qokain.otchedy.skeey.rcheky.dal.okeedy
+<f84r.44,+P1>     ykedy.qotedy.chcthy.ol,chcthy.dar.ar,ory
+<f84r.45,+P1>     yteolchedy.qokor.shekedy.okedy.{cthh}y.dam
+<f84r.46,+P1>     d[ch:?]edy.qokedy.ar.oror.okedy.okedy<$>
+#
+<f84r.47,@Lt>     <!33>otaly
+#
+#
+<f84v>     <! $Q=M $P=T $F=z $B=1 $I=B $L=B $H=2 $C=2>
+# page 166
+# biological
+# Currier's language B,  hand 2
+# gathering mark 13
+#
+<f84v.1,@P1>      <%>otdy.dar.chdy.dar,oram
+<f84v.2,+P1>      soiin.okeeey.sol.okaly<$>
+#
+<f84v.3,@P0>      <%>kor.shedy.otedy.qotedy.otedar.cfhdarol
+<f84v.4,+P0>      oteey.qoteey.okey.chetain.sheeky.daiin,al
+<f84v.5,+P0>      qokeey.oteedy.shedy.qokeed,or.okeedy.ry
+<f84v.6,+P0>      ykeedy.qoeedy.olkeey.sheky.qokeey<$>
+#
+<f84v.7,+P0>      <%>poiin.ol,kedy.okedy.qoky.ok[ch:ee]dy.qokey
+<f84v.8,+P0>      qokedy.okedy.qokeedy.okeedy.shedy.qoky
+<f84v.9,+P0>      {ch'}eol.qolchey.okeedy.saiin.okeedy.chkeedy
+<f84v.10,+P0>     qoteed.otedy.sheedy.qokeedy.qoeedy.okeedy.dam
+<f84v.11,+P0>     {ch'}edy.qoeedy.ol.cheey.daiin.chckhedy.dain.dy.daiin
+<f84v.12,+P0>     qokees.qokedy.otedy.shedy.qokedy.dol.olkeedy.dol.teedam
+<f84v.13,+P0>     shedol.chedy.okedy.otal.chckhedy.qotedy.dokedy.dol.lkeey.qokydy
+<f84v.14,+P0>     dshey.olkeey.dol.ol.otedy.okedy.okedy.qokedy.dal.dar.ol.chedy.sain
+<f84v.15,+P0>     qokshedy.qokeed,y,daiin.checthy.okal.ol.kedy.chedy.dolkedy.okedam
+<f84v.16,+P0>     soiiin.ol.chedy.qol.tedy.shey.qokedy.qokey.dol,y.ol,shedy.qokedy
+<f84v.17,+P0>     qokeey.otol.chedy.daiin.dol.sheedy.chedy.okedy.r,kchdy.kol.koldy
+<f84v.18,+P0>     dsheey.qokeedy.ykedy.qokor.shedy.qoky.dol.shckhy.qokain.ol.koldy
+<f84v.19,+P0>     solkes.olokar.sheky.shkol.qokar.chdy.tal,shedy.okar.okedy.shedy,dy
+<f84v.20,+P0>     tolshy.qoky.qokedy.shedy.qoteedy<$>
+#
+<f84v.21,+P0>     <%>pcholshedy.shtol.okedy.opcholor.kchdy.ofched,y,r.aiin.cfheey.ols
+<f84v.22,+P0>     oshey.tedy.okain.shey.qokedy.kchdy.okedy.okey.dy.okedy.olshdy
+<f84v.23,+P0>     qokeey.olkaiin.okol.shedy.cthy,korol.oror
+<f84v.24,+P0>     y,cheey.okeedy.olkain.olchey.saiin.oly
+<f84v.25,+P0>     qokain.okain.olol.okal,chedy.chedy
+<f84v.26,+P0>     ol.qokar.shdy.qol.otedy.olchedy
+<f84v.27,+P0>     y.or.shedy.qolkeedy.olchedy.olkal
+<f84v.28,+P0>     dal.shedy.qokedy.shedy.dain.daiin
+<f84v.29,+P0>     sain.shedy.qokeey.daiin.okedy.oldy
+<f84v.30,+P0>     qokey.ol.keed.qokedy.qokey.qokeoly
+<f84v.31,+P0>     chal.daiin.otal.chdy.otal.chckhor.aly
+<f84v.32,+P0>     qokedy.shey.kal.okedy.yfchedy.tedy.lolor
+<f84v.33,+P0>     shedy.qokey.qokedy.chey.dar.okey.okeshy.olchy
+<f84v.34,+P0>     qokain.ol.chedy.alchey.s,al.or.chdy.dchey.okey.lchy
+<f84v.35,+P0>     shor.ol.okain.shedy.olshedy.tol,okeedy.chedy.okedy.lol
+<f84v.36,+P0>     qokey.sol,kedy.okey.lkain.shey.shes.ol.shedy.qokeey.ror
+<f84v.37,+P0>     chckhy.qokaiin.shey.dain.qokeey.daiin.okaiin.qokal.dys
+<f84v.38,+P0>     qokchey.qokeedy.okedy.dolor.ol.chedy.oteol.olol
+<f84v.39,+P0>     lshedy.qol.aiin.okey.olchey.lchey.olshedy.shckhy.soly
+<f84v.40,+P0>     yteedar.olkeey.olchey.qokey.lkeoldy.daiin,olkedy.ykaiin
+<f84v.41,+P0>     sor.otes.doltedy.otol.chedy<$>
+#
+# Two small blocks
+<f84v.42,@Pb>     okar
+<f84v.43,+Pb>     ydairol
+<f84v.44,+Pb>     ychckhy
+<f84v.45,+Pb>     dshedy
+#
+<f84v.46,@Pb>     okchdy
+<f84v.47,+Pb>     solchey
+<f84v.48,+Pb>     dair,oldy
+<f84v.49,+Pb>     darchy
+<f84v.50,+Pb>     y{c'th}y
+<f84v.51,+Pb>     ochedy
