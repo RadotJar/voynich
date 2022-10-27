@@ -38,11 +38,14 @@ def main():
     char_freq_list.sort(key=lambda x: x[1], reverse=True)
     for (character, frequency) in char_freq_list:
         output_lines.append(character + ": " + str(frequency) + "\n")
+        print(character + ": " + str(frequency))
+    print(input_lines)
 
     output_path = "./texts/" + fileName + "_frequency_analysis.txt"
     with open(output_path, "w") as file:
        for line in output_lines:
            file.write(line)
+
 
 # Performs Voynich Manuscript specific analysis
 def analyse_voynich(lines):
