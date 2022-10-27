@@ -14,7 +14,11 @@ dain os teody
 ydain cphesaiin ols cphey ytain shoshy cphodal es
 oksho kshoy otairin oteol okan shodain sckhey daiin
 shoy ckhey kodaiin cphy cphodaiils cthey sho oldain d
+<<<<<<< HEAD
 dain oiin chol odaiin chodain chdy okain d?n cthy kod
+=======
+dain oiin chol odaiin chodain chdy okain dn cthy kod
+>>>>>>> main
 daiin shckhey {ck}eo r char shey kol chol chol kor chal
 sho chol shodan kshy kchy d or chodaiin sho koeam
 ycho tchey chekain sheo pshol dydyd cthy dai{cto}y
@@ -24,11 +28,19 @@ shok chor chey dain ckhey
 otol daiiin
 
 cpho shaiin shokcheey chol tshodeesy shey pydeey chy r o d
+<<<<<<< HEAD
 ??doin chol dain cthal dar shear kaiin dar shey cthar
 cho ?o kaiin shoaiin okol daiin far cthol daiin ctholdar
 ycheey okeey oky daiin okchey kokaiin o?chol k?dchy dal
 dcheo shody koshey cthy ok chey keey keey dal chtor
 ?eo? chol chok choty chotey
+=======
+doin chol dain cthal dar shear kaiin dar shey cthar
+cho o kaiin shoaiin okol daiin far cthol daiin ctholdar
+ycheey okeey oky daiin okchey kokaiin ochol kdchy dal
+dcheo shody koshey cthy ok chey keey keey dal chtor
+eo chol chok choty chotey
+>>>>>>> main
 dchaiin
 
 d
@@ -353,7 +365,11 @@ ycheor ksho dor cthey s chold
 
 
 torshor opchy shol dy qopchy shol opchor dypchy dchg
+<<<<<<< HEAD
 dchol chol dol shkchy ydal shy ykchy qot?y daiin s y
+=======
+dchol chol dol shkchy ydal shy ykchy qoty daiin s y
+>>>>>>> main
 s y dchor shaiin oeees ykor chor ytshy ykchy kchy dar
 qodchy ytchy otchor
 
@@ -423,12 +439,20 @@ qotchor chaiin chy kol daky
 
 
 poror orshy choiin dtchan opchordy
+<<<<<<< HEAD
 @138;chor or oro r aiin cthy ?ain dar
+=======
+@138;chor or oro r aiin cthy ain dar
+>>>>>>> main
 cthor daiin qokor okeor okaiin
 doiin choky shol qoky qotchod
 otchor chor chor ytchor cthy s
 qotchey choty kaiin otchy r aiin
+<<<<<<< HEAD
 {co}y choiin sho ? chy s chy tor ols
+=======
+{co}y choiin sho  chy s chy tor ols
+>>>>>>> main
 ytchor chor ol oiin oty shol daiin
 otchol octhol chol chol chody kan
 sor chor cthoiin cthy qokaiin
@@ -668,7 +692,11 @@ saiinchy daldalol
 
 pydchdom chy fcholdy oty otchol shy opyaiin y' yfchy daiin ololdy dal
 to ar chor daiin chk dain otchy lolchor daiin dam okchol dain g
+<<<<<<< HEAD
 dchar ykor y kaiin daiin cth? g
+=======
+dchar ykor y kaiin daiin cth g
+>>>>>>> main
 
 qokoldy okaiir ykaiil g qokeey ofchol dain yfchor olfchor otchald
 ychor qokchol ytym chol dair chol ar ol ol dol dain
@@ -691,7 +719,11 @@ tshol shor shkshy okol daiin otshor olsar
 otor oiin sho shol qokol daiin sol daiin ylg
 qokaiin dain qokor okal g dam chor olol dam
 otshy dal dar oldar ar or qoto l chees g
+<<<<<<< HEAD
 dor chy kshol chol ctho? otol oloiir
+=======
+dor chy kshol chol ctho otol oloiir
+>>>>>>> main
 y okaiin doroiin olols oiin ol cheeb ols
 ol aiios oloro eeeoly
 
@@ -705,7 +737,11 @@ oeeeos cthor otal qocthol qoky
 q@145;kar chtar s cheor cthol qodol
 ychor s om qoear daiin qokeol
 odaiin ckham qodai{ikh}y dol dal
+<<<<<<< HEAD
 q?or cfhar chor s am chotaiin dy
+=======
+qor cfhar chor s am chotaiin dy
+>>>>>>> main
 sar cheoiees okeem cheor qokain
 qokchy qotchy tol tod ckhy
 oees ol s chey chcth s ar
@@ -888,7 +924,11 @@ sol chokcheey daiin kchydy
 
 keedey qofchedy shee s aiin qokee@149; chepakeo
 dcheey daiin okeedy qokees s aiin shekeey qef
+<<<<<<< HEAD
 qokeey chey daiin qokeey sair chekey s aiin da?
+=======
+qokeey chey daiin qokeey sair chekey s aiin da
+>>>>>>> main
 qotar chy dar lo r ar cheey keeol chedy qokey
 daiin sheeody qokeor
 
@@ -1375,7 +1415,11 @@ qokchy l or cheol qotol qotol chy ky cthod ykar yd
 okchy qockhy dain dail dair shy
 
 qotol choiin okchar dar oty shoto dol py otytam
+<<<<<<< HEAD
 ?s aiin cphor qok{cy} tod ytchdy dy dy cheg
+=======
+s aiin cphor qok{cy} tod ytchdy dy dy cheg
+>>>>>>> main
 tchtcho kchol dshy o tyol ytchom
 yksheor odal sho dy pchom otor oaiir
 ychor cthy chol qokom sy sa ykchom
@@ -1406,7 +1450,11 @@ qokar shol kal alkeody
 
 pody lshed ypdy shedy opchedy ytedy oepchol yfchey tochsy okas ykchdy daiin
 ytair aiin otchdy okaly daiin qokedy otar ar oldy otedy saim okey tody daiin
+<<<<<<< HEAD
 ytchey keody chockhdy chotal okalshdy sh?y qokar oty qoty shedy chedy dam
+=======
+ytchey keody chockhdy chotal okalshdy shy qokar oty qoty shedy chedy dam
+>>>>>>> main
 ydaiin chckhy chdal olar chckhdy chdody tar cham kedy daiin y kaiir shckhefy
 lodaiin shedy qokedy chdy okedy dykaly daiin chedy okeedy s ar air cthy
 tor aiirchar shedy olaiin qotedy sheedy qokaldy qokedy doir chody cthey m
@@ -1795,7 +1843,11 @@ oparairdly
 olkeedal
 otardaly
 arkaldy
+<<<<<<< HEAD
 ara?arar
+=======
+araarar
+>>>>>>> main
 okeely
 ocfhor okear
 
@@ -1864,7 +1916,11 @@ daiin alal dal qokar otal chodol qokeal cheol chos okeeam
 taiin chal sheal qockhy dar aiin ockhey qokeey qoaiin aral
 okain chokal sheoldy qokor olkam cheol dar chokeey okalchy
 tolain ar ykeain qokeey otal chol okal ar {chh}ty chkalarol
+<<<<<<< HEAD
 olain olalor odaiin qetair otal qokal dair oi?y otam
+=======
+olain olalor odaiin qetair otal qokal dair oiy otam
+>>>>>>> main
 okar sheey shekealy
 
 pchshy sheoltey shopalchedy sheolkeal qokar aldaiin qokalar dal
@@ -1922,7 +1978,11 @@ y
 d
 o
 f
+<<<<<<< HEAD
 ?
+=======
+
+>>>>>>> main
 x
 air
 d
@@ -2124,20 +2184,32 @@ ykaralam olalade odam
 taol daig sakar dam
 solair cphey solal daly
 
+<<<<<<< HEAD
 okeal o?ol ar okaldam
+=======
+okeal ool ar okaldam
+>>>>>>> main
 koain opal ol ofolain oar
 
 dcheeor ochepalain
 oeolales aisar
 okydseog oeepoaly
+<<<<<<< HEAD
 o?r ykaly char
+=======
+or ykaly char
+>>>>>>> main
 o chekais okolaim
 okar alet olkao
 qokoaiin ocfhhy
 ekeeey oekchdy
 soaiin dalam
 sary okoral
+<<<<<<< HEAD
 oko???
+=======
+oko
+>>>>>>> main
 okchos am
 
 damamm
@@ -2207,7 +2279,11 @@ okshor
 osdaiin
 otochedy
 dolchedy
+<<<<<<< HEAD
 oky okchdy okardy q?ear oygy
+=======
+oky okchdy okardy qear oygy
+>>>>>>> main
 
 tsheeor chor sheal dar opchey oeecthy sheol dokechy otcheoly
 dchy ykeechy dchyky okeeody rcheodal chokeey cheor oram
@@ -2240,15 +2316,25 @@ otoshol
 chodar
 sheey
 okeeeeor
+<<<<<<< HEAD
 okey okoaiin okol oky oeeeo r oky okeeol cheeo oke???
 
 ogeed oteedy cheoteey oshchey chokol cheody chedy oteodaiin otchodal sor cheol oteo okeey oeteedy opcheody dchedy daiin oteeody dascheedy oteeody qoeeect?g dcheeo okeodly do ls oschaiin cheockhedchy chodal cheoda chol al oteodched okedy qokeey shoky dol daleeed okeeaiin
+=======
+okey okoaiin okol oky oeeeo r oky okeeol cheeo oke
+
+ogeed oteedy cheoteey oshchey chokol cheody chedy oteodaiin otchodal sor cheol oteo okeey oeteedy opcheody dchedy daiin oteeody dascheedy oteeody qoeeectg dcheeo okeodly do ls oschaiin cheockhedchy chodal cheoda chol al oteodched okedy qokeey shoky dol daleeed okeeaiin
+>>>>>>> main
 toees ykeo she qokolchey qokchdy
 tochedy chocphy qokchdy dyl okald
 dchy kchy daiir chok ockhydar
 qokol chdchol qoteey che kechy okchdy
 dchokchy {c'hh}y okey oteos okolshy
+<<<<<<< HEAD
 pchody qokchy dshol d{c'y} o tgolg?
+=======
+pchody qokchy dshol d{c'y} o tgolg
+>>>>>>> main
 keeoty oteey daiin dcheeody oteey
 dchey qokeey dcheey daiir otchal
 dchol day
@@ -2271,7 +2357,11 @@ sho chokar sor chor cheky daiin dar aiiin ytey tol cheeetchol sam
 dcheey qo{ckhh}y chydy
 
 oky otol ees choty chedas otchdy s ar oekaiin oteol dar cheo dais qoeeo kaiin okchey dal cheky ykos yakeg s ol ay ykoees yty dy dy chody otol ol ees oty dar qotay otoy chey kodar dar sheody shees daiin oteeoaly oteeosol ol okol olsey tol cheol okeey choekcheey okchy qokchshy dchol chshek
+<<<<<<< HEAD
 ocheal qoeey keody cheoky okeey chody dy ote?m
+=======
+ocheal qoeey keody cheoky okeey chody dy otem
+>>>>>>> main
 r al chdail schekol okeody
 okeol cheody qoekeey ocheky eeody okchdy oko okos
 shoekechy sheky okolchey okolmom
@@ -2279,7 +2369,11 @@ qokeody okeey chekchy chckhy okal ody chedy
 ycheeo key qokal okeeg
 ochey chekchy dkeeeg cheekey teokechey saiir
 ydaiil ol chek okchyd
+<<<<<<< HEAD
 okosy okchy okol choekey okeoeeey ol yko?n otairos orol orkeeey olkeeoly ykeeol
+=======
+okosy okchy okol choekey okeoeeey ol ykon otairos orol orkeeey olkeeoly ykeeol
+>>>>>>> main
 otodol
 opcholdg
 roar ykeol darol daly
@@ -2308,7 +2402,11 @@ ykeeepol ypchy
 choteey dary
 
 shes ol keey shes chteey sheely shes yeeg shokeolls ees aiir ol cho aiin ykeeykeey ches chotey y keey shes aiin okeyteey cthody chesokcho teody chockhy otol okeody cheos chkorchy dy dy shety oteey dair chotedy chey dal daiin dokeey
+<<<<<<< HEAD
 chear s oteey dain dycheckhy oteeos oteol okeor okeeody sho ykeod oteeol okeeos or chos or o{cko} aiin chol ykeey sheo s cheoekeey cheodaiir cheekchey chkeody okchy teeos sh cheo eky okey d?leed s aly oteotey otechs opain
+=======
+chear s oteey dain dycheckhy oteeos oteol okeor okeeody sho ykeod oteeol okeeos or chos or o{cko} aiin chol ykeey sheo s cheoekeey cheodaiir cheekchey chkeody okchy teeos sh cheo eky okey dleed s aly oteotey otechs opain
+>>>>>>> main
 dair apeeety dy
 sair aroyser
 oteeor arany
@@ -2370,8 +2468,13 @@ s
 ed
 
 dair cheyky otaza sar ar chykar okoirsh ar chetody okeeos o tey otokeeey okeeody okeey doiir {c@204;}teeo y chey ot y okedy chsdy okeod y dy choaiin okar okar chol chees yto odair oty oteeo dar o eykeody dchor char
+<<<<<<< HEAD
 yka{c@204;} chol ykar dal ykady iokeeor cheey choly ykeeal cheo? oaram ockhy sheey aiin y daiial cheody cheal yetey chear y dy ykey ch y dy chol ykar ol y ykeeody chey dal ody airchy choky ychey chey
 doair otaldal dair @240; chdy otoar ar @240; chy qoteor cho qotair chda oteeal cheor ar air oteody ytyd a dchy otoly okeodal oteoarar cheteese?r dair chey okody dal oteey oteey
+=======
+yka{c@204;} chol ykar dal ykady iokeeor cheey choly ykeeal cheo oaram ockhy sheey aiin y daiial cheody cheal yetey chear y dy ykey ch y dy chol ykar ol y ykeeody chey dal ody airchy choky ychey chey
+doair otaldal dair @240; chdy otoar ar @240; chy qoteor cho qotair chda oteeal cheor ar air oteody ytyd a dchy otoly okeodal oteoarar cheteeser dair chey okody dal oteey oteey
+>>>>>>> main
 okeey sar
 okeo dy
 ochoyk
@@ -2401,7 +2504,11 @@ okeody
 okcheys
 oar alys
 
+<<<<<<< HEAD
 ???ooooooooolar sasa
+=======
+ooooooooolar sasa
+>>>>>>> main
 oteody choekeeos alair dy okol okeey dasy otarsheod okchody oteos okes okeys ey okchol sairody o chopcheopchy chol air shekchy choteody oteeshs opcheody otol choky chody chotey sheal ar ykeody oteey chedaiin chotar soly
 okeodar chy oteody tochady okchody ytar ytory okeol choly yk y okchedy chkal ofchon qokal opolaiin okeos oty dal cheokeey dal cheo al oteeoky chety chodalar okal chear aly oteos ar os al okolair dy
 yfcheodly
@@ -2445,7 +2552,11 @@ oteesy ol chy oteo sal ol keey oteol choky otchosha
 okcheo dar otey ykeey tchy otsheo oteotey shey shecth opcheoldair dateey sal ody choteey choeteedy oteoteotsho yteos alain sheodaly {c@162;h}o aiin cholkal chokear oteody cholaiin oteeoal al sheeos okey chol dy otees cho s olar otoaiin oteeody sos todaiin chokain otalal oteeam
 otalalg
 ykary
+<<<<<<< HEAD
 otar?
+=======
+otar
+>>>>>>> main
 oty
 oky ody
 oty ar
@@ -2462,7 +2573,11 @@ otaldy
 okeoly
 okydy
 okees
+<<<<<<< HEAD
 daii@197;amdy otar am aral otair chedaiin oteey dair shchey daiin chalaly oteody chotol chedy oteotey oteeeor ar alody daiir oteedar oteey teey dalal cheoltey oteedy sheeteey ?okeeol ykeeos shey ykair arar alos
+=======
+daii@197;amdy otar am aral otair chedaiin oteey dair shchey daiin chalaly oteody chotol chedy oteotey oteeeor ar alody daiir oteedar oteey teey dalal cheoltey oteedy sheeteey okeeol ykeeos shey ykair arar alos
+>>>>>>> main
 otar am
 otar al
 otalar
@@ -2476,7 +2591,11 @@ ykolaiin
 otal daly oteoal dal aildy otaiin ar oteey shal o qoteeal ar al otaiin al teodaiin oteeo cthey oteeos oteos aiin daim
 otolal
 
+<<<<<<< HEAD
 dalalody oteoshy oko ksheo shokey raiin otor ochy s air cheody cheey oteochy daii? chcthy dlal oteodaiin ykeody oteody sheo daiin oteedy chetalchs zar shoteeody okeeo dal cheody okchoteees oteeody cheokeo otaiin shes to ar oly daly sheal
+=======
+dalalody oteoshy oko ksheo shokey raiin otor ochy s air cheody cheey oteochy daii chcthy dlal oteodaiin ykeody oteody sheo daiin oteedy chetalchs zar shoteeody okeeo dal cheody okchoteees oteeody cheokeo otaiin shes to ar oly daly sheal
+>>>>>>> main
 otalchy tar am dy
 opchey sal
 otakaizan
@@ -2487,7 +2606,11 @@ otchodals
 okolshy
 otshshdy
 otal ypsharal
+<<<<<<< HEAD
 daiin okey otodal cheokeeo okeodal shol olaiin saiin sheo qokeeol otchykey chekeal oteosaiin chekey okeolol chees o?eey opotey dal al s otecheo dal
+=======
+daiin okey otodal cheokeeo okeodal shol olaiin saiin sheo qokeeol otchykey chekeal oteosaiin chekey okeolol chees oeey opotey dal al s otecheo dal
+>>>>>>> main
 okoly
 otalaiin
 oteo alals araly
@@ -2513,7 +2636,11 @@ otolchd
 otaldar
 oteeol otal chs char cheky chotshy okeeody oteey chekea' okeol
 
+<<<<<<< HEAD
 osheo parar oteeodaiin she ateey daiin oteokeey dal al oteey teey dy otchy keey sheeo ochey ???y ???odal sheealody cheol otar okam oteodar chpchy {cp}ar al aiin oteoshar okeodaly oteey teeey oteey keor or arol cheols okaikaly
+=======
+osheo parar oteeodaiin she ateey daiin oteokeey dal al oteey teey dy otchy keey sheeo ochey y odal sheealody cheol otar okam oteodar chpchy {cp}ar al aiin oteoshar okeodaly oteey teeey oteey keor or arol cheols okaikaly
+>>>>>>> main
 char arom
 chfaly
 okolar
@@ -2532,7 +2659,11 @@ otar shar
 sholshdy
 okeey okeosar otaiin chkeeal okal cheekaiin okaiin okchor dar oteey kal
 
+<<<<<<< HEAD
 oteeo cthey chlol cheol olcheor al oteey chedal oteedy okeodaly chol chokeol cheo?ky okaiir okeedy sheoltey cheor aiin ydal okochey sho okalshey shol chalaiin chekeol kol otos ar aiin otam otam chotam sal okeo dar ar adal dar okeeas aiin oteey okaiin
+=======
+oteeo cthey chlol cheol olcheor al oteey chedal oteedy okeodaly chol chokeol cheoky okaiir okeedy sheoltey cheor aiin ydal okochey sho okalshey shol chalaiin chekeol kol otos ar aiin otam otam chotam sal okeo dar ar adal dar okeeas aiin oteey okaiin
+>>>>>>> main
 oshodady
 chdaiirdainy
 oaiin ar ary
@@ -2584,7 +2715,11 @@ ainaly
 okarcham
 otoar air aloy okaiin otees chs chchs ar aly taly dar otchey okaiin olaiin @211;y
 
+<<<<<<< HEAD
 okeey cheky oteo ykeey chedaiin okeeol cheeor chocthar ar oteody oteedy okeolaiin oteey okarar ??? ???teo sheol al alaiiin okeos alaiin okor okeodar otae sar aiin chekackhy chakees oteedy chekar okar choly ches os oiin okeeey cheey ches okeody cheal dy shocthy chotay sheoly {oh}eol sheey chorain
+=======
+okeey cheky oteo ykeey chedaiin okeeol cheeor chocthar ar oteody oteedy okeolaiin oteey okarar  teo sheol al alaiiin okeos alaiin okor okeodar otae sar aiin chekackhy chakees oteedy chekar okar choly ches os oiin okeeey cheey ches okeody cheal dy shocthy chotay sheoly {oh}eol sheey chorain
+>>>>>>> main
 olkalaiin
 olalsy
 oraiinam
@@ -2603,7 +2738,11 @@ ytairal
 oeeesaiin
 ory
 ochey fydy
+<<<<<<< HEAD
 of??? o eeesaly
+=======
+of o eeesaly
+>>>>>>> main
 ykaraiin airal
 okalar
 orara
@@ -2619,7 +2758,11 @@ aral
 oletal
 okeos aiin olaiin oraiin octheolarl okeeody oteos aiin koly
 
+<<<<<<< HEAD
 soees otchs otedar oteody oteodal oteos oteokchd? oteody sheokeey sheody shedykeal ckhodys okoleeolar okeey shedy otey sho shol teody okolshey ykeed?y y okechdy olaiin shokeedy chol choepchey teey teody ches okechedy otechal cheor cheey daiin oyteeedar ??? shecthy otycheedy oteeoly chokary
+=======
+soees otchs otedar oteody oteodal oteos oteokchd oteody sheokeey sheody shedykeal ckhodys okoleeolar okeey shedy otey sho shol teody okolshey ykeedy y okechdy olaiin shokeedy chol choepchey teey teody ches okechedy otechal cheor cheey daiin oyteeedar  shecthy otycheedy oteeoly chokary
+>>>>>>> main
 ocham
 orchey
 okam
@@ -2638,7 +2781,11 @@ okeeol
 okaly
 okaldy
 okeolyd
+<<<<<<< HEAD
 ototeey r??? or oteey oteeody cheokey okeoekol oteor aiin yal eeedy okeos alyshy okay okeeey okeedaly cholairy okedy chees y okeeol chey otey oldy chdy del okeeoloky oty aiin chas oteey okea???
+=======
+ototeey r or oteey oteeody cheokey okeoekol oteor aiin yal eeedy okeos alyshy okay okeeey okeedaly cholairy okedy chees y okeeol chey otey oldy chdy del okeeoloky oty aiin chas oteey okea
+>>>>>>> main
 choleey
 oky
 ch{cthh}y
@@ -2653,7 +2800,11 @@ otaly
 otaly yty
 okesees ar chkeeol okeolaiin chalal ykeeodarar oleeody shedy solar aldy oteor cheor
 
+<<<<<<< HEAD
 otos chs oty oteos oty chotey dchy chopchy otychal ctheo l shey tchol s choraiin cheka{iph}y oteeos aly okeedy cheockhy ar?k?aly okedl okedy sheos okeeor cheey okeey teey cheeey okeolol sheeoeky oekeeo r aiin olalkain okolsaiin
+=======
+otos chs oty oteos oty chotey dchy chopchy otychal ctheo l shey tchol s choraiin cheka{iph}y oteeos aly okeedy cheockhy arkaly okedl okedy sheos okeeor cheey okeey teey cheeey okeolol sheeoeky oekeeo r aiin olalkain okolsaiin
+>>>>>>> main
 oeedey
 oeeodaiin
 okeoram
@@ -2687,7 +2838,11 @@ onaiin
 okeorar
 otaiin otshedy chokeedy otes al al ar chetolain sheodaly sheokey okealy rary
 
+<<<<<<< HEAD
 oteeos alas otar air chpaly oteody okchesal otear alshey oleealy sh?tey oteos alal dals alchol ytolaiin ydaiin chotar ytal oto shoty otey okchedaly shdar y sar otedy oto rar shedy opsheytey opairaly choshydy otar cheedy otalaiin cheeky okolar ycheey otechety
+=======
+oteeos alas otar air chpaly oteody okchesal otear alshey oleealy shtey oteos alal dals alchol ytolaiin ydaiin chotar ytal oto shoty otey okchedaly shdar y sar otedy oto rar shedy opsheytey opairaly choshydy otar cheedy otalaiin cheeky okolar ycheey otechety
+>>>>>>> main
 oeeoty
 octhy
 oteoly
@@ -2698,17 +2853,28 @@ oees
 okeeoly
 odal
 aiinod
+<<<<<<< HEAD
 od?dy
 oteod
 yteod
 ok?ody
+=======
+oddy
+oteod
+yteod
+okody
+>>>>>>> main
 okal
 ytaly
 oeeeos
 oteofy
 cheoepy
 ykeedy
+<<<<<<< HEAD
 otar ar otol topar oteolaiin ofaral otshedy ofalar alshdy chpar aiin okaly oka? yaly opcheolfy opar cheo{ck}ey otolopaiin shaldy chepchy otey tean
+=======
+otar ar otol topar oteolaiin ofaral otshedy ofalar alshdy chpar aiin okaly oka yaly opcheolfy opar cheo{ck}ey otolopaiin shaldy chepchy otey tean
+>>>>>>> main
 oeeoly
 okydy
 okeey
@@ -2725,7 +2891,11 @@ otaly
 chockhy
 otedy
 yteeody
+<<<<<<< HEAD
 ypolcheey salchedal chepchey daraly oteos air ar oteosdal chotoey soteees alshey {oh}es al chees cheoly jeiii? choteey cheteey cheteeeos aiin chetchody chedar ar cheteey ote{co}s ar airalor shetee yteey cheody ykeydam oteos alar alcheky
+=======
+ypolcheey salchedal chepchey daraly oteos air ar oteosdal chotoey soteees alshey {oh}es al chees cheoly jeiii choteey cheteey cheteeeos aiin chetchody chedar ar cheteey ote{co}s ar airalor shetee yteey cheody ykeydam oteos alar alcheky
+>>>>>>> main
 otaly
 okeody
 oteedyl
@@ -2780,7 +2950,11 @@ oteotos alshy oteolain chokeedam otody qoty shedy chdy tchol oteody cheytey chot
 otedy
 eeed
 oky
+<<<<<<< HEAD
 oia?
+=======
+oia
+>>>>>>> main
 okal
 ykey
 ykeee
@@ -2862,7 +3036,11 @@ qokedy rshey qol chey ol chey keed sol key dy kedy qokal dar oly
 ocheain cheedy qokal dain sheeky qoky sshedy tedy otedy tedy taral
 qol sheckhy qokedy qokedy qokaly sor chedy qoky olshty qokydy
 sal ol olain olkey olshed qokaly qokar chedy qokain ty lshdy qo
+<<<<<<< HEAD
 odchedy qolshdy shokshdy qokain ? or shedy qolol keedy qokalom
+=======
+odchedy qolshdy shokshdy qokain  or shedy qolol keedy qokalom
+>>>>>>> main
 sal shed ykain qokain sheckhy ld saiin ckhy lshedy
 
 okshy
@@ -3008,7 +3186,11 @@ or as sheey otar shedy otchedy checkhey olchedy checkhy checkhy lky
 dol sheetey qokedy ol checkhy lshedy qokeedy cheedy qokeedy shl loiii@175;
 cthedy oteol chdar chckhy chees salkchdy chey lcheedy lchedy qoteedy
 sol shey qotedy chey dytey teedy lchey qokedy chedy lal chedy lchedy
+<<<<<<< HEAD
 dchedy qokeedy qotchy qokol shedy shedy chedy olched? shetey saiin
+=======
+dchedy qokeedy qotchy qokol shedy shedy chedy olched shetey saiin
+>>>>>>> main
 qokeey lsheey dal lchedy olshey
 
 psheoldy opalshedy qokshedy qokedy dor shey opchedy dal so fcham
@@ -3133,7 +3315,11 @@ tcheey qokeey qokal lchedy cheolkaiin okol
 
 saroral
 okalo
+<<<<<<< HEAD
 o?eoedu
+=======
+oeoedu
+>>>>>>> main
 
 okchdldlo
 okchdy
@@ -3256,7 +3442,11 @@ lcheey qochey qody qokal olor okchd dchol dchy oly
 y shedy qotal ysheey olor
 
 polshey oltshedy sheol ykeey okeey cheor sheedy ol
+<<<<<<< HEAD
 sol cheedy qoteedy okaiin ol olaiin shey daiin ch?y ol
+=======
+sol cheedy qoteedy okaiin ol olaiin shey daiin chy ol
+>>>>>>> main
 daiin shedy qotshedy oteeedy oteedy chey qokain ol
 lcheol kchedy qotas sheey teol oteedy
 
@@ -3296,7 +3486,11 @@ qokain sheey qokeey teey oteey lcheey qokeey olkeedy rchey
 ykail shy qolar shey qokedy qokedy qokedy dar olkain cham
 dchedy lchey qety shedy okain ykees olkey oty shey qoly
 dshey qokal sheedy sheky orain otshdy dain cther aror
+<<<<<<< HEAD
 tshey ykeey r ch ?ain oroiiin
+=======
+tshey ykeey r ch ain oroiiin
+>>>>>>> main
 
 tolkey okar ol okaiin otylor qokol okeedy dalary
 ycheear o oiin oeedy qotain chedy qokeey oteey qokeey lol
@@ -3339,7 +3533,11 @@ tchedy qotair cheol qokal qokal cheety qokaiin qokar qokain chedy qokam
 solkain shl lky chcthy qokain qotchy qotal dy chckhy lchey qotar otal
 qokedy qokeedy checkhy olchedy qokain chey qokechckhy otar cheoltain sy
 solchedy qokeedy qokar ol chedy qokain shecthy qokeedy saltar chkain oty
+<<<<<<< HEAD
 solky sheckhy sheky shkeol qokar sheky chetain ol olkar okain sheky qokal da?
+=======
+solky sheckhy sheky shkeol qokar sheky chetain ol olkar okain sheky qokal da
+>>>>>>> main
 paiin sheol qokain chety qokeedy qokar shcthy qotol shecthy qokain olkam
 dcheol shedy qokeel qotaiin chtal schcthy qokal chcthy qokain okain oloky
 qoteedy keey qokain chckhy qoty dalched otain shedy qokair shey dalom
@@ -3495,7 +3693,11 @@ qokal qol oiin cheey dal lchedy chedy salchtedytar
 shol qetchy ykaiin olkain shedy qoky dchedy rol olcthdy
 ytey okchedy qokal okeey qol cheedy sal teol dchdy ly
 oshedy qotedy shol chedy y shchey ol chey qol chedy tchd oky
+<<<<<<< HEAD
 ?ol checholtar oiin okedy dal shey olkeol olkeedy okeol
+=======
+ol checholtar oiin okedy dal shey olkeol olkeedy okeol
+>>>>>>> main
 dsheol oiiin olkeedy tedy cheky shckhedy chal
 
 otain olkal
@@ -3639,7 +3841,11 @@ salche'dy cheey qody kesd oldy
 s okeedy qokeedy qoky saii@208;
 
 techedy qotchedy okeedy ldy
+<<<<<<< HEAD
 ?cheol qokchedy lchedy qokey
+=======
+cheol qokchedy lchedy qokey
+>>>>>>> main
 sy s aiin sheekchy qokey sain
 shky lchedy dolshed qokchy
 saiin cheky okeeol okain chdy
@@ -3672,7 +3878,11 @@ dol shedy qokedy shedy qotedar checthedy qokedy qotal chey dar
 qotain chcthy dal olkedy shedy qotaldy qokaiin dair shedy oteey
 dain sheedy oteeody doldy qotedy qokeedy qokedar sheoldy qol oly
 qokal shedy qotain chedy chedol daiin otaiin shedy qokeedy okaiin
+<<<<<<< HEAD
 chedy qoteedy otalshedy sol chl ?es okeol shedy qokolchedy qokal
+=======
+chedy qoteedy otalshedy sol chl es okeol shedy qokolchedy qokal
+>>>>>>> main
 qokeey oteey qokalol chedy dy dol qokal olkshedy qokeedy qokal
 rolkeedy qokaiin okaiin ched okchey
 
@@ -3684,7 +3894,11 @@ qol chey qo lched qolky qokal chedy chedy daiin chckhy cheor ol lal
 salched qol shedy qolchedy qolchdy qol rchedy cheol qokeor sholdy
 qokaiin cheol shey qokeey cheol dal cheeaiin olkeedy qokal chaloly
 daiin qokal sheckhey qokeey chal qokeey qokaiin chedy sar al
+<<<<<<< HEAD
 qokain cheeal qokaiin sheol qokear cheedy olcheey qokal qoka?y
+=======
+qokain cheeal qokaiin sheol qokear cheedy olcheey qokal qokay
+>>>>>>> main
 s olkeedy qokeedy qokeedy saiin okaiin chedy qokeedy qolkeedy
 qolchedy qolteedy qokeedy qokal okaiin chear checkhy dal checkhdy
 tocthey cheor olol cheol tedy sheckhal sheeckhy cheal
@@ -3885,15 +4099,26 @@ okees olaiin qokal chdy sary
 qokshedy qodain chckhy ykeedy chedy
 or aiin ckheda or ain olchey qokal shedy
 qokeody qoekedy dody shedy qodaiin
+<<<<<<< HEAD
 los ar shedy qokshey qose?y or aiin og
+=======
+los ar shedy qokshey qosey or aiin og
+>>>>>>> main
 ol lcheol chol ol sheoly
 
 okees ochar otedor ochedy otody olchedy oteedo ar or airol otees ar aram
 
+<<<<<<< HEAD
 saeeasa?
 oto tosair adar otar otod okaiin dal al chdar otdar chefchs okor ol om olkeeodaiin shol okal orshees ?oeey okalol otodr ochs arol o?okam oteed oteedy okedy lraiin or aiin okor okeedy
 ofain ain
 ych ?ais
+=======
+saeeasa
+oto tosair adar otar otod okaiin dal al chdar otdar chefchs okor ol om olkeeodaiin shol okal orshees oeey okalol otodr ochs arol ookam oteed oteedy okedy lraiin or aiin okor okeedy
+ofain ain
+ych ais
+>>>>>>> main
 ydekam
 darchedy
 otochedy sy
@@ -3909,7 +4134,11 @@ ofardy
 orarol
 daldal
 daraldy
+<<<<<<< HEAD
 sais od ror or okal okal or alal ykal ol ar ol ar ol al lar okan okod ok?d okeo ldy opashs otedy chedchs sheekede odal shd olkeedy yky kaiir okchdy otol ar y aiin aiir oial okchdy oly okain olkaiin ody
+=======
+sais od ror or okal okal or alal ykal ol ar ol ar ol al lar okan okod okd okeo ldy opashs otedy chedchs sheekede odal shd olkeedy yky kaiir okchdy otol ar y aiin aiir oial okchdy oly okain olkaiin ody
+>>>>>>> main
 oko
 daiiny
 do{cfhh}y
@@ -3924,8 +4153,13 @@ opokchosody
 adashgasain
 cfair o@213;ol{c@133;h}y
 okody
+<<<<<<< HEAD
 okas epar chir u oteoteedy otos otodar ches okodainol ykedy eedar tchdaiin sy sarald todar chkar odair or oal okchdy s?dy otchdy ykchdy eeeky o aiin okees olar or ykeedy okeo lodaiin or olaiiin ol?r
 chochs oetchy osar aram askeeody ochdor al oekairy ytodaro opalshy or arodar ykodar ykodar ykara opalx?
+=======
+okas epar chir u oteoteedy otos otodar ches okodainol ykedy eedar tchdaiin sy sarald todar chkar odair or oal okchdy sdy otchdy ykchdy eeeky o aiin okees olar or ykeedy okeo lodaiin or olaiiin olr
+chochs oetchy osar aram askeeody ochdor al oekairy ytodaro opalshy or arodar ykodar ykodar ykara opalx
+>>>>>>> main
 opoor daly
 okas oedady
 kechy qolchedar ar
@@ -3937,14 +4171,22 @@ okor
 sarchcphdy
 otchdy otoldy
 ofchedaiin
+<<<<<<< HEAD
 osar otar otodeedy oty daiin sheor oar otedy qotedy oteey otoraiin chekad?r ol aiin okedal olor opoiiral ???alky ytar qokeo l tched oiin oteedaiin odal cheky otchdor or olkoaiin okal o laiin
+=======
+osar otar otodeedy oty daiin sheor oar otedy qotedy oteey otoraiin chekadr ol aiin okedal olor opoiiral alky ytar qokeo l tched oiin oteedaiin odal cheky otchdor or olkoaiin okal o laiin
+>>>>>>> main
 otedal
 opaiin o
 otchdy
 okchy
 chkeedy
 opairar
+<<<<<<< HEAD
 odee?y
+=======
+odeey
+>>>>>>> main
 okody
 depcheky
 otch
@@ -3952,7 +4194,11 @@ osy
 odl
 d dy
 oteey
+<<<<<<< HEAD
 otor or om araiin okeody okar odsheedy odaiin okchdy okar shar okaiin daiin ofair oly olkair odal olkalor olor ? y o d ???ax k r olar oteedaiin otes ar ykos aiiin ol qotady ol a r or osoa oteeedy okal okodar otshe okody oteda chdar ?
+=======
+otor or om araiin okeody okar odsheedy odaiin okchdy okar shar okaiin daiin ofair oly olkair odal olkalor olor  y o d ax k r olar oteedaiin otes ar ykos aiiin ol qotady ol a r or osoa oteeedy okal okodar otshe okody oteda chdar 
+>>>>>>> main
 oteedy
 opa
 odal
@@ -4023,19 +4269,31 @@ otchdam
 otedy
 okar
 lashalg
+<<<<<<< HEAD
 akchrar okary otodag oda? chekaiin oees ??? aiin okees oiir odaiin okalol aiiin okalol otar chchdam chetey otodchch oteesey eeckhy otody otal chedal opal olkar okedaiin oror
+=======
+akchrar okary otodag oda chekaiin oees  aiin okees oiir odaiin okalol aiiin okalol otar chchdam chetey otodchch oteesey eeckhy otody otal chedal opal olkar okedaiin oror
+>>>>>>> main
 o@214;alda
 osaram
 oparodam
 otam opchody oteey
+<<<<<<< HEAD
 ?opar chepchey oteedy olaiin osshy
+=======
+opar chepchey oteedy olaiin osshy
+>>>>>>> main
 
 tol ofar chefaiin ol
 okchy qokedy qokedy
 tol teoor o l chekor
 
 okar olchety daiin
+<<<<<<< HEAD
 ok?dy qokcho chfady oro
+=======
+okdy qokcho chfady oro
+>>>>>>> main
 okeechy okol sheeo tolfchd
 saiir shdaiin
 
@@ -4051,17 +4309,30 @@ tshda
 opchd
 opeedy
 qokal
+<<<<<<< HEAD
 shet?
 opeesy
 che?ky
 
 opos os sheody pch???ar odsheo qody cheepchdy lpchedy olkar shdar dchdor qopcher ches os eeedar odaiin pcheodar chdair orarorchy shar opchsey otedy ch{cphh}y chedy sarshed odar sheey scheor al cheefar shetchy qoteol otor shar qoteshy do??? ofor arar dl
 oeeey o daiin otedaiin otedy oteey chedaiin octhedy chy shedaiin chotaiin oraiin otodeee? ar yteeody oteedaraiin shedaiin chdar shedy qotedaiin chedy tchdy chetdy chedy qotar chedy chckhy daiin otedy seeedy yteey sam
+=======
+shet
+opeesy
+cheky
+
+opos os sheody pchar odsheo qody cheepchdy lpchedy olkar shdar dchdor qopcher ches os eeedar odaiin pcheodar chdair orarorchy shar opchsey otedy ch{cphh}y chedy sarshed odar sheey scheor al cheefar shetchy qoteol otor shar qoteshy do ofor arar dl
+oeeey o daiin otedaiin otedy oteey chedaiin octhedy chy shedaiin chotaiin oraiin otodeee ar yteeody oteedaraiin shedaiin chdar shedy qotedaiin chedy tchdy chetdy chedy qotar chedy chckhy daiin otedy seeedy yteey sam
+>>>>>>> main
 tchey dair alody shes qeeor or odarchdy chdy orcheos os ain or oteed chedees oteedy qoty otedy shedy otedy dar shd shy y schdy chdeedy dodar oiin or oiin sar orchedy qotchdy dchdes ar sheody opcho fcheom
 pchedar ar o{cp}or otees oes aiir olkeor dar ain desy doeedey opchedy shedaiin dar otedy dain otey dam otedy daiin chocthy dtedair chody sheos otedos qokechy pchdeedy dan ol dol oty sho pol otoldyl
 pcheodar oedy qokeol qoeol oqokeol dar ol olair am
 ycheoltar ol ol sheey qokey or aiin sheeor sar al ol sheey qockheey
+<<<<<<< HEAD
 tol sh s or aiin ol keeod lcheody okedy qokeody qoain a?
+=======
+tol sh s or aiin ol keeod lcheody okedy qokeody qoain a
+>>>>>>> main
 daiin ol keedy otar olshedy okol aiin okal cheockhy sho{cthh}y daiin
 dar oleey ol yy
 
@@ -4147,7 +4418,11 @@ sair kain ar alosheey qoeey lkesy
 
 pochor aiir shoar pshody shody qopchy ocfhdy dar olpshy dam shey
 pchor ypchor aiin otar shody pchykar ytar odar oeees aral om
+<<<<<<< HEAD
 odaiin o al kar ar or ytdar qokeeey teo dy tey tar a? ytarar
+=======
+odaiin o al kar ar or ytdar qokeeey teo dy tey tar a ytarar
+>>>>>>> main
 ysheoar qoteody qokar shody qokal tchey ytchy tal tar
 odaiin otchees chey chodaiin shedy otal kchol shy olkeeeary
 tol kaiin ytchdy chol ytedy ytain qodaiin ytody ykeshy ar
@@ -4188,7 +4463,11 @@ dshedy kshey tchdy shdy ralkchedy ytchol qoty okshy tam
 ytchdy dar sholor alor
 
 tshedal ypchey shdy qopcheeody opchdy olfchey ypchey qotaiin
+<<<<<<< HEAD
 dshedy qokeey qotee? shedy qokaiin chdy otar otaiin ykaiin
+=======
+dshedy qokeey qotee shedy qokaiin chdy otar otaiin ykaiin
+>>>>>>> main
 qodaiin y ochedy qotchey qoky daiin chdy oteedy qoty daiin am
 shor yteey oteedy shedaiin sheey otaiin ytaiin otodar aiin
 teeos aiin yteey qoteey otchey qoteeody cheeor cheedaiin
@@ -4309,7 +4588,11 @@ saiin choky cheor shy
 daramdal
 otydary
 otdordy
+<<<<<<< HEAD
 dararda?
+=======
+dararda
+>>>>>>> main
 
 okchshy
 qkol
@@ -4371,7 +4654,11 @@ yokeeol cheol qokeey qokeol chey cheokor okeey ky daiin qokeol cheey qokeey saii
 daiin dal sheol s aiin qocheey daiiin qokeeyl qokeody chol cheol ykeo qo qol cheo loiiin doigom
 scheor sy sorcheey dol cheor cheey keey qokeey daiin ycheary okeey keeokechy cthey daiin dy
 qokol cheor okoiin okeoy qoeey cheor cheey qokeol cheal s aiin ocheol soiiin dair chey daiin
+<<<<<<< HEAD
 o r ain ar ain ol daiin qoaiin ol chkaiin daiin okar dair y?dair
+=======
+o r ain ar ain ol daiin qoaiin ol chkaiin daiin okar dair ydair
+>>>>>>> main
 
 okain
 yorain
@@ -4386,10 +4673,17 @@ darcheor
 chokaro
 sheol
 chokam
+<<<<<<< HEAD
 kosar sheol s aiin koiin chtodaiin pd?n choty qofoiin dy qopdal doiir ofaiin ol cfheol dam
 dain ykodaiir okor chear otees ckhy s aiin ckhey otaiin okar dain okol ol chor dar
 ychey okeey qoeol daiin chor chos cheos qol e eeey dal chody cheor chey qoaiin chody
 dair or cheol chom qol cheo l? l or cheo daiin chkam
+=======
+kosar sheol s aiin koiin chtodaiin pdn choty qofoiin dy qopdal doiir ofaiin ol cfheol dam
+dain ykodaiir okor chear otees ckhy s aiin ckhey otaiin okar dain okol ol chor dar
+ychey okeey qoeol daiin chor chos cheos qol e eeey dal chody cheor chey qoaiin chody
+dair or cheol chom qol cheo l l or cheo daiin chkam
+>>>>>>> main
 
 otory
 otair chody
@@ -4398,7 +4692,11 @@ opcheedey
 sor oairar sheety chodor kory oeear eais sheotain ytodaiin
 o cthos okaiir okeos dar s siin ykeody dar okal dal dosal dar am
 y {ch'}eo qokeeol chey sair dam chy for opodaiin dam sasy qodam yteos aiin
+<<<<<<< HEAD
 yokor chor cthy daiin chos chey dar aiin choeeer okar chcthy darai?s
+=======
+yokor chor cthy daiin chos chey dar aiin choeeer okar chcthy darais
+>>>>>>> main
 
 toar qokeeody doef shey dair olsheos psheoepoain daiin qekor okeor otol sheey daldaiin
 dol dair chey okaiin shy daiin odor sheos aiin daikeody qokorar sheody qoko ltcheody otal
@@ -4408,8 +4706,13 @@ ockhody daiin ykam s chty chy cthey dair air chool loy dair cheo daiin
 opaloiiry
 otaram
 chtchy
+<<<<<<< HEAD
 ??loko
 sada?
+=======
+loko
+sada
+>>>>>>> main
 daseky
 
 okoraldy
@@ -4458,7 +4761,11 @@ ychor ckhor qoeeor okaiin dom olcheo rodaiin
 daiin qokor okoiin daiin
 
 
+<<<<<<< HEAD
 {c@181;h}da{i@133;h}y qocfhey opolraiin ofchedal s? shese shodaiin sheas
+=======
+{c@181;h}da{i@133;h}y qocfhey opolraiin ofchedal s shese shodaiin sheas
+>>>>>>> main
 podchey ctheod {ikh}eeos cheey ykeey s ois qokchas s oin sam
 saiin sheom sheey keeos ol cheeor chy shy tchody okeeom
 tchos oteey saiin okeeey
@@ -4521,8 +4828,13 @@ possheody qoteeo qoshocphy opchody opor opchy otchdal or shodaiin
 yteeody qotody qotchol qocthody ytey oky daiin dar cthog
 dchos chody qockhol oky cheodaiin oty daiin otal dair okol
 sol shol shdchy qokchol qokchody chol chol {cty} ykchy dar
+<<<<<<< HEAD
 tshoky cthody qotchol ckhol dchog s olo oteo? chodaiindy
 ytch?l ckhol qochocthy ctho chkeey cthody s dar sheyokam
+=======
+tshoky cthody qotchol ckhol dchog s olo oteo chodaiindy
+ytchl ckhol qochocthy ctho chkeey cthody s dar sheyokam
+>>>>>>> main
 oees ckheody qkcheey koldy tchodaiin ctheos shodain qokeeam
 dcho chody teol sheol cheeoldair okchey cthey dsheog okeey dama
 odeeeodl cheodar oksho chody okchey cthol oly ytchol sar dar
@@ -4566,7 +4878,11 @@ tchdor or chekchdy qokar chcthy qotchdy lshedy qoky qofain dy
 ykchedy sheky chekar chdain chdaiin okar chetchdy chdy chkam
 olkor chdaiin cholkaiin qokeedy qoky chey lchedy chedy alod
 tchdy tchor chol tar chdy okol ykoldy olkeedy qotaiin or
+<<<<<<< HEAD
 daiin chckhy okaiin chckhy daiin ykedy ep?iin okaraiin ls
+=======
+daiin chckhy okaiin chckhy daiin ykedy epiin okaraiin ls
+>>>>>>> main
 ykaiin or chdy chekain ol dar ykar olkeey ldar chekal
 
 
@@ -4661,7 +4977,11 @@ qokeor chol ykol cheey chody ckhol daiin okeoly daiin ckhy
 oparal
 oaro
 aloly
+<<<<<<< HEAD
 aora?
+=======
+aora
+>>>>>>> main
 choky
 oky
 okeoly
@@ -4756,7 +5076,11 @@ soity
 sosam
 dakocth
 sofam
+<<<<<<< HEAD
 pcheol sheod qocpheeckhy shodol {c@132;h}da @168;oto cho?os sheey ch{cthh'}o s
+=======
+pcheol sheod qocpheeckhy shodol {c@132;h}da @168;oto choos sheey ch{cthh'}o s
+>>>>>>> main
 dsheor cthey qokeey oteey ykeeodain rorarydaiin daiin deeomchol
 shor chkeey qoteey qokeody qoteold qokeol so raiin otal ykeeeo
 dcheor shol qokeeol chor chol qokeeody dareu
@@ -4831,6 +5155,7 @@ olkor
 dolary
 odor
 olaran
+<<<<<<< HEAD
 tolchor cheopor or ody cphey r shee fol s oiin otsheey otch???y kcho pcholy chor or choror sy dorar okoraiin orolodain
 or aiin or o or odam chor s aiin okor cheeor sheeol qokol et???ol qoor cheey qykeod oeeo r choy s okeeody chodaiin cthy okody dar
 ycheor o?o dain cheokal {ykh}ody cheeods oraiin qoeey cthey ???eocthy dain cheod? dydy
@@ -4843,12 +5168,30 @@ daiin dair yteol chor qockhol daiin ckheey chey kchey da???oiin okeey ckheo l ch
 olaiin okeol cheo kol ches sheey qoor qokeody cheor okeo ???oiin cheey cthey ory ctheey qokeey shol ody cheol oralar shey qokar ary
 sal chol choly okeey dal qol shckheol chol cthear keeol ???cheeo ol chs oraiin qokeeey soiin qodaiin cheol qokeey daiin cheodam
 teol cheol etchey ???cheo r cheol cthol cholaiin chol qkar
+=======
+tolchor cheopor or ody cphey r shee fol s oiin otsheey otchy kcho pcholy chor or choror sy dorar okoraiin orolodain
+or aiin or o or odam chor s aiin okor cheeor sheeol qokol etol qoor cheey qykeod oeeo r choy s okeeody chodaiin cthy okody dar
+ycheor oo dain cheokal {ykh}ody cheeods oraiin qoeey cthey eocthy dain cheod dydy
+
+kshar lol keeol otal or ol aiin okeod {ykh}ey dain olcheol opcheol cthey qekeoldy qocthor sheody qo{ckhh}ey odaiin shoytolaiin sodaiin dy
+yaiin ol olor daiin okeey qok ykeol daiin qockhy daiin olchdar qokeol dol oraiin oldaiin keeols rch qokeeeor s ydy cheor okeey choldy dar
+teeeol sheol qokeor {ykh}ol olcho r chokey chor ctheey daiindaiin cheeody cheey keo cheol daiiin deeor cheedy
+
+daiin dair yteol chor qockhol daiin ckheey chey kchey daoiin okeey ckheo l cheody kcheol daiin eteeos ctheody ctheo ckhosh olchor
+olaiin okeol cheo kol ches sheey qoor qokeody cheor okeo oiin cheey cthey ory ctheey qokeey shol ody cheol oralar shey qokar ary
+sal chol choly okeey dal qol shckheol chol cthear keeol cheeo ol chs oraiin qokeeey soiin qodaiin cheol qokeey daiin cheodam
+teol cheol etchey cheo r cheol cthol cholaiin chol qkar
+>>>>>>> main
 
 
 daarod
 otodeeodor
 polaiin shocthy qoteol loiiin oteeor cpheodar sholdaiin
+<<<<<<< HEAD
 dsheody okeeoy kod? chkeeody daraiiin ctheoly qokcheololain
+=======
+dsheody okeeoy kod chkeeody daraiiin ctheoly qokcheololain
+>>>>>>> main
 ytol sheol she olaiin orain oraroekeol chol ekey qokol dain
 daiin ykeeol oldy okodaiin
 
@@ -4873,7 +5216,11 @@ daiin ckheeol oldor okol cheodor sor airam
 tor sheo or chey qoor yteor chol choky
 daiin okody qokeody okeol dor chckhy oteod s orsy
 
+<<<<<<< HEAD
 ok?rolda
+=======
+okrolda
+>>>>>>> main
 kolor olaiin opor shey opolkod odain sheo qoeol shey
 dor oiin okeody qokeol sheoy qoochey ckheol sheey skeekyd
 shockhy qockhey sol eeey dol cheol doaiin qkeeey cthey
@@ -4882,7 +5229,11 @@ ytchy o l ockhy okeey cheody saiin dol ockhy okeady
 
 loeekadag
 ockheodsl
+<<<<<<< HEAD
 so???dch
+=======
+sodch
+>>>>>>> main
 {c@132;h}ol d{c@133;h}ody cthol soeees ykeody qokeey qotchy soefchocphy
 ykeockhey okey qokeeo ckhey qokey desey qyoeey dol chkey choky
 otol shey qockhey dol shey dol sheey qokol daiin oky oky
@@ -4900,20 +5251,32 @@ sachy
 okeos
 okol
 otory
+<<<<<<< HEAD
 ok?
+=======
+ok
+>>>>>>> main
 okody
 cheor
 okoroeey
 opchy
 sarol
 olrodar
+<<<<<<< HEAD
 tod?
+=======
+tod
+>>>>>>> main
 podeesho oteeos sheor qoteeo ch {ckhh}y shkeey chekeod
 ocheos chyokeor okeol okeol shy y
 deeeo qoeeor o eo{ikh}y cheos o l o r o l okeeos ain
 qokeor chokeeol okeeey qokeody chockhey qokeey dol ol sheeoy tody cheoch
 ycheey s od eey okeeor cheol os oiin oeees okear chey keey saiin oteo
+<<<<<<< HEAD
 dain or aiin cheol s oiir chol sheey qockhy ol keo r okeody okeor cho?
+=======
+dain or aiin cheol s oiir chol sheey qockhy ol keo r okeody okeor cho
+>>>>>>> main
 okey okey shey okey oiees or eey
 
 okolky
@@ -4925,7 +5288,11 @@ os
 pydchy odiy pcheady qoekeey oteey qokeod sheey opaiin deear
 oldeey ckhy sheeody eeos sheshe oeeor ykeear chekeey ykory
 dar cheor shoar okeol shoy s ar oky cheeor ol daiin sy
+<<<<<<< HEAD
 qokeor sho ?keeeos cheor o s al chos aiiin o ky okaraiin
+=======
+qokeor sho keeeos cheor o s al chos aiiin o ky okaraiin
+>>>>>>> main
 sorshey okeeor sheockhey qokeos okchol ctheor okey sal
 ychor sheol por sheeor shekeey qoky cheo teody qokeol daiin
 okeeor cheey okeey sor eeey okey okey okeey qokeor
@@ -4949,7 +5316,11 @@ y cheol cheol doiir shekcheor s ar cheor {@246;kh}ey pchodaiin
 toiin ol daiin qkol cheol daiin qokar oaiin cheey saiim
 chor cheor ckhey oteol a{ikh}eky
 
+<<<<<<< HEAD
 d?indy
+=======
+dindy
+>>>>>>> main
 ypcholdy
 loralody
 opchdard
@@ -4961,6 +5332,7 @@ ksheody sho qokey sheody qockhey olcheor odain okchody
 ysaiin ckhey qoor cheol
 
 
+<<<<<<< HEAD
 pchedal shdy ytechypchy otey ?lshey qoteey qotal shedy yshdal dain okal daldy
 dain shek ch{cphh}dy daloky opchedy peshol chep ar otchy sal lkeey sar ain ok?? chedy
 yshdain sheek cheoty eeokal chedy chckhy or orol okaiin eeal ot kar otar chal
@@ -4972,6 +5344,19 @@ saiin chey shs olshedy qokeey okeeody qoedy ol shedy
 
 daroal okey chedy okey rain okechy qoisal qotar adchey ofeeo lt??dy ??olkechdy lo
 oteeos ar cheal okeey shey lkaiin shey lkeor otaiin shedy otey l ?dy okeedaram
+=======
+pchedal shdy ytechypchy otey lshey qoteey qotal shedy yshdal dain okal daldy
+dain shek ch{cphh}dy daloky opchedy peshol chep ar otchy sal lkeey sar ain ok chedy
+yshdain sheek cheoty eeokal chedy chckhy or orol okaiin eeal ot kar otar chal
+ychedy qokedy okedy qokeey okey chdar ol loty chedaraly
+
+pocharal okedar shedy oteey qokey lkar sheeky okalor shedy yt rkar ota okdy
+ocheey dain shek okeedy okey shedy qokealdy shcthy qotedy qoto ota  san am
+saiin chey shs olshedy qokeey okeeody qoedy ol shedy
+
+daroal okey chedy okey rain okechy qoisal qotar adchey ofeeo ltdy olkechdy lo
+oteeos ar cheal okeey shey lkaiin shey lkeor otaiin shedy otey l dy okeedaram
+>>>>>>> main
 daiin ol oain okeol chol okam chety shedy otaiin shedy teolshy oteedy sor ain
 dar oteey otain lolshedy okain chey qorain shey otoy qokeol key da{ikh}yky
 oain shey shckhy oteey qokeol keedy shar aiin otedy
@@ -5052,7 +5437,11 @@ sal sheal shedy okeedy qokeey l ol shedy pchor pchedy pol sheedy opalam
 dain {ch'}eey olshy otey olshedy qotshdy okeey lr ain okan olshey
 
 teeol sheol sho qokeedy shedy qokey oshedy oteedy qokain otar aiin otam
+<<<<<<< HEAD
 tchedal shey lcheey lchdy ch ar olchey lcheody tedy otain otain ota?y
+=======
+tchedal shey lcheey lchdy ch ar olchey lcheody tedy otain otain otay
+>>>>>>> main
 daiin sheekchy okeeshy qol shedy otain ol kedy
 
 qokeedy chedy qoteey oteedy lkedy shedy qokal ol char otal opchedy
@@ -5181,7 +5570,11 @@ or sheeo lcheedy qokeey qochey qotcheedy qotchedy qokol chor chorol chdar otam
 yshor sheedy qokaiin shokchey qokeey chodain
 
 ytchedy qokchedy qotchy qokchedy qokchd ls aiin qchor sheor ytaiin chey tal
+<<<<<<< HEAD
 tchey qokchey qochey qodeey qodaiin chodaiin chckhdy dairar otar qotai@208; ?l
+=======
+tchey qokchey qochey qodeey qodaiin chodaiin chckhdy dairar otar qotai@208; l
+>>>>>>> main
 ykaiin cheor cheeey daiiin cheo dalaiin chockhedy chedaiin otor qokar ary
 dsheey qoykeey lchedy qokedaiin ar chcthy daiin cheey sair ol aiin chedy
 ysheor sheey qodaiin chodar chochs
@@ -5207,11 +5600,19 @@ qokeeey okchedy qokeey aiin odain orchedy qoky
 
 tchedy qotechy otcheeo l keedy qoty raiin cheedy qotaiin otchdy qotain
 oteedchey qoeeda lchal cheedy qoteey sheey teeeo dar cheed qotain chedy
+<<<<<<< HEAD
 chey keeey qockheey lkeey o keeedy qokeey okchey qot?odaiin okain orom
 daiin y cheeo chey okeeey qokeeey okeey okeey
 
 
 @199;aiin dar chcphy qokeey qopaiin ypcheeey saraisl aiin cheedy ?aiin arody
+=======
+chey keeey qockheey lkeey o keeedy qokeey okchey qotodaiin okain orom
+daiin y cheeo chey okeeey qokeeey okeey okeey
+
+
+@199;aiin dar chcphy qokeey qopaiin ypcheeey saraisl aiin cheedy aiin arody
+>>>>>>> main
 dshees yey cheey raiin otchdy qodor ches or cheey okees odar cheody qody
 olshey qoden odeey kcheody cheeo ar yteey ytchy otedy qokeedy qokeey rol
 ykaiin olkeedy odaiin okar eeeodaiin yteey ochedy qokeeey oy teedy qotam
@@ -5366,7 +5767,11 @@ dair alsheod shedy cholchedy cheol shory
 pcheodar shol kain ok{e'e}chedy qoteey shotchy qoty lpaiin shedy lar
 daiiral sheol daiin otedy qokain okar cheor al taiin chekal otaras
 dshedy qoteey otaiin chy chealol chlchd aiin oty otair otaiikam
+<<<<<<< HEAD
 y sheedal okain okain otar kaiin chdalkair olkai? al keedy okal
+=======
+y sheedal okain okain otar kaiin chdalkair olkai al keedy okal
+>>>>>>> main
 sotchdaiin shodaiin otedy qokeedy qokaiin ykar qokain cheedy lol
 ycheoar okain qokain char oky cheokam
 
@@ -5618,7 +6023,11 @@ poro l tedo lchdain qokar otedy otarar yty sho qotedy oteedy okedy
 okor aiin okeedy qokeedy okeeom cheykeeed chol qekeey or aiin chckhom
 sheedain qokeedy chokeedy qoteody keesho daiin chedy keedal as keodky
 okeey qokeey qokeedy qokeey chedal chedy qokeey okeedain otain oolals
+<<<<<<< HEAD
 olke?y okey lokeey qokedy ol kechy chedar olal oedy qckhy cheam
+=======
+olkey okey lokeey qokedy ol kechy chedar olal oedy qckhy cheam
+>>>>>>> main
 ychey chey okar charam otam cheody
 
 dain sheckhy okeey keey lchedy okeey qokedy chedy dalkedy qokedy dal
@@ -5663,7 +6072,11 @@ sheeol okeey kaiin okaiin ol lchey ctheo r aiin cheey qokeey qokeeaiin al
 sair okeaiin cheol shedy qokeeey dlaiin ar or lkar char aiin okal ldyr ls
 sal lcheal lkeeey okar ar ain olcheees ol cheal okaiin ykar al okalam
 paror aiin shedy qokey qol eees aiin lal lkeeedy otain sheey chol tan al
+<<<<<<< HEAD
 dar chey o cheol chedeey qokeedy chea?
+=======
+dar chey o cheol chedeey qokeedy chea
+>>>>>>> main
 
 polshedaiin qokeoy keol chokeol qotedy qoteedy dar raiin shedy qotain oteedy
 ol cheol shed qokedy qokedain checkhed qoteedy otedy qokedy okeea r l kam
@@ -5707,7 +6120,11 @@ dsheeo qokeedy otchedey lshey lkeedy oteey qokeedy oteolair ar shedam cheam
 qosheo lchdy lshedy olkeeedy lr al chr or dain shey arain chey teey cheodaiin
 dchedar oteey lchey ykeeeos aiin shear oteedy tedam oteey pchedey chedy lchedy
 sheeodar aiin sheey shey oteody oteedy chey daiin oteol otedar tar pchdam
+<<<<<<< HEAD
 dchedshey qokeedy okeodain shet sheota? oteal tey lkeey sheedy shtar keedy
+=======
+dchedshey qokeedy okeodain shet sheota oteal tey lkeey sheedy shtar keedy
+>>>>>>> main
 otes lchey lshedy qoteedy olcheody qokeey chey kal chekeedy oteed keedy otam
 daiin shecthey oteody qochey qokeey chey teey qokeedy qokeedy cheol lokeedy lched
 saiin okeeol qokeedy lchey lcheoekam oaiin cheky qokeeodar checthdy qoted l loty
@@ -5746,7 +6163,11 @@ poeokeey lkeedy tedain shecthy qokeedy chckhy lfchy cheal chepcham daim
 dcheey keeey qockhey qokeey lchedy keeor okeey lkeedy lkeey qokaiin ol
 okeey l chedy cheekain qokeeokain chckhy cheal keel qokain chckhal lkal
 
+<<<<<<< HEAD
 polkeeo shey cheokeain chl kar r aiin char ?ain al lkeedy qokal okchy
+=======
+polkeeo shey cheokeain chl kar r aiin char ain al lkeedy qokal okchy
+>>>>>>> main
 dair al qokeey qokaiin sheal qokeain shckhy sain chckhy char aiin alom
 yshe aiin okshdy shkeey kain chaiin alolshey qokaiin chcthydain
 tair chckhaiin dair qokal otain okal
@@ -5766,7 +6187,11 @@ y lcheey shear aiin sheear otain otedy qokain chedkain shedaitain shalg
 qear ain shey okeeey qokaiin checkhy sho lchal sheey shckhey kshartar
 sheaiin okaiin shckhy cheol kedy chetar okaiin shal lchdal tedy tar amd
 qocheol qokain chear ol oin shedy qotaiin qokeechy olkeey lkain lal gm
+<<<<<<< HEAD
 sar shey l otain qokaiin al kain chedy otal lchedy qokain chtal otain ? l s
+=======
+sar shey l otain qokaiin al kain chedy otal lchedy qokain chtal otain  l s
+>>>>>>> main
 qokain sheol qokain shckhey lchedy okar al qotal shedy otain far aiin am
 solkain shey okaiin sheey qokain chkal chckhy saiin ar lchal she otain
 tais shedy qoeedaiin okain {c'hh}ey kaiin shey otain alkain o l r ol dain
@@ -5776,7 +6201,11 @@ sair air ain qol rar ain cheey lkeey lkain cheokain sheo qo qokain chear alam
 saiin ychear olsheey chetain chedy qokain okain al chan okalchey lkeeey
 qokaiin sheckhy qokar chalkain chckhedy lcheol okaiin qokain cheol daiin lam
 cheodain qokar otain chedy lkain chey shckhy qokl chedy qokar chctham
+<<<<<<< HEAD
 tair alchedar shykaiin chd?
+=======
+tair alchedar shykaiin chd
+>>>>>>> main
 
 polar ar okshey qokain chey kal keedy qopchedy qopchey ltchs alpchdar
 ol sheey tsheey alkar sheey otain ches shy qokl chey qoklcheor ldar llo
@@ -5787,7 +6216,11 @@ shokar okeokain sheekain qokain chechey qokeey qetain otain ar lkain lky
 
 pochey oteain chekain cheal lain chey qokain chey lkain chal ldy llm
 tar chey tain chkar alkar chey qol chedy okain chey l cheey charan
+<<<<<<< HEAD
 y sheeil ?oair ain okan sheain y qokan chan aman cheal char
+=======
+y sheeil oair ain okan sheain y qokan chan aman cheal char
+>>>>>>> main
 
 polar okar teody qokain talol tarol opchedy qotar otar chtal sam
 oain okaiin chcthy lkain lchey lshekain qotal shedy chkeey lkeeed lkain y
@@ -5829,7 +6262,11 @@ sor aiin chdy ches qokeey okeey otaiin chcthy oteey dy
 soarar al chey otaiin okeedy qokeey
 
 poar alchar octhy otedy qokeedy okedy pchedy opamdy
+<<<<<<< HEAD
 solol she?dy shol qokeey qokeeey qokedain otain ar amchg
+=======
+solol shedy shol qokeey qokeeey qokedain otain ar amchg
+>>>>>>> main
 qoeeear she olkeear cheey qor cheo ral cheey qokey teey am
 saiin al key chey dalchd aiin okal chody chedy cham
 
@@ -5857,7 +6294,11 @@ sain olaiin qopchdy qoky okeal chedy okeey otedy ar ar okeedy
 sain ol checkhy olchain okeey olam
 
 pam okaiin olkedy okedy okeey okeedy keedar otear shkear qoky
+<<<<<<< HEAD
 sar ain olkeear okeody qok?iin oteedy qokey okal okedy
+=======
+sar ain olkeear okeody qokiin oteedy qokey okal okedy
+>>>>>>> main
 
 polkeedy qopal otedy opal aiin okaiiin sheody yteokar ogom
 sain okal lkeedy okar okchedy qokal keedy chkey oty oral
@@ -5865,7 +6306,11 @@ yshesy alain cheey okchey qokchy okchaiin ykeeor okeey ory
 
 pol ar shedy qokaiin y okeedy qotal chody oteody araryteop
 yteeo r aiin okar opor aiin ycheedy qeedar yteeey sheor oteeg
+<<<<<<< HEAD
 sar ain qokoekeeey yk ?koeechey okeeedy alair akcheey ar arody
+=======
+sar ain qokoekeeey yk koeechey okeeedy alair akcheey ar arody
+>>>>>>> main
 yor aiin o keeey teey shkar oteeedyqokeey okeey okary oin yky
 
 
@@ -5927,7 +6372,11 @@ qokchal qokey qaiin otol teol okal otedar epalchdy alpchdy
 
 ycheey chokeey okasal tchdy oteol chcthy alaiin char al kamdam
 ykeey lor chaiin cheky chokain char am chey kain chdal okaiin daldy
+<<<<<<< HEAD
 ? otar aig oaral alor aiiin olkaiin oty ary
+=======
+ otar aig oaral alor aiiin olkaiin oty ary
+>>>>>>> main
 
 
 pches@186;chy ypcheedy fchdy chetar qopchedaiin oteey oty lkchy chodain alar chedy
@@ -6004,7 +6453,11 @@ sar aiin chotar okeeodar qokain olol olam
 
 fchoctheody keeodar oteedy rchedy qokechy otcher oparaiin oteody otaiin otl aroshy
 dcheos otaiin otedy otodaiin qokeey rcheey qoeear oteedy qokeedy otedar ar ot otees al
+<<<<<<< HEAD
 tcheolchy lcheol chockhy cheoda?daiin
+=======
+tcheolchy lcheol chockhy cheodadaiin
+>>>>>>> main
 
 fcheshd teody lkeeody oteedy lchealaim shockhol opchedy qotaiin otar ar al oteal
 ycheody qokeeor choltar olkam chokam odal sheckhy qokchedy otor otar toky
@@ -6068,7 +6521,11 @@ deedar qoteeddy dair o kedy okoeey r aiin oor cheed ol keeed lkeeedam
 ycheod
 
 fdeechdy opchedaiin ypchedy odaly chedy qop cheokaiin shedy podair ochedal
+<<<<<<< HEAD
 loiin chedy qokaiin chdy daiin dchd?s eedol chdol kchedy cho kaiin chdy
+=======
+loiin chedy qokaiin chdy daiin dchds eedol chdol kchedy cho kaiin chdy
+>>>>>>> main
 qoeedy okchedy doiiin chedy daiin ykeedy okeeedy chedol chdaiin ykar dary
 cheol dchedy dkchs aiin chdedy qodaiin okchedaiin chain
 
@@ -6110,15 +6567,25 @@ ytain o l kaiin y kar chdar alkam
 pcheos air oy sheo qok{oh}ey sheekas oar ytched lked o kchdar otal kar
 ychedar a{ikh}dy otar ain ykeodaiin qoeedaiin qokal sain otchedy qokar
 odar or aiin otshedy okaiin yky ols ol kaiin chees air qotaiin chedaiiin
+<<<<<<< HEAD
 qoeedy qokchedy cheey raiin ar ain aiin al chol?
 
 todaiin cheoltchedaiin daiin okar qoeedain qcho oeda? opchedy qetchar
+=======
+qoeedy qokchedy cheey raiin ar ain aiin al chol
+
+todaiin cheoltchedaiin daiin okar qoeedain qcho oeda opchedy qetchar
+>>>>>>> main
 yteedy qotey qoedaiin qokchedy teedy qoteeedy qotar otees chos otchdy
 oshey daiin sheody qoty cheey taiin qokaiin qokeeedy oqotaiiin o qoeeosain
 
 poedair qotol qodaiin otaiin qotar qotchey qotaiin cheopy qopaiin cheody
 ycheedy qoodaiin daiiral chedal chos oral tedy qotchdy qotar cheo dain
+<<<<<<< HEAD
 ydaiin chedy qoal cheey qokair okeedy chotal chol okain ar da? opaiin
+=======
+ydaiin chedy qoal cheey qokair okeedy chotal chol okain ar da opaiin
+>>>>>>> main
 dain ched chodaiin otain chdar chedy chocthy
 
 
@@ -6171,9 +6638,15 @@ yshey kair yteeey qokaiin chckhy chodaiin olkaim
 tshey oidal op shoko otchey qopchol qopaiin qotar al kal ram
 dcheey ol cheodaiiin qokar otaiin otal o kaiin chey tar arody
 oteey okedaiin otaiin qotchey qoteeody otaiin okal dals
+<<<<<<< HEAD
 qo ?eecheedy o kecheokeo oteo daiin okaiin choty odaiin otam
 eeo cheo y oteey qotaiin cheo l oteeey daiin oteey teeedy dm
 yaiin o?oy okeey cheody qokaiin otain al kain choty
+=======
+qo eecheedy o kecheokeo oteo daiin okaiin choty odaiin otam
+eeo cheo y oteey qotaiin cheo l oteeey daiin oteey teeedy dm
+yaiin ooy okeey cheody qokaiin otain al kain choty
+>>>>>>> main
 
 
 f{c'hh}dar qopchol qochedain otedy cheop ol teeedy oroiir oechedy oteedy qotchedy
@@ -6248,14 +6721,22 @@ tchoros sheol qotchs olchees otchdy qotol lpchedy okar lkechedy pchdam
 ychees chdaiin chotain cholkeedy qotchy chody qotain lkchey lchey ror
 saiin sho sheody okaiin dalchedy oteeo chedy
 
+<<<<<<< HEAD
 tchdor shorail chodaiin chkol chkchol qotched qotchey dpchedy q?tam
+=======
+tchdor shorail chodaiin chkol chkchol qotched qotchey dpchedy qtam
+>>>>>>> main
 ysheed lchedy lkchedy soraiin
 
 pchdarody pcheed rar tcheody polched lpchdy tol rchees cphor orair kol
 okeeo kaiin lkeeey lkor sheedy chockhy qockheedy qokechy lkeey ldaiin
 saiin chol qotain qokain chl lr chdain qoteey rcheey r ar rodam
 dain ar oteey qoteol kar y sheo lkechdy qokar qokey lko rokeedy ld
+<<<<<<< HEAD
 okai? chey keey lcho racthy
+=======
+okai chey keey lcho racthy
+>>>>>>> main
 
 pchodain chotain choky lchain lpchdain dalchedy qotolchedy qopchedy
 yshedy qokeedy lxor xoiin choto keeody qoteody dain qokchedy ralom
@@ -6294,7 +6775,11 @@ ototar sheey qokey qokchey qokchey ral rchos oty lchedy
 yk chedaiin chody qokaiin dary cholaiim
 
 
+<<<<<<< HEAD
 kchdpy shey qokain otalsh?dy qoteey shear ain or llory {i'h}earamom
+=======
+kchdpy shey qokain otalshdy qoteey shear ain or llory {i'h}earamom
+>>>>>>> main
 shain cheor ain okeey okeey shy lar ar aiiin oky char ar okain ykanam
 dain chl lshey cthy lshedy oteor shey qo saly
 
@@ -6306,9 +6791,15 @@ pcholchdy teody otey qo qokain qoteey tokain otedy totol rotydy
 dar yteedy chedy qokeey qokain qotody oteedar otedy ldy lchedy
 qokeey lchey qokeedy qokain okeeylkaiin
 
+<<<<<<< HEAD
 chd?in checkhy dar shedy qokeedy shdy rain sheedy cphol r teol chcpham
 ol aiin shed qoteedy okeolshy qotain okedy chedy olchedy olkain als
 qo?in ar cholches okain dain cheey okeey otain olchdy otal dain olam
+=======
+chdin checkhy dar shedy qokeedy shdy rain sheedy cphol r teol chcpham
+ol aiin shed qoteedy okeolshy qotain okedy chedy olchedy olkain als
+qoin ar cholches okain dain cheey okeey otain olchdy otal dain olam
+>>>>>>> main
 sar ain tey chetain sht{ch'}ey okey chedy qoteedy qokain shety okeedam
 sain cheychear ain chl l s oleedy
 
@@ -6318,7 +6809,11 @@ dain chey qokeey okeey lain okeey qol chedy
 
 pcharalor qokey r ain otedy opain lor oiin otain otar oteeedy ches ar y
 porchey sheedy qotain chetar qotar ar arody chcthy rain otey ot y dain
+<<<<<<< HEAD
 chol keedy ol cheey raiin y chedy otar o kal okain olar otedy qoty sf?m
+=======
+chol keedy ol cheey raiin y chedy otar o kal okain olar otedy qoty sfm
+>>>>>>> main
 sairol sheey qokain chal qol chl l rain okain shckhy dtal orchcthdy lty
 dol shedy shekchy qokain chedy otar okalain shcthy oteey dar chedy lg
 dain cheeteey lkar shedy qokal shedy qoteedy ches ain ain aly salo lm
@@ -6332,7 +6827,11 @@ saraiin shey qokain chcthy okar air ollaiin okaly
 
 pchallarar al ckhal rain alolfchy rpchey shfy ches ar opchekan dlr
 olkeey rain shey qor aiin shey ol lchedy rshey qokeedy chtain oly
+<<<<<<< HEAD
 soraiin ykeey arain sheeky qokain sheey qol cheds ar r ?rsheg
+=======
+soraiin ykeey arain sheeky qokain sheey qol cheds ar r rsheg
+>>>>>>> main
 qokain ar raiin shek okain y r shey qolchey okaiin shckhy qokam
 shedy qokeey qokain qokeey lchey olkey raiin cthar shckhy qorar
 qokeey rain shey okeey lkain l dain chey sheckhy q{cthh}y qokl ain
@@ -6342,9 +6841,15 @@ qokain chey olr ain shey qokain o l keey keeey lkeal or al lom
 dsheey shey qokey shey qokain shckhy chery ol chedy l chey lchy
 dlar shar shar r ain sheain okain shey qokchy chckhy orain
 qo qokain sheckhy qokain shekain shkain shedy shey qokan cham
+<<<<<<< HEAD
 as??? ar al shear teey chcphy rain cphan ydar oty shey qokam
 s? okeedy qokain shckhy ol lcheor chky raiin chey qol okam
 odain sh??y qokar oleey chy
+=======
+as ar al shear teey chcphy rain cphan ydar oty shey qokam
+s okeedy qokain shckhy ol lcheor chky raiin chey qol okam
+odain shy qokar oleey chy
+>>>>>>> main
 
 oqokaiin al shey qokar okaral okeysh{cphh}y oteey ookar okydy
 osain shky qorain chckhey qokey lkechy okeey okal chedkaly

@@ -1,0 +1,313 @@
+<f85r1>    <! $Q=N $P=B $F=a $B=1 $I=T $L=B $H=2 $C=3>
+# page 167
+# text only
+# Currier's language B, hand 3
+# folio mark 85
+# Note from RCAZ: this page is in a mess. I can't believe that
+# it was written line by line.
+#
+<f85r1.1,@P0>     <%>pdsheody.shdol.shey.otchdy.dshedy.soeeedy.dchefoey.sair.shedy.sodair,shey
+<f85r1.2,+P0>     yoiin.cheey.qocthdy.otedy.dol.ar,aiin.okshd.okchedy.otedy.chckhdy.otam
+<f85r1.3,+P0>     tarar.otedy.opcheey.ykdair.chy.qotedy.qokchdy.otedy.cheol.saiin.otedam
+<f85r1.4,+P0>     odeedaiin.qokechy.daiin.chekchy.olshedy.qokeedy.doltshdy.otar.otchdy.ols
+<f85r1.5,+P0>     tchedy.kchedy.qodaiin.olkeedy.oraiin.olshedy.okchy.kedy.tedy.tdam
+<f85r1.6,+P0>     roraiin.shey.pchey.qokeey.chor.ol.shedy<$>
+#
+<f85r1.7,+P0>     <%>pchedy.oraiin.shefchdy.qopar.sheedy.qokedy.qotchedy.kchdar.ypchdy,ldo
+<f85r1.8,+P0>     daiin.chckhdy.qotchdy.opchsd.qokchdy.otchy.qodal.daiin.dal.shdar.oram
+<f85r1.9,+P0>     tsheed.lchey.qokeshy.da[ir:in].shedar.sheol.qo,[ar:iir].chofchdy.qotd{c@178;}y.ofar
+<f85r1.10,+P0>    dair.chotaiin.cheod.cheolkeedy<$>
+#
+<f85r1.11,+P0>    <%>pdar.ol.shdair.qopcheedy.dal.chdal.chor.shefshoro.raiin.dolor.aiin.opakam
+<f85r1.12,+P0>    tdain.okeody.lchdy.lkor.oeeseary.dar.shedaiin.oto.daiin.dlar.am<!raised>
+<f85r1.13,+P0>    rsheodar.qocth[y:o].kar.okaiin.ykeeeody.qotal.ol,s,aiin.ol.daldy<!corr?>.shody
+<f85r1.14,+P0>    daror.sheedy.keody.oteody.s,ar.aiin.cheedy.otaiin.dar.al.odaiiin
+<f85r1.15,+P0>    qokeeodaiin.chey.okaiin.okal.al.dl.sheokey.cheokaiin.ol,keeo.dal.olky
+<f85r1.16,+P0>    shoiin.qokar.okar,y,cheey<$>
+#
+<f85r1.17,+P0>    <%>polky.shey.olkedaiin.shor.cphedy.dair.sh{cphh}y.opchey.shtor.aiinsham
+<f85r1.18,+P0>    olkeey.otchey.qokedy.qodaiin.ch{ctah}y.checphey.otshey.qokshey.schdy.dam
+<f85r1.19,+Pr>    okchy.okchdy.otchedy.dam.lam<$>
+#
+<f85r1.20,*P0>    <%>pcheo,y,kshedy.qocphdy.qofol.shdaldy.dairar.cheeteey.otchedy.qokchdy.dy
+<f85r1.21,+P0>    daiir.cheody.oraiin.ol.okaiin.cheocthey.olor.otedy.qotaiin.chor.chedy
+<f85r1.22,+P0>    ydair.tar.chedy.oraiin.ychedy.okedy<$>
+#
+<f85r1.23,+P0>    <%>pchdaiin.shodaiin.shofshedy.yteody.ypar.ches.aiin.chol,dy.qopar.shetam
+<f85r1.24,+P0>    tedair.ykeedy.dain.cheedy.qokar.chedy.okar.shee[k:t]eey.qokedy.olchedy
+<f85r1.25,+P0>    schedaiir.oteody.chcthdy.qokaiin.ykchedy<$>
+#
+<f85r1.26,+P0>    <%>pchdair.or.shshdar.qopchedy.opchdy.qofchdy.dar.s.aiin.chcphdy.dar,or,daiin
+<f85r1.27,+P0>    ychedy.shetshdy.qotar.okedy.qokal.saiin.ol,karar.odeeeg<$>
+#
+<f85r1.28,+P0>    <%>kchedar.yteol.okchdy.q[e:o]kedy.otor.odor.ar.chedy.otechdy.dal,cphedy
+<f85r1.29,+P0>    oees.aiin.ol,keeody.or,s.cheey.qokchdy.qotol.okar.otar.otchy.okam
+<f85r1.30,+P0>    dorchdy.o[r:s]aiin.okeder.chcthy.okedy.chdy.chdy.otal.otchdy.otalom<$>
+#
+<f85r1.31,+P0>    <%>podaiin.shdar.ypchdar.dar.ypchdy.qopol.dar.keshar.dchdal.chol,air,y
+<f85r1.32,+P0>    ytor.chol.shdy,tody.qotchdy.otchol.chees.or.eeodaiin.or.aral.olkam
+<f85r1.33,+P0>    raraiiin.shey.osaiin.otar.ytar.otedy.or.aiin.otar.olar.olkeedy
+<f85r1.34,+P0>    ysheedy.ksheey.qokor.or.chod.lkchedy.qotody.qokar.shty.otarar
+<f85r1.35,+Pc>    s,ar,chedar.olpchdy.otol.otchedy<$>
+#
+#
+<f85r2>    <! $Q=N $P=C $F=a $B=1 $I=C $L=B $H=2 $C=3>
+# page 171
+# cosmological
+# Currier's language B, hand 3
+# sun @ circle divided in 4, 4 human figures.
+# 'Four seasons'. Outer and inner circle of text and four
+# blocks. Lines in blocks are loci .B1 to .B22 and
+# comments are included to show the compass directions.
+#
+<f85r2.1,@Cc>     <!09:00>odeedy.otedy.opaees.ar.chcthy.otchdy.otody.otar.chepaiin.otodar.otodaiin.opaiin.otaiin.qopchas.otchedy.olkaiin.odar.aloees.otchedy.qotedaiin.odar.octhody.shedaiin.olaiin.olfor.daiin.ol.lkech[ch:?].os.aiin.oteedy.dar.otees.opaiin.chcphdar
+<f85r2.2,@Pb>     <!N><%>sain.or.or,aiin.opchdy
+<f85r2.3,+Pb>     <!N>qotor.sheedy.shodaiin.olfar,ary
+<f85r2.4,+Pb>     <!N>dair.sheo.oraiin.chol,daiin
+<f85r2.5,+Pb>     <!N>ockhdar.olkar.shoral
+<f85r2.6,+Pb>     <!N>roseer<$>
+#
+<f85r2.7,@Pb>     <!E><%>pchedeey.olkey.qokedy.sheos.fcheey
+<f85r2.8,+Pb>     <!E>otchedy.chotey.qocthey.oteey.ol.oloqorain
+<f85r2.9,+Pb>     <!E>daiin.qotaiin.tchedy.otedy.qotchdy.chckhey
+<f85r2.10,+Pb>    <!E>ytchedy,qodar.qotedar.qokar.qotchd.qotom
+<f85r2.11,+Pb>    <!E>soiis,aiin.shedaiin.chok{co}m<$>
+#
+<f85r2.12,@Pb>    <!S><%>otchs.shedor.chey,sorain
+<f85r2.13,+Pb>    <!S>or.shedy.tedy.sodaiiin.chy
+<f85r2.14,+Pb>    <!S>ytedar.chz[s:r].aiin.arody
+<f85r2.15,+Pb>    <!S>ypshedy.dar.chedy.or,am
+<f85r2.16,+Pb>    <!S>oteey.qodaiin.odain.an.chey
+<f85r2.17,+Pb>    <!S>orar.oldar.ain<$>
+#
+<f85r2.18,@Pb>    <!W><%>okees.olaiin.qokal.chdy.sary
+<f85r2.19,+Pb>    <!W>qokshedy.qodain.chckhy.ykeedy.chedy
+<f85r2.20,+Pb>    <!W>or,aiin.ckhed[a:y].or.ain.olchey.qokal.shedy
+<f85r2.21,+Pb>    <!W>qokeody.qoekedy.dody.shedy.qodaiin
+<f85r2.22,+Pb>    <!W>los,ar.shedy.qokshey.qose?y.or.aiin,og
+<f85r2.23,+Pb>    <!W>ol.lcheol.chol.ol.sheoly<$>
+#
+<f85r2.24,@Cc>    <!09:30>okees.ochar.oted[o:a]r.ochedy.otody.olchedy.oteedo.ar.or.airol.otees.ar.aram
+#
+#
+<fRos>     <! $Q=N $P=D      $B=1 $I=C $L=B $H=4 $C=3>
+#
+# Part of 6-page 9-circle         85v2 86r4 86r6     1 4 7
+# composite. Page and circle      85v1 86r3 86r5     2 5 8
+# numbers as indicated to the                        3 6 9
+# right.
+# Petersen loci as {circle:locus} e.g. {1:9} inside circle 1.
+# This is the upper left page with parts of circles 1 and 2.
+#
+<fRos.1,@L0>      <!1:11>saeeasa?
+<fRos.2,@Cc>      <!10:30>oto.tosa[ir:in].adar.otar.otod.okaiin.dal,al,chdar.otdar.chefchs.okor.ol.om.olkeeodaiin.shol.okal.orshees.?oeey.okalol.otodr.ochs.arol.o?okam.oteed.oteedy.okedy.lraiin.or,aiin.okor.okeedy
+# The following are block left of circle, left margin unreadable
+<fRos.3,@L0>      <!1:1>ofain,ain
+<fRos.4,+L0>      <!1:2>ych,?ais
+<fRos.5,+L0>      <!1:3>ydekam
+<fRos.6,+L0>      <!1:4>darchedy
+<fRos.7,+L0>      <!1:5>otochedy,sy
+<fRos.8,+L0>      <!1:6>soeedoy.olal
+<fRos.9,+L0>      <!1:7>dchor.orary
+<fRos.10,+L0>     <!1:8>sairo[j:d]am
+<fRos.11,@L0>     <!1:9>okchdarar
+#
+<fRos.12,@L0>     <!2:9>soiindy
+<fRos.13,@L0>     <!2:10>ytedar
+<fRos.14,@L0>     <!2:11>[d:?]dsschx
+<fRos.15,@L0>     <!2:13>daldar
+<fRos.16,@L0>     <!2:12>ofardy
+<fRos.17,@L0>     <!1:10>orarol
+#
+<fRos.18,@L0>     <!4:1>daldal
+<fRos.19,@L0>     <!4:2>da[r:s]aldy
+#
+<fRos.20,@Cc>     <!05:00>sais.od,ror.or.okal.okal.or.alal.ykal.ol.ar.ol.ar.ol.al,lar.okan.okod.ok?d.okeo.ldy.opashs.otedy.chedchs.sheekede.odal.[sh:?]d.olkeedy.yky,kaiir.okchdy.otol,ar,y.aiin.aiir.o[i:?]al.okchdy.oly.okain.olkaiin.[o:a]dy
+<fRos.21,@L0>     <!4:3>oko
+<fRos.22,@L0>     <!4:4>daiiny
+<fRos.23,@L0>     <!4:5>do{cfhh}y
+<fRos.24,@L0>     <!4:6>okedy
+<fRos.25,@L0>     <!4:7>o[k:p]ary
+<fRos.26,@L0>     <!4:8>opain
+<fRos.27,@L0>     <!4:9>opar
+<fRos.28,@L0>     <!4:10>adairy
+<fRos.29,@L0>     <!4:11>dxar
+<fRos.30,@L0>     <!4:12>okory
+<fRos.31,@L0>     <!4:13>opo[k:t]chosody
+<fRos.32,@L0>     <!7:12>adashgasain
+<fRos.33,@L0>     <!7:13>cfair.o@213;ol{c@133;h}y
+<fRos.34,@L0>     <!7:1>okody
+#
+<fRos.35,@Cc>     <!00:00>okas.epar.[ch:a]ir,u.oteoteedy.oto[s:r].otodar.ches.okodainol.ykedy.eedar.tchdaiin.sy.sarald.todar.chkar.odair.or.oal.okchdy.s[?:a]dy.otchdy.ykchdy.eeeky.o.aiin.okees.olar.or.ykeedy.okeo.lodaiin.or.olaiiin.ol[?:o]r
+<fRos.36,@Cc>     <!Spiral>[ch:o]*ochs.oetchy.osar,aram.askeeody.ochdor,al.oekairy.ytodaro.opalshy.or,arodar.yk[o:y]dar.ykodar.ykara.opalx[?:y]
+#
+<fRos.37,@L0>     <!7:10>opoor,daly
+<fRos.38,@L0>     <!7:7>okas.oedady
+#
+<fRos.39,@Pb>     <!7:5><%>kechy.qolchedar,ar
+<fRos.40,+Pb>     <!7:6>otedy.chdaiin.oty<$>
+#
+<fRos.41,@L0>     <!7:3>o[s:r]al
+<fRos.42,@L0>     <!7:2>{cp}eey
+<fRos.43,@L0>     <!7:4>okor
+<fRos.44,@L0>     <!7:8>sarchcphdy
+<fRos.45,@L0>     <!7:9>otchdy.otoldy
+<fRos.46,@L0>     <!7:11>ofchedaiin
+#
+<fRos.47,@Cc>     <!10:30>osar.otar.otodeedy.oty,daiin.sheor.oar.otedy,qotedy.oteey.otoraiin.chekad?r.ol.aiin.okedal.olor.op[o:a]iiral.???alky.[y:?]tar.qokeo,l.tched.oiin.oteedaiin.odal.cheky.otchdor.or.olkoaiin.ok[a:o]l,o,laiin
+<fRos.48,@L0>     <!2:1>otedal
+<fRos.49,@L0>     <!2:2>opaiin,o
+<fRos.50,@L0>     <!2:3>otchdy
+#
+<fRos.51,@L0>     <!2:4>okchy
+<fRos.52,@L0>     <!2:5>chkeedy
+<fRos.53,@L0>     <!2:6>opairar
+<fRos.54,@L0>     <!2:7>odee[?:d]y
+<fRos.55,@L0>     <!2:8>okody
+#
+<fRos.56,@L0>     <!3:22>depcheky
+<fRos.57,@L0>     <!3:23>ot[ch:a]
+<fRos.58,@L0>     <!3:24>osy
+<fRos.59,@L0>     <!3:25>[o:a]dl
+<fRos.60,@L0>     <!3:26>d,dy
+<fRos.61,@L0>     <!3:27>oteey
+#
+<fRos.62,@Cc>     <!00:00>otor.or.om.araiin.okeody.okar.odsheedy.odaiin.ok[ch:ee]dy.okar.shar.okaiin.daiin.ofair.oly.olkair,odal.olkalor.olor.<!separator>[?:n].y.o.d.???ax.k.r.olar.oteedaiin.otes,ar.ykos.aiiin.ol.qotady.ol.a,r.or.osoa.oteeedy.okal.okodar.otshe.okody.oteda.chdar.[?:d]
+#
+<fRos.63,@L0>     <!5:1>oteedy
+<fRos.64,@L0>     <!5:2>opa
+<fRos.65,@L0>     <!5:3>odal
+<fRos.66,@L0>     <!5:4>shdy
+<fRos.67,@L0>     <!5:5>opchees
+<fRos.68,@L0>     <!5:6>opar
+<fRos.69,@L0>     <!5:7>daral
+#
+<fRos.70,@L0>     <!5:8>otdodar.oedy
+<fRos.71,@L0>     <!5:9>soshxor.arar
+<fRos.72,@L0>     <!5:10>otedain.otedy
+<fRos.73,@L0>     <!5:11>ytedar.ary
+<fRos.74,@L0>     <!5:12>opcheda[iin:iir]
+<fRos.75,@L0>     <!5:13>ols
+<fRos.76,@L0>     <!5:14>ypal
+<fRos.77,@L0>     <!5:15>opydsh
+<fRos.78,@L0>     <!5:16>rshy
+<fRos.79,@L0>     <!5:17>olz
+<fRos.80,@L0>     <!5:18>dtedg
+<fRos.81,@L0>     <!5:19>opy
+<fRos.82,@L0>     <!5:20>ofdaj
+<fRos.83,@L0>     <!5:21>ddary
+<fRos.84,@L0>     <!5:22>ot[o:e]dy
+<fRos.85,@L0>     <!5:23>dairdy
+<fRos.86,@L0>     <!5:24>rody
+#
+<fRos.87,@Cc>     <!07:30>yke.okees.olch[e:i]d[a:y].okal,y.ol.otodar.shekal<->olkar.cheykar.shal.qokal.ok[ch:a]r.otar.otody.otody.otody.otas.chfol.okshy.ok[y:?].okar.ar.okedy.okedy.okchedy.chekchedy.ofchdor.qotchdy.kor.chdar,chekolko{iph}
+#
+<fRos.88,@L0>     <!8:1>ofary
+<fRos.89,@L0>     <!8:2>okady
+<fRos.90,@L0>     <!8:3>okchdy.kary
+<fRos.91,@L0>     <!8:4>oraiin,eey
+<fRos.92,@L0>     <!9:3>opodchd[a:?]l
+<fRos.93,@L0>     <!9:2>dar[ch:ee]dy
+# Start of circle 3
+<fRos.94,@Cc>     <!07:30>otchdaiin.otodar.otedar.otar,odaiin.olkaiin.otl.xasashe.ol.ar.a{ikh}e.chedaiin.ockhedy.shed[a:y].otody.okedal,d.or,aiin.otody.toor.chepar.ol.chckhy.opchdar.o,r.a,r.al.xar.opor.olchedy.okalm.or.afalairidy
+<fRos.95,@L0>     <!3:5>okaramal
+<fRos.96,@L0>     <!3:6>opchdy
+<fRos.97,@L0>     <!3:7>ofdora[m:?]
+<fRos.98,@L0>     <!3:8>oda
+<fRos.99,@L0>     <!3:16>ofchdar
+<fRos.100,@L0>    <!3:9>otedam
+<fRos.101,@L0>    <!3:10>lokedshs
+<fRos.102,@L0>    <!3:11>otodar
+<fRos.103,@L0>    <!3:12>otedaiin
+<fRos.104,@L0>    <!3:13>okedy
+<fRos.105,@L0>    <!3:14>xoltedy
+<fRos.106,@L0>    <!3:15>op[ch:a]dam
+<fRos.107,@L0>    <!3:19>otedy,oporam
+<fRos.108,@L0>    <!3:17>ot[ch:?]dy
+<fRos.109,+L0>    <!3:18>otody
+<fRos.110,/L0>    <!3:20>chdain
+<fRos.111,+L0>    <!3:21>oted[y:?]
+# Text around Brumbaugh's 'clock'
+<fRos.112,@L0>    <!left of clock>opa{i'h}efchdy
+<fRos.113,=Cc>    <!above clock><!08:00>sar.odaiin,or
+<fRos.114,+Ca>    <!below clock><!06:30>o.dar.[aiird:???]
+<fRos.115,=L0>    <!right of clock>oteoly
+<fRos.116,@L0>    <!3:1>ofod[a:y]dy
+<fRos.117,@L0>    <!3:2>opd[a:y]dy
+<fRos.118,@L0>    <!3:3>otodey
+<fRos.119,@L0>    <!3:4>otodedy
+#
+<fRos.120,@L0>    <!6:1>opchdain
+<fRos.121,@L0>    <!6:2>otdar.shed
+<fRos.122,@Cc>    <!06:30>okedar.okody.okair.ched[y:o].opar.ol.keeedy.s,ar,olkchedy.otedaiin.olky.or.aiin.ody.osain.xdar.odaiin.okedal.ol.ar.oekaiin.al,o.saldan.oteedy.otchdaiin.otedy.o[t:k]ar.aiin.yky.odaiin.okal.okalar
+# Following are counter-clockwise from 09:00
+<fRos.123,@L0>    <!6:3>ofaraiin
+<fRos.124,@L0>    <!6:4>okolar
+<fRos.125,@L0>    <!6:5>okchdy
+<fRos.126,@L0>    <!6:6>ykedy
+<fRos.127,@L0>    <!6:7>oteedy
+<fRos.128,@L0>    <!6:8>otosaiin
+<fRos.129,@L0>    <!6:9>otchdam
+<fRos.130,@L0>    <!6:10>[o:?]tedy
+<fRos.131,@L0>    <!6:11>okar
+<fRos.132,@L0>    <!6:12>lashalg
+#
+<fRos.133,@Cc>    <!05:30>akchrar.okary.otodag.oda?.chekaiin.oees.???<!long gap>.aiin.okees.oiir.odaiin.okalol.aiiin.okalol.otar.chchdam.chetey.otodchch.oteesey.eeckhy.otody.otal.chedal.opal.olkar.okedaiin.oror
+<fRos.134,@L0>    <!9:6>o@214;alda
+<fRos.135,@L0>    <!9:1>osaram
+<fRos.136,@L0>    <!9:7>oparodam
+#
+<fRos.137,@Pb>    <!VI><%>otam.opchody.oteey
+<fRos.138,*Pb>    ?opar.chepchey.oteedy.olaiin.osshy<$>
+#
+<fRos.139,@Pb>    <!VII><%>tol.ofar.chefaiin.ol
+<fRos.140,+Pb>    okchy.qokedy.qokedy
+<fRos.141,+Pb>    tol.teoor.o,l,chekor<$>
+#
+<fRos.142,@Pb>    <!VIII><%>okar.olche[t:k]y.daiin
+<fRos.143,+Pb>    ok[?:ee]dy.qokcho.chfady.oro
+<fRos.144,+Pb>    okeechy.okol.shee[o:y].tolf[ch:a]d
+<fRos.145,+Pb>    saiir.shdaiin<$>
+#
+<fRos.146,@L0>    <!I>dor
+<fRos.147,+L0>    oky
+<fRos.148,+L0>    roo
+#
+<fRos.149,@L0>    <!II>otol
+<fRos.150,+L0>    ardas
+<fRos.151,+L0>    l,chdy
+#
+<fRos.152,@L0>    <!III>oparod
+<fRos.153,+L0>    shckhdy
+<fRos.154,+L0>    tshda
+#
+<fRos.155,@L0>    <!IV>opchd
+<fRos.156,+L0>    opeedy
+<fRos.157,+L0>    qokal
+#
+<fRos.158,@L0>    <!V>shet[?:a]
+<fRos.159,+L0>    opeesy
+<fRos.160,+L0>    che[?:o]ky
+#
+#
+<f86v4>    <! $Q=N $P=N $F=z $B=1 $I=C $L=B $H=2 $C=3>
+# page 168
+# cosmological
+# Currier's language B, hand 3
+# moon, 5 frothy rings, 4 torsos hiding in bubble bath
+#
+# Transcription of circles (C1 to C4 outside inwards).
+# Text partly interrupted by creases.
+#
+<f86v4.1,@Cc>     <!09:00>opos.os.sheody.pch???ar.odsheo.qody.cheepchdy.lpchedy.olkar.shdar.dchdor.qopcher,ches.os,eeedar.odaiin.pcheodar.chdair.orarorchy.shar.opchsey.otedy.ch{cphh}y.chedy.sarshed.odar.sheey.scheor.al.cheefar.shetchy.qoteol.otor.shar.qoteshy.do???.ofor.arar.dl
+#
+<f86v4.2,@Cc>     <!09:00>oeeey.[o:y].daiin.otedaiin.otedy.oteey.chedaiin.octhedy.chy.shedaiin.chotaiin.oraiin.otodeee[?:o].ar.yteeody.oteedaraiin.shedaiin.chdar.shedy.qotedaiin.chedy.tchdy.chetdy.chedy.qotar.chedy.chckhy.daiin.otedy.seeedy.yteey.sam
+#
+<f86v4.3,@Cc>     <!09:00>tchey.dair,alody.shes.qeeor.or.odarchdy.chdy.orcheos.o[s:r],ain.or.otee[d:?].chedees.oteedy.qoty.otedy.shedy.otedy.dar,shd.shy,y.schdy.chdeedy.dodar.oiin.or.oiin.sar,orchedy.qotchdy.dchdes.ar.sheody.opcho.fcheom
+<f86v4.4,@Cc>     <!09:00>pchedar.ar.o{cp}or.otees.oes.a[iir:iin].olkeor.dar.ain.desy.doeedey.opchedy.shedaiin.dar.otedy.dain.otey.dam.otedy.daiin.chocthy.dtedair.chody.sheos.otedos.qokechy.pchdeedy.dan.ol.dol.oty.sho.pol.otoldyl
+#
+<f86v4.5,@P0>     <%>pcheodar.oedy.qokeol.qoeol.<->oqokeol.dar.ol.olair,am
+<f86v4.6,+P0>     ycheoltar.ol.ol,sheey.qokey.or.aiin.sheeor.sar.al.ol.sheey.qockheey
+<f86v4.7,+P0>     tol,sh,s,or.aiin.ol.keeod.lcheody.okedy.qokeody.qoain.a?
+<f86v4.8,+P0>     daiin.ol,keedy.otar.olshedy.okol,aiin.okal,cheockhy.sho{cthh}y.daiin
+<f86v4.9,+Pc>     dar.oleey.ol.yy<$>

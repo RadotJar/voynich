@@ -1,0 +1,9 @@
+Summary
+-------
+Number of words: 0
+Number of unique characters: 0
+Longest word:  (0 characters)
+Average word length: 0
+--------------------
+Character frequencies
+--------------------

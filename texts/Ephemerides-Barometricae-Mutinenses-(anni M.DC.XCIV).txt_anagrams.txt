@@ -1,0 +1,188 @@
+Word Profiles:
+sicut: 2 anagrams: scitu (1) cutis (1) 
+scitu: 2 anagrams: sicut (2) cutis (1) 
+cutis: 2 anagrams: sicut (2) scitu (1) 
+in: 1 anagrams: ni (2) 
+91: 1 anagrams: 19 (2) 
+animo: 1 anagrams: omnia (7) 
+sed: 1 anagrams: des (6) 
+animi: 1 anagrams: nimia (1) 
+1695._: 1 anagrams: 1695_. (1) 
+si: 1 anagrams: is (1) 
+tamen: 1 anagrams: manet (1) 
+tanto: 1 anagrams: notat (2) 
+auctam: 1 anagrams: acutam (1) 
+58: 1 anagrams: 85 (47) 
+is: 1 anagrams: si (50) 
+rectè: 1 anagrams: certè (3) 
+satis: 1 anagrams: istas (1) 
+des: 1 anagrams: sed (49) 
+ne: 1 anagrams: en (5) 
+27: 1 anagrams: 72 (1) 
+en: 1 anagrams: ne (12) 
+fait: 1 anagrams: fiat (9) 
+serein: 1 anagrams: sereni (2) 
+monte: 1 anagrams: monet (1) 
+idem: 1 anagrams: diem (2) 
+ancipiti: 1 anagrams: incipiat (1) 
+28: 1 anagrams: 82 (27) 
+duos: 1 anagrams: sudo (1) 
+Barometer: 1 anagrams: Barometre (1) 
+latus: 1 anagrams: altus (1) 
+87: 1 anagrams: 78 (9) 
+85: 1 anagrams: 58 (1) 
+81: 1 anagrams: 18 (2) 
+78: 1 anagrams: 87 (32) 
+82: 1 anagrams: 28 (4) 
+12: 1 anagrams: 21 (2) 
+13: 1 anagrams: 31 (2) 
+18: 1 anagrams: 81 (20) 
+19: 1 anagrams: 91 (1) 
+21: 1 anagrams: 12 (3) 
+31: 1 anagrams: 13 (2) 
+turbido: 1 anagrams: obtrudi (1) 
+dein: 1 anagrams: inde (2) 
+sereni: 1 anagrams: serein (1) 
+diem: 1 anagrams: idem (33) 
+liquore: 1 anagrams: reliquo (1) 
+minus: 1 anagrams: sinum (1) 
+certè: 1 anagrams: rectè (3) 
+72: 1 anagrams: 27 (4) 
+partem: 1 anagrams: premat (1) 
+ait: 1 anagrams: ita (3) 
+ita: 1 anagrams: ait (10) 
+alterum: 1 anagrams: relatum (1) 
+iam: 1 anagrams: ima (1) 
+fiat: 1 anagrams: fait (1) 
+nimia: 1 anagrams: animi (2) 
+sudo: 1 anagrams: duos (2) 
+tanquam: 1 anagrams: quantam (1) 
+ni: 1 anagrams: in (485) 
+multa: 1 anagrams: altum (1) 
+forte: 1 anagrams: foret (1) 
+Barometre: 1 anagrams: Barometer (1) 
+potius,: 1 anagrams: posuit, (1) 
+obtrudi,: 1 anagrams: turbido, (1) 
+diminuit: 1 anagrams: inditium (1) 
+premat: 1 anagrams: partem (2) 
+eam: 1 anagrams: mea (1) 
+foret: 1 anagrams: forte (2) 
+talis: 1 anagrams: altis (1) 
+Lacus: 1 anagrams: Lucas (1) 
+altum: 1 anagrams: multa (4) 
+moventur: 1 anagrams: ventorum (3) 
+21._]: 1 anagrams: 12._] (1) 
+divisum,: 1 anagrams: vidimus, (2) 
+erit: 1 anagrams: rite (1) 
+altera: 1 anagrams: latera (1) 
+vidimus,: 1 anagrams: divisum, (1) 
+aquis: 1 anagrams: quasi (8) 
+_Non: 1 anagrams: Non_ (1) 
+sinu,: 1 anagrams: nisu, (2) 
+rite: 1 anagrams: erit (6) 
+ima: 1 anagrams: iam (1) 
+nemo: 1 anagrams: omne (2) 
+sinum: 1 anagrams: minus (16) 
+premat,: 1 anagrams: partem, (1) 
+relatum: 1 anagrams: alterum (2) 
+omnia: 1 anagrams: animo (2) 
+aut: 1 anagrams: tua (2) 
+posuit,: 1 anagrams: potius, (1) 
+tonum: 1 anagrams: notum (2) 
+dicat: 1 anagrams: dicta (1) 
+calor,: 1 anagrams: claro, (1) 
+verbis: 1 anagrams: brevis (1) 
+situ: 1 anagrams: tuis (3) 
+Lucas: 1 anagrams: Lacus (1) 
+turbido,: 1 anagrams: obtrudi, (1) 
+12._]: 1 anagrams: 21._] (3) 
+inde: 1 anagrams: dein (1) 
+claro,: 1 anagrams: calor, (3) 
+quasi: 1 anagrams: aquis (5) 
+obtrudi: 1 anagrams: turbido (1) 
+tua: 1 anagrams: aut (6) 
+tuis: 1 anagrams: situ (1) 
+Non_: 1 anagrams: _Non (2) 
+etsi: 1 anagrams: iste (2) 
+aeris: 1 anagrams: seria (1) 
+admittit,: 1 anagrams: dimittat, (1) 
+serenitatis,: 1 anagrams: resistentia, (2) 
+altitudinem,: 1 anagrams: latitudinem, (1) 
+latitudinem,: 1 anagrams: altitudinem, (4) 
+quantam: 1 anagrams: tanquam (2) 
+copia,: 1 anagrams: opaci, (1) 
+dimittat,: 1 anagrams: admittit, (1) 
+altis: 1 anagrams: talis (6) 
+situ,: 1 anagrams: itus, (1) 
+opaci,: 1 anagrams: copia, (1) 
+erat,: 1 anagrams: ater, (1) 
+ventorum: 1 anagrams: moventur (1) 
+situm: 1 anagrams: istum (1) 
+ater,: 1 anagrams: erat, (1) 
+acutam: 1 anagrams: auctam (1) 
+notum: 1 anagrams: tonum (1) 
+dicta: 1 anagrams: dicat (1) 
+detrusi: 1 anagrams: reditus (1) 
+reliquo: 1 anagrams: liquore (1) 
+istum: 1 anagrams: situm (3) 
+demitur,: 1 anagrams: reditum, (1) 
+resistentia,: 1 anagrams: serenitatis, (3) 
+iste: 1 anagrams: etsi (8) 
+assimilat: 1 anagrams: altissima (1) 
+istas: 1 anagrams: satis (27) 
+partem,: 1 anagrams: premat, (3) 
+reditum,: 1 anagrams: demitur, (1) 
+seria: 1 anagrams: aeris (47) 
+incipiat: 1 anagrams: ancipiti (1) 
+altus: 1 anagrams: latus (2) 
+brevis: 1 anagrams: verbis (5) 
+inditium: 1 anagrams: diminuit (1) 
+omne: 1 anagrams: nemo (2) 
+versatur: 1 anagrams: servatur (1) 
+manet: 1 anagrams: tamen (59) 
+itus,: 1 anagrams: situ, (1) 
+reditus: 1 anagrams: detrusi (1) 
+notat: 1 anagrams: tanto (2) 
+servatur: 1 anagrams: versatur (1) 
+nisu,: 1 anagrams: sinu, (1) 
+altissima: 1 anagrams: assimilat (1) 
+monet: 1 anagrams: monte (2) 
+latera: 1 anagrams: altera (2) 
+mea: 1 anagrams: eam (6) 
+1695_.: 1 anagrams: 1695._ (2) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+5: 51/84 = 60.71428571428571%
+7: 46/76 = 60.526315789473685%
+2: 45/103 = 43.689320388349515%
+8: 142/400 = 35.5%
+1: 41/127 = 32.28346456692913%
+9: 6/56 = 10.714285714285714%
+n: 640/6715 = 9.530900967982129%
+i: 834/11786 = 7.076192092312914%
+]: 4/62 = 6.451612903225806%
+3: 4/80 = 5.0%
+6: 3/65 = 4.615384615384616%
+L: 2/51 = 3.9215686274509802%
+s: 314/8265 = 3.799153055051421%
+d: 118/3341 = 3.5318766836276563%
+a: 280/8085 = 3.463203463203463%
+m: 189/5784 = 3.2676348547717846%
+t: 260/8179 = 3.178872722826751%
+e: 316/11693 = 2.7024715641837%
+f: 13/831 = 1.5643802647412757%
+r: 119/7790 = 1.527599486521181%
+,: 38/2571 = 1.4780241151302995%
+è: 6/409 = 1.466992665036675%
+u: 107/8353 = 1.2809768945289117%
+N: 3/255 = 1.1764705882352942%
+_: 10/856 = 1.1682242990654206%
+q: 18/1615 = 1.1145510835913313%
+.: 7/708 = 0.9887005649717515%
+v: 15/1589 = 0.9439899307740718%
+l: 34/3719 = 0.9142242538316753%
+o: 52/5755 = 0.9035621198957428%
+B: 2/225 = 0.8888888888888888%
+b: 10/1398 = 0.7153075822603719%
+c: 24/3771 = 0.6364359586316627%
+p: 13/3479 = 0.3736705949985628%

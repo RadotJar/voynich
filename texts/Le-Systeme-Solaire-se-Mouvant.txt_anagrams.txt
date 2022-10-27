@@ -1,0 +1,74 @@
+Word Profiles:
+ont: 1 anagrams: not (1) 
+en: 1 anagrams: ne (17) 
+nos: 1 anagrams: son (4) 
+si: 1 anagrams: is (1) 
+_en: 1 anagrams: _ne (2) 
+ligne: 1 anagrams: linge (1) 
+sa: 1 anagrams: as (3) 
+lequel: 1 anagrams: quelle (1) 
+ne: 1 anagrams: en (28) 
+_projection: 1 anagrams: projection_ (1) 
+orbites_: 1 anagrams: _orbites (1) 
+projection_: 1 anagrams: _projection (1) 
+son: 1 anagrams: nos (2) 
+alors: 1 anagrams: solar (1) 
+linge: 1 anagrams: ligne (8) 
+uns: 1 anagrams: sun (1) 
+_ne: 1 anagrams: _en (3) 
+spirales_: 1 anagrams: _spirales (1) 
+_l'attraction: 1 anagrams: l'attraction_ (1) 
+vitesse_: 1 anagrams: _vitesse (1) 
+_vitesse: 1 anagrams: vitesse_ (1) 
+ni: 1 anagrams: in (6) 
+l'attraction_: 1 anagrams: _l'attraction (1) 
+quelle: 1 anagrams: lequel (1) 
+_orbites: 1 anagrams: orbites_ (1) 
+_spirales: 1 anagrams: spirales_ (1) 
+etc.: 1 anagrams: ect. (1) 
+ect.: 1 anagrams: etc. (1) 
+Tischner._: 1 anagrams: Tischner_. (1) 
+sun: 1 anagrams: uns (1) 
+in: 1 anagrams: ni (2) 
+as: 1 anagrams: sa (6) 
+Tischner_.: 1 anagrams: Tischner._ (9) 
+solar: 1 anagrams: alors (6) 
+not: 1 anagrams: ont (4) 
+is: 1 anagrams: si (10) 
+1857.: 1 anagrams: 1758. (1) 
+1864.: 1 anagrams: 1846. (1) 
+12.: 1 anagrams: 21. (1) 
+21.: 1 anagrams: 12. (1) 
+1758.: 1 anagrams: 1857. (1) 
+1846.: 1 anagrams: 1864. (1) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+T: 10/25 = 40.0%
+7: 2/6 = 33.33333333333333%
+4: 2/7 = 28.57142857142857%
+5: 2/11 = 18.181818181818183%
+1: 6/56 = 10.714285714285714%
+_: 25/284 = 8.80281690140845%
+2: 2/25 = 8.0%
+6: 2/26 = 7.6923076923076925%
+8: 4/54 = 7.4074074074074066%
+j: 2/28 = 7.142857142857142%
+n: 94/1323 = 7.105064247921391%
+h: 10/148 = 6.756756756756757%
+.: 18/290 = 6.206896551724138%
+g: 9/165 = 5.454545454545454%
+i: 48/1124 = 4.270462633451958%
+s: 55/1466 = 3.751705320600273%
+e: 85/2661 = 3.1942878617061257%
+o: 26/1039 = 2.5024061597690084%
+c: 16/649 = 2.465331278890601%
+l: 24/1003 = 2.3928215353938187%
+r: 25/1087 = 2.2999080036798527%
+a: 22/1068 = 2.0599250936329585%
+b: 2/113 = 1.7699115044247788%
+t: 19/1173 = 1.619778346121057%
+q: 2/178 = 1.1235955056179776%
+': 2/191 = 1.0471204188481675%
+v: 2/230 = 0.8695652173913043%
+p: 4/533 = 0.7504690431519699%
+u: 4/967 = 0.4136504653567736%

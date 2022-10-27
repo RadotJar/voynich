@@ -1,0 +1,26 @@
+Summary
+-------
+Number of words: 11
+Number of unique characters: 17
+Longest word: multiple (8 characters)
+Average word length: 4.090909090909091
+--------------------
+Character frequencies
+--------------------
+i: 7.0
+t: 6.0
+l: 5.0
+e: 5.0
+s: 4.0
+h: 3.0
+f: 3.0
+a: 2.0
+n: 2.0
+m: 1.0
+u: 1.0
+p: 1.0
+o: 1.0
+x: 1.0
+.: 1.0
+T: 1.0
+': 1.0

@@ -1,0 +1,10 @@
+Summary
+-------
+Number of words: 1
+Number of unique characters: 1
+Longest word: l (1 characters)
+Average word length: 1.0
+--------------------
+Character frequencies
+--------------------
+l: 1.0

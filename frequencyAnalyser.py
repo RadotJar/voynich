@@ -22,7 +22,6 @@ def main():
     else:
         (word_count, characters, frequencies, longest_word_length, longest_word, average_word_length ) = analyse(input_lines)
 
-        plotting( characters, frequencies, fileName )
 
     # Output
     output_lines.append("Summary\n")
@@ -36,6 +35,10 @@ def main():
     output_lines.append("--------------------\n")
     char_freq_list = list(zip(characters, frequencies))
     char_freq_list.sort(key=lambda x: x[1], reverse=True)
+
+    #if(input["voynich"]):
+     #   char_freq_list = char_freq_list[0:34]
+
     for (character, frequency) in char_freq_list:
         output_lines.append(character + ": " + str(frequency) + "\n")
         print(character + ": " + str(frequency))
@@ -45,6 +48,10 @@ def main():
     with open(output_path, "w") as file:
        for line in output_lines:
            file.write(line)
+    
+    # Plotting
+    if ( word_count > 0 ):
+        plotting(char_freq_list, fileName)
 
 
 # Performs Voynich Manuscript specific analysis
@@ -150,18 +157,22 @@ def analyse(lines):
                     index = unique_characters.index(char)
                     frequency[index] = frequency[index] + 1
             
-    
-    average_word_length = word_len_sum / word_count
+    if (word_count == 0):
+        average_word_length = 0
+    else:
+        average_word_length = word_len_sum / word_count
 
     return word_count, unique_characters, frequency, longest_word_length, longest_word, average_word_length
 
-def plotting(symbols, frequency, fileName) :
+def plotting(char_freq_list, fileName) :
+    # Unzip
+    characters, frequencies = zip(*char_freq_list)
     # Plotting Frequency Analysisimport matplotlib.pyplot as plt
-    freq = plot.figure()
-    plot.bar(symbols, frequency)
+    freq = plot.figure(figsize=(20, 10))
+    plot.bar(characters, frequencies, color='black')
     plot.xlabel("Character")
     plot.ylabel("Number of Occurences")
-    plot.title("Frequency Analysis of " + fileName + ".txt")
+    plot.title("Frequency Analysis of " + fileName)
     plot.savefig("./figures/" + fileName +"_freq_analysis.png")
 
 def get_input():

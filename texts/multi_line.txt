@@ -1,0 +1,7 @@
+this
+file
+has
+multiple lines
+of text
+in it.
+That's life
