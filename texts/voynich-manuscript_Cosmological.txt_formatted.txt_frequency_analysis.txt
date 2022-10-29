@@ -1,0 +1,45 @@
+Summary
+-------
+Number of words: 1225
+Number of unique characters: 36
+Longest word: qokeeodaiin (11 characters)
+Average word length: 4.9746938775510205
+--------------------
+Character frequencies
+--------------------
+o: 908.0
+d: 594.0
+a: 584.0
+e: 559.0
+y: 477.0
+h: 437.0
+r: 386.0
+i: 378.0
+c: 314.0
+l: 252.0
+t: 249.0
+k: 246.0
+s: 243.0
+n: 174.0
+q: 94.0
+p: 91.0
+m: 39.0
+f: 34.0
+x: 9.0
+g: 6.0
+{cphh}: 2.0
+z: 2.0
+j: 2.0
+{cp}: 2.0
+{c@178;}: 1.0
+{ctah}: 1.0
+{co}: 1.0
+{cfhh}: 1.0
+@213;: 1.0
+{c@133;h}: 1.0
+u: 1.0
+{iph}: 1.0
+{ikh}: 1.0
+{i'h}: 1.0
+@214;: 1.0
+{cthh}: 1.0

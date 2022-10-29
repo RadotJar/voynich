@@ -1,0 +1,87 @@
+Word Profiles:
+dol: 2 anagrams: ldo (1) odl (1) 
+ldo: 2 anagrams: dol (2) odl (1) 
+otchey: 2 anagrams: chotey (1) oetchy (1) 
+otchedy: 2 anagrams: otechdy (1) octhedy (1) 
+otechdy: 2 anagrams: otchedy (6) octhedy (1) 
+chotey: 2 anagrams: otchey (1) oetchy (1) 
+oetchy: 2 anagrams: otchey (1) chotey (1) 
+odl: 2 anagrams: dol (2) ldo (1) 
+octhedy: 2 anagrams: otchedy (6) otechdy (1) 
+qocthdy: 1 anagrams: qotchdy (5) 
+okchedy: 1 anagrams: ockhedy (1) 
+chy: 1 anagrams: ych (1) 
+cheol: 1 anagrams: olche (1) 
+chekchy: 1 anagrams: chckhey (1) 
+qokeedy: 1 anagrams: qoekedy (1) 
+ols: 1 anagrams: los (1) 
+tchedy: 1 anagrams: chetdy (1) 
+pchedy: 1 anagrams: cphedy (2) 
+qotchdy: 1 anagrams: qocthdy (1) 
+qokeshy: 1 anagrams: qokshey (2) 
+keody: 1 anagrams: okedy (9) 
+oteody: 1 anagrams: otodey (1) 
+cphedy: 1 anagrams: pchedy (1) 
+checphey: 1 anagrams: chepchey (1) 
+qokshey: 1 anagrams: qokeshy (1) 
+daiir: 1 anagrams: aiird (1) 
+cheody: 1 anagrams: ochedy (1) 
+okedy: 1 anagrams: keody (1) 
+olchedy: 1 anagrams: lcheody (1) 
+kchedar: 1 anagrams: chekadr (1) 
+otor: 1 anagrams: toor (1) 
+keeody: 1 anagrams: okeedy (1) 
+olkam: 1 anagrams: okalm (1) 
+olar: 1 anagrams: arol (1) 
+chckhey: 1 anagrams: chekchy (1) 
+qoekedy: 1 anagrams: qokeedy (1) 
+los: 1 anagrams: ols (2) 
+ochedy: 1 anagrams: cheody (1) 
+airol: 1 anagrams: olair (1) 
+otdar: 1 anagrams: todar (1) 
+arol: 1 anagrams: olar (3) 
+okeedy: 1 anagrams: keeody (1) 
+ych: 1 anagrams: chy (3) 
+od: 1 anagrams: do (1) 
+ykal: 1 anagrams: alky (1) 
+dxar: 1 anagrams: xdar (1) 
+todar: 1 anagrams: otdar (2) 
+kechy: 1 anagrams: cheky (2) 
+chekadr: 1 anagrams: kchedar (1) 
+alky: 1 anagrams: ykal (1) 
+cheky: 1 anagrams: kechy (1) 
+olche: 1 anagrams: cheol (1) 
+otl: 1 anagrams: tol (3) 
+ockhedy: 1 anagrams: okchedy (2) 
+toor: 1 anagrams: otor (3) 
+okalm: 1 anagrams: olkam (1) 
+aiird: 1 anagrams: daiir (1) 
+otodey: 1 anagrams: oteody (2) 
+xdar: 1 anagrams: dxar (1) 
+chepchey: 1 anagrams: checphey (1) 
+tol: 1 anagrams: otl (1) 
+oro: 1 anagrams: roo (1) 
+roo: 1 anagrams: oro (1) 
+do: 1 anagrams: od (1) 
+chetdy: 1 anagrams: tchedy (2) 
+olair: 1 anagrams: airol (1) 
+lcheody: 1 anagrams: olchedy (3) 
+
+Character Profiles (# times in anagrammable word / # total occurences):
+x: 2/9 = 22.22222222222222%
+c: 51/314 = 16.24203821656051%
+t: 34/249 = 13.654618473895583%
+y: 65/477 = 13.626834381551362%
+k: 31/246 = 12.601626016260163%
+h: 54/437 = 12.356979405034325%
+q: 11/94 = 11.702127659574469%
+e: 63/559 = 11.270125223613595%
+l: 27/252 = 10.714285714285714%
+d: 61/594 = 10.26936026936027%
+o: 87/908 = 9.581497797356828%
+p: 5/91 = 5.4945054945054945%
+r: 21/386 = 5.4404145077720205%
+m: 2/39 = 5.128205128205128%
+a: 19/584 = 3.2534246575342465%
+s: 6/243 = 2.4691358024691357%
+i: 6/378 = 1.5873015873015872%
