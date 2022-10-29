@@ -33,52 +33,43 @@ def main() :
 
         for i in range(len(prob)):
             char_prob_dictionary[characters[i]] = prob[i]
+        entropy_voynich(threshold)
+        #exit()
 
-        vm = format_text(filePath)
-        PN, PN_norm = entropy_voynich(char_prob_dictionary, vm, threshold)
-        output_lines.append("Possible numbers based Entropy (Not normalised) = " + str(PN) + "\n") 
-        output_lines.append("Possible numbers based Entropy (Normalised) = " + str(PN_norm) + "\n")
-        
-        output_path = "./entropy/" + fileName + "_entropy.txt"
-        with open(output_path, "w") as file:
-            for line in output_lines:
-                file.write(line)
-        exit()
-         
     else:
         (char_count, characters, frequencies) = analyse(input_lines)
     
-        prob = frequencies/char_count
-        char_prob_dictionary = {}
+    prob = frequencies/char_count
+    char_prob_dictionary = {}
 
-        for i in range(len(prob)):
-            char_prob_dictionary[characters[i]] = prob[i]
-            #print(characters[i] + " " +str(frequencies[i]))
+    for i in range(len(prob)):
+        char_prob_dictionary[characters[i]] = prob[i]
+        print(characters[i] + " " +str(frequencies[i]))
 
-        text = format_text(filePath)
-        classification = classify(text, numbers)
+    text = format_text(filePath)
+    classification = classify(text, numbers)
 
-        print("probabilities")
-        print(char_prob_dictionary)
-        print("\n")
+    print("probabilities")
+    print(char_prob_dictionary)
+    print("\n")
 
 
-        entropy, entropy_norm = entropy_score(char_prob_dictionary, text, classification)
-        ent = []
+    entropy, entropy_norm = entropy_score(char_prob_dictionary, text, classification)
+    ent = []
 
-        for char in characters:
-            ent.append(char_prob_dictionary[char]*math.log(char_prob_dictionary[char],2))
+    for char in characters:
+        ent.append(char_prob_dictionary[char]*math.log(char_prob_dictionary[char],2))
 
-    # print("Feature Entropy")
-    # print(ent) 
+    print("Feature Entropy")
+    print(ent) 
 
-    # print("Entropy Values:")
-    # print(entropy)
-    # print("")
-    # print("Entropy Values Normalised:")
-    # print(entropy_norm)
+    print("Entropy Values:")
+    print(entropy)
+    print("")
+    print("Entropy Values Normalised:")
+    print(entropy_norm)
 
-        ave_num, ave_word, ave_num_norm, ave_word_norm = results(entropy, entropy_norm, classification, fileName)
+    ave_num, ave_word, ave_num_norm, ave_word_norm = results(entropy, entropy_norm, classification, fileName)
             
     output_lines.append("Summary\n")
     output_lines.append("\n")
@@ -137,9 +128,7 @@ def entropy_voynich(prob: dict, all_strings: list, threshold) :
     possible_num_norm = []
     entropy = 0
 
-    # print(all_strings)
-    # print(prob)
-    #print(len(all_strings))
+    print(len(all_strings))
 
     for s in range(len(all_strings)) :
         string = constructVMCharacters(all_strings[s])
@@ -147,11 +136,10 @@ def entropy_voynich(prob: dict, all_strings: list, threshold) :
             entropy = entropy - prob[char]*math.log(prob[char],2)
         norm = entropy/len(string)
 
-        # assesses based on threshold
         if(entropy > threshold) :
-           possible_num.append(all_strings[s])
+           possible_num.append(s)
         if (norm > threshold) :
-            possible_num_norm.append(all_strings[s])
+            possible_num_norm.append(s)
         entropy = 0
 
     return possible_num, possible_num_norm

@@ -12,8 +12,9 @@ def initial_and_transition(classified_text, transition_matrix, initial_prob, str
 	word_to_word = transition_matrix[1][1]
 
 	transition_matrix = np.zeros([states,states])
-	
-	for i in range(len(classified_text)):
+
+	for i in range(total_transitions):
+
 		# initial probabilities
 		if (classified_text[i] == "Number") :
 			initial_prob[0] += 1
@@ -22,8 +23,6 @@ def initial_and_transition(classified_text, transition_matrix, initial_prob, str
 		else :
 			initial_prob[1] += 1
 			string_count += 1
-	
-	for i in range(total_transitions):
 
 		# transition probablities
 		if classified_text[i] == "Number" and (classified_text[i+1] == "Word"):
@@ -56,15 +55,30 @@ def initial_and_transition(classified_text, transition_matrix, initial_prob, str
 def make_model(voynich, transition, emission, start, list_of_lengths) :
 
 	observations, vm_text = observe_vm(voynich)
-
+	# print(transition)
+	# print(emission)
 	num_dist = {}
 	word_dist = {}
 
-	observed_sizes = list(range(1, max(list_of_lengths)+1))
+	#print(emission)
+	#print(emission[1][1])
 
+	observed_sizes = list(range(1, max(list_of_lengths)+1))
+	print(observed_sizes)
+	#print("List Len:")
+	#print(max(list_of_lengths))
+	
+	#print(len(emission[0]))
+	# print("obs: ", observed_sizes)
+	#obserable_vals = list(map(chr,observed_sizes))
+	#print("obs: ", chr(observed_sizes[0]))
+	print(len(emission[0]))
+	print(observed_sizes)
+	print(emission)
+	
 	for i in range(len(emission[0])) :
-		num_dist.update({str(i+1): emission[0][i]})
-		word_dist.update({str(i+1): emission[1][i]})
+		num_dist.update({str(observed_sizes[i]): emission[0][i]})
+		word_dist.update({str(observed_sizes[i]): emission[1][i]})
 
 		# num_dist.update({str(observed_sizes[i]): emission[0][i]})
 		# word_dist.update({str(observed_sizes[i]): emission[1][i]})
@@ -91,6 +105,12 @@ def make_model(voynich, transition, emission, start, list_of_lengths) :
 	
 	model.bake()
 
+	#print(observations)
+
+	#print(", ".join(state.name for i, state in model.viterbi(list(observations))[1]))
+	# print((list(observations)))
+	
+	#print((list(observations))[1])
 	result_states_string = (", ".join(state.name for i, state in model.viterbi(observations)[1]))
 
 	result_states = result_states_string.split(", ")
@@ -101,18 +121,18 @@ def make_model(voynich, transition, emission, start, list_of_lengths) :
 def observe_vm(voynich) :
 # analyses the unknown text based on the model and notes what should be a number based on the sequence
 	vm_text = format_text(voynich)
-	
+	#observations = ''
 	observations = []
-
+	#print('text:')
+	#print(vm_text)
 	# for line in vm_text:
 	for string in vm_text :
-		vm_string = constructVMCharacters(string)
-
 		if (len(string) != 0): 
 			#observations = observations + (str(len(string)))
-			observations.append(str(len(vm_string)))
-
-
+			observations.append(str(len(string)))
+	#print("obs: ")
+	#print(max(observations))
+	#print(vm_text[observations.index(max(observations))])
 	return observations, vm_text
 
 def analyse_vm(model_states, vm_text) :
@@ -150,13 +170,14 @@ def classify(all_strings, numbers, num_count, word_count) :
 	
 	longest_length = max(list_of_lengths)
 
-
 	return classification, longest_length, list_of_lengths, num_count, word_count
 
 def find_conditional_prob(classification, conditional_matrix, list_of_lengths, length_longest_word, number_count, word_count) :
 # calculates conditional probability based on length of words and their states
+	#word_cond, number_cond = [0] * len(length_longest_word)
+	#conditional_matrix = np.zeros([2, len(length_longest_word)])
 
-	if length_longest_word > conditional_matrix.shape[1] :
+	if length_longest_word > len(conditional_matrix) :
 		conditional_matrix = np.resize(conditional_matrix, (2, length_longest_word))
 
 	# loops through and counts the number of words and numbers with a certain length
@@ -168,25 +189,39 @@ def find_conditional_prob(classification, conditional_matrix, list_of_lengths, l
 		elif (classification[strings] == "Word"):
 			conditional_matrix[1][list_of_lengths[strings] -1 ] = conditional_matrix[1][list_of_lengths[strings] -1] + 1
 
+	#word_cond/word_count
+	#number_cond/number_count
+
 	return conditional_matrix
 
-def store_model(directory, out_dir, test_directory, start_prob, transition_prob, emission_prob, results, PN):
+def store_model(start_prob_dir, transition_dir, emisssion_dir, start_prob, transition_prob, emission_prob):
 # saves matrix to txt file to allow to store currently trained model
-	output_lines = []
-	output_lines.append("\n")
-	output_lines.append("Files in Training Directory: " + "\n" +str(directory) + "\n"+ "\n")
-	output_lines.append("Files in Training Directory: " + "\n" +str(test_directory) + "\n"+ "\n")
-	output_lines.append("Initial Probability: " + "\n" +str(start_prob) + "\n"+ "\n")
-	output_lines.append("Transition Matrix: " + "\n" +str(transition_prob) + "\n"+ "\n")
-	output_lines.append("Emission Matrix: "+ "\n" + str(emission_prob) + "\n"+ "\n")
-	output_lines.append("Possible Numbers: "+ "\n" + str(PN) + "\n"+ "\n")
-	output_lines.append("Resulting Sequence: " + "\n" +str(results) + "\n"+ "\n")
 
-	output_path = out_dir + ".txt"
-	with open(output_path, "w") as file:
-	   for line in output_lines:
-	       file.write(line)
+    with open(start_prob_dir,'wb') as initial:
+        for line in start_prob:
+            np.savetxt(initial, line, fmt='%.2f')
 
+    with open(transition_dir,'wb') as transition:
+        for line in transition_prob:
+            np.savetxt(transition, line, fmt='%.2f')
+
+    with open(emisssion_dir,'wb') as emission:
+        for line in emission_prob:
+            np.savetxt(transition, line, fmt='%.2f')
+
+
+def load_model(start_prob_dir, transition_dir, emisssion_dir):
+
+    with open(start_prob_dir, 'r') as sp:
+        start_prob = np.array([[float(num) for num in line.split(' ')] for line in sp])
+
+    with open(transition_dir, 'r') as t:
+        transition_prob = np.array([[float(num) for num in line.split(' ')] for line in t])
+
+    with open(emisssion_dir, 'r') as e:
+        emission_prob = np.array([[float(num) for num in line.split(' ')] for line in e])
+
+    return start_prob, transition_prob, emission_prob
 
 def final_prob(initial_prob, transition_matrix, emission_prob, string_count, num_transitions, word_transitions, num_count, word_count) :
 
@@ -196,7 +231,6 @@ def final_prob(initial_prob, transition_matrix, emission_prob, string_count, num
 	transition_matrix[1,0] = transition_matrix[1,0]/word_transitions
 	transition_matrix[1,1] = transition_matrix[1,1]/word_transitions
 
-	
 	initial_prob = initial_prob/string_count
 
 	emission_prob[0,:] = emission_prob[0,:]/num_count
@@ -207,6 +241,7 @@ def final_prob(initial_prob, transition_matrix, emission_prob, string_count, num
 def format_text(input_directory) :
 
 	# makes sure text is in a format for easy analysis. single list where each element is a string
+
 	formatted, formatted_text = [], []
 	file = open(input_directory, 'r')
 	text = file.readlines()
@@ -219,33 +254,6 @@ def format_text(input_directory) :
 	for line in formatted : 
 		for string in line:
 			if(len(string) != 0):
-				formatted_text.append(string)
+				formatted_text.append(string) 
+		
 	return formatted_text
-
-def constructVMCharacters(word):
-    i = 0
-    characters = []
-    while i < len(word):
-        character = ""
-        if(word[i] == "{"):
-            j = i
-            while word[j] != "}":
-                character += word[j]
-                j += 1
-            else:
-                character += word[j]
-            i = j
-        elif(word[i] == "@"):
-            j = i
-            while word[j] != ";":
-                character += word[j]
-                j += 1
-            else:
-                character += word[j]
-            i = j
-        else:
-            character = word[i]
-        
-        characters.append(character)
-        i += 1
-    return characters

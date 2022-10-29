@@ -4,16 +4,16 @@ import numpy as np
 import argparse
 import math
 import statistics
-import matplotlib as plott
+import matplotlib.pyplot as plott
 
 def main() :
     #input = get_input()
-    filePath = "./test3.txt"
+    filePath = "test3"
     #fileName = os.path.basename(filePath)
-    with open(filePath, "r") as file:
-        input_lines = file.readlines()
 
-    text = format_text(input_lines)
+    text = format_text(filePath + ".txt")
+     #change the title
+    name_of_file = "Botanical Texts 2"
     #Dummy
     x = True
 
@@ -23,18 +23,25 @@ def main() :
 
     # list of lists for all word spacings (1 text)
     if (x == True) :
-        spacings_list, string_recurring = word_spacings_all(text)
+        spacings_list, string_recurring, characters_recurring = word_spacings_all(text)
 
+        print("Spacings: ")
         for i in range(len(spacings_list)) :
             print(string_recurring[i] + " " + str(spacings_list[i]))
+        
+        print("")
+        print("Recurring Characters")
+        print(characters_recurring)
 
-        results(spacings_list)
+        list_of_spacings_list.append(spacings_list)
+
+        results(name_of_file, spacings_list, characters_recurring)
 
     # Works for all texts
     else :
         spacings_list = word_spacings_all(text)
         list_of_spacings_list.append(spacings_list)
-        plot_multiple(list_of_spacings_list)
+        #plot_multiple(list_of_spacings_list)
 
 
 def word_spacings_all(text : list) :
@@ -50,6 +57,7 @@ def word_spacings_all(text : list) :
             unique_strings.append(text[i])
 
             for j in range(i+1, len(text)):
+                #print(text[j], text[i])
                 if text[j] == text[i]:
                     intervals.append(interval_current)
                     interval_current = 0
@@ -60,25 +68,36 @@ def word_spacings_all(text : list) :
                             characters_recurring[char] = 1
                         else :
                             characters_recurring[char] += 1
-                elif (j == len(text)) :
+                elif ((j == len(text)-1) and (text[j] != text[i])) :
                     interval_current = 0
 
                 else :
                     interval_current += 1
         
-            spacings_all.append(intervals)
-            strings_recurring.append(text[i])
+                if ((j == len(text)-1) and (len(intervals) > 1)) :
+                    spacings_all.append(intervals)
+                    intervals = []
+                    strings_recurring.append(text[i])
 
-    return spacings_all, strings_recurring
+    return spacings_all, strings_recurring, characters_recurring
 
 def results(fileName, spacings, WR_characters :dict) :
     std_norm = []
 
     for space in spacings :
+        print(space)
         ave = statistics.mean(space)
         std = statistics.stdev(space)
+        #print(ave,std)
         std_norm.append(std/ave)
     
+    print("")
+    print("average:")
+    print(ave)
+    print("")
+    print("normalised standard deviation")
+    print(std_norm)
+
     std_norm.sort(reverse=True)
     characters, WRC_val = [], []
 
@@ -87,39 +106,42 @@ def results(fileName, spacings, WR_characters :dict) :
     for c in characters :
         WRC_val.append(WR_characters[c])
 
-    WRI = plott.figure()
-    plott.plot(range(len(std_norm)), std_norm)
-    plott.xlabel("Rank of Recurring Words Basedon on Standard Deviation (log)")
-    plott.ylabel("Normalised Standard Deviation")
-    plott.set_xscale('log')
-    plott.title("Standard deviation of Recurring Words VS Most Varied Intervals")
-    plott.savefig("./WRI_figures/" + fileName +"_WRI.png")
+    print(characters)
+    print(WRC_val, len(WRC_val))
 
-    WRC = plott.figure()
-    plott.bar(range(len(WRC_val)), WRC_val)
+    plott.bar(characters, WRC_val, width=0.5)
     plott.xlabel("Recurring Characters")
     plott.ylabel("Number of ocurrences")
-    plott.xticks(range(len(WRC_val)), label=characters)
+    #plott.xticks(range(len(WRC_val)), label=characters)
     plott.title("Most Recurring Characters in " + fileName)
-    plott.savefig("./WRC_figures/" + fileName +"_WRC.png")    
+    plott.savefig(os.getcwd() + "/WRC_figures/" + fileName +"_WRC.png")    
 
-def plot_multiple(directory, spacings) :
-
-    std_norm = []
-    for space in spacings :
-        ave = statistics.mean(space)
-        std = statistics.stdev(space)
-        std_norm.append(std/ave)
-    
-    std_norm.sort(reverse=True)
-   
+    plott.clf()
     plott.plot(range(len(std_norm)), std_norm)
-    plott.xlabel("Rank of Recurring Words")
+    plott.xlabel("Rank of Recurring Words Based on Standard Deviation (log)")
     plott.ylabel("Normalised Standard Deviation")
-    plott.set_xscale('log')
+    plott.xscale('log')
     plott.title("Standard deviation of Recurring Words VS Most Varied Intervals")
-    plott.legend()
-    plott.savefig("./WRI_figures/" + fileName +"_WRI.png") 
+    plott.savefig(os.getcwd() + "/WRI_figures/" + fileName +"_WRI.png")
+
+
+# def plot_multiple(directory, spacings) :
+
+#     std_norm = []
+#     for space in spacings :
+#         ave = statistics.mean(space)
+#         std = statistics.stdev(space)
+#         std_norm.append(std/ave)
+    
+#     std_norm.sort(reverse=True)
+   
+#     plott.plot(range(len(std_norm)), std_norm)
+#     plott.xlabel("Rank of Recurring Words")
+#     plott.ylabel("Normalised Standard Deviation")
+#     plott.set_xscale('log')
+#     plott.title("Standard deviation of Recurring Words VS Most Varied Intervals")
+#     plott.legend()
+#     plott.savefig("./WRI_figures/" + fileName +"_WRI.png") 
 
 def format_text(text) :
     

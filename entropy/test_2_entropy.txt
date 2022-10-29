@@ -1,0 +1,2 @@
+Possible numbers based Entropy (Not normalised) = ['test', 'that', 'is', 'very', 'simple', 'test']
+Possible numbers based Entropy (Normalised) = []
