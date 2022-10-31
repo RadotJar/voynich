@@ -1,6 +1,7 @@
 from fileinput import filename
 import numbers
 import os
+from sys import breakpointhook
 import numpy as np
 import argparse
 import math
@@ -18,16 +19,20 @@ def main() :
     # Grab text
     #filePath = input["file_path"]
     #fileName = os.path.basename(filePath)
-    filePath = "./test2.txt"
+
+    #### change this
+    fileName = "A-Preliminary-Dissertation-on-the-Mechanisms-of-the-Heavens"
+    filePath = "./texts/" + fileName +".txt"
     with open(filePath, "r") as file:
         input_lines = file.readlines()
 
-    fileName = "test_2"
     vm = True
+    #############
 
     if (vm == True):
         (char_count, characters, frequencies) = analyse_voynich(input_lines)
-        threshold = 0.5
+        threshold = 0.01612
+        threshold_norm = 0.0529
         prob = frequencies/char_count
         char_prob_dictionary = {}
 
@@ -35,11 +40,38 @@ def main() :
             char_prob_dictionary[characters[i]] = prob[i]
 
         vm = format_text(filePath)
-        PN, PN_norm = entropy_voynich(char_prob_dictionary, vm, threshold)
-        output_lines.append("Possible numbers based Entropy (Not normalised) = " + str(PN) + "\n") 
-        output_lines.append("Possible numbers based Entropy (Normalised) = " + str(PN_norm) + "\n")
+        PN, PN_norm = entropy_voynich(char_prob_dictionary, vm, threshold, threshold_norm)
         
-        output_path = "./entropy/" + fileName + "_entropy.txt"
+
+        output_lines.append("Threshold: " + str(threshold_norm) + " Threshold Normalised: "  + str(threshold) + "\n")
+        output_lines.append("Possible numbers based Entropy (Not normalised) = " + str(PN) + "\n") 
+        output_lines.append("No of Predictions (Raw Value): " + str(len(PN)) + "\n")
+        output_lines.append("Possible numbers based Entropy (Normalised) = " + str(PN_norm) + "\n")
+        output_lines.append("No of Predictions (Normalised): " + str(len(PN_norm)) + "\n")
+
+        accuracy_PN = 0
+        accuracy_PN_norm = 0
+
+        for i in PN :
+            for digit in i:
+               if digit in numbers :
+                accuracy_PN +=1
+                break
+
+        for i in PN_norm :
+            for digit in i:
+               if digit in numbers :
+                accuracy_PN_norm +=1
+                break
+
+        accuracy_PN_norm = accuracy_PN_norm/len(PN_norm)
+        accuracy_PN = accuracy_PN/len(PN)
+
+        output_lines.append("Proportion of correct number predictions using Raw Value " + str(accuracy_PN) + "\n")
+        output_lines.append("Proportion of correct number predictions using Normalised Value " + str(accuracy_PN_norm) + "\n")
+
+        
+        output_path = "./entropy/" + fileName + "_Test_Detection_entropy.txt"
         with open(output_path, "w") as file:
             for line in output_lines:
                 file.write(line)
@@ -58,16 +90,16 @@ def main() :
         text = format_text(filePath)
         classification = classify(text, numbers)
 
-        print("probabilities")
-        print(char_prob_dictionary)
-        print("\n")
+        # print("probabilities")
+        # print(char_prob_dictionary)
+        # print("\n")
 
 
         entropy, entropy_norm = entropy_score(char_prob_dictionary, text, classification)
         ent = []
 
         for char in characters:
-            ent.append(char_prob_dictionary[char]*math.log(char_prob_dictionary[char],2))
+            ent.append(-char_prob_dictionary[char]*math.log(char_prob_dictionary[char],2))
 
     # print("Feature Entropy")
     # print(ent) 
@@ -78,7 +110,7 @@ def main() :
     # print("Entropy Values Normalised:")
     # print(entropy_norm)
 
-        ave_num, ave_word, ave_num_norm, ave_word_norm = results(entropy, entropy_norm, classification, fileName)
+        ave_num, ave_word, ave_num_norm, ave_word_norm, unique_string, entropy_each, entropy_each_norm = results(entropy, entropy_norm, classification, fileName, text)
             
     output_lines.append("Summary\n")
     output_lines.append("\n")
@@ -98,15 +130,16 @@ def main() :
     output_lines.append("-------")
     output_lines.append("\n")
 
-    entropy_list = list(zip(text, entropy, entropy_norm))
-    for (text, entropy, entropy_norm) in entropy_list:
-        output_lines.append(text + ": " + "entropy = " + str(entropy) + ", entropy normalised = " + str(entropy_norm) + "\n")
-    
     output_lines.append("\n")
     output_lines.append("Average Entropy (Number) = " + str(ave_num) + "\n")
     output_lines.append("Average Entropy (Word) = " + str(ave_word) + "\n")
     output_lines.append("Average Entropy Normalised (Number) = " + str(ave_num_norm) + "\n")
-    output_lines.append("Average Entropy Normalised (Word) = " + str(ave_word_norm) + "\n")
+    output_lines.append("Average Entropy Normalised (Word) = " + str(ave_word_norm) + "\n" + "\n")
+
+    entropy_list = list(zip(unique_string, entropy_each, entropy_each_norm))
+    for (unique_string, entropy_each, entropy_each_norm) in entropy_list:
+        output_lines.append(unique_string + ": " + "entropy = " + str(entropy_each) + ", entropy normalised = " + str(entropy_each_norm) + "\n")
+    
 
     output_path = "./entropy/" + fileName + "_entropy.txt"
     with open(output_path, "w") as file:
@@ -119,8 +152,8 @@ def entropy_score(prob: dict, all_strings: list, classification :list) :
     score_norm = []
     entropy = 0
 
-    print(len(all_strings))
-    print(len(classification))
+    # print(len(all_strings))
+    # print(len(classification))
 
     for s in range(len(all_strings)) :
         for char in all_strings[s] :
@@ -132,7 +165,7 @@ def entropy_score(prob: dict, all_strings: list, classification :list) :
 
     return score, score_norm
 
-def entropy_voynich(prob: dict, all_strings: list, threshold) :
+def entropy_voynich(prob: dict, all_strings: list, threshold, threshold_norm) :
     possible_num = []
     possible_num_norm = []
     entropy = 0
@@ -140,19 +173,39 @@ def entropy_voynich(prob: dict, all_strings: list, threshold) :
     # print(all_strings)
     # print(prob)
     #print(len(all_strings))
+    #print(prob)
 
     for s in range(len(all_strings)) :
-        string = constructVMCharacters(all_strings[s])
-        for char in string :
+        #use this to handle ligatures in the VM
+        #all_string = constructVMCharacters(all_strings[s])
+
+        #string = [all_strings[s]]
+        for char in all_strings[s] :
             entropy = entropy - prob[char]*math.log(prob[char],2)
-        norm = entropy/len(string)
+        norm = entropy/len(all_strings[s])
 
         # assesses based on threshold
-        if(entropy > threshold) :
+        if((entropy < threshold) and (all_strings[s] not in possible_num_norm)):
            possible_num.append(all_strings[s])
-        if (norm > threshold) :
+        if ((norm < threshold_norm) and (all_strings[s] not in possible_num_norm)) :
             possible_num_norm.append(all_strings[s])
         entropy = 0
+
+    # for s in range(len(all_strings)) :
+    #     #use this to handle ligatures in the VM
+    #     all_string = constructVMCharacters(all_strings[s])
+
+    #     #string = [all_strings[s]]
+    #     for char in all_string :
+    #         entropy = entropy - prob[char]*math.log(prob[char],2)
+    #     norm = entropy/len(all_string)
+
+    #     # assesses based on threshold
+    #     if((entropy < threshold) and(all_string not in possible_num)) :
+    #        possible_num.append(all_string)
+    #     if ((norm < threshold_norm) and (all_string not in possible_num_norm)):
+    #         possible_num_norm.append(all_string)
+    #     entropy = 0
 
     return possible_num, possible_num_norm
 
@@ -174,19 +227,33 @@ def format_text(text) :
     return formatted_text
 
 
-def results(entropy_score:list, entropy_score_norm:list,  classification: list, fileName) :
+def results(entropy_score:list, entropy_score_norm:list,  classification: list, fileName, text) :
 
     entropy_num, entropy_word = [], []
     entropy_norm_num, entropy_norm_word = [], []
+    unique_strings = []
+    all_entropy = []
+    all_entropy_norm = []
 
     for j in range(len(classification)):
 
-        if (classification[j] == "Number") :
+        if ((classification[j] == "Number") and (text[j] not in unique_strings)):
             entropy_num.append(entropy_score[j])
             entropy_norm_num.append(entropy_score_norm[j])
-        else:
+            unique_strings.append(text[j])
+            all_entropy.append(entropy_score[j])
+            all_entropy_norm.append(entropy_score_norm[j])
+
+        elif ((classification[j] == "Word") and (text[j] not in unique_strings)):
             entropy_word.append(entropy_score[j])
             entropy_norm_word.append(entropy_score_norm[j])
+            unique_strings.append(text[j])
+            all_entropy.append(entropy_score[j])
+            all_entropy_norm.append(entropy_score_norm[j])
+        
+        else:
+            pass
+
 
     ave_n = statistics.mean(entropy_num)
     ave_w = statistics.mean(entropy_word)
@@ -208,7 +275,7 @@ def results(entropy_score:list, entropy_score_norm:list,  classification: list, 
     plott.title("Non-Normalised Entropy Scores of " + fileName)
     plott.savefig("./entropy_figures_norm/" + fileName +"_entropy_norm.png")
 
-    return ave_n, ave_w, ave_n_norm, ave_w_norm 
+    return ave_n, ave_w, ave_n_norm, ave_w_norm, unique_strings, all_entropy, all_entropy_norm
 
 def classify(all_strings: list, numbers: list) :
     classification = []

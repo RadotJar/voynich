@@ -1,0 +1,2 @@
+Well {word} is the word, {word} {word} is the word. well {word} {word} {word}
+{word} is the word {word}

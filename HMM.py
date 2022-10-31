@@ -9,8 +9,8 @@ out_location = os.getcwd() + "/HMM_outputs"
 
 ################ change these where necessary
 
-name = "Botanical_Text_"  # name of the output file
-VM = "./texts/Species-Plantarum(I-III).txt" # text to analyse against
+name = "test"  # name of the output file
+VM = "./testa.txt" # text to analyse against
 
 ################
 
@@ -40,12 +40,14 @@ for file in range(1,len(directory)) :
 	classification, longest_length, list_of_lengths, num_count, word_count = HMM_functions.classify(text, numbers, num_count, word_count)
 	transition_matrix, initial_prob, string_count, num_transitions, word_transitions = HMM_functions.initial_and_transition(classification, transition_matrix, initial_prob, string_count, num_transitions, word_transitions)
 	conditional_matrix = HMM_functions.find_conditional_prob(classification,conditional_matrix, list_of_lengths, longest_length, num_count, word_count)
-	
+
+	print(classification)
+	print(conditional_matrix)
 
 initial_prob, transition_matrix, conditional_matrix = HMM_functions.final_prob(initial_prob, transition_matrix, conditional_matrix, string_count, num_transitions, word_transitions, num_count, word_count)
 results, vm_text = HMM_functions.make_model(VM, transition_matrix, conditional_matrix, initial_prob, list_of_lengths)
 
-print(results)
+#print(results)
 
 PN = HMM_functions.analyse_vm(results, vm_text)
 print(PN)

@@ -8,12 +8,12 @@ import matplotlib.pyplot as plott
 
 def main() :
     #input = get_input()
-    filePath = "test3"
+    filePath = "./test3"
     #fileName = os.path.basename(filePath)
 
     text = format_text(filePath + ".txt")
      #change the title
-    name_of_file = "Botanical Texts 2"
+    name_of_file = "Test Verification"
     #Dummy
     x = True
 
@@ -35,7 +35,7 @@ def main() :
 
         list_of_spacings_list.append(spacings_list)
 
-        results(name_of_file, spacings_list, characters_recurring)
+        results(name_of_file, spacings_list, characters_recurring, string_recurring)
 
     # Works for all texts
     else :
@@ -61,9 +61,9 @@ def word_spacings_all(text : list) :
                 if text[j] == text[i]:
                     intervals.append(interval_current)
                     interval_current = 0
-
+                    word = constructVMCharacters(text[j])
                     # find characters that exist in recurring words
-                    for char in text[j] :
+                    for char in word :
                         if char not in characters_recurring :
                             characters_recurring[char] = 1
                         else :
@@ -81,7 +81,7 @@ def word_spacings_all(text : list) :
 
     return spacings_all, strings_recurring, characters_recurring
 
-def results(fileName, spacings, WR_characters :dict) :
+def results(fileName, spacings, WR_characters :dict, string_recurring) :
     std_norm = []
 
     for space in spacings :
@@ -98,6 +98,21 @@ def results(fileName, spacings, WR_characters :dict) :
     print("normalised standard deviation")
     print(std_norm)
 
+    output_lines = []
+    output_lines.append("Summary\n")
+    output_lines.append("\n")
+    output_lines.append("-------")
+    output_lines.append("WRI")
+    output_lines.append("-------")
+    output_lines.append("\n")
+
+    # print(characters)
+    # print(spacings)
+
+    for i in range(len(string_recurring)):
+        output_lines.append(string_recurring[i] + ": Spacings," + str(spacings[i]) + " std_norm: " + str(std_norm[i]) + "\n")
+
+
     std_norm.sort(reverse=True)
     characters, WRC_val = [], []
 
@@ -105,9 +120,22 @@ def results(fileName, spacings, WR_characters :dict) :
 
     for c in characters :
         WRC_val.append(WR_characters[c])
+    
+    output_lines.append("\n")
+    output_lines.append("Recurring Character count" + "\n")
+    for i in range(len(characters)):
+        output_lines.append(characters[i] + ":" + str(WRC_val[i]) + "\n")
 
-    print(characters)
-    print(WRC_val, len(WRC_val))
+
+
+    output_path = "./WRI/" + fileName + "_WRI.txt"
+    with open(output_path, "w") as file:
+       for line in output_lines:
+           file.write(line)
+
+    # print("chech WRC:")
+    # print(characters)
+    # print(WRC_val, len(WRC_val))
 
     plott.bar(characters, WRC_val, width=0.5)
     plott.xlabel("Recurring Characters")
@@ -125,24 +153,6 @@ def results(fileName, spacings, WR_characters :dict) :
     plott.savefig(os.getcwd() + "/WRI_figures/" + fileName +"_WRI.png")
 
 
-# def plot_multiple(directory, spacings) :
-
-#     std_norm = []
-#     for space in spacings :
-#         ave = statistics.mean(space)
-#         std = statistics.stdev(space)
-#         std_norm.append(std/ave)
-    
-#     std_norm.sort(reverse=True)
-   
-#     plott.plot(range(len(std_norm)), std_norm)
-#     plott.xlabel("Rank of Recurring Words")
-#     plott.ylabel("Normalised Standard Deviation")
-#     plott.set_xscale('log')
-#     plott.title("Standard deviation of Recurring Words VS Most Varied Intervals")
-#     plott.legend()
-#     plott.savefig("./WRI_figures/" + fileName +"_WRI.png") 
-
 def format_text(text) :
     
     formatted, formatted_text = [], []
@@ -159,6 +169,34 @@ def format_text(text) :
             formatted_text.append(string) 
         
     return formatted_text
+
+def constructVMCharacters(word):
+    i = 0
+    characters = []
+    while i < len(word):
+        character = ""
+        if(word[i] == "{"):
+            j = i
+            while word[j] != "}":
+                character += word[j]
+                j += 1
+            else:
+                character += word[j]
+            i = j
+        elif(word[i] == "@"):
+            j = i
+            while word[j] != ";":
+                character += word[j]
+                j += 1
+            else:
+                character += word[j]
+            i = j
+        else:
+            character = word[i]
+        
+        characters.append(character)
+        i += 1
+    return characters
 
 
 def get_input():

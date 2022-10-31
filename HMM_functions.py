@@ -92,9 +92,13 @@ def make_model(voynich, transition, emission, start, list_of_lengths) :
 	model.bake()
 
 	result_states_string = (", ".join(state.name for i, state in model.viterbi(observations)[1]))
-
 	result_states = result_states_string.split(", ")
 	result_states.pop(0)
+
+	# result_states_string2 = model.predict(observations, algorithm ='map')))
+	# result_states2 = result_states_string.split(", ")
+	# result_states2.pop(0)
+	# print(result_states2)
 
 	return result_states, vm_text
 
@@ -156,8 +160,13 @@ def classify(all_strings, numbers, num_count, word_count) :
 def find_conditional_prob(classification, conditional_matrix, list_of_lengths, length_longest_word, number_count, word_count) :
 # calculates conditional probability based on length of words and their states
 
-	if length_longest_word > conditional_matrix.shape[1] :
-		conditional_matrix = np.resize(conditional_matrix, (2, length_longest_word))
+	temp = conditional_matrix
+	conditional_matrix = np.zeros((2,length_longest_word))
+
+	if length_longest_word > temp.shape[1] :
+		for i in range(2) :
+			for j in range(temp.shape[1]) :
+				conditional_matrix[i][j] = temp[i][j]
 
 	# loops through and counts the number of words and numbers with a certain length
 	for strings in range(len(list_of_lengths)) :
@@ -175,7 +184,7 @@ def store_model(directory, out_dir, test_directory, start_prob, transition_prob,
 	output_lines = []
 	output_lines.append("\n")
 	output_lines.append("Files in Training Directory: " + "\n" +str(directory) + "\n"+ "\n")
-	output_lines.append("Files in Training Directory: " + "\n" +str(test_directory) + "\n"+ "\n")
+	output_lines.append("Files in Testing Directory: " + "\n" +str(test_directory) + "\n"+ "\n")
 	output_lines.append("Initial Probability: " + "\n" +str(start_prob) + "\n"+ "\n")
 	output_lines.append("Transition Matrix: " + "\n" +str(transition_prob) + "\n"+ "\n")
 	output_lines.append("Emission Matrix: "+ "\n" + str(emission_prob) + "\n"+ "\n")

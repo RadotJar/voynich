@@ -1,5 +1,6 @@
 import os
 import statistics
+from turtle import color
 import numpy as np
 import argparse
 import math
@@ -8,13 +9,13 @@ import matplotlib.pyplot as plott
 
 def main() :
     #input = get_input()
-    directory = ["voynich-manuscript.txt_formatted", "voynich-manuscript_Language_A.txt_formatted", "voynich-manuscript_Language_B.txt_formatted"]
+    directory = ["Species-Plantarum(I-III)", "Die-Epiphytische-Vegetation-Amerikas", "A-Preliminary-Dissertation-on-the-Mechanisms-of-the-Heavens", "voynich-manuscript_Herbal.txt_formatted"]
     #directory = ["test3", "WRI_2", "test_WRI"]
     #fileName = os.path.basename(filePath)
 
 
     #change name of file for WRI plot, basically good to call it a category 
-    type_of_plots = "Voynich"
+    type_of_plots = "Botanic Texts and VM (Herbal)"
     
     #"/texts/"
 
@@ -27,6 +28,9 @@ def main() :
     filePath3 = os.getcwd() + "/texts/" + directory[2] + ".txt"
     text3 = format_text(filePath3)
 
+    filePath4 = os.getcwd() + "/texts/" + directory[3] + ".txt"
+    text4 = format_text(filePath4)
+
     spacings_list1 = [] # for a single text
     string_recurring1 = [] # for single text
 
@@ -35,24 +39,29 @@ def main() :
 
     spacings_list3 = []
     string_recurring3 = []
+    
+    spacings_list4 = []
+    string_recurring4 = []
 
     # list of lists for all word spacings (1 text)
     spacings_list1, string_recurring1, characters_recurring1 = word_spacings_all(text1)
     spacings_list2, string_recurring2, characters_recurring2 = word_spacings_all(text2)
     spacings_list3, string_recurring3, characters_recurring3 = word_spacings_all(text3)
+    spacings_list4, string_recurring4, characters_recurring4 = word_spacings_all(text4)
 
-    print("Spacings: ")
-    for i in range(len(spacings_list1)) :
-        print(string_recurring1[i] + " " + str(spacings_list1[i]))
+
+    # print("Spacings: ")
+    # for i in range(len(spacings_list1)) :
+    #     print(string_recurring1[i] + " " + str(spacings_list1[i]))
         
-    print("")
-    print("Recurring Characters")
-    print(characters_recurring1)
+    # print("")
+    # print("Recurring Characters")
+    # print(characters_recurring1)
 
     # list_of_spacings_list.append(spacings_list1)
     # list_of_recurring_characters.append(characters_recurring1)
 
-    results(type_of_plots, directory, spacings_list1, spacings_list2, spacings_list3, characters_recurring1, characters_recurring2, characters_recurring3)
+    results(type_of_plots, directory, spacings_list1, spacings_list2, spacings_list3, spacings_list4, characters_recurring1, characters_recurring2, characters_recurring3, characters_recurring4)
 
 
 def word_spacings_all(text : list) :
@@ -74,7 +83,8 @@ def word_spacings_all(text : list) :
                     interval_current = 0
 
                     # find characters that exist in recurring words
-                    for char in text[j] :
+                    word = constructVMCharacters(text[j])
+                    for char in word :
                         if char not in characters_recurring :
                             characters_recurring[char] = 1
                         else :
@@ -92,7 +102,7 @@ def word_spacings_all(text : list) :
 
     return spacings_all, strings_recurring, characters_recurring
 
-def results(fileName, directory, spacings1, spacings2, spacings3, WR_characters1 :dict, WR_characters2 :dict, WR_characters3 :dict) :
+def results(fileName, directory, spacings1, spacings2, spacings3, spacings4, WR_characters1 :dict, WR_characters2 :dict, WR_characters3 :dict,  WR_characters4 :dict) :
     #first text
     std_norm1 = []
 
@@ -119,8 +129,8 @@ def results(fileName, directory, spacings1, spacings2, spacings3, WR_characters1
         if(WR_characters1[c] > 0):
             WRC_val1.append(WR_characters1[c])
 
-    print(characters1)
-    print(WRC_val1, len(WRC_val1))
+    # print(characters1)
+    # print(WRC_val1, len(WRC_val1))
 
     #first text
     std_norm2 = []
@@ -155,7 +165,7 @@ def results(fileName, directory, spacings1, spacings2, spacings3, WR_characters1
     std_norm3 = []
 
     for space in spacings3 :
-        print(space)
+        #print(space)
         ave = statistics.mean(space)
         std = statistics.stdev(space)
         #print(ave,std)
@@ -177,8 +187,37 @@ def results(fileName, directory, spacings1, spacings2, spacings3, WR_characters1
         if(WR_characters3[c] > 0):
             WRC_val3.append(WR_characters3[c])
 
-    print(characters3)
-    print(WRC_val3, len(WRC_val3))
+    # print(characters3)
+    # print(WRC_val3, len(WRC_val3))
+
+    #fourth text
+    std_norm4 = []
+
+    for space in spacings4 :
+        #print(space)
+        ave = statistics.mean(space)
+        std = statistics.stdev(space)
+        #print(ave,std)
+        std_norm4.append(std/ave)
+    
+    # print("")
+    # print("average:")
+    # print(ave)
+    # print("")
+    # print("normalised standard deviation")
+    # print(std_norm3)
+
+    std_norm4.sort(reverse=True)
+    characters4, WRC_val4 = [], []
+
+    characters4 = sorted(WR_characters4, key=WR_characters4.get)
+
+    for c in characters4 :
+        if(WR_characters4[c] > 0):
+            WRC_val4.append(WR_characters4[c])
+
+    # print(characters3)
+    # print(WRC_val3, len(WRC_val3))
 
     #first plot
     plott.bar(characters1, WRC_val1, width=0.5, color = 'red')
@@ -204,13 +243,22 @@ def results(fileName, directory, spacings1, spacings2, spacings3, WR_characters1
     plott.savefig(os.getcwd() + "/WRC_figures/" + directory[2] +"_WRC.png") 
     plott.clf()
 
-    print("1:", std_norm1)
-    print("2:", std_norm2)
-    print("3:", std_norm3)
+    plott.bar(characters4, WRC_val4, width=0.5) # Eng
+    plott.xlabel("Recurring Characters")
+    plott.ylabel("Number of ocurrences")
+    plott.title("Most Recurring Characters in " + directory[3])
+    plott.savefig(os.getcwd() + "/WRC_figures/" + directory[3] +"_WRC.png")
+    plott.clf()
 
-    plott.plot(range(len(std_norm1)), std_norm1, label=directory[0], color='black')
-    plott.plot(range(len(std_norm2)), std_norm2, label= directory[1], color='black', linestyle='dotted')
-    plott.plot(range(len(std_norm3)), std_norm3, label = directory[2], color='black', linestyle='dashed')
+    # print("1:", std_norm1)
+    # print("2:", std_norm2)
+    # print("3:", std_norm3)
+
+    plott.plot(range(len(std_norm1)), std_norm1, label=directory[0], color='red')
+    plott.plot(range(len(std_norm2)), std_norm2, label= directory[1], color='green')
+    plott.plot(range(len(std_norm3)), std_norm3, label = directory[2])
+    plott.plot(range(len(std_norm4)), std_norm4, label = directory[3], color='black')
+
     plott.legend()
     plott.xlabel("Rank of Recurring Words Based on Standard Deviation (log)")
     plott.ylabel("Scaled Standard Deviation")
