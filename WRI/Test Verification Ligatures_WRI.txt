@@ -1,0 +1,13 @@
+Summary
+
+-------WRI-------
+{word}: Spacings,[3, 0, 4, 0, 0, 0, 3] std_norm: 1.268857754044952
+is: Spacings,[4, 7] std_norm: 0.385694607919935
+the: Spacings,[4, 7] std_norm: 0.385694607919935
+
+Recurring Character counti:2
+s:2
+t:2
+h:2
+e:2
+{word}:7

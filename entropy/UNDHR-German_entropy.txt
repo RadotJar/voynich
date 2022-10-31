@@ -1,0 +1,792 @@
+Summary
+
+-------character entropy-------
+e: 0.43047843983718864
+n: 0.3347663790907529
+i: 0.2762618852524659
+r: 0.27060095108201343
+t: 0.23813813267105413
+d: 0.2279480762809971
+h: 0.2081284190436506
+s: 0.19738500889528082
+a: 0.19708898136837816
+u: 0.19649600580571613
+l: 0.18062928116528762
+g: 0.15536025797740768
+c: 0.15536025797740768
+f: 0.09882750912181953
+o: 0.0979677466925117
+m: 0.081435085673675
+,: 0.07434986982336247
+k: 0.07290255347105254
+z: 0.06899003296484486
+b: 0.0675021200914241
+.: 0.061428982437931504
+w: 0.05673568310091136
+A: 0.05407192310527934
+v: 0.04295138624507876
+R: 0.04237326016566154
+G: 0.041792779832926424
+ä: 0.03944648224520097
+ü: 0.03825808106597235
+S: 0.03088692910823802
+F: 0.02961330779914974
+E: 0.02702137011397293
+ö: 0.02702137011397293
+M: 0.025701331005507866
+ß: 0.025034865516621548
+1: 0.023688341394272013
+p: 0.023688341394272013
+J: 0.023688341394272013
+2: 0.02232264422262937
+V: 0.021632169444125098
+B: 0.020936351259493464
+W: 0.020234975820578597
+N: 0.016635863488484087
+L: 0.015147346268115763
+D: 0.012067649177632011
+H: 0.012067649177632011
+U: 0.011272778176968803
+P: 0.010466319217940646
+Z: 0.008814200220144489
+3: 0.008814200220144489
+K: 0.008814200220144489
+I: 0.007965719773616304
+j: 0.007099832042272095
+4: 0.005304978971879131
+T: 0.005304978971879131
+7: 0.004367956642367986
+0: 0.004367956642367986
+9: 0.004367956642367986
+8: 0.004367956642367986
+-: 0.004367956642367986
+O: 0.004367956642367986
+;: 0.004367956642367986
+5: 0.0033958396775819522
+6: 0.0033958396775819522
+Ä: 0.0023765266989639105
+y: 0.0023765266989639105
+(: 0.0012845375383719138
+): 0.0012845375383719138
+C: 0.0012845375383719138
+x: 0.0012845375383719138
+
+-------string entropy-------
+
+Average Entropy (Number) = 0.0325822870144654
+Average Entropy (Word) = 2.002692762193796
+Average Entropy Normalised (Number) = 0.01648762580031111
+Average Entropy Normalised (Word) = 0.23004445662758014
+
+Resolution: entropy = 2.0924638862684315, entropy normalised = 0.20924638862684314
+217: entropy = 0.050378942259269366, entropy normalised = 0.016792980753089787
+A: entropy = 0.05407192310527934, entropy normalised = 0.05407192310527934
+(III): entropy = 0.026466234397592745, entropy normalised = 0.005293246879518549
+der: entropy = 0.9290274672001991, entropy normalised = 0.30967582240006636
+Generalversammlung: entropy = 4.05446211502819, entropy normalised = 0.22524789527934386
+vom: entropy = 0.22235421861126545, entropy normalised = 0.07411807287042181
+10.: entropy = 0.0894852804745715, entropy normalised = 0.029828426824857163
+Dezember: entropy = 1.7920311585011555, entropy normalised = 0.22400389481264443
+1948: entropy = 0.03772923365088711, entropy normalised = 0.009432308412721777
+Allgemeine: entropy = 2.554589412941722, entropy normalised = 0.25545894129417224
+Erklärung: entropy = 1.5478242320334177, entropy normalised = 0.1719804702259353
+Menschenrechte: entropy = 3.850249295226234, entropy normalised = 0.2750178068018739
+PRÄAMBEL: entropy = 0.19809442783493547, entropy normalised = 0.024761803479366934
+Da: entropy = 0.20915663054601016, entropy normalised = 0.10457831527300508
+die: entropy = 0.9346884013706516, entropy normalised = 0.31156280045688384
+Anerkennung: entropy = 2.9494540874788586, entropy normalised = 0.26813218977080533
+angeborenen: entropy = 3.0842545139955595, entropy normalised = 0.28038677399959633
+Würde: entropy = 0.9875205240867502, entropy normalised = 0.19750410481735003
+und: entropy = 0.7592104611774662, entropy normalised = 0.25307015372582203
+gleichen: entropy = 2.1714633601813498, entropy normalised = 0.2714329200226687
+unveräußerlichen: entropy = 3.822974568914244, entropy normalised = 0.23893591055714025
+Rechte: entropy = 1.504956949532151, entropy normalised = 0.25082615825535853
+aller: entropy = 1.2594269346181557, entropy normalised = 0.25188538692363116
+Mitglieder: entropy = 2.511858680361577, entropy normalised = 0.2511858680361577
+Gemeinschaft: entropy = 2.690141318601788, entropy normalised = 0.22417844321681568
+Menschen: entropy = 2.11706465477773, entropy normalised = 0.26463308184721623
+Grundlage: entropy = 2.035161152440668, entropy normalised = 0.226129016937852
+von: entropy = 0.47568551202834336, entropy normalised = 0.15856183734278112
+Freiheit,: entropy = 2.234311330598539, entropy normalised = 0.2482568145109488
+Gerechtigkeit: entropy = 3.2243805747430647, entropy normalised = 0.24802927498023575
+Frieden: entropy = 2.0001474791797564, entropy normalised = 0.2857353541685366
+in: entropy = 0.6110282643432188, entropy normalised = 0.3055141321716094
+Welt: entropy = 0.869480829494109, entropy normalised = 0.21737020737352725
+bildet,: entropy = 1.4953078051217799, entropy normalised = 0.21361540073168284
+da: entropy = 0.42503705764937527, entropy normalised = 0.21251852882468764
+Nichtanerkennung: entropy = 3.9869957041750195, entropy normalised = 0.24918723151093872
+Verachtung: entropy = 2.2080499942976943, entropy normalised = 0.22080499942976944
+zu: entropy = 0.265486038770561, entropy normalised = 0.1327430193852805
+Akten: entropy = 1.1303574281753275, entropy normalised = 0.2260714856350655
+Barbarei: entropy = 1.730558661341355, entropy normalised = 0.21631983266766938
+geführt: entropy = 1.4397917907991065, entropy normalised = 0.2056845415427295
+haben,: entropy = 1.3123142092547568, entropy normalised = 0.2187190348757928
+das: entropy = 0.622422066544656, entropy normalised = 0.207474022181552
+Gewissen: entropy = 1.9652836247419956, entropy normalised = 0.24566045309274945
+Menschheit: entropy = 2.5048267126541477, entropy normalised = 0.2504826712654148
+mit: entropy = 0.595835103597195, entropy normalised = 0.19861170119906502
+Empörung: entropy = 1.116389761251783, entropy normalised = 0.13954872015647288
+erfüllen,: entropy = 2.0390182321888735, entropy normalised = 0.22655758135431928
+verkündet: entropy = 2.0865224395812985, entropy normalised = 0.23183582662014426
+worden: entropy = 1.418497276084375, entropy normalised = 0.23641621268072918
+ist,: entropy = 0.7861348966421633, entropy normalised = 0.19653372416054082
+daß: entropy = 0.4500719231659968, entropy normalised = 0.1500239743886656
+einer: entropy = 1.7425860950996093, entropy normalised = 0.34851721901992183
+Welt,: entropy = 0.9438306993174714, entropy normalised = 0.18876613986349428
+Rede-: entropy = 1.135646172763404, entropy normalised = 0.2271292345526808
+Glaubensfreiheit: entropy = 3.875314658184802, entropy normalised = 0.24220716613655013
+Freiheit: entropy = 2.1599614607751767, entropy normalised = 0.2699951825968971
+Furcht: entropy = 1.0983370743789918, entropy normalised = 0.1830561790631653
+Not: entropy = 0.3527417428520499, entropy normalised = 0.1175805809506833
+genießen,: entropy = 2.491974956262929, entropy normalised = 0.27688610625143656
+höchste: entropy = 1.4646400475822055, entropy normalised = 0.20923429251174364
+Streben: entropy = 1.8028513917178597, entropy normalised = 0.2575501988168371
+des: entropy = 0.8558115250134666, entropy normalised = 0.2852705083378222
+gilt,: entropy = 0.9247394268895778, entropy normalised = 0.18494788537791557
+es: entropy = 0.6278634487324695, entropy normalised = 0.31393172436623473
+notwendig: entropy = 2.1524229799940424, entropy normalised = 0.23915810888822694
+durch: entropy = 1.058533710189785, entropy normalised = 0.21170674203795697
+Herrschaft: entropy = 2.078676300256438, entropy normalised = 0.20786763002564382
+Rechtes: entropy = 1.702341958427432, entropy normalised = 0.243191708346776
+schützen,: entropy = 1.7458546213695143, entropy normalised = 0.19398384681883493
+damit: entropy = 1.0208721612465703, entropy normalised = 0.20417443224931406
+Mensch: entropy = 1.3518198358497884, entropy normalised = 0.22530330597496473
+nicht: entropy = 1.2126550740353312, entropy normalised = 0.24253101480706624
+gezwungen: entropy = 2.1634318756821704, entropy normalised = 0.24038131952024117
+wird,: entropy = 0.9058964655397503, entropy normalised = 0.18117929310795006
+als: entropy = 0.5751032714289466, entropy normalised = 0.19170109047631553
+letztes: entropy = 1.7842374680418989, entropy normalised = 0.2548910668631284
+Mittel: entropy = 1.3893472026025584, entropy normalised = 0.2315578671004264
+zum: entropy = 0.34692112444423595, entropy normalised = 0.11564037481474532
+Aufstand: entropy = 1.544722016339278, entropy normalised = 0.19309025204240976
+gegen: entropy = 1.5064437747199455, entropy normalised = 0.3012887549439891
+Tyrannei: entropy = 1.8516445213923949, entropy normalised = 0.23145556517404936
+Unterdrückung: entropy = 2.7369492436092977, entropy normalised = 0.2105345572007152
+greifen,: entropy = 2.0711237320221993, entropy normalised = 0.2588904665027749
+Entwicklung: entropy = 2.028438185716782, entropy normalised = 0.18440347142879834
+freundschaftlicher: entropy = 4.175504904654093, entropy normalised = 0.23197249470300518
+Beziehungen: entropy = 2.8871410299966502, entropy normalised = 0.26246736636333184
+zwischen: entropy = 1.7281061061625027, entropy normalised = 0.21601326327031284
+den: entropy = 0.9931928952089386, entropy normalised = 0.3310642984029795
+Nationen: entropy = 1.9261038074915884, entropy normalised = 0.24076297593644855
+fördern,: entropy = 1.7345935464321205, entropy normalised = 0.21682419330401506
+Völker: entropy = 1.0032647651136402, entropy normalised = 0.1672107941856067
+Vereinten: entropy = 2.7676012161427304, entropy normalised = 0.3075112462380811
+Charta: entropy = 1.1123300030718464, entropy normalised = 0.18538833384530773
+ihren: entropy = 1.5202360743060714, entropy normalised = 0.3040472148612143
+Glauben: entropy = 1.448753987191674, entropy normalised = 0.20696485531309627
+an: entropy = 0.5318553604591311, entropy normalised = 0.26592768022956553
+grundlegenden: entropy = 3.7100773633536512, entropy normalised = 0.2853905664118193
+Menschenrechte,: entropy = 3.9245991650495964, entropy normalised = 0.2616399443366398
+Wert: entropy = 0.9594524994108348, entropy normalised = 0.2398631248527087
+menschlichen: entropy = 2.993178252884709, entropy normalised = 0.24943152107372576
+Person: entropy = 1.3416648448156883, entropy normalised = 0.2236108074692814
+Gleichberechtigung: entropy = 4.211582609752605, entropy normalised = 0.2339768116529225
+Mann: entropy = 0.8923230705553918, entropy normalised = 0.22308076763884796
+Frau: entropy = 0.6937992460552574, entropy normalised = 0.17344981151381436
+erneut: entropy = 1.9009583483239139, entropy normalised = 0.316826391387319
+bekräftigt: entropy = 1.8876564644206808, entropy normalised = 0.18876564644206809
+beschlossen: entropy = 2.4974661104212545, entropy normalised = 0.22704237367465951
+sozialen: entropy = 1.7835677552667104, entropy normalised = 0.2229459694083388
+Fortschritt: entropy = 2.220332925837656, entropy normalised = 0.20184844780342326
+bessere: entropy = 2.0243084084755654, entropy normalised = 0.2891869154965093
+Lebensbedingungen: entropy = 4.419942354352005, entropy normalised = 0.2599966090795297
+größerer: entropy = 1.8801762265284196, entropy normalised = 0.23502202831605246
+Mitgliedstaaten: entropy = 3.643863345344462, entropy normalised = 0.24292422302296413
+sich: entropy = 0.8371355711688051, entropy normalised = 0.20928389279220128
+verpflichtet: entropy = 2.5936811762984813, entropy normalised = 0.21614009802487344
+Zusammenarbeit: entropy = 3.007969696867336, entropy normalised = 0.21485497834766684
+auf: entropy = 0.4924124962959138, entropy normalised = 0.16413749876530462
+allgemeine: entropy = 2.697606471204821, entropy normalised = 0.2697606471204821
+Achtung: entropy = 1.3423213756712684, entropy normalised = 0.1917601965244669
+Einhaltung: entropy = 2.148657091579439, entropy normalised = 0.21486570915794392
+Grundfreiheiten: entropy = 4.0660246731181955, entropy normalised = 0.271068311541213
+hinzuwirken,: entropy = 2.600738483815178, entropy normalised = 0.21672820698459816
+ein: entropy = 1.0415067041804074, entropy normalised = 0.3471689013934691
+gemeinsames: entropy = 2.8125530123384825, entropy normalised = 0.2556866374853166
+Verständnis: entropy = 2.5688089127851126, entropy normalised = 0.2335280829804648
+dieser: entropy = 1.8331528011851344, entropy normalised = 0.3055254668641891
+Freiheiten: entropy = 2.9252062797031186, entropy normalised = 0.29252062797031186
+größter: entropy = 1.4172349682802716, entropy normalised = 0.20246213832575308
+Wichtigkeit: entropy = 2.347526825226792, entropy normalised = 0.213411529566072
+für: entropy = 0.4076865412698053, entropy normalised = 0.13589551375660178
+volle: entropy = 0.9326561351053544, entropy normalised = 0.1865312270210709
+Erfüllung: entropy = 1.4825891165882301, entropy normalised = 0.1647321240653589
+Verpflichtung: entropy = 2.590368029863161, entropy normalised = 0.19925907922024316
+diese: entropy = 1.562551850103121, entropy normalised = 0.3125103700206242
+allen: entropy = 1.323592362626895, entropy normalised = 0.264718472525379
+Völkern: entropy = 1.338031144204393, entropy normalised = 0.1911473063149133
+erreichende: entropy = 3.465580679158056, entropy normalised = 0.31505278901436873
+gemeinsame: entropy = 2.615168003443202, entropy normalised = 0.2615168003443202
+Ideal,: entropy = 1.11846036824883, entropy normalised = 0.186410061374805
+jeder: entropy = 1.36660573907966, entropy normalised = 0.273321147815932
+einzelne: entropy = 2.4868492770756703, entropy normalised = 0.3108561596344588
+alle: entropy = 0.9888259835361422, entropy normalised = 0.24720649588403554
+Organe: entropy = 1.392662965998109, entropy normalised = 0.23211049433301814
+Gesellschaft: entropy = 2.556321539810751, entropy normalised = 0.21302679498422925
+stets: entropy = 1.3015247229698585, entropy normalised = 0.2603049445939717
+gegenwärtig: entropy = 2.542987167048999, entropy normalised = 0.23118065154990902
+halten: entropy = 1.589229633176312, entropy normalised = 0.2648716055293853
+bemühen,: entropy = 1.6653968344632146, entropy normalised = 0.20817460430790183
+Unterricht: entropy = 2.43374632688457, entropy normalised = 0.243374632688457
+Erziehung: entropy = 1.968103741168013, entropy normalised = 0.21867819346311254
+vor: entropy = 0.4115200840196039, entropy normalised = 0.13717336133986796
+diesen: entropy = 1.897318229193874, entropy normalised = 0.31621970486564566
+Rechten: entropy = 1.839723328622904, entropy normalised = 0.2628176183747006
+fördern: entropy = 1.660243676608758, entropy normalised = 0.23717766808696544
+fortschreitende: entropy = 3.905558769372588, entropy normalised = 0.2603705846248392
+nationale: entropy = 2.2871862065367705, entropy normalised = 0.2541318007263078
+internationale: entropy = 3.8374319944702453, entropy normalised = 0.27410228531930325
+Maßnahmen: entropy = 1.8344888619949058, entropy normalised = 0.20383209577721176
+ihre: entropy = 1.1854696952153185, entropy normalised = 0.29636742380382963
+tatsächliche: entropy = 2.524543698148027, entropy normalised = 0.21037864151233557
+Bevölkerung: entropy = 2.162621415885153, entropy normalised = 0.1966019468986503
+selbst: entropy = 1.3115179915555162, entropy normalised = 0.21858633192591936
+wie: entropy = 0.7634760081905659, entropy normalised = 0.2544920027301886
+auch: entropy = 0.7570736641951525, entropy normalised = 0.18926841604878814
+ihrer: entropy = 1.456070646297332, entropy normalised = 0.29121412925946644
+Hoheitsgewalt: entropy = 2.7188580576900114, entropy normalised = 0.20914292751461627
+unterstehenden: entropy = 4.30304762307078, entropy normalised = 0.30736054450505573
+Gebiete: entropy = 1.9151302373594363, entropy normalised = 0.2735900339084909
+gewährleisten.: entropy = 3.310316782473523, entropy normalised = 0.2364511987481088
+Artikel: entropy = 1.5230831665843416, entropy normalised = 0.2175833095120488
+1: entropy = 0.023688341394272013, entropy normalised = 0.023688341394272013
+Alle: entropy = 0.8458089252730432, entropy normalised = 0.2114522313182608
+sind: entropy = 1.0363613495194968, entropy normalised = 0.2590903373798742
+frei: entropy = 1.0761687852934876, entropy normalised = 0.2690421963233719
+gleich: entropy = 1.406218541253408, entropy normalised = 0.23436975687556802
+geboren.: entropy = 1.8485833170464185, entropy normalised = 0.23107291463080232
+Sie: entropy = 0.7376272541978925, entropy normalised = 0.24587575139929752
+Vernunft: entropy = 1.9257059661434228, entropy normalised = 0.24071324576792785
+begabt: entropy = 1.1560700520368767, entropy normalised = 0.1926783420061461
+sollen: entropy = 1.4218561368463094, entropy normalised = 0.23697602280771823
+einander: entropy = 2.5023895318397376, entropy normalised = 0.3127986914799672
+im: entropy = 0.35769697092614094, entropy normalised = 0.17884848546307047
+Geiste: entropy = 1.6145346863261045, entropy normalised = 0.26908911438768407
+Brüderlichkeit: entropy = 3.0969837052782516, entropy normalised = 0.2212131218055894
+begegnen.: entropy = 2.4006196961772432, entropy normalised = 0.26673552179747145
+2: entropy = 0.02232264422262937, entropy normalised = 0.02232264422262937
+Jeder: entropy = 1.3831942484316597, entropy normalised = 0.27663884968633196
+hat: entropy = 0.6433555330830829, entropy normalised = 0.21445184436102763
+Anspruch: entropy = 1.4404972863943728, entropy normalised = 0.1800621607992966
+verkündeten: entropy = 2.8517672585092404, entropy normalised = 0.2592515689553855
+Freiheiten,: entropy = 2.999556149526481, entropy normalised = 0.27268692268422556
+ohne: entropy = 1.0713409846641038, entropy normalised = 0.26783524616602594
+irgendeinen: entropy = 3.5021675126291747, entropy normalised = 0.3183788647844704
+Unterschied,: entropy = 2.8551686379683314, entropy normalised = 0.23793071983069428
+etwa: entropy = 0.9224412369775323, entropy normalised = 0.23061030924438308
+nach: entropy = 0.8953440374801893, entropy normalised = 0.22383600937004733
+Rasse,: entropy = 1.1390605689851523, entropy normalised = 0.18984342816419206
+Hautfarbe,: entropy = 1.7826386403469667, entropy normalised = 0.17826386403469668
+Geschlecht,: entropy = 2.3202293061044057, entropy normalised = 0.21092993691858233
+Sprache,: entropy = 1.390582189634511, entropy normalised = 0.17382277370431387
+Religion,: entropy = 1.8684490052571043, entropy normalised = 0.20760544502856715
+politischer: entropy = 2.3549003492635987, entropy normalised = 0.21408184993305443
+oder: entropy = 1.026995213892711, entropy normalised = 0.25674880347317774
+sonstiger: entropy = 2.198343810393956, entropy normalised = 0.2442604233771062
+Anschauung,: entropy = 2.104269487983705, entropy normalised = 0.19129722618033682
+nationaler: entropy = 2.557787157618784, entropy normalised = 0.2557787157618784
+sozialer: entropy = 1.719402327257971, entropy normalised = 0.21492529090724638
+Herkunft,: entropy = 1.7286274900805918, entropy normalised = 0.19206972112006576
+Vermögen,: entropy = 1.826122962879687, entropy normalised = 0.20290255143107633
+Geburt: entropy = 1.245008429320323, entropy normalised = 0.2075014048867205
+sonstigem: entropy = 2.0091779449856175, entropy normalised = 0.22324199388729082
+Stand.: entropy = 1.0902574809573518, entropy normalised = 0.18170958015955863
+Des: entropy = 0.6399310979101015, entropy normalised = 0.21331036597003383
+weiteren: entropy = 2.4679383507087636, entropy normalised = 0.30849229383859544
+darf: entropy = 0.7944655178532083, entropy normalised = 0.19861637946330207
+kein: entropy = 1.11440925765146, entropy normalised = 0.278602314412865
+Unterschied: entropy = 2.780818768144969, entropy normalised = 0.2528017061949972
+gemacht: entropy = 1.4659895745487617, entropy normalised = 0.20942708207839453
+werden: entropy = 1.751007969229052, entropy normalised = 0.29183466153817533
+Grund: entropy = 1.071604192092406, entropy normalised = 0.2143208384184812
+politischen,: entropy = 2.4934156470957003, entropy normalised = 0.20778463725797502
+rechtlichen: entropy = 2.8883308629780684, entropy normalised = 0.26257553299800623
+internationalen: entropy = 4.172198373560998, entropy normalised = 0.27814655823739987
+Stellung: entropy = 1.7473847068209327, entropy normalised = 0.2184230883526166
+Landes: entropy = 1.4028142317407135, entropy normalised = 0.23380237195678558
+Gebietes,: entropy = 2.1868651160780797, entropy normalised = 0.2429850128975644
+dem: entropy = 0.7398616017918607, entropy normalised = 0.24662053393062022
+eine: entropy = 1.471985144017596, entropy normalised = 0.367996286004399
+angehört,: entropy = 1.935932801007781, entropy normalised = 0.21510364455642011
+gleichgültig: entropy = 2.4502264373630034, entropy normalised = 0.20418553644691695
+ob: entropy = 0.1654698667839358, entropy normalised = 0.0827349333919679
+dieses: entropy = 1.759936858998402, entropy normalised = 0.29332280983306697
+unabhängig: entropy = 1.9651771679431569, entropy normalised = 0.19651771679431568
+unter: entropy = 1.470479908486725, entropy normalised = 0.294095981697345
+Treuhandschaft: entropy = 2.9657405405581674, entropy normalised = 0.2118386100398691
+steht,: entropy = 1.3866180029415907, entropy normalised = 0.2311030004902651
+keine: entropy = 1.5448876974886485, entropy normalised = 0.3089775394977297
+Selbstregierung: entropy = 3.6654234797106278, entropy normalised = 0.24436156531404185
+besitzt: entropy = 1.5168937523833126, entropy normalised = 0.21669910748333038
+sonst: entropy = 1.0656422762448803, entropy normalised = 0.21312845524897606
+seiner: entropy = 1.9399711039948904, entropy normalised = 0.32332851733248175
+Souveränität: entropy = 2.235578952946476, entropy normalised = 0.186298246078873
+eingeschränkt: entropy = 3.144073586471417, entropy normalised = 0.24185181434395514
+ist.: entropy = 0.7732140092567323, entropy normalised = 0.19330350231418308
+3: entropy = 0.008814200220144489, entropy normalised = 0.008814200220144489
+Recht: entropy = 1.0744785096949625, entropy normalised = 0.2148957019389925
+Leben,: entropy = 1.3527225949480326, entropy normalised = 0.2254537658246721
+Sicherheit: entropy = 2.5247237591053238, entropy normalised = 0.2524723759105324
+Person.: entropy = 1.4030938272536198, entropy normalised = 0.2004419753219457
+4: entropy = 0.005304978971879131, entropy normalised = 0.005304978971879131
+Niemand: entropy = 1.5646147109919417, entropy normalised = 0.2235163872845631
+Sklaverei: entropy = 1.9322788473668917, entropy normalised = 0.2146976497074324
+Leibeigenschaft: entropy = 3.5116635025217895, entropy normalised = 0.2341109001681193
+gehalten: entropy = 2.175068330990908, entropy normalised = 0.2718835413738635
+werden;: entropy = 1.75537592587142, entropy normalised = 0.2507679894102029
+Sklavenhandel: entropy = 2.868743527072232, entropy normalised = 0.2206725790055563
+Formen: entropy = 1.2448619101752914, entropy normalised = 0.20747698502921522
+verboten.: entropy = 1.9743125779851438, entropy normalised = 0.21936806422057153
+5: entropy = 0.0033958396775819522, entropy normalised = 0.0033958396775819522
+Folter: entropy = 1.2474278592472055, entropy normalised = 0.20790464320786758
+grausamer,: entropy = 2.070884532913414, entropy normalised = 0.20708845329134137
+unmenschlicher: entropy = 3.4602752097724387, entropy normalised = 0.2471625149837456
+erniedrigender: entropy = 4.367029551820634, entropy normalised = 0.31193068227290244
+Behandlung: entropy = 2.2865985709196255, entropy normalised = 0.22865985709196254
+Strafe: entropy = 1.2660209431886917, entropy normalised = 0.21100349053144862
+unterworfen: entropy = 2.7598566174119226, entropy normalised = 0.2508960561283566
+werden.: entropy = 1.8124369516669836, entropy normalised = 0.2589195645238548
+6: entropy = 0.0033958396775819522, entropy normalised = 0.0033958396775819522
+Recht,: entropy = 1.148828379518325, entropy normalised = 0.19147139658638748
+überall: entropy = 1.3651871357755518, entropy normalised = 0.1950267336822217
+rechtsfähig: entropy = 2.2781157631471403, entropy normalised = 0.20710143301337638
+anerkannt: entropy = 2.410597177070324, entropy normalised = 0.26784413078559155
+7: entropy = 0.004367956642367986, entropy normalised = 0.004367956642367986
+Gesetz: entropy = 1.4072628340384836, entropy normalised = 0.2345438056730806
+haben: entropy = 1.2379643394313944, entropy normalised = 0.24759286788627888
+Schutz: entropy = 0.8979997775709113, entropy normalised = 0.1496666295951519
+Gesetz.: entropy = 1.4686918164764151, entropy normalised = 0.20981311663948787
+jede: entropy = 1.0960047879976464, entropy normalised = 0.2740011969994116
+Diskriminierung,: entropy = 3.536257072016712, entropy normalised = 0.2210160670010445
+verstößt,: entropy = 1.544098156855627, entropy normalised = 0.17156646187284744
+Aufhetzung: entropy = 1.9817531054234299, entropy normalised = 0.198175310542343
+derartigen: entropy = 2.83172249447946, entropy normalised = 0.283172249447946
+Diskriminierung.: entropy = 3.5233361846312814, entropy normalised = 0.2202085115394551
+8: entropy = 0.004367956642367986, entropy normalised = 0.004367956642367986
+einen: entropy = 1.8067515231083489, entropy normalised = 0.3613503046216698
+wirksamen: entropy = 1.9176549677717187, entropy normalised = 0.21307277419685763
+Rechtsbehelf: entropy = 2.6879077276868024, entropy normalised = 0.22399231064056688
+bei: entropy = 0.7742424451810787, entropy normalised = 0.25808081506035957
+zuständigen: entropy = 2.500037080111662, entropy normalised = 0.22727609819196928
+innerstaatlichen: entropy = 4.300337933694073, entropy normalised = 0.26877112085587956
+Gerichten: entropy = 2.3860056846246485, entropy normalised = 0.2651117427360721
+Handlungen,: entropy = 2.4787176987082287, entropy normalised = 0.22533797260983898
+seine: entropy = 1.6693701529128768, entropy normalised = 0.33387403058257537
+ihm: entropy = 0.5658253899697915, entropy normalised = 0.18860846332326384
+Verfassung: entropy = 2.1000207115179634, entropy normalised = 0.21000207115179634
+zustehenden: entropy = 3.0980537533546153, entropy normalised = 0.281641250304965
+Grundrechte: entropy = 2.8047888325409094, entropy normalised = 0.2549808029582645
+verletzt: entropy = 1.9004047964737103, entropy normalised = 0.2375505995592138
+9: entropy = 0.004367956642367986, entropy normalised = 0.004367956642367986
+willkürlich: entropy = 1.8963975597418026, entropy normalised = 0.1723997781583457
+festgenommen,: entropy = 2.9858667742218588, entropy normalised = 0.2296820595555276
+Haft: entropy = 0.5461222723388838, entropy normalised = 0.13653056808472094
+verwiesen: entropy = 2.4701366131780693, entropy normalised = 0.27445962368645216
+10: entropy = 0.028056298036639997, entropy normalised = 0.014028149018319998
+Feststellung: entropy = 2.809497675810649, entropy normalised = 0.23412480631755409
+Pflichten: entropy = 1.9330566233775677, entropy normalised = 0.21478406926417418
+sowie: entropy = 1.0588287637783584, entropy normalised = 0.2117657527556717
+ihn: entropy = 0.8191566833868694, entropy normalised = 0.27305222779562316
+erhobenen: entropy = 2.6051673146026717, entropy normalised = 0.2894630349558524
+strafrechtlichen: entropy = 3.890371446116615, entropy normalised = 0.24314821538228842
+Beschuldigung: entropy = 2.735606626368772, entropy normalised = 0.210431278951444
+voller: entropy = 1.2032570861873677, entropy normalised = 0.20054284769789463
+Gleichheit: entropy = 2.445657939913286, entropy normalised = 0.2445657939913286
+gerechtes: entropy = 2.51640834715838, entropy normalised = 0.27960092746204224
+öffentliches: entropy = 2.676302632127889, entropy normalised = 0.22302521934399075
+Verfahren: entropy = 2.2626022399071304, entropy normalised = 0.25140024887857004
+einem: entropy = 1.553420229691271, entropy normalised = 0.31068404593825416
+unabhängigen: entropy = 2.7304219868710984, entropy normalised = 0.22753516557259154
+unparteiischen: entropy = 3.5698995065985883, entropy normalised = 0.2549928218998992
+Gericht.: entropy = 1.6821898481346382, entropy normalised = 0.21027373101682978
+11: entropy = 0.047376682788544025, entropy normalised = 0.023688341394272013
+1.: entropy = 0.08511732383220352, entropy normalised = 0.04255866191610176
+Jeder,: entropy = 1.4575441182550222, entropy normalised = 0.24292401970917035
+strafbaren: entropy = 2.3024774546083036, entropy normalised = 0.23024774546083035
+Handlung: entropy = 1.6391230099569245, entropy normalised = 0.20489037624461556
+beschuldigt: entropy = 2.3336878849978806, entropy normalised = 0.21215344409071643
+unschuldig: entropy = 2.1288315772946826, entropy normalised = 0.21288315772946825
+gelten,: entropy = 1.844200800402242, entropy normalised = 0.2634572572003203
+solange: entropy = 1.5936760950268074, entropy normalised = 0.2276680135752582
+Schuld: entropy = 0.9994489693812971, entropy normalised = 0.1665748282302162
+öffentlichen: entropy = 2.8136840023233614, entropy normalised = 0.23447366686028012
+Verfahren,: entropy = 2.336952109730493, entropy normalised = 0.2336952109730493
+er: entropy = 0.7010793909192021, entropy normalised = 0.35053969545960106
+Verteidigung: entropy = 3.0137828805087836, entropy normalised = 0.251148573375732
+notwendigen: entropy = 2.9176677989219844, entropy normalised = 0.26524252717472585
+Garantien: entropy = 2.3209829095939103, entropy normalised = 0.2578869899548789
+gehabt: entropy = 1.2966963509891034, entropy normalised = 0.2161160584981839
+hat,: entropy = 0.7177054029064454, entropy normalised = 0.17942635072661134
+gemäß: entropy = 0.7317551312500938, entropy normalised = 0.14635102625001878
+nachgewiesen: entropy = 3.207288571308574, entropy normalised = 0.2672740476090478
+2.: entropy = 0.08375162666056088, entropy normalised = 0.04187581333028044
+wegen: entropy = 1.4078191998434493, entropy normalised = 0.28156383996868983
+Unterlassung: entropy = 2.7443676040560825, entropy normalised = 0.22869730033800686
+verurteilt: entropy = 2.574773605649061, entropy normalised = 0.2574773605649061
+werden,: entropy = 1.8253578390524146, entropy normalised = 0.26076540557891636
+zur: entropy = 0.5360869898525744, entropy normalised = 0.17869566328419148
+Zeit: entropy = 0.9536926579808531, entropy normalised = 0.23842316449521328
+Begehung: entropy = 1.9320045508288055, entropy normalised = 0.2415005688536007
+innerstaatlichem: entropy = 4.047006640276995, entropy normalised = 0.25293791501731216
+internationalem: entropy = 3.9188670801439205, entropy normalised = 0.26125780534292803
+strafbar: entropy = 1.537232635680362, entropy normalised = 0.19215407946004526
+war.: entropy = 0.5858545979892344, entropy normalised = 0.1464636494973086
+Ebenso: entropy = 1.1551210647211312, entropy normalised = 0.19252017745352187
+schwerere: entropy = 2.450246590692843, entropy normalised = 0.27224962118809365
+Zeitpunkt: entropy = 1.8196840704137007, entropy normalised = 0.20218711893485564
+angedrohte: entropy = 2.5909558238811434, entropy normalised = 0.25909558238811436
+verhängt: entropy = 1.719870448192347, entropy normalised = 0.21498380602404338
+12: entropy = 0.04601098561690138, entropy normalised = 0.02300549280845069
+willkürlichen: entropy = 2.661642378669744, entropy normalised = 0.20474172143613417
+Eingriffen: entropy = 2.3031725659406597, entropy normalised = 0.23031725659406596
+sein: entropy = 1.2388917130756882, entropy normalised = 0.30972292826892206
+Privatleben,: entropy = 2.5537121856821354, entropy normalised = 0.21280934880684463
+Familie,: entropy = 1.5461187361719735, entropy normalised = 0.19326484202149669
+Wohnung: entropy = 1.3477201635213705, entropy normalised = 0.19253145193162435
+seinen: entropy = 2.0041365320036295, entropy normalised = 0.33402275533393827
+Schriftverkehr: entropy = 3.004345224854836, entropy normalised = 0.21459608748963113
+Beeinträchtigungen: entropy = 4.526223475999163, entropy normalised = 0.25145685977773125
+Ehre: entropy = 0.9362291800768257, entropy normalised = 0.2340572950192064
+seines: entropy = 1.8667551618081577, entropy normalised = 0.31112586030135964
+Rufes: entropy = 0.9655602238256666, entropy normalised = 0.19311204476513333
+ausgesetzt: entropy = 2.3499384409233945, entropy normalised = 0.23499384409233945
+solche: entropy = 1.269949153611327, entropy normalised = 0.2116581922685545
+Eingriffe: entropy = 1.9684061868499065, entropy normalised = 0.2187117985388785
+Beeinträchtigungen.: entropy = 4.587652458437094, entropy normalised = 0.24145539254932072
+13: entropy = 0.0325025416144165, entropy normalised = 0.01625127080720825
+innerhalb: entropy = 2.300222836021914, entropy normalised = 0.255580315113546
+eines: entropy = 1.6693701529128768, entropy normalised = 0.33387403058257537
+Staates: entropy = 1.529204605919572, entropy normalised = 0.21845780084565317
+bewegen: entropy = 1.9057997597720617, entropy normalised = 0.272257108538866
+Aufenthaltsort: entropy = 2.9808550432210414, entropy normalised = 0.21291821737293154
+wählen.: entropy = 1.3116136669209235, entropy normalised = 0.18737338098870335
+jedes: entropy = 1.2933897968929273, entropy normalised = 0.25867795937858545
+Land,: entropy = 0.8493006528316064, entropy normalised = 0.16986013056632127
+einschließlich: entropy = 3.3351647053071227, entropy normalised = 0.2382260503790802
+eigenen,: entropy = 2.4669400907463075, entropy normalised = 0.30836751134328844
+verlassen: entropy = 2.28176387641645, entropy normalised = 0.2535293196018278
+Land: entropy = 0.7749507830082439, entropy normalised = 0.19373769575206098
+zurückzukehren.: entropy = 2.876878085937347, entropy normalised = 0.19179187239582313
+14: entropy = 0.028993320366151144, entropy normalised = 0.014496660183075572
+anderen: entropy = 2.2261276465872717, entropy normalised = 0.3180182352267531
+Ländern: entropy = 1.6531540538950218, entropy normalised = 0.23616486484214597
+Verfolgung: entropy = 1.9421189981942304, entropy normalised = 0.19421189981942305
+Asyl: entropy = 0.43446273986481176, entropy normalised = 0.10861568496620294
+suchen: entropy = 1.5226145106499966, entropy normalised = 0.2537690851083328
+genießen.: entropy = 2.4790540688774985, entropy normalised = 0.27545045209749985
+Dieses: entropy = 1.544056431895037, entropy normalised = 0.25734273864917284
+kann: entropy = 0.9395242930209365, entropy normalised = 0.23488107325523414
+genommen: entropy = 1.9466878138731523, entropy normalised = 0.24333597673414403
+Falle: entropy = 1.0184392913352918, entropy normalised = 0.20368785826705835
+Strafverfolgung,: entropy = 2.87333058817005, entropy normalised = 0.17958316176062813
+tatsächlich: entropy = 2.094065258310838, entropy normalised = 0.1903695689373489
+Verbrechen: entropy = 2.6200265673229532, entropy normalised = 0.26200265673229534
+nichtpolitischer: entropy = 3.56755542329893, entropy normalised = 0.22297221395618314
+Art: entropy = 0.562811006858347, entropy normalised = 0.18760366895278233
+Handlungen: entropy = 2.404367828884866, entropy normalised = 0.24043678288848663
+erfolgt,: entropy = 1.5463521883706453, entropy normalised = 0.19329402354633066
+Ziele: entropy = 1.3266622463122753, entropy normalised = 0.26533244926245503
+Grundsätze: entropy = 2.0460422887059755, entropy normalised = 0.20460422887059754
+verstoßen.: entropy = 2.1292303323056223, entropy normalised = 0.21292303323056222
+15: entropy = 0.027084181071853966, entropy normalised = 0.013542090535926983
+Staatsangehörigkeit.: entropy = 4.2330031014953144, entropy normalised = 0.21165015507476573
+Niemandem: entropy = 2.0765282365028055, entropy normalised = 0.23072535961142282
+Staatsangehörigkeit: entropy = 4.171574119057383, entropy normalised = 0.21955653258196753
+entzogen: entropy = 2.0909458081617016, entropy normalised = 0.2613682260202127
+noch: entropy = 0.7962228028043228, entropy normalised = 0.1990557007010807
+versagt: entropy = 1.5320031580764017, entropy normalised = 0.21885759401091454
+wechseln.: entropy = 2.0553908913856, entropy normalised = 0.22837676570951113
+16: entropy = 0.027084181071853966, entropy normalised = 0.013542090535926983
+Heiratsfähige: entropy = 2.830524041761747, entropy normalised = 0.21773261859705745
+Männer: entropy = 1.4357599623514168, entropy normalised = 0.23929332705856945
+Frauen: entropy = 1.459044064983199, entropy normalised = 0.24317401083053317
+Beschränkung: entropy = 2.416627485775918, entropy normalised = 0.20138562381465983
+Religion: entropy = 1.7940991354337419, entropy normalised = 0.22426239192921774
+heiraten: entropy = 2.3859416281826924, entropy normalised = 0.29824270352283655
+Familie: entropy = 1.471768866348611, entropy normalised = 0.2102526951926587
+gründen.: entropy = 1.8536075468630164, entropy normalised = 0.23170094335787705
+Eheschließung,: entropy = 2.8998788993799542, entropy normalised = 0.20713420709856817
+während: entropy = 1.568104430680715, entropy normalised = 0.22401491866867357
+Ehe: entropy = 0.6656282289948121, entropy normalised = 0.22187607633160403
+deren: entropy = 1.6942722861281407, entropy normalised = 0.3388544572256281
+Auflösung: entropy = 1.4410537410812332, entropy normalised = 0.16011708234235925
+gleiche: entropy = 1.8366969810905966, entropy normalised = 0.2623852830129424
+Rechte.: entropy = 1.5663859319700826, entropy normalised = 0.22376941885286894
+Eine: entropy = 1.0685280742943803, entropy normalised = 0.2671320185735951
+nur: entropy = 0.8018633359784825, entropy normalised = 0.26728777865949416
+freier: entropy = 1.7772481762126895, entropy normalised = 0.2962080293687816
+uneingeschränkter: entropy = 4.376415362287088, entropy normalised = 0.25743619778159343
+Willenseinigung: entropy = 3.7801367415110003, entropy normalised = 0.25200911610073334
+künftigen: entropy = 1.9797596175784664, entropy normalised = 0.21997329084205183
+Ehegatten: entropy = 2.2595985526106475, entropy normalised = 0.2510665058456275
+geschlossen: entropy = 2.585324248307238, entropy normalised = 0.2350294771188398
+3.: entropy = 0.070243182658076, entropy normalised = 0.035121591329038
+Die: entropy = 0.7188079742672866, entropy normalised = 0.23960265808909553
+ist: entropy = 0.7117850268188008, entropy normalised = 0.23726167560626696
+natürliche: entropy = 2.3297108085541716, entropy normalised = 0.23297108085541715
+Grundeinheit: entropy = 3.266117773077173, entropy normalised = 0.2721764810897644
+Staat.: entropy = 0.9627701396250341, entropy normalised = 0.16046168993750567
+17: entropy = 0.028056298036639997, entropy normalised = 0.014028149018319998
+sowohl: entropy = 0.8388138855901538, entropy normalised = 0.13980231426502562
+allein: entropy = 1.599854247879361, entropy normalised = 0.26664237464656015
+Eigentum: entropy = 1.7399575564222334, entropy normalised = 0.21749469455277917
+innezuhaben.: entropy = 2.9411524439110477, entropy normalised = 0.2450960369925873
+Eigentums: entropy = 1.9373425653175143, entropy normalised = 0.21526028503527936
+beraubt: entropy = 1.4678067509471988, entropy normalised = 0.20968667870674268
+18: entropy = 0.028056298036639997, entropy normalised = 0.014028149018319998
+Gedanken-,: entropy = 2.1489398552749677, entropy normalised = 0.21489398552749678
+Gewissens-: entropy = 2.1670365902796442, entropy normalised = 0.21670365902796443
+Religionsfreiheit;: entropy = 4.225027763069238, entropy normalised = 0.23472376461495767
+schließt: entropy = 1.7114162903589567, entropy normalised = 0.2139270362948696
+ein,: entropy = 1.1158565740037698, entropy normalised = 0.27896414350094245
+Weltanschauung: entropy = 3.0424175059175504, entropy normalised = 0.21731553613696789
+wechseln,: entropy = 2.068311778771031, entropy normalised = 0.22981241986344786
+anderen,: entropy = 2.300477516410634, entropy normalised = 0.28755968955132927
+öffentlich: entropy = 2.0484391833954194, entropy normalised = 0.20484391833954194
+privat: entropy = 1.0487296780132624, entropy normalised = 0.17478827966887708
+Lehre,: entropy = 1.4291834658915195, entropy normalised = 0.23819724431525324
+Ausübung,: entropy = 1.314685651660912, entropy normalised = 0.1460761835178791
+Gottesdienst: entropy = 2.948878162627756, entropy normalised = 0.24573984688564632
+Kulthandlungen: entropy = 3.2245062186130875, entropy normalised = 0.23032187275807767
+bekennen.: entropy = 2.4975681127842333, entropy normalised = 0.27750756808713706
+19: entropy = 0.028056298036639997, entropy normalised = 0.014028149018319998
+Meinungsfreiheit: entropy = 4.18039134905292, entropy normalised = 0.2612744593158075
+freie: entropy = 1.5066472251306762, entropy normalised = 0.30132944502613523
+Meinungsäußerung;: entropy = 3.6042630309580588, entropy normalised = 0.21201547240929758
+Meinungen: entropy = 2.5190754969877336, entropy normalised = 0.2798972774430815
+ungehindert: entropy = 3.1034233659691886, entropy normalised = 0.28212939690628985
+anzuhängen: entropy = 2.3002877565146456, entropy normalised = 0.23002877565146457
+über: entropy = 0.8068395920765985, entropy normalised = 0.20170989801914962
+Medien: entropy = 1.725634551304101, entropy normalised = 0.2876057585506835
+Rücksicht: entropy = 1.3841678565199533, entropy normalised = 0.15379642850221703
+Grenzen: entropy = 1.9118734017356678, entropy normalised = 0.273124771676524
+Informationen: entropy = 2.801031335437493, entropy normalised = 0.21546394887980716
+Gedankengut: entropy = 2.6602164252634157, entropy normalised = 0.2418378568421287
+suchen,: entropy = 1.596964380473359, entropy normalised = 0.2281377686390513
+empfangen: entropy = 2.0868898133914353, entropy normalised = 0.2318766459323817
+verbreiten.: entropy = 2.8536861074643007, entropy normalised = 0.2594260097694819
+20: entropy = 0.026690600864997353, entropy normalised = 0.013345300432498677
+friedlich: entropy = 2.1244967050132963, entropy normalised = 0.23605518944592183
+versammeln: entropy = 2.247249038868519, entropy normalised = 0.2247249038868519
+Vereinigungen: entropy = 3.6477078695754273, entropy normalised = 0.28059291304426365
+zusammenzuschließen.: entropy = 4.153513017133849, entropy normalised = 0.20767565085669246
+Vereinigung: entropy = 2.8824630506474853, entropy normalised = 0.26204209551340774
+anzugehören.: entropy = 2.715604638649799, entropy normalised = 0.22630038655414994
+21: entropy = 0.04601098561690138, entropy normalised = 0.02300549280845069
+Gestaltung: entropy = 2.2102733993150467, entropy normalised = 0.22102733993150467
+Angelegenheiten: entropy = 4.424641493650755, entropy normalised = 0.294976099576717
+unmittelbar: entropy = 2.51153539470901, entropy normalised = 0.22832139951900093
+gewählte: entropy = 1.7393951358778896, entropy normalised = 0.2174243919847362
+Vertreter: entropy = 2.6011466075438396, entropy normalised = 0.2890162897270933
+mitzuwirken.: entropy = 2.3644960166400724, entropy normalised = 0.19704133472000604
+Zugang: entropy = 1.047886082439807, entropy normalised = 0.1746476804066345
+Ämtern: entropy = 1.3577955150536478, entropy normalised = 0.2262992525089413
+seinem: entropy = 1.7508052385865518, entropy normalised = 0.29180087309775865
+Lande.: entropy = 1.2668582052833641, entropy normalised = 0.21114303421389402
+Der: entropy = 0.713147040096834, entropy normalised = 0.23771568003227803
+Wille: entropy = 1.0882338632408084, entropy normalised = 0.21764677264816168
+Volkes: entropy = 1.0009951995054465, entropy normalised = 0.16683253325090774
+bildet: entropy = 1.4209579352984174, entropy normalised = 0.23682632254973623
+Autorität: entropy = 1.6492593921963499, entropy normalised = 0.1832510435773722
+Gewalt;: entropy = 1.1492312546181145, entropy normalised = 0.1641758935168735
+muß: entropy = 0.30296595699601264, entropy normalised = 0.10098865233200421
+regelmäßige,: entropy = 2.5499142562250086, entropy normalised = 0.21249285468541737
+unverfälschte,: entropy = 2.8980365628410025, entropy normalised = 0.2070026116315002
+Wahlen: entropy = 1.3713264763258366, entropy normalised = 0.22855441272097277
+geheimer: entropy = 2.2832219185407787, entropy normalised = 0.28540273981759734
+Stimmabgabe: entropy = 1.823178019113309, entropy normalised = 0.16574345628302808
+gleichwertigen: entropy = 3.5990387101023913, entropy normalised = 0.2570741935787422
+freien: entropy = 1.841413604221429, entropy normalised = 0.3069022673702382
+Wahlverfahren: entropy = 2.890003114105979, entropy normalised = 0.22230793185430608
+Ausdruck: entropy = 1.371260782423463, entropy normalised = 0.17140759780293288
+kommen.: entropy = 1.1604142728767872, entropy normalised = 0.16577346755382674
+22: entropy = 0.04464528844525874, entropy normalised = 0.02232264422262937
+Mitglied: entropy = 1.8107792894423749, entropy normalised = 0.22634741118029686
+soziale: entropy = 1.4488013761759575, entropy normalised = 0.20697162516799392
+darauf,: entropy = 1.262400374850665, entropy normalised = 0.18034291069295214
+innerstaatliche: entropy = 3.96557155460332, entropy normalised = 0.26437143697355464
+Berücksichtigung: entropy = 3.182055124636738, entropy normalised = 0.19887844528979612
+Organisation: entropy = 2.58005454538383, entropy normalised = 0.21500454544865252
+Genuß: entropy = 1.0285684700832056, entropy normalised = 0.20571369401664114
+wirtschaftlichen,: entropy = 3.596639493374152, entropy normalised = 0.21156702902200894
+kulturellen: entropy = 2.712244751096545, entropy normalised = 0.24656770464514047
+gelangen,: entropy = 2.2932782861677268, entropy normalised = 0.25480869846308074
+Persönlichkeit: entropy = 3.1088793229077227, entropy normalised = 0.22206280877912304
+unentbehrlich: entropy = 3.331735109988554, entropy normalised = 0.2562873161529657
+sind.: entropy = 1.0977903319574283, entropy normalised = 0.21955806639148565
+23: entropy = 0.031136844442773856, entropy normalised = 0.015568422221386928
+Arbeit,: entropy = 1.411403321862788, entropy normalised = 0.20162904598039827
+Berufswahl,: entropy = 1.9316565005031021, entropy normalised = 0.17560513640937292
+gerechte: entropy = 2.3190233382630994, entropy normalised = 0.2898779172828874
+befriedigende: entropy = 3.6573908997790987, entropy normalised = 0.2813377615214691
+Arbeitsbedingungen: entropy = 4.47862308126676, entropy normalised = 0.2488123934037089
+Arbeitslosigkeit.: entropy = 3.5212526345873534, entropy normalised = 0.20713250791690313
+Lohn: entropy = 0.6560098910950309, entropy normalised = 0.16400247277375773
+Arbeit.: entropy = 1.398482434477357, entropy normalised = 0.19978320492533672
+arbeitet,: entropy = 2.2230369526341294, entropy normalised = 0.2470041058482366
+Entlohnung,: entropy = 2.182390220565222, entropy normalised = 0.19839911096047472
+entsprechende: entropy = 3.7126957048749363, entropy normalised = 0.285591977298072
+Existenz: entropy = 1.5743257863639322, entropy normalised = 0.19679072329549152
+sichert,: entropy = 1.8507029645824236, entropy normalised = 0.23133787057280294
+gegebenenfalls: entropy = 3.624229215292553, entropy normalised = 0.2588735153780395
+ergänzt: entropy = 1.537780675868463, entropy normalised = 0.2196829536954947
+andere: entropy = 1.8913612674965188, entropy normalised = 0.31522687791608645
+Schutzmaßnahmen.: entropy = 2.849651376671916, entropy normalised = 0.17810321104199475
+4.: entropy = 0.06673396140981064, entropy normalised = 0.03336698070490532
+Schutze: entropy = 1.3284782174081, entropy normalised = 0.18978260248687143
+Interessen: entropy = 2.8724428990103172, entropy normalised = 0.28724428990103174
+Gewerkschaften: entropy = 3.1631619751668136, entropy normalised = 0.22594014108334384
+bilden: entropy = 1.5175861817181162, entropy normalised = 0.2529310302863527
+solchen: entropy = 1.60471553270208, entropy normalised = 0.22924507610029712
+beizutreten.: entropy = 3.0437579415788236, entropy normalised = 0.2536464951315686
+24: entropy = 0.0276276231945085, entropy normalised = 0.01381381159725425
+Erholung: entropy = 1.470970410971313, entropy normalised = 0.18387130137141414
+Freizeit: entropy = 2.0208230746963713, entropy normalised = 0.2526028843370464
+insbesondere: entropy = 3.296018874883046, entropy normalised = 0.27466823957358716
+vernünftige: entropy = 2.6508878412716954, entropy normalised = 0.24098980375197232
+Begrenzung: entropy = 2.3982334949227666, entropy normalised = 0.23982334949227666
+Arbeitszeit: entropy = 2.54830695166026, entropy normalised = 0.23166426833275092
+regelmäßigen: entropy = 2.810330765492399, entropy normalised = 0.2341942304576999
+bezahlten: entropy = 2.1562002260697697, entropy normalised = 0.23957780289664107
+Urlaub.: entropy = 0.9850191001277198, entropy normalised = 0.14071701430395997
+25: entropy = 0.025718483900211322, entropy normalised = 0.012859241950105661
+Lebensstandard,: entropy = 3.4410721908811652, entropy normalised = 0.22940481272541102
+Gesundheit: entropy = 2.5818735665472214, entropy normalised = 0.25818735665472214
+Wohl: entropy = 0.5069604227220285, entropy normalised = 0.12674010568050711
+gewährleistet,: entropy = 3.2266094234392555, entropy normalised = 0.23047210167423254
+Nahrung,: entropy = 1.4534267276797654, entropy normalised = 0.18167834095997068
+Kleidung,: entropy = 1.8851043954533229, entropy normalised = 0.2094560439392581
+Wohnung,: entropy = 1.422070033344733, entropy normalised = 0.17775875416809161
+ärztliche: entropy = 1.8680338822391136, entropy normalised = 0.2075593202487904
+Versorgung: entropy = 2.130648167884418, entropy normalised = 0.21306481678844177
+notwendige: entropy = 2.5829014198312312, entropy normalised = 0.2582901419831231
+Leistungen,: entropy = 2.683628144549286, entropy normalised = 0.243966194959026
+Arbeitslosigkeit,: entropy = 3.534173521972784, entropy normalised = 0.20789256011604612
+Krankheit,: entropy = 2.111529811860063, entropy normalised = 0.2111529811860063
+Invalidität: entropy = 2.059596342016352, entropy normalised = 0.18723603109239564
+Verwitwung,: entropy = 2.111555457185909, entropy normalised = 0.19195958701690083
+Alter: entropy = 1.1739187278608232, entropy normalised = 0.23478374557216464
+anderweitigem: entropy = 3.406032637261688, entropy normalised = 0.26200251055859136
+Verlust: entropy = 1.535359988900666, entropy normalised = 0.2193371412715237
+Unterhaltsmittel: entropy = 3.7517074612723555, entropy normalised = 0.23448171632952222
+unverschuldete: entropy = 3.5403352235745214, entropy normalised = 0.2528810873981801
+Umstände.: entropy = 1.6222993653090498, entropy normalised = 0.18025548503433886
+Mütter: entropy = 1.2413150683327907, entropy normalised = 0.20688584472213178
+Kinder: entropy = 1.5488699317635626, entropy normalised = 0.25814498862726043
+besondere: entropy = 2.487605601644546, entropy normalised = 0.27640062240494956
+Fürsorge: entropy = 1.4902647444315378, entropy normalised = 0.18628309305394222
+Unterstützung.: entropy = 2.8142176944379926, entropy normalised = 0.20101554960271376
+Kinder,: entropy = 1.623219801586925, entropy normalised = 0.23188854308384643
+eheliche: entropy = 2.3199435819940284, entropy normalised = 0.28999294774925355
+außereheliche,: entropy = 3.513992695427309, entropy normalised = 0.2509994782448078
+genießen: entropy = 2.4176250864395668, entropy normalised = 0.30220313580494584
+Schutz.: entropy = 0.9594287600088428, entropy normalised = 0.1370612514298347
+26: entropy = 0.025718483900211322, entropy normalised = 0.012859241950105661
+Bildung.: entropy = 1.4538272192700523, entropy normalised = 0.18172840240875654
+Bildung: entropy = 1.3923982368321208, entropy normalised = 0.19891403383316011
+unentgeltlich,: entropy = 3.4339811614085773, entropy normalised = 0.24528436867204123
+mindesten: entropy = 2.5516578266293566, entropy normalised = 0.2835175362921507
+Grundschulunterricht: entropy = 4.628572719493066, entropy normalised = 0.2314286359746533
+grundlegende: entropy = 3.3753109842628986, entropy normalised = 0.28127591535524155
+obligatorisch.: entropy = 2.480081656599791, entropy normalised = 0.17714868975712794
+Fach-: entropy = 0.5945589228309542, entropy normalised = 0.11891178456619085
+Berufsschulunterricht: entropy = 4.771692793402172, entropy normalised = 0.2272234663524844
+müssen: entropy = 1.2797080034581505, entropy normalised = 0.21328466724302508
+allgemein: entropy = 2.267128031367632, entropy normalised = 0.2519031145964036
+verfügbar: entropy = 1.5716686778712963, entropy normalised = 0.1746298530968107
+Hochschulunterricht: entropy = 4.030492600291862, entropy normalised = 0.21213118948904539
+gleichermaßen: entropy = 3.176101683659227, entropy normalised = 0.24431551412763286
+entsprechend: entropy = 3.2822172650377475, entropy normalised = 0.2735181054198123
+Fähigkeiten: entropy = 2.491836182477578, entropy normalised = 0.22653056204341618
+offenstehen.: entropy = 2.9616713856771395, entropy normalised = 0.24680594880642828
+Entfaltung: entropy = 2.0012324290761963, entropy normalised = 0.20012324290761963
+Stärkung: entropy = 1.3385976914514357, entropy normalised = 0.16732471143142946
+Menschenrechten: entropy = 4.185015674316987, entropy normalised = 0.2790010449544658
+gerichtet: entropy = 2.4029449163494307, entropy normalised = 0.2669938795943812
+sein.: entropy = 1.3003206955136197, entropy normalised = 0.26006413910272397
+Verständnis,: entropy = 2.643158782608475, entropy normalised = 0.2202632318840396
+Toleranz: entropy = 1.5858267911728565, entropy normalised = 0.19822834889660707
+Freundschaft: entropy = 2.584831468973409, entropy normalised = 0.21540262241445074
+rassischen: entropy = 2.4648403403377, entropy normalised = 0.24648403403377
+religiösen: entropy = 2.579243898504025, entropy normalised = 0.2579243898504025
+Gruppen: entropy = 1.3215112384371415, entropy normalised = 0.1887873197767345
+beitragen: entropy = 2.400675587207873, entropy normalised = 0.2667417319119859
+Tätigkeit: entropy = 1.732292748349769, entropy normalised = 0.19247697203886321
+Wahrung: entropy = 1.3826759701884974, entropy normalised = 0.19752513859835677
+Friedens: entropy = 2.197532488075037, entropy normalised = 0.27469156100937964
+förderlich: entropy = 2.145857140956817, entropy normalised = 0.21458571409568167
+Eltern: entropy = 1.4816345539602696, entropy normalised = 0.2469390923267116
+vorrangiges: entropy = 2.428822245500499, entropy normalised = 0.22080202231822718
+wählen,: entropy = 1.3245345543063545, entropy normalised = 0.18921922204376493
+Kindern: entropy = 1.8836363108543155, entropy normalised = 0.2690909015506165
+zuteil: entropy = 1.3909937776965573, entropy normalised = 0.23183229628275956
+soll.: entropy = 0.7180403003562993, entropy normalised = 0.14360806007125987
+27: entropy = 0.026690600864997353, entropy normalised = 0.013345300432498677
+am: entropy = 0.2785240670420531, entropy normalised = 0.13926203352102656
+Leben: entropy = 1.2783727251246702, entropy normalised = 0.25567454502493403
+teilzunehmen,: entropy = 3.285396790093129, entropy normalised = 0.2527228300071638
+Künsten: entropy = 1.5826066208711462, entropy normalised = 0.22608666012444947
+erfreuen: entropy = 2.4627271156938813, entropy normalised = 0.30784088946173516
+wissenschaftlichen: entropy = 4.173565376516225, entropy normalised = 0.2318647431397903
+dessen: entropy = 1.818441352836689, entropy normalised = 0.3030735588061148
+Errungenschaften: entropy = 3.880263862085351, entropy normalised = 0.24251649138033443
+teilzuhaben.: entropy = 2.6903870995658834, entropy normalised = 0.22419892496382363
+geistigen: entropy = 2.494490686791212, entropy normalised = 0.27716563186569027
+materiellen: entropy = 3.050985296980481, entropy normalised = 0.27736229972549825
+Interessen,: entropy = 2.9467927688336797, entropy normalised = 0.2678902517121527
+Urheber: entropy = 1.6890620991504477, entropy normalised = 0.2412945855929211
+Werken: entropy = 1.5594617391387748, entropy normalised = 0.2599102898564625
+Wissenschaft,: entropy = 2.625789876692501, entropy normalised = 0.2019838366686539
+Literatur: entropy = 2.1329508260379995, entropy normalised = 0.2369945362264444
+Kunst: entropy = 0.9755997266829484, entropy normalised = 0.19511994533658966
+erwachsen.: entropy = 2.342451542670704, entropy normalised = 0.2342451542670704
+28: entropy = 0.026690600864997353, entropy normalised = 0.013345300432498677
+Ordnung,: entropy = 1.5986558757933707, entropy normalised = 0.19983198447417133
+voll: entropy = 0.5021776952681657, entropy normalised = 0.12554442381704142
+verwirklicht: entropy = 2.4790498261805904, entropy normalised = 0.2065874855150492
+können.: entropy = 1.5961304831324044, entropy normalised = 0.22801864044748635
+29: entropy = 0.026690600864997353, entropy normalised = 0.013345300432498677
+gegenüber: entropy = 2.313283366796544, entropy normalised = 0.257031485199616
+Gemeinschaft,: entropy = 2.7644911884251506, entropy normalised = 0.21265316834039621
+möglich: entropy = 1.0841965572038674, entropy normalised = 0.15488522245769534
+Ausübung: entropy = 1.2403357818375496, entropy normalised = 0.1550419727296937
+Beschränkungen: entropy = 3.1818723047038597, entropy normalised = 0.22727659319313284
+unterworfen,: entropy = 2.834206487235285, entropy normalised = 0.23618387393627374
+ausschließlich: entropy = 2.88462799719609, entropy normalised = 0.20604485694257788
+Zweck: entropy = 0.7242911346067048, entropy normalised = 0.14485822692134095
+vorsieht,: entropy = 1.8362618395426062, entropy normalised = 0.20402909328251181
+anderer: entropy = 2.161962218578532, entropy normalised = 0.30885174551121886
+sichern: entropy = 1.87298134117876, entropy normalised = 0.2675687630255371
+gerechten: entropy = 2.6537897173538525, entropy normalised = 0.29486552415042805
+Anforderungen: entropy = 3.237129438094395, entropy normalised = 0.2490099567764919
+Moral,: entropy = 0.8463381611370613, entropy normalised = 0.1410563601895102
+Ordnung: entropy = 1.5243060059700082, entropy normalised = 0.21775800085285832
+allgemeinen: entropy = 3.032372850295574, entropy normalised = 0.2756702591177795
+Wohles: entropy = 1.134823871454498, entropy normalised = 0.189137311909083
+demokratischen: entropy = 3.2189403571736177, entropy normalised = 0.22992431122668697
+genügen.: entropy = 1.9408972173146022, entropy normalised = 0.24261215216432527
+Diese: entropy = 1.346671422999756, entropy normalised = 0.26933428459995123
+dürfen: entropy = 1.400879436478744, entropy normalised = 0.23347990607979066
+keinem: entropy = 1.6263227831623235, entropy normalised = 0.2710537971937206
+Fall: entropy = 0.5879608514981032, entropy normalised = 0.1469902128745258
+Widerspruch: entropy = 2.277183312471585, entropy normalised = 0.2070166647701441
+Zielen: entropy = 1.6614286254030282, entropy normalised = 0.2769047709005047
+Grundsätzen: entropy = 2.380808667796728, entropy normalised = 0.21643715161788438
+ausgeübt: entropy = 1.520707027712422, entropy normalised = 0.19008837846405274
+30: entropy = 0.013182156862512475, entropy normalised = 0.0065910784312562375
+Keine: entropy = 1.4807993442377405, entropy normalised = 0.2961598688475481
+Bestimmung: entropy = 2.0126926321367096, entropy normalised = 0.20126926321367095
+dahin: entropy = 1.2441937410362447, entropy normalised = 0.24883874820724894
+ausgelegt: entropy = 2.1814148055349096, entropy normalised = 0.24237942283721217
+sie: entropy = 0.9041253339849353, entropy normalised = 0.3013751113283118
+Staat,: entropy = 0.9756910270104651, entropy normalised = 0.16261517116841084
+Gruppe: entropy = 0.9867448593463886, entropy normalised = 0.16445747655773144
+irgendein: entropy = 2.736922693701233, entropy normalised = 0.3041025215223592
+begründet,: entropy = 2.2678807477573613, entropy normalised = 0.22678807477573612
+auszuüben: entropy = 1.727461054925274, entropy normalised = 0.19194011721391935
+begehen,: entropy = 2.131542365538164, entropy normalised = 0.2664427956922705
+welche: entropy = 1.4618105209616346, entropy normalised = 0.2436350868269391
+Beseitigung: entropy = 2.7119230438564217, entropy normalised = 0.24653845853240197
+Ziel: entropy = 0.8961838064750867, entropy normalised = 0.22404595161877167
+hat.: entropy = 0.7047845155210144, entropy normalised = 0.1761961288802536

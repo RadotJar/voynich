@@ -1,0 +1,30 @@
+Summary
+-------
+Number of words: 23
+Number of unique characters: 21
+Longest word: l3tters. (8 characters)
+Average word length: 3.869565217391304
+--------------------
+Character frequencies
+--------------------
+e: 15.0
+t: 12.0
+s: 10.0
+r: 8.0
+o: 7.0
+h: 4.0
+a: 4.0
+m: 4.0
+n: 4.0
+.: 4.0
+i: 3.0
+3: 3.0
+d: 2.0
+l: 2.0
+T: 1.0
+f: 1.0
+k: 1.0
+1: 1.0
+u: 1.0
+b: 1.0
+v: 1.0

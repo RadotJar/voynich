@@ -1,112 +1,55 @@
-#HMM Program
+# HMM Program
 from pomegranate import *
 import os
 import numpy as np
+import HMM_functions
 
-file_location = os.getcwd() + "/"
-written_text = read_text(file_location)
+training_index = os.getcwd() + "/HMM_training_texts/"
+out_location = os.getcwd() + "/HMM_outputs"
 
-emission_matrix = find_conditional_prob(written_text, )
-transition_matrix = calculate_transition(written_text, )
-HMM = make_model(transition_matrix, emission_matrix)
-analyse(Voynich, )
+################ change these where necessary
 
+name = "test"  # name of the output file
+VM = "./testa.txt" # text to analyse against
 
-def find_conditional_prob(classified_text, text, states) :
-#Calculate conditional probabilities based on sizes
+################
 
-	number_conditions = np.zeroes(states)
-	word_conditions = np.zeroes(states)
-	total_numbers = 0
-	total_words = 0
+# puts output in text file
+out_dir = out_location + "/" + name
 
-	for i in range(classified_text.size()) :
-		index = text[i].size() - 1
-
-		if classified_text[i] == "Number" :
-			number_conditions[index] = number_conditions[index] + 1
-			total_numbers = total_numbers + 1
-
-		elif classified_text[i] == "String" :
-			word_conditions[index] = word_conditions[index] + 1
-			total_words = total_words + 1
-
-		else :
-			print("Something Went Wrong")
-
-	number_conditions = number_conditions/total_numbers
-	word_conditions = word_conditions/total_words
+# initialise counts, lengths, probabilities
+longest_length_word, num_count, word_count = 0, 0, 0
+string_count, num_transitions, word_transitions = 0, 0, 0
+numbers = ['0','1','2','3','4','5','6','7','8','9']
 
 
-def calculate_transition(classified_text) :
-#calculate transition matrix probabilities based on data
+directory = os.listdir(training_index)
+text = HMM_functions.format_text(os.getcwd() + "/HMM_training_texts/" +directory[0])
+classification, longest_length, list_of_lengths, num_count, word_count = HMM_functions.classify(text, numbers, num_count, word_count)
+	
+transition_matrix = np.zeros([2,2])
+initial_prob = np.zeros([2])
+conditional_matrix = np.zeros([2,longest_length])
 
-	total_transitions = classified_text.size()-1
-	num_to_num = 0
-	num_to_string = 0
-	string_to_num = 0
-	string_to_string = 0
+transition_matrix, initial_prob, string_count, num_transitions, word_transitions = HMM_functions.initial_and_transition(classification, transition_matrix, initial_prob, string_count, num_transitions, word_transitions)
+conditional_matrix = HMM_functions.find_conditional_prob(classification,conditional_matrix, list_of_lengths, longest_length, num_count, word_count)
 
-	transition_matrix = np.zeroes(2,2)
+for file in range(1,len(directory)) :
 
-		for i in range(classes.size()-1):
+	text = HMM_functions.format_text(os.getcwd() + "/HMM_training_texts/" +directory[file])
+	classification, longest_length, list_of_lengths, num_count, word_count = HMM_functions.classify(text, numbers, num_count, word_count)
+	transition_matrix, initial_prob, string_count, num_transitions, word_transitions = HMM_functions.initial_and_transition(classification, transition_matrix, initial_prob, string_count, num_transitions, word_transitions)
+	conditional_matrix = HMM_functions.find_conditional_prob(classification,conditional_matrix, list_of_lengths, longest_length, num_count, word_count)
 
-			if classes[i+1] == "Number" and (classified_text[i+1] == "String"):
-				num_to_string = num_to_string + 1
+	print(classification)
+	print(conditional_matrix)
 
-			elif classes[i+1] == "String" and (classified_text[i+1] == "String"):
-				string_to_string = string_to_string + 1
+initial_prob, transition_matrix, conditional_matrix = HMM_functions.final_prob(initial_prob, transition_matrix, conditional_matrix, string_count, num_transitions, word_transitions, num_count, word_count)
+results, vm_text = HMM_functions.make_model(VM, transition_matrix, conditional_matrix, initial_prob, list_of_lengths)
 
-			elif classes[i+1] == "String" and (classified_text[i+1] == "Number"):
-				string_to_num = string_to_num + 1
+#print(results)
 
-			elif classes[i+1] == "Number" and (classified_text[i+1] == "Number"):
-				num_to_num = num_to_num + 1
+PN = HMM_functions.analyse_vm(results, vm_text)
+print(PN)
 
-			else :
-				print("Something Went Wrong")
-
-		transition_matrix[0,0] = num_to_num/total_transitions
-		transition_matrix[0,1] = num_to_string/total_transitions
-		transition_matrix[1,0] = string_to_num/total_transitions
-		transition_matrix[1,1] = string_to_string/total_transitions
-
-		return transition_matrix
-
-
-def make_model(transition, emission) :
-#makes HMM model, assumed first 
-
-	HMM = model.HiddenMarkovModel()
-	start_prob = [0.5, 0.5]
-	HMM.add
-
-	HMM.bake()
-
-
-def analyse(Voynich, ) :
-# analyses the unknown text based on the model and notes what should be a number based on the sequence
-
-
-def classify(text, alphabet, numbers) :
-#traverses and classifies each word as either a string or a number
-
-	all_words = text.split(" ")
-	num_count = 0
-	word_count = 0
-	classification = []
-
-	for word in all_words :
-		for character in word :
-			if character in numbers :
-				num_flag = 1
-				break
-		if num_flag == 1 :
-		num_count = num_count + 1
-		classification.append("Number")
-
-		else :
-		word_count = word_count + 1
-		classification.append("String")
-
-		num_flag = 0
+HMM_functions.store_model(directory, out_dir, VM, initial_prob, transition_matrix, conditional_matrix, results, PN)
