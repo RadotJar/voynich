@@ -174,7 +174,7 @@ def main():
   ax.supylabel("Percentage of Occurences in Valid Anagrams")
 
   ax1 = plt.subplot(111)
-  ax1.bar(plot_x_axis, plot_y_axis, color='black')
+  ax1.bar(plot_x_axis, plot_y_axis)
   ax1.set_ylim([0,100])
   plt.savefig("./figures/" + fileName + "_anagram_plot.png")
 

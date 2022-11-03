@@ -37,7 +37,7 @@ def main():
     char_freq_list.sort(key=lambda x: x[1], reverse=True)
 
     #if(input["voynich"]):
-     #   char_freq_list = char_freq_list[0:34]
+     #   char_freq_list = char_freq_list[0:26]
 
     for (character, frequency) in char_freq_list:
         output_lines.append(character + ": " + str(frequency) + "\n")
