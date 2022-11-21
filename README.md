@@ -53,7 +53,7 @@ Locus indicators provide a lot of meta information about the manuscript's text. 
 ![Locus Types](https://user-images.githubusercontent.com/70213167/182542486-13eaa4ba-607c-4a0c-ae92-29568dfa44d7.png)
 
 ## Frequency Analyser
-The frequency anaysler takes a text, producing a frequency analysis and providing other key details such as the longest word in the text, the word count, etc.
+The frequency anaysler (`frequencyAnalyser.py`) takes a text, producing a frequency analysis and providing other key details such as the longest word in the text, the word count, etc.
 
 ### Inputs
 The frequency analyser takes a single required argument: the path to the text file to be analysed. The `--voynich` option can be passed as an optional argument, and is required when a frequency analysis of the Voynich Manuscript is to be performed. This will ensure that ligatures and special characters are treated as single characters rather than the string of ASCII characters they appear as in the transliteration.
@@ -75,7 +75,23 @@ The figure output will be saved to `/figures/` and will be named the same as the
 
 In the case of texts with a large number of unique characters, or the Voynich Manscript where ligatures are long strings of ASCII characters, it may occur that the figure does not fit all unique characters on the x-axis. It is likely possible to tweak the figure size to fix this issue, but it has not been confirmed.
 ## Anagram Analyser
+The anagram analyser (`anagrammer.py`) takes a text, producing data on the tendancy for words and characters in the text to form anagrams.
 
+### Inputs
+The anagram analyser takes a single required argument: the path to the text to be analysed. The optional `--voynich` argument should be specified when analysing transliterations of the Voynich Manuscript so that characters are handled correctly, as in the frequency analyser.
+
+### Outputs
+The anagram analyser produces a text output, aswell as a figure.
+
+#### Text Output
+The text output will be saved to `/texts/` and will be named the same as the input file with `_anagrams.txt` appended. Within this file can be found a summary of words and characters that form anagrams in the text.
+
+Words are shown with the number of anagrams they form, and what those anagrams are.
+
+Characters are shown with the percentage of their appearances that appear in words which form anagrams.
+
+#### Figure Output
+The figure output will be saved to `/figures/` and will be named the same as the input file with `_anagram_plot.png` appended. This figure is a bar chart showing each unique character in the text and their percentage of appearances in words that form anagrams.
 
 ## HMM Analyser
 
