@@ -16,22 +16,21 @@ def main() :
     classification = []
     numbers = ['0','1','2','3','4','5','6','7','8','9']
 
-    # Grab text
-    #filePath = input["file_path"]
-    #fileName = os.path.basename(filePath)
-
     #### change this
-    fileName = "A-Preliminary-Dissertation-on-the-Mechanisms-of-the-Heavens"
+
+    # directory to text to analyse
+    fileName = "Die-Epiphytische-Vegetation-Amerikas"
     filePath = "./texts/" + fileName +".txt"
     with open(filePath, "r") as file:
         input_lines = file.readlines()
 
+    # set to true if analysing the VM
     vm = True
     #############
 
     if (vm == True):
         (char_count, characters, frequencies) = analyse_voynich(input_lines)
-        threshold = 0.01612
+        threshold = 0.1612
         threshold_norm = 0.0529
         prob = frequencies/char_count
         char_prob_dictionary = {}
@@ -85,14 +84,9 @@ def main() :
 
         for i in range(len(prob)):
             char_prob_dictionary[characters[i]] = prob[i]
-            #print(characters[i] + " " +str(frequencies[i]))
 
         text = format_text(filePath)
         classification = classify(text, numbers)
-
-        # print("probabilities")
-        # print(char_prob_dictionary)
-        # print("\n")
 
 
         entropy, entropy_norm = entropy_score(char_prob_dictionary, text, classification)
@@ -101,14 +95,6 @@ def main() :
         for char in characters:
             ent.append(-char_prob_dictionary[char]*math.log(char_prob_dictionary[char],2))
 
-    # print("Feature Entropy")
-    # print(ent) 
-
-    # print("Entropy Values:")
-    # print(entropy)
-    # print("")
-    # print("Entropy Values Normalised:")
-    # print(entropy_norm)
 
         ave_num, ave_word, ave_num_norm, ave_word_norm, unique_string, entropy_each, entropy_each_norm = results(entropy, entropy_norm, classification, fileName, text)
             
@@ -152,9 +138,6 @@ def entropy_score(prob: dict, all_strings: list, classification :list) :
     score_norm = []
     entropy = 0
 
-    # print(len(all_strings))
-    # print(len(classification))
-
     for s in range(len(all_strings)) :
         for char in all_strings[s] :
             entropy = entropy - prob[char]*math.log(prob[char],2)
@@ -169,11 +152,6 @@ def entropy_voynich(prob: dict, all_strings: list, threshold, threshold_norm) :
     possible_num = []
     possible_num_norm = []
     entropy = 0
-
-    # print(all_strings)
-    # print(prob)
-    #print(len(all_strings))
-    #print(prob)
 
     for s in range(len(all_strings)) :
         #use this to handle ligatures in the VM
