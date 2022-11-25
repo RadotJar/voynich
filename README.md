@@ -6,17 +6,14 @@ Clone the repo and get going. No build steps or anything needed, just a python i
 The voynich root folder contains the various scripts for analysis. It also containes two sub-folders: `/texts/` and `/figures/`. All text outputs are saved in `/texts/`, all figure outputs are saved to `/figures/`. It is reccomended that input txt files are also stored in `/texts/`.
 
 ## Formatter
-
-The formatter is written in [Python](https://www.python.org/). It can be found at voynich/formatter/formatter.py.
-
-The purpose of this formatter is to take transliterated ASCII text of the Voynich Manuscript and convert it into a form that is needed for particular analyses.
+The purpose of this formatter is to take transliterated text of the Voynich Manuscript and convert it into a form that is needed for particular analyses.
 
 ### Inputs
 
 The formatter takes a **single required argument** and **many optional arguments**.
 
 #### Required Argument
-The name of the plaintext file containing text from the Voynich Manuscript, written in EVA (Extensible Voynich Alphabet and formatted in [IVTFF](http://www.voynich.nu/transcr.html), without its .txt extension.
+The path to the plaintext file containing the transliterated Voynich Manuscript, written in EVA (Extensible Voynich Alphabet and formatted in [IVTFF](http://www.voynich.nu/transcr.html).
 
 #### Optional Arguments
 A number of optional arguments can be passed through the command line to toggle certain text features from being formatted.
@@ -33,15 +30,15 @@ A number of optional arguments can be passed through the command line to toggle 
 
 
 ### Outputs
-The output of the formatter is a single text file of formatted ASCII. The file will be located in `/texts/` and will be named the same as the input file with `_formatted` appended.
+The output of the formatter is a single text file of formatted ASCII. The file will be located in `/texts/` and will be named the same as the input file with `_formatted.txt` appended.
 
 If passed no command line arguments, the formatter will produce an output file in the following default format.
 - Comments removed.
 - Locus indicators removed.
 - `.` characters converted to whitespace.
-- Uncertain spaces (`,` characters) are converted to whitespace.
-- Uncertain character readings, found in the transcription in form `[x:y:z]` are replaced with the first character in the option sequence. This character is the one that the transcriber deemed most likely.
-- ASCII codes are retained for rare characters. I.e. `@185` represents a rare character in the manuscript and will remain as such.
+- Uncertain spaces (`,` characters) converted to whitespace.
+- Uncertain character readings, found in the transcription in form `[x:y:z]` replaced with the first character in the option sequence. This character is the one that the transliteration producer deemed most likely.
+- ASCII codes are retained for rare characters. 3.g. `@185`.
 - `-` characters are removed
 - Paragraph identifiers are removed and replaced with double newlines to format text into actual paragraphs.
 - Illegible character identifiers `?` and `???` are removed.
@@ -50,18 +47,51 @@ If passed no command line arguments, the formatter will produce an output file i
 Locus indicators provide a lot of meta information about the manuscript's text. There are three forms of locus indicators.
 - `<f17r>`: Indicates the beginning of a new page, in this case, folio 17, right side. Following will be meta comments about the contents of page.
 - `<f17r.N@Ab>`: `N` is the current count of this locus as an identified unique section of text on the current page. `@Ab` is a code which gives some more insight into the grouping of text section types that this locus is a part of (See below).
-- `<f17r.N@Ab;T>`: `T` idenfities the transcriber of this particular locus.
+- `<f17r.N@Ab;T>`: `T` identifies the transcriber of this particular locus.
 
 #### Locus Types
 ![Locus Types](https://user-images.githubusercontent.com/70213167/182542486-13eaa4ba-607c-4a0c-ae92-29568dfa44d7.png)
 
-### Current Questions
-The formatter is not perfect, and some further testing is required to refine it. Namely:
-- The uncertain space character `,` needs to be analysed for whether it is more likely to be a correct or incorrect space and handled as such by default.
-
-## Anagrammer
-
 ## Frequency Analyser
+The frequency anaysler (`frequencyAnalyser.py`) takes a text, producing a frequency analysis and providing other key details such as the longest word in the text, the word count, etc.
+
+### Inputs
+The frequency analyser takes a single required argument: the path to the text file to be analysed. The `--voynich` option can be passed as an optional argument, and is required when a frequency analysis of the Voynich Manuscript is to be performed. This will ensure that ligatures and special characters are treated as single characters rather than the string of ASCII characters they appear as in the transliteration.
+
+### Outputs
+The frequency analyser produces a text output, aswell as a figure.
+
+#### Text Output
+The text output will be saved to `/texts/` and will be named the same as the input file with `_frequency_analysis.txt` appended. Within this file can be found a summary of the interesting characteristics of the text:
+- Number of words
+- Number of unique characters
+- Longest word and its length
+- Average word length
+
+In addition, the text output contains the frequency counts for each unique character appearing in the text.
+
+#### Figure Output
+The figure output will be saved to `/figures/` and will be named the same as the input file with `_freq_analysis.png` appended. This figure is a bar chart of the frequency of each unique character in the text.
+
+In the case of texts with a large number of unique characters, or the Voynich Manscript where ligatures are long strings of ASCII characters, it may occur that the figure does not fit all unique characters on the x-axis. It is likely possible to tweak the figure size to fix this issue, but it has not been confirmed.
+## Anagram Analyser
+The anagram analyser (`anagrammer.py`) takes a text, producing data on the tendancy for words and characters in the text to form anagrams.
+
+### Inputs
+The anagram analyser takes a single required argument: the path to the text to be analysed. The optional `--voynich` argument should be specified when analysing transliterations of the Voynich Manuscript so that characters are handled correctly, as in the frequency analyser.
+
+### Outputs
+The anagram analyser produces a text output, aswell as a figure.
+
+#### Text Output
+The text output will be saved to `/texts/` and will be named the same as the input file with `_anagrams.txt` appended. Within this file can be found a summary of words and characters that form anagrams in the text.
+
+Words are shown with the number of anagrams they form, and what those anagrams are.
+
+Characters are shown with the percentage of their appearances that appear in words which form anagrams.
+
+#### Figure Output
+The figure output will be saved to `/figures/` and will be named the same as the input file with `_anagram_plot.png` appended. This figure is a bar chart showing each unique character in the text and their percentage of appearances in words that form anagrams.
 
 ## HMM Analyser
 
