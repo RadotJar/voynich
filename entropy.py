@@ -19,7 +19,7 @@ def main() :
     #### change this
 
     # directory to text to analyse
-    fileName = "Die-Epiphytische-Vegetation-Amerikas"
+    fileName = "A-Preliminary-Dissertation-on-the-Mechanisms-of-the-Heavens"
     filePath = "./texts/" + fileName +".txt"
     with open(filePath, "r") as file:
         input_lines = file.readlines()
@@ -42,7 +42,7 @@ def main() :
         PN, PN_norm = entropy_voynich(char_prob_dictionary, vm, threshold, threshold_norm)
         
 
-        output_lines.append("Threshold: " + str(threshold_norm) + " Threshold Normalised: "  + str(threshold) + "\n")
+        output_lines.append("Threshold: " + str(threshold) + " Threshold Normalised: "  + str(threshold_norm) + "\n")
         output_lines.append("Possible numbers based Entropy (Not normalised) = " + str(PN) + "\n") 
         output_lines.append("No of Predictions (Raw Value): " + str(len(PN)) + "\n")
         output_lines.append("Possible numbers based Entropy (Normalised) = " + str(PN_norm) + "\n")
