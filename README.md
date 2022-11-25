@@ -3,7 +3,7 @@
 Clone the repo and get going. No build steps or anything needed, just a python install.
 
 ## General Folder Structure
-The voynich root folder contains the various scripts for analysis. It also containes two sub-folders: `/texts/` and `/figures/`. All text outputs are saved in `/texts/`, all figure outputs are saved to `/figures/`. It is reccomended that input txt files are also stored in `/texts/`.
+The voynich root folder contains the various scripts for analysis. It also containes two sub-folders: `/texts/` and `/figures/`. All text outputs are saved in `/texts/`, all figure outputs are saved to `/figures/`. It is reccomended that input txt files are also stored in `/texts/`. Furthermore, test text files have also been stored in this folder.
 
 ## Formatter
 The purpose of this formatter is to take transliterated text of the Voynich Manuscript and convert it into a form that is needed for particular analyses.
