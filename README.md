@@ -64,6 +64,41 @@ The formatter is not perfect, and some further testing is required to refine it.
 ## Frequency Analyser
 
 ## HMM Analyser
+This program trains a hidden Markov model to predict numbers and words in the Voynich Manuscript based on the status of strings in training tests.
+
+To use this, place all the texts you want to train on in `training_texts` and specify the path to the Voynich Manuscript in the script variable labelled `VM`. By default results will be sent to `HMM_outputs`. The names of these directories can be changed at the user's leisure but they must be consistent with changes in the script(s).
+
+## Entropy Analyser
+
+This script can be used to calculate the entropy of words and numbers in a given text. This will generate a threshold for distinguishing the two categories which can then be applied to the Voynich Manuscript to produce predictions for strings falling into these two categories.
+
+### Calculating Threshold
+This Script is written to run on one text at a time (an inefficiency). 
+
+Set 'VM' in the script to 'False'.
+
+The script calculates the entropy of the individual characters in a text and then uses this to calculate the entropy of each string (normalised and non-normalised on string length). Following this, it finds the average entropy for numbers and words in that text. Only unique characters are considered for the average calculation.
+
+Outputs are sent to the `entropy` folder.
+
+### Predicting on the Voynich Manuscript
+By setting the 'VM' variable to 'True' in the script and enerting the entropy thresholds calculated in the previous step, the script will extract strings in the Voynich Manuscript and categorise them according to these thresholds.
+
+### Other Notes
+
+`HMMTest.py` is simply a scipt used to demonstrate that the HMM functions work.
+
+## Word Recurrence Interval Analyser
+
+The WRI analyser produces a plot of the Word Recurrence Interval for a number of texts. `Word_RI.py` plots the results of a single test, `WRI_3.py` can handle 3 texts, `WRI_4.py` can handle 4 and `WRI_All.py` can handle 5.
+
+The directory for where these texts are stored needs to be specified in the script.
+
+Names of plots can be changed at the user's leisure.
+
+Outputs are sent to the `WRI_figures` directory.
+
+`WRI` folder just consists of the output of test scripts.
 
 ## Corpus
 This codebase contains a corpus of texts in a number of different languages covering various topics. These texts are stored in plaintext files and are used in conjunction with the various analysis scripts to help draw patterns with the VM. Below is a list of the texts included and their important features.
